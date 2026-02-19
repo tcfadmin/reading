@@ -1,0 +1,122 @@
+{
+  "text": "Pierre,\nCe soir, je rentre tard. Peux-tu acheter du pain et du fromage pour le diner ?\nAnne Que doit faire Pierre ?",
+  "words": [
+    "Pierre,",
+    "Ce",
+    "soir,",
+    "je",
+    "rentre",
+    "tard.",
+    "Peux-tu",
+    "acheter",
+    "du",
+    "pain",
+    "et",
+    "du",
+    "fromage",
+    "pour",
+    "le",
+    "diner",
+    "?",
+    "Anne",
+    "Que",
+    "doit",
+    "faire",
+    "Pierre",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6241666674613953
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7903333306312561
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4907084703445435
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6215417385101318
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9415416717529297
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.7466254234313965
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.0566253662109375
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.4367504119873047
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.5878753662109375
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.852875232696533
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.9137918949127197
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.043791770935059
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.518167018890381
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.708250045776367
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.798250198364258
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.153292179107666
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.599708557128906
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.824708461761475
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.979750156402588
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.1397504806518555
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.364750385284424
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.780875205993652
+    }
+  ]
+}

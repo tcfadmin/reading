@@ -1,0 +1,317 @@
+{
+  "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids.\n1- La VZ10 : un aspirateur sur quatre roues.\n2- La Tala Aria: pas chère, mais pas belle non plus.\n3- Le cabriolet Augustin: plus large que haute.\nVivement l'année prochaine ! Quel est le problème de ces voitures?",
+  "words": [
+    "Un",
+    "salon",
+    "automobile",
+    "est",
+    "un",
+    "lieu",
+    "de",
+    "rêve,",
+    "mais",
+    "pas",
+    "le",
+    "salon",
+    "de",
+    "cette",
+    "année.",
+    "Voici",
+    "mon",
+    "classement",
+    "des",
+    "modèles",
+    "les",
+    "plus",
+    "laids.",
+    "1-",
+    "La",
+    "VZ10",
+    ":",
+    "un",
+    "aspirateur",
+    "sur",
+    "quatre",
+    "roues.",
+    "2-",
+    "La",
+    "Tala",
+    "Aria:",
+    "pas",
+    "chère,",
+    "mais",
+    "pas",
+    "belle",
+    "non",
+    "plus.",
+    "3-",
+    "Le",
+    "cabriolet",
+    "Augustin:",
+    "plus",
+    "large",
+    "que",
+    "haute.",
+    "Vivement",
+    "l&apos;année",
+    "prochaine",
+    "!",
+    "Quel",
+    "est",
+    "le",
+    "problème",
+    "de",
+    "ces",
+    "voitures?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.11999999731779099
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.500333309173584
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1592916250228882
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.329708218574524
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4247082471847534
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6212916374206543
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.7412916421890259
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3486666679382324
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.4836666584014893
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.688666582107544
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.7794997692108154
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.1447081565856934
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.234708070755005
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.474707841873169
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.623291015625
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.998291015625
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.167999267578125
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.687707901000977
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.8140411376953125
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.214166641235352
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.329166412353516
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.554166316986084
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.220582485198975
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.340582847595215
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.475582599639893
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.3375825881958
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.56470775604248
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.729707717895508
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.450165748596191
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.66612434387207
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.052082061767578
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.715415954589844
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.975415229797363
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.09424877166748
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.46924877166748
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.208124160766602
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.322040557861328
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.01191520690918
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.121623992919922
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.306623458862305
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.51220703125
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.692207336425781
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.964957237243652
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.239956855773926
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.345582008361816
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.9608736038208
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.913665771484375
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.088665008544922
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.464082717895508
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.64408302307129
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.455039978027344
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.889873504638672
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.1148738861084
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.691749572753906
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.956748962402344
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.1617488861084
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.226749420166016
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.321748733520508
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 20.796375274658203
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 20.896373748779297
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.056373596191406
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "text": "Information importante\nÀ cause de l'augmentation du nombre de vols. de téléphones portables, vous ne pouvez plus les utiliser à l'intérieur du lycée.\nMerci de votre compréhension.\nLe directeur de l'établissement. Que dit ce texte sur l'utilisation des téléphones portables ?",
+  "words": [
+    "Information",
+    "importante",
+    "À",
+    "cause",
+    "de",
+    "l&apos;augmentation",
+    "du",
+    "nombre",
+    "de",
+    "vols.",
+    "de",
+    "téléphones",
+    "portables,",
+    "vous",
+    "ne",
+    "pouvez",
+    "plus",
+    "les",
+    "utiliser",
+    "à",
+    "l&apos;intérieur",
+    "du",
+    "lycée.",
+    "Merci",
+    "de",
+    "votre",
+    "compréhension.",
+    "Le",
+    "directeur",
+    "de",
+    "l&apos;établissement.",
+    "Que",
+    "dit",
+    "ce",
+    "texte",
+    "sur",
+    "l&apos;utilisation",
+    "des",
+    "téléphones",
+    "portables",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7205000519752502
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.3352500200271606
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.405250072479248
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6604584455490112
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7804584503173828
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.543166399002075
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.678166389465332
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.023416519165039
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.1334166526794434
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.941166639328003
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.101166725158691
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.636791706085205
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.433416366577148
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.594708442687988
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.689708232879639
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.96470832824707
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.194708347320557
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.389875411987305
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.940250396728516
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.02025032043457
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.586625099182129
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.716624736785889
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.010041236877441
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.36504077911377
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.471207618713379
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.746207237243652
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.776374816894531
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.901374816894531
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.476374626159668
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.59191608428955
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.66333293914795
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.793333053588867
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.94333267211914
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.11520767211914
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.608665466308594
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.823957443237305
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.665373802185059
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.78537368774414
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.291332244873047
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.88720703125
+    }
+  ]
+}

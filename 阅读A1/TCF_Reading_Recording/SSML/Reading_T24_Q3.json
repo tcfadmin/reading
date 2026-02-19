@@ -1,0 +1,117 @@
+{
+  "text": "Évangélisa\nChoux\nParis-Brest\nÉclairs au café\nTartes aux pommes\nSur place ou emporter. Faites votre choix ! Que peut-on acheter à Evangélina?",
+  "words": [
+    "Évangélisa",
+    "Choux",
+    "Paris-Brest",
+    "Éclairs",
+    "au",
+    "café",
+    "Tartes",
+    "aux",
+    "pommes",
+    "Sur",
+    "place",
+    "ou",
+    "emporter.",
+    "Faites",
+    "votre",
+    "choix",
+    "!",
+    "Que",
+    "peut-on",
+    "acheter",
+    "à",
+    "Evangélina?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.764916718006134
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9987916946411133
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.6983336210250854
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.1034584045410156
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.193458318710327
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.563166618347168
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.9684998989105225
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.0434999465942383
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.3385000228881836
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.6137497425079346
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.979874610900879
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.049874782562256
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.522582530975342
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.752582550048828
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.064457893371582
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.397124290466309
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.662124156951904
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.792124271392822
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.169499397277832
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.545415878295898
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.620415687561035
+    }
+  ]
+}

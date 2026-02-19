@@ -1,0 +1,167 @@
+{
+  "text": "Samedi\nMarthe: 12h—13h : Cours de natation\nDjamel 11h-13h: Révision avec Claire.\nDimanche\nMarthe: 8h—9h : Course avec Claire\nDjamel: 14h-18h: Répétition avec groupe Que fait Marthe le samedi à 12 heures?",
+  "words": [
+    "Samedi",
+    "Marthe:",
+    "12h—13h",
+    ":",
+    "Cours",
+    "de",
+    "natation",
+    "Djamel",
+    "11h-13h:",
+    "Révision",
+    "avec",
+    "Claire.",
+    "Dimanche",
+    "Marthe:",
+    "8h—9h",
+    ":",
+    "Course",
+    "avec",
+    "Claire",
+    "Djamel:",
+    "14h-18h:",
+    "Répétition",
+    "avec",
+    "groupe",
+    "Que",
+    "fait",
+    "Marthe",
+    "le",
+    "samedi",
+    "à",
+    "12",
+    "heures?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.47079163789749146
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.1806665658950806
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 2.59220814704895
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.895791530609131
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 3.125791549682617
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.2410831451416016
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.8464581966400146
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 4.2984161376953125
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 6.011124134063721
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 6.591123580932617
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.80670690536499
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 8.105082511901855
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 8.655332565307617
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 9.342832565307617
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 10.725248336791992
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 11.03537368774414
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 11.370373725891113
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 11.59841537475586
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 11.91341495513916
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 12.839540481567383
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 14.73733139038086
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 15.492914199829102
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 15.70291519165039
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 16.038082122802734
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 16.178081512451172
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 16.37441635131836
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 16.87883186340332
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 17.013832092285156
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 17.5159969329834
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 17.585996627807617
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 17.874662399291992
+    }
+  ]
+}

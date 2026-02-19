@@ -1,0 +1,197 @@
+{
+  "text": "Fred,\nJe ne pourrai pas venir comme prévu, mais cela sera une prochaine fois... J'ai beaucoup de travail en ce moment. Peut-être dans quinze jours ? J'aurai du temps libre !\nÀ bientôt !\nPaul Qu'apprend-t-on sur Paul?",
+  "words": [
+    "Fred,",
+    "Je",
+    "ne",
+    "pourrai",
+    "pas",
+    "venir",
+    "comme",
+    "prévu,",
+    "mais",
+    "cela",
+    "sera",
+    "une",
+    "prochaine",
+    "fois...",
+    "J&apos;ai",
+    "beaucoup",
+    "de",
+    "travail",
+    "en",
+    "ce",
+    "moment.",
+    "Peut-être",
+    "dans",
+    "quinze",
+    "jours",
+    "?",
+    "J&apos;aurai",
+    "du",
+    "temps",
+    "libre",
+    "!",
+    "À",
+    "bientôt",
+    "!",
+    "Paul",
+    "Qu&apos;apprend-t-on",
+    "sur",
+    "Paul?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6204583644866943
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7604583501815796
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8453750014305115
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1103750467300415
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.2967917919158936
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6142916679382324
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.834291696548462
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6317501068115234
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7377500534057617
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0177500247955322
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.2970001697540283
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.4070000648498535
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.8024585247039795
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.960999965667725
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.121000289916992
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.478708267211914
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.588708400726318
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.998458385467529
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.09345817565918
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.212625026702881
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.978708267211914
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.478708267211914
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.668708324432373
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.980958461761475
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.347125053405762
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.608542442321777
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.928542137145996
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.07045841217041
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.290458679199219
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.65612506866455
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.916125297546387
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.00112533569336
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.462416648864746
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.723834037780762
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.938833236694336
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.543458938598633
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.778458595275879
+    }
+  ]
+}

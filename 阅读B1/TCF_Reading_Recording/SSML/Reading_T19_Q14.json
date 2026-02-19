@@ -1,0 +1,232 @@
+{
+  "text": "Madame,\nNous vous informons que vous pouvez consulter, sur notre site internet, votre facture de téléphone du mois de juin. Son montant est de 25€90. Nous vous remercions de votre confiance.\nLe responsable commercial de Télécombleu. Que peut faire la personne que reçoit cette lettre?",
+  "words": [
+    "Madame,",
+    "Nous",
+    "vous",
+    "informons",
+    "que",
+    "vous",
+    "pouvez",
+    "consulter,",
+    "sur",
+    "notre",
+    "site",
+    "internet,",
+    "votre",
+    "facture",
+    "de",
+    "téléphone",
+    "du",
+    "mois",
+    "de",
+    "juin.",
+    "Son",
+    "montant",
+    "est",
+    "de",
+    "25€90.",
+    "Nous",
+    "vous",
+    "remercions",
+    "de",
+    "votre",
+    "confiance.",
+    "Le",
+    "responsable",
+    "commercial",
+    "de",
+    "Télécombleu.",
+    "Que",
+    "peut",
+    "faire",
+    "la",
+    "personne",
+    "que",
+    "reçoit",
+    "cette",
+    "lettre?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7649999856948853
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9037916660308838
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.143791675567627
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6639165878295898
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7989165782928467
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.933916687965393
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.2412917613983154
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.1481666564941406
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.368166446685791
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.6559998989105225
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.9559996128082275
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.9127912521362305
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.228082656860352
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.680957794189453
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.800958156585693
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.360541343688965
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.485541343688965
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.661249160766602
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.766249179840088
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.967165946960449
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.21716594696045
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.707541465759277
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.75666618347168
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.901665687561035
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 11.096416473388672
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.221416473388672
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.381416320800781
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.946457862854004
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.046457290649414
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.341374397277832
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 13.497124671936035
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.617124557495117
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.366166114807129
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 15.01683235168457
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.148499488830566
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 16.34966468811035
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 16.47466468811035
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 16.63466453552246
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 16.881916046142578
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 16.996915817260742
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 17.49312400817871
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 17.628498077392578
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 17.938749313354492
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 18.213748931884766
+    }
+  ]
+}

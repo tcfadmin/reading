@@ -1,0 +1,167 @@
+{
+  "text": "FÊTE DE LA MUSIQUE\nA PARIS LE 21 JUIN\nBillet unique, 2,5 €, utilisable sans limite\ndu 21 juin à 20 heures au 22 juin à 7 heures. Ce billet est utilisable...",
+  "words": [
+    "FÊTE",
+    "DE",
+    "LA",
+    "MUSIQUE",
+    "A",
+    "PARIS",
+    "LE",
+    "21",
+    "JUIN",
+    "Billet",
+    "unique,",
+    "2,5",
+    "€,",
+    "utilisable",
+    "sans",
+    "limite",
+    "du",
+    "21",
+    "juin",
+    "à",
+    "20",
+    "heures",
+    "au",
+    "22",
+    "juin",
+    "à",
+    "7",
+    "heures.",
+    "Ce",
+    "billet",
+    "est",
+    "utilisable..."
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2800000011920929
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4358749985694885
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5558750033378601
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.0382916927337646
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.0932915210723877
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.4620000123977661
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.6243335008621216
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.1143336296081543
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.4520418643951416
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.742041826248169
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.4530832767486572
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.45283317565918
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.0958333015441895
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.841458320617676
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.0864996910095215
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.471708297729492
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.653833389282227
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.134041786193848
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.504666805267334
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.569666862487793
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.877374649047852
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.087374687194824
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.192374229431152
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.601290702819824
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.971290588378906
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.036789894104004
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.380290985107422
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.5270414352417
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.707040786743164
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.037249565124512
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.182249069213867
+    }
+  ]
+}

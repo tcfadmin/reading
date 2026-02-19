@@ -1,0 +1,292 @@
+{
+  "text": "Au mois de mai, les élèves des classes de première du lycée Louise Michel partent une semaine en Angleterre. Pour payer une partie de leur voyage, ils organisent samedi prochain un concours gastronomique dans le gymnase. Venez voter pour le meilleur plat! Entrée : 5 euros par personne. Qu'est-ce que les élèves de première veulent faire ?",
+  "words": [
+    "Au",
+    "mois",
+    "de",
+    "mai,",
+    "les",
+    "élèves",
+    "des",
+    "classes",
+    "de",
+    "première",
+    "du",
+    "lycée",
+    "Louise",
+    "Michel",
+    "partent",
+    "une",
+    "semaine",
+    "en",
+    "Angleterre.",
+    "Pour",
+    "payer",
+    "une",
+    "partie",
+    "de",
+    "leur",
+    "voyage,",
+    "ils",
+    "organisent",
+    "samedi",
+    "prochain",
+    "un",
+    "concours",
+    "gastronomique",
+    "dans",
+    "le",
+    "gymnase.",
+    "Venez",
+    "voter",
+    "pour",
+    "le",
+    "meilleur",
+    "plat!",
+    "Entrée",
+    ":",
+    "5",
+    "euros",
+    "par",
+    "personne.",
+    "Qu&apos;est-ce",
+    "que",
+    "les",
+    "élèves",
+    "de",
+    "première",
+    "veulent",
+    "faire",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.09999999403953552
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.3100000023841858
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.42908334732055664
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.9922916293144226
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.2303332090377808
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5103332996368408
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.6480833292007446
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.9893332719802856
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.119333267211914
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.608833074569702
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.7653746604919434
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.110374689102173
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.460707902908325
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.017666339874268
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.364291191101074
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.509291172027588
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.888667106628418
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.033667087554932
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.567958354949951
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.747958660125732
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.05845832824707
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.198458671569824
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.582833290100098
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.69783353805542
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.85337495803833
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.67258358001709
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.91433334350586
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.429875373840332
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.909749984741211
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.405792236328125
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.499584197998047
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.908666610717773
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.699291229248047
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.879291534423828
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.964292526245117
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.417000770568848
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.707000732421875
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.052375793457031
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.241833686828613
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.326833724975586
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.65320873260498
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.367042541503906
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.83720874786377
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 16.2137508392334
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.59375
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 16.828750610351562
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.029582977294922
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.044458389282227
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.254459381103516
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.399459838867188
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.59600067138672
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.871959686279297
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 18.996959686279297
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.432125091552734
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.63887596130371
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.038249969482422
+    }
+  ]
+}

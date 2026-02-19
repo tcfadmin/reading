@@ -1,0 +1,152 @@
+{
+  "text": "Marion,\nTu veux passer à la maison ce soir pour boire un verre?\nOn peut aussi dîner ensemble et regarder un film\nBisous, Stéphane Où Marion est-elle invitée ?",
+  "words": [
+    "Marion,",
+    "Tu",
+    "veux",
+    "passer",
+    "à",
+    "la",
+    "maison",
+    "ce",
+    "soir",
+    "pour",
+    "boire",
+    "un",
+    "verre?",
+    "On",
+    "peut",
+    "aussi",
+    "dîner",
+    "ensemble",
+    "et",
+    "regarder",
+    "un",
+    "film",
+    "Bisous,",
+    "Stéphane",
+    "Où",
+    "Marion",
+    "est-elle",
+    "invitée",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6396666765213013
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7954583168029785
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9254583120346069
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2802082300186157
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3452082872390747
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.4552083015441895
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.8168751001358032
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.9468750953674316
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.2121665477752686
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.403625011444092
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.633625030517578
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.7424166202545166
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.9832913875579834
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.073291301727295
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.233291149139404
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.541624546051025
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.831374645233154
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.426416397094727
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.511416435241699
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.988999366760254
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.058999061584473
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.403374671936035
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.049874305725098
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.576041221618652
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.646040916442871
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.066457748413086
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.324915885925293
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.811540603637695
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "text": "ÉCOLE FERRANDI\nLes parents peuvent venir chercher leurs enfants. après les cours du matin et du soir sauf si les enfants mangent à l'école ou s'ils font des activités après la classe.\nTous les enfants doivent avoir quitté l'école à 18h\nP.Guignoux De quoi parle le directeur ?",
+  "words": [
+    "ÉCOLE",
+    "FERRANDI",
+    "Les",
+    "parents",
+    "peuvent",
+    "venir",
+    "chercher",
+    "leurs",
+    "enfants.",
+    "après",
+    "les",
+    "cours",
+    "du",
+    "matin",
+    "et",
+    "du",
+    "soir",
+    "sauf",
+    "si",
+    "les",
+    "enfants",
+    "mangent",
+    "à",
+    "l&apos;école",
+    "ou",
+    "s&apos;ils",
+    "font",
+    "des",
+    "activités",
+    "après",
+    "la",
+    "classe.",
+    "Tous",
+    "les",
+    "enfants",
+    "doivent",
+    "avoir",
+    "quitté",
+    "l&apos;école",
+    "à",
+    "18h",
+    "P.Guignoux",
+    "De",
+    "quoi",
+    "parle",
+    "le",
+    "directeur",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.35999998450279236
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9149582982063293
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0399582386016846
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4267499446868896
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6367915868759155
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9417915344238281
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.347874879837036
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.5878748893737793
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.415041923522949
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.730041742324829
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.835125207901001
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.100125312805176
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.240958213806152
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.680083274841309
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.7550835609436035
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.905083656311035
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.345458507537842
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.720417022705078
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.882917404174805
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.082917213439941
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.427833557128906
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.718417167663574
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.778417110443115
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.218417167663574
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.315417289733887
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.570417404174805
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 7.830167770385742
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.040167808532715
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 8.651875495910645
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 8.907583236694336
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.01258373260498
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.395916938781738
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.560916900634766
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.760916709899902
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.120833396911621
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.321749687194824
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.587583541870117
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 11.94225025177002
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.33045768737793
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.395458221435547
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 12.985666275024414
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.590581893920898
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.715581893920898
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 13.911040306091309
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.226040840148926
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.317415237426758
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 14.982416152954102
+    }
+  ]
+}

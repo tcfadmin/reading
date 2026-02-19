@@ -1,0 +1,232 @@
+{
+  "text": "Bonjour, Je suis Amandine, étudiante en médecine et je suis disponible les soirs de la semaine et les week-ends pour m'occuper de vos enfants entre 3 et 10 ans. Je vous propose de m'appeler à partir de 18 heures au 01.51.52.53.54. Qu'est-ce qu'Amandine veut faire?",
+  "words": [
+    "Bonjour,",
+    "Je",
+    "suis",
+    "Amandine,",
+    "étudiante",
+    "en",
+    "médecine",
+    "et",
+    "je",
+    "suis",
+    "disponible",
+    "les",
+    "soirs",
+    "de",
+    "la",
+    "semaine",
+    "et",
+    "les",
+    "week-ends",
+    "pour",
+    "m&apos;occuper",
+    "de",
+    "vos",
+    "enfants",
+    "entre",
+    "3",
+    "et",
+    "10",
+    "ans.",
+    "Je",
+    "vous",
+    "propose",
+    "de",
+    "m&apos;appeler",
+    "à",
+    "partir",
+    "de",
+    "18",
+    "heures",
+    "au",
+    "01.51.52.53.54.",
+    "Qu&apos;est-ce",
+    "qu&apos;Amandine",
+    "veut",
+    "faire?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7300832867622375
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8667916059494019
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1567916870117188
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.942416787147522
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.532125234603882
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.637125253677368
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.319791793823242
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.379791736602783
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.51479172706604
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.720541477203369
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.426000118255615
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.526000022888184
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.828166961669922
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.948166847229004
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.048166751861572
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.504208564758301
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.564208507537842
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.679208755493164
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.219167232513428
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.440000534057617
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.945000648498535
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.064708709716797
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.299708366394043
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.703458786010742
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.978041648864746
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.293499946594238
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.373499870300293
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.669251441955566
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.707125663757324
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.837125778198242
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.962125778198242
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.43154239654541
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.56279182434082
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.033750534057617
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.103750228881836
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.561500549316406
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.70687484741211
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.177458763122559
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.402458190917969
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.54675006866455
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 18.095582962036133
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 18.305583953857422
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 18.745500564575195
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 18.87179183959961
+    }
+  ]
+}

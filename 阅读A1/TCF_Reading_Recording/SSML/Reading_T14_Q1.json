@@ -1,0 +1,92 @@
+{
+  "text": "ATTENTION\nTraversée du parc interdite aux voitures, aux vélomoteurs et aux bicyclettes. Comment peut-on se promener ?",
+  "words": [
+    "ATTENTION",
+    "Traversée",
+    "du",
+    "parc",
+    "interdite",
+    "aux",
+    "voitures,",
+    "aux",
+    "vélomoteurs",
+    "et",
+    "aux",
+    "bicyclettes.",
+    "Comment",
+    "peut-on",
+    "se",
+    "promener",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5602916479110718
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.1761666536331177
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.3161667585372925
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6667919158935547
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2188334465026855
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.2938334941864014
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.0535004138946533
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.160292148590088
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.9752919673919678
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.035292148590088
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.1252923011779785
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.750250816345215
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.035251140594482
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.37004280090332
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.520959377288818
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.016542434692383
+    }
+  ]
+}

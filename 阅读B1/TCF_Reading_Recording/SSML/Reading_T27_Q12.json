@@ -1,0 +1,157 @@
+{
+  "text": "CuisineAZ.com vous propose de\ngagner des appareils de cuisine qui\nfacilitent la vie ! N'hésitez pas, allez\nsur notre site, c'est gratuit !\nBonne chance! Qu'est-ce que cette annonce propose?",
+  "words": [
+    "CuisineAZ.com",
+    "vous",
+    "propose",
+    "de",
+    "gagner",
+    "des",
+    "appareils",
+    "de",
+    "cuisine",
+    "qui",
+    "facilitent",
+    "la",
+    "vie",
+    "!",
+    "N&apos;hésitez",
+    "pas,",
+    "allez",
+    "sur",
+    "notre",
+    "site,",
+    "c&apos;est",
+    "gratuit",
+    "!",
+    "Bonne",
+    "chance!",
+    "Qu&apos;est-ce",
+    "que",
+    "cette",
+    "annonce",
+    "propose?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 1.3593335151672363
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.53433358669281
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 2.0004169940948486
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.1204171180725098
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.4701669216156006
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.685167074203491
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.076291799545288
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.19629168510437
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.7783749103546143
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.948333263397217
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.5534586906433105
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.6946258544921875
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.914625644683838
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.797791957855225
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.260000228881836
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.820458889007568
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.006125450134277
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.231125354766846
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.519791603088379
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.09487533569336
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.249917030334473
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.713042259216309
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.165250778198242
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.390250205993652
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.105376243591309
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.310376167297363
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.435376167297363
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.670750617980957
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.97087574005127
+    }
+  ]
+}

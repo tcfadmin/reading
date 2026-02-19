@@ -1,0 +1,207 @@
+{
+  "text": "JE N'AI PLUS DE VOITURE... J'AI CITIZ.\nDes voitures en libre-service 24h/ 24, pour 1 heure, 1 jour ou plus.\nUn service accessible à partir de 18 ans. Essence et assurance comprises, sans abonnement.\n\nPermis B obligatoire. Que propose Citiz?",
+  "words": [
+    "JE",
+    "N&apos;AI",
+    "PLUS",
+    "DE",
+    "VOITURE...",
+    "J&apos;AI",
+    "CITIZ.",
+    "Des",
+    "voitures",
+    "en",
+    "libre-service",
+    "24h/",
+    "24,",
+    "pour",
+    "1",
+    "heure,",
+    "1",
+    "jour",
+    "ou",
+    "plus.",
+    "Un",
+    "service",
+    "accessible",
+    "à",
+    "partir",
+    "de",
+    "18",
+    "ans.",
+    "Essence",
+    "et",
+    "assurance",
+    "comprises,",
+    "sans",
+    "abonnement.",
+    "Permis",
+    "B",
+    "obligatoire.",
+    "Que",
+    "propose",
+    "Citiz?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.1249999925494194
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.23999999463558197
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.4351666569709778
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.5251666307449341
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3964999914169312
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5464999675750732
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.264458417892456
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.4194583892822266
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7981247901916504
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.883124828338623
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.603874921798706
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.383333206176758
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.103541374206543
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.298541069030762
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.468791484832764
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.008999824523926
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.12399959564209
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.335000038146973
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.40500020980835
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.644000053405762
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.734000205993652
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.218999862670898
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.763999938964844
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.824292182922363
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.195083618164062
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.310083389282227
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.765417098999023
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.308667182922363
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.777874946594238
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.847875595092773
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.304374694824219
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.025750160217285
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.290875434875488
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.11987590789795
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.444875717163086
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.639875411987305
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.645125389099121
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.765125274658203
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.162458419799805
+    }
+  ]
+}

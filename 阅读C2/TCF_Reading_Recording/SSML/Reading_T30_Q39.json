@@ -1,0 +1,582 @@
+{
+  "text": "L'expression « management des savoirs » peut paraître paradoxale. Tout d'abord, les savoirs, comparativement aux moins contrôlables parce ressources matérielles, semblent que plus évanescents. Comment en effet parvenir à gérer une chose aussi insaisissable que le savoir ? Ensuite, le management évoque des règles et procédés organisationnels alors que les savoirs sont plutôt en position de force et, en tout état de cause, refuseraient d'être dirigés et contraints dans des règles standard. Pourtant, il est de plus en plus communément admis que les savoirs doivent être gérés comme les ressources matérielles : c'est même là que réside désormais la clé compétitivité des entreprises. Quelle est la particularité de l'expression « management des savoirs » ?",
+  "words": [
+    "L&apos;expression",
+    "«",
+    "management",
+    "des",
+    "savoirs",
+    "»",
+    "peut",
+    "paraître",
+    "paradoxale.",
+    "Tout",
+    "d&apos;abord,",
+    "les",
+    "savoirs,",
+    "comparativement",
+    "aux",
+    "moins",
+    "contrôlables",
+    "parce",
+    "ressources",
+    "matérielles,",
+    "semblent",
+    "que",
+    "plus",
+    "évanescents.",
+    "Comment",
+    "en",
+    "effet",
+    "parvenir",
+    "à",
+    "gérer",
+    "une",
+    "chose",
+    "aussi",
+    "insaisissable",
+    "que",
+    "le",
+    "savoir",
+    "?",
+    "Ensuite,",
+    "le",
+    "management",
+    "évoque",
+    "des",
+    "règles",
+    "et",
+    "procédés",
+    "organisationnels",
+    "alors",
+    "que",
+    "les",
+    "savoirs",
+    "sont",
+    "plutôt",
+    "en",
+    "position",
+    "de",
+    "force",
+    "et,",
+    "en",
+    "tout",
+    "état",
+    "de",
+    "cause,",
+    "refuseraient",
+    "d&apos;être",
+    "dirigés",
+    "et",
+    "contraints",
+    "dans",
+    "des",
+    "règles",
+    "standard.",
+    "Pourtant,",
+    "il",
+    "est",
+    "de",
+    "plus",
+    "en",
+    "plus",
+    "communément",
+    "admis",
+    "que",
+    "les",
+    "savoirs",
+    "doivent",
+    "être",
+    "gérés",
+    "comme",
+    "les",
+    "ressources",
+    "matérielles",
+    ":",
+    "c&apos;est",
+    "même",
+    "là",
+    "que",
+    "réside",
+    "désormais",
+    "la",
+    "clé",
+    "compétitivité",
+    "des",
+    "entreprises.",
+    "Quelle",
+    "est",
+    "la",
+    "particularité",
+    "de",
+    "l&apos;expression",
+    "«",
+    "management",
+    "des",
+    "savoirs",
+    "»",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8897083401679993
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.069708228111267
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.8160418272018433
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.9410418272018433
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.629500150680542
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.7895002365112305
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.9245002269744873
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.4262497425079346
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.74199914932251
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.891999244689941
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.615207672119141
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.730207443237305
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.592123985290527
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 7.513666152954102
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.578665733337402
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.813665866851807
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.5635404586792
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 8.923540115356445
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.442207336425781
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 10.330415725708008
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.760375022888184
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.905374526977539
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 11.19645881652832
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 12.704916954040527
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 12.994916915893555
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 13.134541511535645
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 13.389541625976562
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 13.965250015258789
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 14.025249481201172
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 14.345916748046875
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.470916748046875
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.815666198730469
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 15.107583999633789
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 15.882917404174805
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 16.012916564941406
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 16.08791732788086
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 16.624000549316406
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 17.5069580078125
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 18.268709182739258
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 18.413707733154297
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 19.208499908447266
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 19.539501190185547
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 19.704500198364258
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 20.040874481201172
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 20.10587501525879
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 20.798126220703125
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 21.838459014892578
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 22.138458251953125
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 22.285499572753906
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 22.38050079345703
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 22.960458755493164
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 23.17045783996582
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 23.575332641601562
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 23.68033218383789
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 24.273916244506836
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 24.378915786743164
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 24.896581649780273
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 25.260374069213867
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 25.37016487121582
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 25.60016632080078
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 25.845165252685547
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 25.970165252685547
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 26.757247924804688
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 27.383163452148438
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 27.716747283935547
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 28.271663665771484
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 28.35666275024414
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 28.892162322998047
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 29.042163848876953
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 29.16216278076172
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 29.47716522216797
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 30.931331634521484
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 31.621082305908203
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 31.771373748779297
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 31.826374053955078
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 31.951374053955078
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 32.250831604003906
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 32.350833892822266
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 32.53620529174805
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 33.1558723449707
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 33.48645782470703
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 33.66324996948242
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 33.75325012207031
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 34.29270553588867
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 34.549625396728516
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 34.804622650146484
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 35.13116455078125
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 35.38116455078125
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 35.476165771484375
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 35.98728942871094
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 36.6492919921875
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 37.07929229736328
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 37.26466369628906
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 37.499664306640625
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 37.640625
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 37.80062484741211
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 38.1719970703125
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 38.71366500854492
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 38.843666076660156
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 39.07866668701172
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 40.06166458129883
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 40.25666427612305
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 41.759620666503906
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 41.96961975097656
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 42.03462219238281
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 42.154579162597656
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 43.110164642333984
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 43.235164642333984
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 43.9919548034668
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 44.19003677368164
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 44.92033004760742
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 45.04533004760742
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 45.62345504760742
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 45.62345504760742
+    }
+  ]
+}

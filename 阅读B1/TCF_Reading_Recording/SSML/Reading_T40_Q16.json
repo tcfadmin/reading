@@ -1,0 +1,292 @@
+{
+  "text": "Notre hôtel vous offre 5 chambres de charme.\nSitué à 5 minutes seulement du centre-ville, il vous permettra d'explorer les principaux sites touristiques à pied ou à vélo.\nChaque chambre est équipée de la TV par câble et de l'air conditionné. Quel est le point fort de cet hôtel? Quel est le point fort de cet hôtel?",
+  "words": [
+    "Notre",
+    "hôtel",
+    "vous",
+    "offre",
+    "5",
+    "chambres",
+    "de",
+    "charme.",
+    "Situé",
+    "à",
+    "5",
+    "minutes",
+    "seulement",
+    "du",
+    "centre-ville,",
+    "il",
+    "vous",
+    "permettra",
+    "d&apos;explorer",
+    "les",
+    "principaux",
+    "sites",
+    "touristiques",
+    "à",
+    "pied",
+    "ou",
+    "à",
+    "vélo.",
+    "Chaque",
+    "chambre",
+    "est",
+    "équipée",
+    "de",
+    "la",
+    "TV",
+    "par",
+    "câble",
+    "et",
+    "de",
+    "l&apos;air",
+    "conditionné.",
+    "Quel",
+    "est",
+    "le",
+    "point",
+    "fort",
+    "de",
+    "cet",
+    "hôtel?",
+    "Quel",
+    "est",
+    "le",
+    "point",
+    "fort",
+    "de",
+    "cet",
+    "hôtel?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.30000001192092896
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6809999942779541
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9474582672119141
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2461249828338623
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5866667032241821
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9773333072662354
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.077333450317383
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.970083475112915
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.4402084350585938
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.5252084732055664
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.890291690826416
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.220916748046875
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.681291580200195
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.816291809082031
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.852666854858398
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.962666988372803
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.098250389099121
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.632500648498535
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.243751049041748
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.358125686645508
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.9384589195251465
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.20975112915039
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.930999755859375
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.00100040435791
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.326166152954102
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.501167297363281
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.556166648864746
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.771584510803223
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.066584587097168
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.450959205627441
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.590959548950195
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.012292861938477
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.137292861938477
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.25229263305664
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.637292861938477
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.882292747497559
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.257625579833984
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.332626342773438
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.462626457214355
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.658459663391113
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.285834312438965
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.49083423614502
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.55583381652832
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.650834083557129
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.896000862121582
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 16.19587516784668
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.300874710083008
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.536500930786133
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.402250289916992
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.607250213623047
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 17.672250747680664
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 17.767250061035156
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 18.01241683959961
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 18.312292098999023
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 18.41729164123535
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 18.652917861938477
+    }
+  ]
+}

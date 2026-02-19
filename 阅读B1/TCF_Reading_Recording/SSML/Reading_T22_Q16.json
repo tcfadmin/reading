@@ -1,0 +1,272 @@
+{
+  "text": "Les titres de transport (ticket, carte, etc.) en carton. seront bientôt remplacés par une carte magnétique. Les voyageurs la paieront 2 euros et la rechargeront aux guichets et aux machines automatiques des gares. La carte sera valable dans le métro, les bus et les tramways. Qu'est-ce qu'on apprend sur les titres de transport?",
+  "words": [
+    "Les",
+    "titres",
+    "de",
+    "transport",
+    "(ticket,",
+    "carte,",
+    "etc.)",
+    "en",
+    "carton.",
+    "seront",
+    "bientôt",
+    "remplacés",
+    "par",
+    "une",
+    "carte",
+    "magnétique.",
+    "Les",
+    "voyageurs",
+    "la",
+    "paieront",
+    "2",
+    "euros",
+    "et",
+    "la",
+    "rechargeront",
+    "aux",
+    "guichets",
+    "et",
+    "aux",
+    "machines",
+    "automatiques",
+    "des",
+    "gares.",
+    "La",
+    "carte",
+    "sera",
+    "valable",
+    "dans",
+    "le",
+    "métro,",
+    "les",
+    "bus",
+    "et",
+    "les",
+    "tramways.",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "apprend",
+    "sur",
+    "les",
+    "titres",
+    "de",
+    "transport?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.15000000596046448
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.515541672706604
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6255416870117188
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3705415725708008
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.376791477203369
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.071125030517578
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 4.101333141326904
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 4.206333160400391
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 5.563458442687988
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 5.923458576202393
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.324583530426025
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.915500164031982
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 7.1453752517700195
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 7.2703752517700195
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.641166687011719
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 8.781250953674316
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.906250953674316
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 9.491750717163086
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.612667083740234
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 10.038458824157715
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.344667434692383
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.719667434692383
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.775459289550781
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.890459060668945
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 11.6066255569458
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.686625480651855
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 12.181292533874512
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 12.261292457580566
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.355125427246094
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.885625839233398
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 13.49091625213623
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.625916481018066
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.91866683959961
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 15.048666954040527
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.4799165725708
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 15.816291809082031
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 16.337207794189453
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 16.508832931518555
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 16.583833694458008
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 17.320791244506836
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 17.45079231262207
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 17.835792541503906
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 17.88079261779785
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.98579216003418
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 19.30266571044922
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 19.512666702270508
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 19.722957611083984
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 20.072999954223633
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 20.26300048828125
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 20.37299919128418
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 20.7086238861084
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 20.803625106811523
+    }
+  ]
+}

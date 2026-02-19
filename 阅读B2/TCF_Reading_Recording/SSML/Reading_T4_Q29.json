@@ -1,0 +1,537 @@
+{
+  "text": "« Pendant des millénaires, les chercheurs du monde entier ont jalousement gardé leurs données. Essentiellement parce qu'ils pensaient que le contrôle de l'information donnait le pouvoir » déclare le conservateur en paléontologie au musée d'Histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l'information. Cependant vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c'est ce que constatent les invités d'une conférence internationale sur la biodiversité qui se tient dans la capitale britannique. Que souhaitent actuellement les chercheurs ?",
+  "words": [
+    "«",
+    "Pendant",
+    "des",
+    "millénaires,",
+    "les",
+    "chercheurs",
+    "du",
+    "monde",
+    "entier",
+    "ont",
+    "jalousement",
+    "gardé",
+    "leurs",
+    "données.",
+    "Essentiellement",
+    "parce",
+    "qu&apos;ils",
+    "pensaient",
+    "que",
+    "le",
+    "contrôle",
+    "de",
+    "l&apos;information",
+    "donnait",
+    "le",
+    "pouvoir",
+    "»",
+    "déclare",
+    "le",
+    "conservateur",
+    "en",
+    "paléontologie",
+    "au",
+    "musée",
+    "d&apos;Histoire",
+    "naturelle",
+    "de",
+    "Londres.",
+    "Les",
+    "mentalités",
+    "ont",
+    "changé",
+    "depuis",
+    "quelques",
+    "années",
+    "à",
+    "partir",
+    "du",
+    "moment",
+    "où",
+    "les",
+    "savants",
+    "ont",
+    "pris",
+    "conscience",
+    "des",
+    "bénéfices",
+    "du",
+    "travail",
+    "collaboratif",
+    "et",
+    "du",
+    "partage",
+    "de",
+    "l&apos;information.",
+    "Cependant",
+    "vouloir",
+    "échanger",
+    "entre",
+    "chercheurs",
+    "et",
+    "parvenir",
+    "à",
+    "le",
+    "faire",
+    "correctement",
+    "sont",
+    "deux",
+    "choses",
+    "très",
+    "différentes,",
+    "c&apos;est",
+    "ce",
+    "que",
+    "constatent",
+    "les",
+    "invités",
+    "d&apos;une",
+    "conférence",
+    "internationale",
+    "sur",
+    "la",
+    "biodiversité",
+    "qui",
+    "se",
+    "tient",
+    "dans",
+    "la",
+    "capitale",
+    "britannique.",
+    "Que",
+    "souhaitent",
+    "actuellement",
+    "les",
+    "chercheurs",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.3499999940395355
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.4856249988079071
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3342915773391724
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4492915868759155
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9777915477752686
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.1177914142608643
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.360874891281128
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.770874500274658
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.905874490737915
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.4761245250701904
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.831874370574951
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.013707637786865
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.247374534606934
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.015249729156494
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.315249443054199
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.520249366760254
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.9423747062683105
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.127374649047852
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.223666191101074
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.728124618530273
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.8431243896484375
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.638957977294922
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.945124626159668
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.050124168395996
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.729665756225586
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.98629093170166
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.516708374023438
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.631708145141602
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.472789764404297
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.591415405273438
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.622373580932617
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.722081184387207
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.06695556640625
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.571331024169922
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.10283088684082
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.239370346069336
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 15.562163352966309
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.677163124084473
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 16.368745803833008
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 16.47874641418457
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.93016242980957
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 17.23516273498535
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.724620819091797
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 17.98628807067871
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 18.041288375854492
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 18.456287384033203
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.581287384033203
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.991497039794922
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 19.08549690246582
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.19049644470215
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 19.66649627685547
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.77649688720703
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.981163024902344
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 20.567203521728516
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.697996139526367
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 21.243995666503906
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 21.383995056152344
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 21.806745529174805
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 22.843996047973633
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 22.898996353149414
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 23.034996032714844
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 23.49524688720703
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.605247497558594
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 25.27828598022461
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 25.848411560058594
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 26.233869552612305
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 26.71661949157715
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 26.996536254882812
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 27.593828201293945
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 27.658578872680664
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 28.239994049072266
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 28.29999542236328
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 28.384994506835938
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 28.658079147338867
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 29.432661056518555
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 29.677452087402344
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 29.837451934814453
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 30.14461898803711
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 30.379619598388672
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 31.421119689941406
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 31.57778549194336
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 31.712785720825195
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 31.837785720825195
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 32.392704010009766
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 32.60270309448242
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 33.01445388793945
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 33.23316192626953
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 33.87028503417969
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 34.713661193847656
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 34.95365905761719
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 35.05866241455078
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 36.02099609375
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 36.22095489501953
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 36.39595413208008
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 36.6611213684082
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 36.796119689941406
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 36.89112091064453
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 37.443328857421875
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 38.98999786376953
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 39.119998931884766
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 39.42141342163086
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 39.99637222290039
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 40.091373443603516
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 40.69075012207031
+    }
+  ]
+}

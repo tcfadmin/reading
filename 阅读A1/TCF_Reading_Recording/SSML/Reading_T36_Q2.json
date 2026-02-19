@@ -1,0 +1,87 @@
+{
+  "text": "Message reçu\nJ'ai faim. J'achète une pizza ou tu prépares quelque chose? Que veut la personne?",
+  "words": [
+    "Message",
+    "reçu",
+    "J&apos;ai",
+    "faim.",
+    "J&apos;achète",
+    "une",
+    "pizza",
+    "ou",
+    "tu",
+    "prépares",
+    "quelque",
+    "chose?",
+    "Que",
+    "veut",
+    "la",
+    "personne?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.460875004529953
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8558750152587891
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.015874981880188
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5895415544509888
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.0248749256134033
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.174874782562256
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.6059582233428955
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.7209582328796387
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.8759584426879883
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2662501335144043
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.5770833492279053
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.43049955368042
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.565499782562256
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.7104997634887695
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.820666313171387
+    }
+  ]
+}

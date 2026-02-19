@@ -1,0 +1,97 @@
+{
+  "text": "Pierre, n'oubliez pas notre déjeuner au restaurant. Je vous attends devant l'ascenseur\nAlice Pourquoi est-ce qu'Alice attend Pierre?",
+  "words": [
+    "Pierre,",
+    "n&apos;oubliez",
+    "pas",
+    "notre",
+    "déjeuner",
+    "au",
+    "restaurant.",
+    "Je",
+    "vous",
+    "attends",
+    "devant",
+    "l&apos;ascenseur",
+    "Alice",
+    "Pourquoi",
+    "est-ce",
+    "qu&apos;Alice",
+    "attend",
+    "Pierre?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6391666531562805
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0652499198913574
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2557499408721924
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5721666812896729
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9723751544952393
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.0723750591278076
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.071791887283325
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.1917917728424072
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.40179181098938
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.692500114440918
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.933333396911621
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.523916721343994
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.815583229064941
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.191666603088379
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.311666488647461
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.675666332244873
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.917582988739014
+    }
+  ]
+}

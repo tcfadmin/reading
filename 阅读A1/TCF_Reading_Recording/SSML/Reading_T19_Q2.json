@@ -1,0 +1,87 @@
+{
+  "text": "PIÈCE DE THÉÂTRE \nLe Rhinocéros\n19h 00, salle des fêtes de Versailles Que présente l'affiche ?",
+  "words": [
+    "PIÈCE",
+    "DE",
+    "THÉÂTRE",
+    "Le",
+    "Rhinocéros",
+    "19h",
+    "00,",
+    "salle",
+    "des",
+    "fêtes",
+    "de",
+    "Versailles",
+    "Que",
+    "présente",
+    "l&apos;affiche",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3199999928474426
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.47104164958000183
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0262081623077393
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1512081623077393
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9576247930526733
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.6032495498657227
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.559791088104248
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.8347911834716797
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.956416130065918
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.216416358947754
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.363166332244873
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.878332614898682
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.043332576751709
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.498666286468506
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.034207820892334
+    }
+  ]
+}

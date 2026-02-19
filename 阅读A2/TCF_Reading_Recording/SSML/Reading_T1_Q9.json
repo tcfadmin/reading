@@ -1,0 +1,292 @@
+{
+  "text": "Madame,\nNous avons bien reçu votre demande de remboursement pour un billet de train (voyage professionnel). Vous nous avez envoyé le ticket de carte bancaire, mais nous avons aussi besoin d'une attestation de votre employeur. Merci de nous l'adresser par courrier postal ou sous format électronique.\nCordialement,\nLe service financier. Quel document doit fournir la femme ?",
+  "words": [
+    "Madame,",
+    "Nous",
+    "avons",
+    "bien",
+    "reçu",
+    "votre",
+    "demande",
+    "de",
+    "remboursement",
+    "pour",
+    "un",
+    "billet",
+    "de",
+    "train",
+    "(voyage",
+    "professionnel).",
+    "Vous",
+    "nous",
+    "avez",
+    "envoyé",
+    "le",
+    "ticket",
+    "de",
+    "carte",
+    "bancaire,",
+    "mais",
+    "nous",
+    "avons",
+    "aussi",
+    "besoin",
+    "d&apos;une",
+    "attestation",
+    "de",
+    "votre",
+    "employeur.",
+    "Merci",
+    "de",
+    "nous",
+    "l&apos;adresser",
+    "par",
+    "courrier",
+    "postal",
+    "ou",
+    "sous",
+    "format",
+    "électronique.",
+    "Cordialement,",
+    "Le",
+    "service",
+    "financier.",
+    "Quel",
+    "document",
+    "doit",
+    "fournir",
+    "la",
+    "femme",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6600416302680969
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8733333349227905
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.068333387374878
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2732917070388794
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5836666822433472
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.8636665344238281
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.203916549682617
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3039164543151855
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.032708168029785
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.242708206176758
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.3127081394195557
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.562999725341797
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.67799973487854
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.968249797821045
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.494874954223633
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.0100836753845215
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.1350836753845215
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.340083599090576
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.560708999633789
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.916500568389893
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.011500358581543
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.351750373840332
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.456750392913818
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.796750068664551
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.57145881652832
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.666459083557129
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.901958465576172
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.091958999633789
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.322375297546387
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.672500610351562
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.857500076293945
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.473374366760254
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.558374404907227
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.777915954589844
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.131999969482422
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.467000007629395
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.585124969482422
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.710124969482422
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.196916580200195
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.399707794189453
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.741166114807129
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.286916732788086
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.396916389465332
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.542624473571777
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.882874488830566
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.965832710266113
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.834331512451172
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.944332122802734
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.354665756225586
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.301998138427734
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.496997833251953
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.945873260498047
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.087373733520508
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.452373504638672
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.551332473754883
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 19.917665481567383
+    }
+  ]
+}

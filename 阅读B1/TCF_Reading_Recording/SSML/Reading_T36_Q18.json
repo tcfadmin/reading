@@ -1,0 +1,362 @@
+{
+  "text": "Les Français aiment les chats\nIl faut dire que l'animal colle à son époque: un minimum de contraintes pour un maximum de plaisir ! Avec lui, pas de promenades obligatoires, un encombrement dérisoire, un appétit modéré et la satisfaction d'avoir un petit tigre domestique et affectueux chez soi. Toutes les raisons sont bonnes pour accueillir ce petit animal dans nos foyers. Selon l'auteur de l'article, qu'est-ce qui caractérise la société contemporaine?",
+  "words": [
+    "Les",
+    "Français",
+    "aiment",
+    "les",
+    "chats",
+    "Il",
+    "faut",
+    "dire",
+    "que",
+    "l&apos;animal",
+    "colle",
+    "à",
+    "son",
+    "époque:",
+    "un",
+    "minimum",
+    "de",
+    "contraintes",
+    "pour",
+    "un",
+    "maximum",
+    "de",
+    "plaisir",
+    "!",
+    "Avec",
+    "lui,",
+    "pas",
+    "de",
+    "promenades",
+    "obligatoires,",
+    "un",
+    "encombrement",
+    "dérisoire,",
+    "un",
+    "appétit",
+    "modéré",
+    "et",
+    "la",
+    "satisfaction",
+    "d&apos;avoir",
+    "un",
+    "petit",
+    "tigre",
+    "domestique",
+    "et",
+    "affectueux",
+    "chez",
+    "soi.",
+    "Toutes",
+    "les",
+    "raisons",
+    "sont",
+    "bonnes",
+    "pour",
+    "accueillir",
+    "ce",
+    "petit",
+    "animal",
+    "dans",
+    "nos",
+    "foyers.",
+    "Selon",
+    "l&apos;auteur",
+    "de",
+    "l&apos;article,",
+    "qu&apos;est-ce",
+    "qui",
+    "caractérise",
+    "la",
+    "société",
+    "contemporaine?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.12999999523162842
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6400833129882812
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7964999675750732
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.9114999771118164
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.231124997138977
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.3511250019073486
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.577125072479248
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.8221251964569092
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 1.9779584407806396
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.4683332443237305
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.7494165897369385
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.8044166564941406
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.084416627883911
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.9405417442321777
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.035541534423828
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.5307087898254395
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.6507086753845215
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.251957893371582
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.470416069030762
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.530416011810303
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.1180830001831055
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.218082904815674
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.771040916442871
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.653873920440674
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.978874206542969
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.429206848144531
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.594207763671875
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.719207763671875
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.36474895477295
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.497665405273438
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.647665023803711
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.324124336242676
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.41945743560791
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.579458236694336
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.989082336425781
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.510249137878418
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.590249061584473
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.705249786376953
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.604248046875
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.974664688110352
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.061081886291504
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.396081924438477
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.806081771850586
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 16.537872314453125
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.612873077392578
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.098289489746094
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.27328872680664
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.45149803161621
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.69649887084961
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.82149887084961
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.21849822998047
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 19.463499069213867
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.784082412719727
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 20.020748138427734
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 20.45608139038086
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.606082916259766
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 21.002248764038086
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 21.45258140563965
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 21.5970401763916
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 21.712039947509766
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 23.04399871826172
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 23.424373626708984
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 23.819873809814453
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.93987464904785
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 24.731374740600586
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 24.978416442871094
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 25.128416061401367
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 25.864416122436523
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 25.974416732788086
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 26.4846248626709
+    }
+  ]
+}

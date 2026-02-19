@@ -1,0 +1,92 @@
+{
+  "text": "Examen de biologie\nJuin à 15h30 en salle 454 Quelle information manque au sujet de cet examen?",
+  "words": [
+    "Examen",
+    "de",
+    "biologie",
+    "Juin",
+    "à",
+    "15h30",
+    "en",
+    "salle",
+    "454",
+    "Quelle",
+    "information",
+    "manque",
+    "au",
+    "sujet",
+    "de",
+    "cet",
+    "examen?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5152499675750732
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6352499723434448
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1910415887832642
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.541041612625122
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6074583530426025
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.4688332080841064
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.5938332080841064
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.91420841217041
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.209959030151367
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.451792240142822
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.118710041046143
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.448709487915039
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.519584655761719
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.849584579467773
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.944584369659424
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.189584732055664
+    }
+  ]
+}

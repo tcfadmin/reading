@@ -1,0 +1,192 @@
+{
+  "text": "Madame, Monsieur,\nVous êtes convoqués à l'école avec votre fils, Paul Lemaire, inscrit en 6°B, le jeudi 13 janvier à 10h, bureau 8.\nMerci de vous présenter au secrétariat du directeur adjoint. Qui est Paul Lemaire ?",
+  "words": [
+    "Madame,",
+    "Monsieur,",
+    "Vous",
+    "êtes",
+    "convoqués",
+    "à",
+    "l&apos;école",
+    "avec",
+    "votre",
+    "fils,",
+    "Paul",
+    "Lemaire,",
+    "inscrit",
+    "en",
+    "6°B,",
+    "le",
+    "jeudi",
+    "13",
+    "janvier",
+    "à",
+    "10h,",
+    "bureau",
+    "8.",
+    "Merci",
+    "de",
+    "vous",
+    "présenter",
+    "au",
+    "secrétariat",
+    "du",
+    "directeur",
+    "adjoint.",
+    "Qui",
+    "est",
+    "Paul",
+    "Lemaire",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.624666690826416
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.3890832662582397
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.610625147819519
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.7306251525878906
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2506251335144043
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3395419120788574
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.7440836429595947
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.974083662033081
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.28808331489563
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.973541736602783
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.178542137145996
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.816375255584717
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.235208511352539
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.335208415985107
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.507333278656006
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.640707492828369
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.985707759857178
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.3257904052734375
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.810040473937988
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.895040512084961
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.601707458496094
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.967498779296875
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.208290100097656
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.593456268310547
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.708456039428711
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.848456382751465
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.430747985839844
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.540748596191406
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.26758098602295
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.42258071899414
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.950998306274414
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.799164772033691
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.989164352416992
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.044164657592773
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.31924819946289
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.800081253051758
+    }
+  ]
+}

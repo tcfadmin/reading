@@ -1,0 +1,497 @@
+{
+  "text": "La ville de Montreuil impose de nouvelles règles aux projets immobiliers du centre-ville pour promouvoir l'installation de commerces et d'ateliers d'artistes sur les axes centraux de la ville. Cette solution favorise la mixité des usages. En effet, la construction de logements est plus rentable que celle de locaux commerciaux ou artistiques, ce qui incite les promoteurs à ne construire que ce type de biens. Refusant de créer une ville-dortoir et décidée à préserver l'identité artistique de la ville, la municipalité entend soutenir l'installation de ces activités en rez-de-chaussée. Quel est l'objectif de la politique urbaine de Montreuil ?",
+  "words": [
+    "La",
+    "ville",
+    "de",
+    "Montreuil",
+    "impose",
+    "de",
+    "nouvelles",
+    "règles",
+    "aux",
+    "projets",
+    "immobiliers",
+    "du",
+    "centre-ville",
+    "pour",
+    "promouvoir",
+    "l&apos;installation",
+    "de",
+    "commerces",
+    "et",
+    "d&apos;ateliers",
+    "d&apos;artistes",
+    "sur",
+    "les",
+    "axes",
+    "centraux",
+    "de",
+    "la",
+    "ville.",
+    "Cette",
+    "solution",
+    "favorise",
+    "la",
+    "mixité",
+    "des",
+    "usages.",
+    "En",
+    "effet,",
+    "la",
+    "construction",
+    "de",
+    "logements",
+    "est",
+    "plus",
+    "rentable",
+    "que",
+    "celle",
+    "de",
+    "locaux",
+    "commerciaux",
+    "ou",
+    "artistiques,",
+    "ce",
+    "qui",
+    "incite",
+    "les",
+    "promoteurs",
+    "à",
+    "ne",
+    "construire",
+    "que",
+    "ce",
+    "type",
+    "de",
+    "biens.",
+    "Refusant",
+    "de",
+    "créer",
+    "une",
+    "ville-dortoir",
+    "et",
+    "décidée",
+    "à",
+    "préserver",
+    "l&apos;identité",
+    "artistique",
+    "de",
+    "la",
+    "ville,",
+    "la",
+    "municipalité",
+    "entend",
+    "soutenir",
+    "l&apos;installation",
+    "de",
+    "ces",
+    "activités",
+    "en",
+    "rez-de-chaussée.",
+    "Quel",
+    "est",
+    "l&apos;objectif",
+    "de",
+    "la",
+    "politique",
+    "urbaine",
+    "de",
+    "Montreuil",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.1599999964237213
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4154166281223297
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5454166531562805
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1293749809265137
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.519541621208191
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6519999504089355
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9922083616256714
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3172080516815186
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.3971664905548096
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.9134578704833984
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.520915985107422
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.6609160900115967
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.345832347869873
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.595832347869873
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.221207618713379
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.991457939147949
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.101457595825195
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.71462345123291
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.784623622894287
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.3034987449646
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.007498741149902
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.241666793823242
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.441666603088379
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.71875
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.188751220703125
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.29375171661377
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.420251846313477
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.657959938049316
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.93295955657959
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.542501449584961
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.137876510620117
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.269250869750977
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.823751449584961
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.044334411621094
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.987460136413574
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.147459983825684
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.783334732055664
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.9183349609375
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.681626319885254
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.801626205444336
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 16.303668975830078
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.346834182739258
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.56183433532715
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.149375915527344
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 17.30437660217285
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.589584350585938
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.719585418701172
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.059585571289062
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.710960388183594
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.83095932006836
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.902416229248047
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 20.062416076660156
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 20.257041931152344
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 20.617042541503906
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 20.722042083740234
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 21.381832122802734
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 21.436832427978516
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 21.55183219909668
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 22.143165588378906
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 22.28912353515625
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 22.444124221801758
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 22.660499572753906
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 22.81049919128418
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.989707946777344
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 24.546167373657227
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 24.66116714477539
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 24.980417251586914
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 25.145416259765625
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 25.92245864868164
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 25.99245834350586
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 26.53183364868164
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 26.596834182739258
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 27.207792282104492
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 27.83970832824707
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 28.478792190551758
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 28.618793487548828
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 28.745376586914062
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 29.430835723876953
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 29.561126708984375
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 30.496835708618164
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 30.861751556396484
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 31.403377532958984
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 32.17854309082031
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 32.28354263305664
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 32.54354476928711
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 33.1868782043457
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 33.346168518066406
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 34.97233581542969
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 35.182334899902344
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 35.247337341308594
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 35.905460357666016
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 36.030460357666016
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 36.13212966918945
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 36.66725158691406
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 37.05242156982422
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 37.162418365478516
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 37.76112747192383
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "text": "Salut Lucie,\nJe t'écris de l'île d'Yeu où je passe une semaine formidable: plage, mer, soleil et surtout beaucoup de calme et de repos. J'espère que tu vas bien, à bientôt.\n\nJe t'embrasse,\nAgathe. Pourquoi Agathe écrit-elle?",
+  "words": [
+    "Salut",
+    "Lucie,",
+    "Je",
+    "t&apos;écris",
+    "de",
+    "l&apos;île",
+    "d&apos;Yeu",
+    "où",
+    "je",
+    "passe",
+    "une",
+    "semaine",
+    "formidable:",
+    "plage,",
+    "mer,",
+    "soleil",
+    "et",
+    "surtout",
+    "beaucoup",
+    "de",
+    "calme",
+    "et",
+    "de",
+    "repos.",
+    "J&apos;espère",
+    "que",
+    "tu",
+    "vas",
+    "bien,",
+    "à",
+    "bientôt.",
+    "Je",
+    "t&apos;embrasse,",
+    "Agathe.",
+    "Pourquoi",
+    "Agathe",
+    "écrit-elle?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.32499998807907104
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0506250858306885
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.18708336353302
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.56208336353302
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6925417184829712
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.927541732788086
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.172541618347168
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.302541732788086
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.431666851043701
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.7266666889190674
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.846416473388672
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.1958749294281006
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.318958282470703
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.065000057220459
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.738791465759277
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.265500068664551
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.33050012588501
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.729833602905273
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.044958114624023
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.1549577713012695
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.514791011810303
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.574790954589844
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.67979097366333
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.94575023651123
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.415874481201172
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.540874481201172
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.680874824523926
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.821624755859375
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.311124801635742
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.391124725341797
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.277417182922363
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.407417297363281
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.27720832824707
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.993417739868164
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.348417282104492
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.658458709716797
+    }
+  ]
+}

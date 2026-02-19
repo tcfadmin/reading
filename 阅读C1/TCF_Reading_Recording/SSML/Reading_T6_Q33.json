@@ -1,0 +1,607 @@
+{
+  "text": "Mais qu'est-ce qu'être autonome ?\nL'autonomie été un idéal de la fin des années 70 et depuis, c'est devenue une norme. Mais qu'est-ce qu'être autonome? Est-ce rechercher en soi les forces pour agir ? Cette représentation d'un sujet en relation avec lui-même est contestée par certains penseurs pour qui agir par soi-même, ce n'est pas s'inventer mais être capable de se diriger seul. Autrement dit, on peut être autonome en appliquant des règles que l'on apprises et dont l'origine ne se trouve donc pas au fond de nous mais dans le contexte social où nous existons. Ces règles apparaissent alors comme des capacités et non plus comme une limitation des possibilités de l'action. Qu'est-ce qu'être autonome, selon ce texte ?",
+  "words": [
+    "Mais",
+    "qu&apos;est-ce",
+    "qu&apos;être",
+    "autonome",
+    "?",
+    "L&apos;autonomie",
+    "été",
+    "un",
+    "idéal",
+    "de",
+    "la",
+    "fin",
+    "des",
+    "années",
+    "70",
+    "et",
+    "depuis,",
+    "c&apos;est",
+    "devenue",
+    "une",
+    "norme.",
+    "Mais",
+    "qu&apos;est-ce",
+    "qu&apos;être",
+    "autonome?",
+    "Est-ce",
+    "rechercher",
+    "en",
+    "soi",
+    "les",
+    "forces",
+    "pour",
+    "agir",
+    "?",
+    "Cette",
+    "représentation",
+    "d&apos;un",
+    "sujet",
+    "en",
+    "relation",
+    "avec",
+    "lui-même",
+    "est",
+    "contestée",
+    "par",
+    "certains",
+    "penseurs",
+    "pour",
+    "qui",
+    "agir",
+    "par",
+    "soi-même,",
+    "ce",
+    "n&apos;est",
+    "pas",
+    "s&apos;inventer",
+    "mais",
+    "être",
+    "capable",
+    "de",
+    "se",
+    "diriger",
+    "seul.",
+    "Autrement",
+    "dit,",
+    "on",
+    "peut",
+    "être",
+    "autonome",
+    "en",
+    "appliquant",
+    "des",
+    "règles",
+    "que",
+    "l&apos;on",
+    "apprises",
+    "et",
+    "dont",
+    "l&apos;origine",
+    "ne",
+    "se",
+    "trouve",
+    "donc",
+    "pas",
+    "au",
+    "fond",
+    "de",
+    "nous",
+    "mais",
+    "dans",
+    "le",
+    "contexte",
+    "social",
+    "où",
+    "nous",
+    "existons.",
+    "Ces",
+    "règles",
+    "apparaissent",
+    "alors",
+    "comme",
+    "des",
+    "capacités",
+    "et",
+    "non",
+    "plus",
+    "comme",
+    "une",
+    "limitation",
+    "des",
+    "possibilités",
+    "de",
+    "l&apos;action.",
+    "Qu&apos;est-ce",
+    "qu&apos;être",
+    "autonome,",
+    "selon",
+    "ce",
+    "texte",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.12999999523162842
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.43162500858306885
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7166249752044678
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3269999027252197
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.588416576385498
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.223041534423828
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4967916011810303
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6717915534973145
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.082916736602783
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2087082862854004
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.298708438873291
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5587081909179688
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.783708095550537
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.95045804977417
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.833499908447266
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.878499984741211
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.625625133514404
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.8056254386901855
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.201291561126709
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.33537483215332
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.616958141326904
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.731958389282227
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.033583641052246
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.318583488464355
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.190375328063965
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.390375137329102
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.944999694824219
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.075124740600586
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.34012508392334
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.439332962036133
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.855291366577148
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.070291519165039
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.496000289916992
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.945792198181152
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.23579216003418
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.180583953857422
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.340583801269531
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.750541687011719
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.8950834274292
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.475334167480469
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.736416816711426
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.221959114074707
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.27195930480957
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.929542541503906
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.16454315185547
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 16.567750930786133
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.117584228515625
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.352582931518555
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.54195785522461
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.863290786743164
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.083290100097656
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.925291061401367
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.09033203125
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.21533203125
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.385499954223633
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.027498245239258
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.213207244873047
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.47320556640625
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 20.996707916259766
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 21.106706619262695
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.27670669555664
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 21.725582122802734
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 23.04120635986328
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.50316619873047
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 24.078706741333008
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 24.178707122802734
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 24.34379005432129
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 24.563791275024414
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 25.073707580566406
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 25.22870635986328
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 25.752540588378906
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 25.887540817260742
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 26.289165496826172
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 26.469165802001953
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 26.674331665039062
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 27.149581909179688
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 27.22458267211914
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 27.418664932250977
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 27.944913864135742
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 28.06491470336914
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 28.24458122253418
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 28.49958038330078
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 28.754581451416016
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 29.03449821472168
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 29.1044979095459
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 29.374164581298828
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 29.479164123535156
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 29.68441390991211
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 29.849414825439453
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 30.0244140625
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 30.11062240600586
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 30.700122833251953
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 31.238040924072266
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 31.323040008544922
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 31.53304100036621
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 33.049041748046875
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 33.25904083251953
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 33.57416915893555
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 34.12583541870117
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 34.45216751098633
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 34.68246078491211
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 34.78746032714844
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 35.655540466308594
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 35.72554016113281
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 35.9257926940918
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 36.17100143432617
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 36.441001892089844
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 36.56333541870117
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 37.298709869384766
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 37.419918060302734
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 38.20283508300781
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 38.312835693359375
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 39.6856689453125
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 39.91067123413086
+    },
+    {
+      "markName": "115",
+      "timeSeconds": 40.18246078491211
+    },
+    {
+      "markName": "116",
+      "timeSeconds": 40.89975357055664
+    },
+    {
+      "markName": "117",
+      "timeSeconds": 41.2347526550293
+    },
+    {
+      "markName": "118",
+      "timeSeconds": 41.36491775512695
+    },
+    {
+      "markName": "119",
+      "timeSeconds": 41.782379150390625
+    }
+  ]
+}

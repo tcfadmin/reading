@@ -1,0 +1,262 @@
+{
+  "text": "Restaurant\nLa bonne fourchette\nFormule légère Salade au choix, ➠9€\n\nFormule express Plat du jour, ➠12,50€\n\nFormule déjeuner (1/2 eau minérale et café compris), ➠16€ \nEntrée + plate du jour\nPlat du jour + dessert\n\nFormule plaisir, ➠20€  \nEntrée + plate du jour + dessert Combien coûte la formule avec boisson?",
+  "words": [
+    "Restaurant",
+    "La",
+    "bonne",
+    "fourchette",
+    "Formule",
+    "légère",
+    "Salade",
+    "au",
+    "choix,",
+    "➠9€",
+    "Formule",
+    "express",
+    "Plat",
+    "du",
+    "jour,",
+    "➠12,50€",
+    "Formule",
+    "déjeuner",
+    "(1/2",
+    "eau",
+    "minérale",
+    "et",
+    "café",
+    "compris),",
+    "➠16€",
+    "Entrée",
+    "+",
+    "plate",
+    "du",
+    "jour",
+    "Plat",
+    "du",
+    "jour",
+    "+",
+    "dessert",
+    "Formule",
+    "plaisir,",
+    "➠20€",
+    "Entrée",
+    "+",
+    "plate",
+    "du",
+    "jour",
+    "+",
+    "dessert",
+    "Combien",
+    "coûte",
+    "la",
+    "formule",
+    "avec",
+    "boisson?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5807499885559082
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6957499980926514
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9114583134651184
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4648332595825195
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9202499389648438
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.377291679382324
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.8110835552215576
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.901083469390869
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.6975417137145996
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.269541263580322
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.711249351501465
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.26629114151001
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.5143327713012695
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.674332618713379
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.352540493011475
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.975247859954834
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.452247619628906
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 9.03883171081543
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.579331398010254
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.664331436157227
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.215123176574707
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.270123481750488
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.689623832702637
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 11.768289566040039
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 12.404539108276367
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 12.74983024597168
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 13.07312297821045
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 13.377873420715332
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 13.547873497009277
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 13.779289245605469
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.06403923034668
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.234039306640625
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.51974868774414
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.924956321716309
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.374373435974121
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 15.789456367492676
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 16.760831832885742
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 17.295663833618164
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 17.630537033081055
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 17.905536651611328
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 18.204870223999023
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 18.376951217651367
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 18.6319522857666
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 18.958120346069336
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 19.403493881225586
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 19.753326416015625
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 20.00274085998535
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 20.102739334106445
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 20.51315689086914
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 20.7310733795166
+    }
+  ]
+}

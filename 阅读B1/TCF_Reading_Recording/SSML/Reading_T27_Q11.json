@@ -1,0 +1,247 @@
+{
+  "text": "JE M'OCCUPE DE MON CHIEN\nLes chiens, comme les humains, n'aiment pas lorsqu'il fait très chaud. Il faut alors les rafraîchir, par exemple leur donner à boire ou les doucher, et préférer les promenades du matin ou du soir. Qu'est-ce que cet article conseille pour les chiens ?",
+  "words": [
+    "JE",
+    "M&apos;OCCUPE",
+    "DE",
+    "MON",
+    "CHIEN",
+    "Les",
+    "chiens,",
+    "comme",
+    "les",
+    "humains,",
+    "n&apos;aiment",
+    "pas",
+    "lorsqu&apos;il",
+    "fait",
+    "très",
+    "chaud.",
+    "Il",
+    "faut",
+    "alors",
+    "les",
+    "rafraîchir,",
+    "par",
+    "exemple",
+    "leur",
+    "donner",
+    "à",
+    "boire",
+    "ou",
+    "les",
+    "doucher,",
+    "et",
+    "préférer",
+    "les",
+    "promenades",
+    "du",
+    "matin",
+    "ou",
+    "du",
+    "soir.",
+    "Qu&apos;est-ce",
+    "que",
+    "cet",
+    "article",
+    "conseille",
+    "pour",
+    "les",
+    "chiens",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.14499999582767487
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5148333311080933
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6498333215713501
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.8062916398048401
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.106291651725769
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.216583251953125
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.7919164896011353
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.0125417709350586
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.222541570663452
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.866166353225708
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.061166286468506
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.2661662101745605
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.636124610900879
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.806124687194824
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 3.995624542236328
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.163457870483398
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.2834577560424805
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.518457889556885
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.813416481018066
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.9284162521362305
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.891124725341797
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.086124420166016
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.63166618347168
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.826665878295898
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.115582466125488
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.205582618713379
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.563081741333008
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.668082237243652
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 8.778331756591797
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.621498107910156
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.686498641967773
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.226415634155273
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.341915130615234
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.828248977661133
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.973249435424805
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.424707412719727
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.524707794189453
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 11.649707794189453
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.013708114624023
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.208707809448242
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.333707809448242
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.56441593170166
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.035791397094727
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.490707397460938
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.687957763671875
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.782957077026367
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 15.15312385559082
+    }
+  ]
+}

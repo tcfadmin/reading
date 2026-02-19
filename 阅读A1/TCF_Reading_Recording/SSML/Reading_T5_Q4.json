@@ -1,0 +1,82 @@
+{
+  "text": "Karim, pense à appeler ta sœur pour avoir de ses nouvelles Que doit faire Karim?",
+  "words": [
+    "Karim,",
+    "pense",
+    "à",
+    "appeler",
+    "ta",
+    "sœur",
+    "pour",
+    "avoir",
+    "de",
+    "ses",
+    "nouvelles",
+    "Que",
+    "doit",
+    "faire",
+    "Karim?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6607499718666077
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0103332996368408
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0803333520889282
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4163750410079956
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.598833441734314
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9488334655761719
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.1638336181640625
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3845834732055664
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.479583501815796
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.6445834636688232
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.991000175476074
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.1370835304260254
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.292083740234375
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.5170836448669434
+    }
+  ]
+}

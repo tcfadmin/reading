@@ -1,0 +1,182 @@
+{
+  "text": "Menu déjeuner\n16 euros Entrée du jour ou charcuterie.\nPlat du jour ou steak frites fromage ou dessert.\n20 euros avec un verre de vin et un café. Qu'avez-vous avec le menu à 16 euros?",
+  "words": [
+    "Menu",
+    "déjeuner",
+    "16",
+    "euros",
+    "Entrée",
+    "du",
+    "jour",
+    "ou",
+    "charcuterie.",
+    "Plat",
+    "du",
+    "jour",
+    "ou",
+    "steak",
+    "frites",
+    "fromage",
+    "ou",
+    "dessert.",
+    "20",
+    "euros",
+    "avec",
+    "un",
+    "verre",
+    "de",
+    "vin",
+    "et",
+    "un",
+    "café.",
+    "Qu&apos;avez-vous",
+    "avec",
+    "le",
+    "menu",
+    "à",
+    "16",
+    "euros?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3399999737739563
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8208749294281006
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2070417404174805
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4370417594909668
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7747085094451904
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9547085762023926
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3347086906433105
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.415708541870117
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.572666883468628
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.7876667976379395
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.9683752059936523
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.25837516784668
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.346374988555908
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.7113752365112305
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.003041744232178
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.547333717346191
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.627333641052246
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.632833480834961
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.967833518981934
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.273292064666748
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.5529584884643555
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.652958869934082
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.874083518981934
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.00908374786377
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.274084091186523
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.369083404541016
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.459083557128906
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.358376502990723
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.793375968933105
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.048376083374023
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.143418312072754
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.46841812133789
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.534126281738281
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.864126205444336
+    }
+  ]
+}

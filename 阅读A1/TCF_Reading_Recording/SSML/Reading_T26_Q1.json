@@ -1,0 +1,197 @@
+{
+  "text": "La recette de mamie! \nSur la pâte, mettre pommes coupées des en morceaux avec du sucre.\nAjouter un peu de beurre Faire cuire au four 30 minutes.\nLa tarte est prête! Qu'est-ce qu'on fait avec cette recette ?",
+  "words": [
+    "La",
+    "recette",
+    "de",
+    "mamie!",
+    "Sur",
+    "la",
+    "pâte,",
+    "mettre",
+    "pommes",
+    "coupées",
+    "des",
+    "en",
+    "morceaux",
+    "avec",
+    "du",
+    "sucre.",
+    "Ajouter",
+    "un",
+    "peu",
+    "de",
+    "beurre",
+    "Faire",
+    "cuire",
+    "au",
+    "four",
+    "30",
+    "minutes.",
+    "La",
+    "tarte",
+    "est",
+    "prête!",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "fait",
+    "avec",
+    "cette",
+    "recette",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.14999999105930328
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5206249952316284
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6506249904632568
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2719166278839111
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5169166326522827
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6319166421890259
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.290041446685791
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6503751277923584
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.9351251125335693
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.3036670684814453
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.5186667442321777
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.6232500076293945
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.107833385467529
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.312833309173584
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.449458599090576
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.797499656677246
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.24762487411499
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.3576250076293945
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.517624855041504
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.625041484832764
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.890041351318359
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.095958232879639
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.46608304977417
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.546083450317383
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.876416206359863
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.221624374389648
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.148041725158691
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.27804183959961
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.631041526794434
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.691040992736816
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.36229133605957
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.562291145324707
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.732291221618652
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.943124771118164
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.181374549865723
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.376374244689941
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.852874755859375
+    }
+  ]
+}

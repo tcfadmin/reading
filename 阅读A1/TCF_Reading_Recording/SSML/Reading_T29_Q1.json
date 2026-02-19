@@ -1,0 +1,112 @@
+{
+  "text": "Madame Dousson est malade aujourd'hui.\nSon cours est reporté à jeudi (même salle, même heure). De quel changement informe ce message?",
+  "words": [
+    "Madame",
+    "Dousson",
+    "est",
+    "malade",
+    "aujourd&apos;hui.",
+    "Son",
+    "cours",
+    "est",
+    "reporté",
+    "à",
+    "jeudi",
+    "(même",
+    "salle,",
+    "même",
+    "heure).",
+    "De",
+    "quel",
+    "changement",
+    "informe",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.40029168128967285
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.875124990940094
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.925125002861023
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3102084398269653
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2865004539489746
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.5365004539489746
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.8265836238861084
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.8815836906433105
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.4762086868286133
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.5812087059020996
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.020083904266357
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.486750602722168
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.184667110443115
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.429666996002197
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.577499866485596
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.71750020980835
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.947500228881836
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.468874931335449
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.879166603088379
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.024166107177734
+    }
+  ]
+}

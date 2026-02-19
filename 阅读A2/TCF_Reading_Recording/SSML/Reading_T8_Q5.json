@@ -1,0 +1,122 @@
+{
+  "text": "Sophie,\nRendez-vous vers midi en face du cinéma pour choisir un bijou pour Marie.\n\nNadia. Que vont faire Sophie et Nadia à midi?",
+  "words": [
+    "Sophie,",
+    "Rendez-vous",
+    "vers",
+    "midi",
+    "en",
+    "face",
+    "du",
+    "cinéma",
+    "pour",
+    "choisir",
+    "un",
+    "bijou",
+    "pour",
+    "Marie.",
+    "Nadia.",
+    "Que",
+    "vont",
+    "faire",
+    "Sophie",
+    "et",
+    "Nadia",
+    "à",
+    "midi?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7648333311080933
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.2872917652130127
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.492291808128357
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.9046251773834229
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.023083448410034
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.268083333969116
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4007081985473633
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.9266247749328613
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.1708333492279053
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.6015000343322754
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.7065000534057617
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.0737080574035645
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.278707981109619
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.52758264541626
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.228582859039307
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.358582973480225
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.518582820892334
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.815166473388672
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.3108744621276855
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.360874652862549
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.724332809448242
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.777124881744385
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "text": "Diversification de l'offre, quête de nouveaux modèles économiques, redéfinition du métier de journaliste (...). L'espace médiatique français s'est profondément reconfiguré (...). À l'image des autres pays européens, la France est désormais marquée par une situation d'hyper-concurrence entre supports et entreprises médiatiques. L'entrée dans cette ère s'est déclinée en trois temps : La multiplication des titres de la presse magazine depuis le milieu des années 1970 a été suivie par la libéralisation du secteur de l'audiovisuel dans les années 1980 puis par l'expansion d'internet et des services de téléphone mobile au milieu des années 1990. La surabondance de l'offre médiatique intensifie la compétition pour la conquête des publics et des revenus publicitaires. Quel est le thème principal de cet article?",
+  "words": [
+    "Diversification",
+    "de",
+    "l&apos;offre,",
+    "quête",
+    "de",
+    "nouveaux",
+    "modèles",
+    "économiques,",
+    "redéfinition",
+    "du",
+    "métier",
+    "de",
+    "journaliste",
+    "(...).",
+    "L&apos;espace",
+    "médiatique",
+    "français",
+    "s&apos;est",
+    "profondément",
+    "reconfiguré",
+    "(...).",
+    "À",
+    "l&apos;image",
+    "des",
+    "autres",
+    "pays",
+    "européens,",
+    "la",
+    "France",
+    "est",
+    "désormais",
+    "marquée",
+    "par",
+    "une",
+    "situation",
+    "d&apos;hyper-concurrence",
+    "entre",
+    "supports",
+    "et",
+    "entreprises",
+    "médiatiques.",
+    "L&apos;entrée",
+    "dans",
+    "cette",
+    "ère",
+    "s&apos;est",
+    "déclinée",
+    "en",
+    "trois",
+    "temps",
+    ":",
+    "La",
+    "multiplication",
+    "des",
+    "titres",
+    "de",
+    "la",
+    "presse",
+    "magazine",
+    "depuis",
+    "le",
+    "milieu",
+    "des",
+    "années",
+    "1970",
+    "a",
+    "été",
+    "suivie",
+    "par",
+    "la",
+    "libéralisation",
+    "du",
+    "secteur",
+    "de",
+    "l&apos;audiovisuel",
+    "dans",
+    "les",
+    "années",
+    "1980",
+    "puis",
+    "par",
+    "l&apos;expansion",
+    "d&apos;internet",
+    "et",
+    "des",
+    "services",
+    "de",
+    "téléphone",
+    "mobile",
+    "au",
+    "milieu",
+    "des",
+    "années",
+    "1990.",
+    "La",
+    "surabondance",
+    "de",
+    "l&apos;offre",
+    "médiatique",
+    "intensifie",
+    "la",
+    "compétition",
+    "pour",
+    "la",
+    "conquête",
+    "des",
+    "publics",
+    "et",
+    "des",
+    "revenus",
+    "publicitaires.",
+    "Quel",
+    "est",
+    "le",
+    "thème",
+    "principal",
+    "de",
+    "cet",
+    "article?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 1.0117082595825195
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.111708164215088
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.6584581136703491
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.8934582471847534
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.038708209991455
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3137080669403076
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.7487497329711914
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.6233742237091064
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.413331985473633
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.528331756591797
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.859248638153076
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.9642486572265625
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.635456562042236
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.42345666885376
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.914248466491699
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.420748710632324
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.825831890106201
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 8.01987361907959
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.665164947509766
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.413081169128418
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 9.814373970031738
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.889373779296875
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.2354154586792
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.45041561126709
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.698915481567383
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.032248497009277
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.83528995513916
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.955289840698242
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.389915466308594
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.43991470336914
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.861664772033691
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.259164810180664
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.483623504638672
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.588623046875
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.245290756225586
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 15.357122421264648
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 15.602123260498047
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 16.06112289428711
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 16.111122131347656
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 16.629287719726562
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 18.04474639892578
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 18.41474723815918
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 18.56149673461914
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 18.81149673461914
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 19.045997619628906
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 19.19599723815918
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 19.647789001464844
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 19.762788772583008
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 19.99524688720703
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 20.24524688720703
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 20.612289428710938
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 20.732288360595703
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 21.623371124267578
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 21.738372802734375
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 22.100162506103516
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 22.205163955688477
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 22.30016326904297
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 22.653371810913086
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 23.23428726196289
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 23.543996810913086
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 23.633996963500977
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 23.949371337890625
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 24.164371490478516
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 24.334829330444336
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 25.575870513916016
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 25.62087059020996
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 25.815872192382812
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 26.176496505737305
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 26.362747192382812
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 26.457748413085938
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 27.369497299194336
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 27.479747772216797
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 27.91883087158203
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 28.038829803466797
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 28.805788040161133
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 28.966289520263672
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 29.16128921508789
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 29.346580505371094
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 30.410411834716797
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 30.661163330078125
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 30.876163482666016
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 31.458290100097656
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 32.065330505371094
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 32.125328063964844
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 32.23033142089844
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 32.640411376953125
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 32.760414123535156
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 33.24024963378906
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 33.635704040527344
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 33.71570587158203
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 34.01716613769531
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 34.23216247558594
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 34.402164459228516
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 36.45441436767578
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 36.564414978027344
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 37.28012466430664
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 37.39512252807617
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 37.71416473388672
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 38.30158233642578
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 38.903541564941406
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 39.008541107177734
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 39.75612258911133
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 39.931121826171875
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 40.0161247253418
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 40.43095779418945
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 40.55095672607422
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 41.048831939697266
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 41.10383224487305
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 41.21799850463867
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 41.58829116821289
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 43.15666580200195
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 43.34166717529297
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 43.40166473388672
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 43.49166488647461
+    },
+    {
+      "markName": "115",
+      "timeSeconds": 43.71291732788086
+    },
+    {
+      "markName": "116",
+      "timeSeconds": 44.26408386230469
+    },
+    {
+      "markName": "117",
+      "timeSeconds": 44.35591506958008
+    },
+    {
+      "markName": "118",
+      "timeSeconds": 44.5509147644043
+    }
+  ]
+}

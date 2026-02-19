@@ -1,0 +1,207 @@
+{
+  "text": "Nous avons prévu quelques réparations dans l'appartement à la fin de la semaine. Veuillez nous excuser pour le bruit.\nM. et. Mme Garnier 7 avenue du Général Leclerc Appt. 307 Qu'est-ce que M. et Mme Garnier écrivent à leurs voisins?",
+  "words": [
+    "Nous",
+    "avons",
+    "prévu",
+    "quelques",
+    "réparations",
+    "dans",
+    "l&apos;appartement",
+    "à",
+    "la",
+    "fin",
+    "de",
+    "la",
+    "semaine.",
+    "Veuillez",
+    "nous",
+    "excuser",
+    "pour",
+    "le",
+    "bruit.",
+    "M.",
+    "et.",
+    "Mme",
+    "Garnier",
+    "7",
+    "avenue",
+    "du",
+    "Général",
+    "Leclerc",
+    "Appt.",
+    "307",
+    "Qu&apos;est-ce",
+    "que",
+    "M.",
+    "et",
+    "Mme",
+    "Garnier",
+    "écrivent",
+    "à",
+    "leurs",
+    "voisins?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.23499998450279236
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4351666271686554
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8012499809265137
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1825416088104248
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9534167051315308
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.098416805267334
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.8396668434143066
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.889666795730591
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.994666814804077
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.235708475112915
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.3257086277008057
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.420708656311035
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.756208419799805
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.046208381652832
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.271667003631592
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.768666744232178
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.97308349609375
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.0680832862854
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.826666355133057
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.266833305358887
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.7234578132629395
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.118332862854004
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.545000076293945
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.920000076293945
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.260000228881836
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.421957969665527
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.953290939331055
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.520708084106445
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.666791915893555
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.381875038146973
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.599624633789062
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.734624862670898
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.140999794006348
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.196000099182129
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.635583877563477
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.105541229248047
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.480583190917969
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.540582656860352
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.69558334350586
+    }
+  ]
+}

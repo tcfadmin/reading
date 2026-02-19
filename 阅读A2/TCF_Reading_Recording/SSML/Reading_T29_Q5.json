@@ -1,0 +1,167 @@
+{
+  "text": "Salut Alex,\nPourrais-tu m'emmener à la fête de Lina demain soir? Ma voiture est en panne et c'est moi qui ai son cadeau d'anniversaire.\nÀ demain\nElsa, Que doit faire Alex ?",
+  "words": [
+    "Salut",
+    "Alex,",
+    "Pourrais-tu",
+    "m&apos;emmener",
+    "à",
+    "la",
+    "fête",
+    "de",
+    "Lina",
+    "demain",
+    "soir?",
+    "Ma",
+    "voiture",
+    "est",
+    "en",
+    "panne",
+    "et",
+    "c&apos;est",
+    "moi",
+    "qui",
+    "ai",
+    "son",
+    "cadeau",
+    "d&apos;anniversaire.",
+    "À",
+    "demain",
+    "Elsa,",
+    "Que",
+    "doit",
+    "faire",
+    "Alex",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.32999998331069946
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9993749260902405
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4043750762939453
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.8089168071746826
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.87891685962677
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9915834665298462
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.2665836811065674
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.422375202178955
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.777250289916992
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0722503662109375
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.373666763305664
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.518666744232178
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.945208549499512
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.080208778381348
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.201208591461182
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.546500205993652
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.606500148773193
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.80649995803833
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.032416820526123
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.237416744232178
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.282416343688965
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.503499984741211
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.808499813079834
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.508915901184082
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.593915939331055
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.89920711517334
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.514206886291504
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.634206771850586
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.806248664855957
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.036248207092285
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.490623474121094
+    }
+  ]
+}

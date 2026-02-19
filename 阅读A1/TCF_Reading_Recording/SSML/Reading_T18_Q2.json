@@ -1,0 +1,222 @@
+{
+  "text": "La société des transports T2C offre plusieurs moyens de transport publics: trente-quatre stations de tramway, de train et de métro en journée, 23 lignes de bus, dont une de nuit. Plus de renseignements sur notre site www.t2c.fr ! Quel transport circule après 23h?",
+  "words": [
+    "La",
+    "société",
+    "des",
+    "transports",
+    "T2C",
+    "offre",
+    "plusieurs",
+    "moyens",
+    "de",
+    "transport",
+    "publics:",
+    "trente-quatre",
+    "stations",
+    "de",
+    "tramway,",
+    "de",
+    "train",
+    "et",
+    "de",
+    "métro",
+    "en",
+    "journée,",
+    "23",
+    "lignes",
+    "de",
+    "bus,",
+    "dont",
+    "une",
+    "de",
+    "nuit.",
+    "Plus",
+    "de",
+    "renseignements",
+    "sur",
+    "notre",
+    "site",
+    "www.t2c.fr",
+    "!",
+    "Quel",
+    "transport",
+    "circule",
+    "après",
+    "23h?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.14499999582767487
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7200000286102295
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.846958339214325
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4115418195724487
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.179166793823242
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.4967503547668457
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.921750068664551
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.2670416831970215
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.377041816711426
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.887666940689087
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.8323750495910645
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.417666435241699
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.864665985107422
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.974665641784668
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.697749137878418
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.877748966217041
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.196998596191406
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.271998405456543
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.396998405456543
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.818248271942139
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.933248043060303
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.671957015991211
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.121581077575684
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.33158016204834
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.452580451965332
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.041455268859863
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.331830024719238
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.491829872131348
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.602872848510742
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.730706214904785
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.91070556640625
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.020706176757812
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.717288970947266
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.928831100463867
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.223831176757812
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.575580596923828
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 17.04233169555664
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 17.92520523071289
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 18.130205154418945
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 18.7191219329834
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 19.178997039794922
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 19.433998107910156
+    }
+  ]
+}

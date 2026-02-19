@@ -1,0 +1,187 @@
+{
+  "text": "Monsieur,\nVeuillez nous retourner се dossier complété et signé. Nous vous informerons de notre décision par courrier avant la fin du mois.\nMerci de votre compréhension.\nLes services de préfecture. Que doit faire cette personne ?",
+  "words": [
+    "Monsieur,",
+    "Veuillez",
+    "nous",
+    "retourner",
+    "се",
+    "dossier",
+    "complété",
+    "et",
+    "signé.",
+    "Nous",
+    "vous",
+    "informerons",
+    "de",
+    "notre",
+    "décision",
+    "par",
+    "courrier",
+    "avant",
+    "la",
+    "fin",
+    "du",
+    "mois.",
+    "Merci",
+    "de",
+    "votre",
+    "compréhension.",
+    "Les",
+    "services",
+    "de",
+    "préfecture.",
+    "Que",
+    "doit",
+    "faire",
+    "cette",
+    "personne",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7299582958221436
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0549582242965698
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2106250524520874
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6901252269744873
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8851251602172852
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.2622084617614746
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.892958402633667
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.962958335876465
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.9089581966400146
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.0389580726623535
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.273958206176758
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.9146246910095215
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.009624481201172
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.318916320800781
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.950291633605957
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.155291557312012
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.636166572570801
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.866166114807129
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.9561662673950195
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.181374549865723
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.301374435424805
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.447416305541992
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.80241584777832
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.90858268737793
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.183582305908203
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.213749885559082
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.338749885559082
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.833999633789062
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.958999633789062
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.996916770935059
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.121916770935059
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.281916618347168
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.532166481018066
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.742166519165039
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.287124633789062
+    }
+  ]
+}

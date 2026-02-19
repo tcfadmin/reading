@@ -1,0 +1,132 @@
+{
+  "text": "Anne gérante de Somya, nouvelle boutique spécialisée dans la décoration, vous attend pour vous proposer de nombreux produits et livres spécialisées De quoi parle l'annonce?",
+  "words": [
+    "Anne",
+    "gérante",
+    "de",
+    "Somya,",
+    "nouvelle",
+    "boutique",
+    "spécialisée",
+    "dans",
+    "la",
+    "décoration,",
+    "vous",
+    "attend",
+    "pour",
+    "vous",
+    "proposer",
+    "de",
+    "nombreux",
+    "produits",
+    "et",
+    "livres",
+    "spécialisées",
+    "De",
+    "quoi",
+    "parle",
+    "l&apos;annonce?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2549999952316284
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7302916049957275
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8787916302680969
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.577208399772644
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9372085332870483
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.344791889190674
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.0992918014526367
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.2506251335144043
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.3556251525878906
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.509125232696533
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.721500396728516
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.996500015258789
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.163958549499512
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.298958778381348
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.824166774749756
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.9544997215271
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.304957389831543
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.770999431610107
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.845999240875244
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.201790809631348
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.958373546600342
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.098374366760254
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.29891586303711
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.618498802185059
+    }
+  ]
+}

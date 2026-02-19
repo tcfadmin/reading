@@ -1,0 +1,192 @@
+{
+  "text": "Désolée, je ne viens pas aux cours de français et je ne peux pas travailler à la bibliothèque avec toi aujourd'hui. Je suis malade et je reste à la maison.\nÀ bientôt,\nSandra Qu'est-ce que Sandra fait?",
+  "words": [
+    "Désolée,",
+    "je",
+    "ne",
+    "viens",
+    "pas",
+    "aux",
+    "cours",
+    "de",
+    "français",
+    "et",
+    "je",
+    "ne",
+    "peux",
+    "pas",
+    "travailler",
+    "à",
+    "la",
+    "bibliothèque",
+    "avec",
+    "toi",
+    "aujourd&apos;hui.",
+    "Je",
+    "suis",
+    "malade",
+    "et",
+    "je",
+    "reste",
+    "à",
+    "la",
+    "maison.",
+    "À",
+    "bientôt,",
+    "Sandra",
+    "Qu&apos;est-ce",
+    "que",
+    "Sandra",
+    "fait?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8767499923706055
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0017499923706055
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0867499113082886
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2760416269302368
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5310417413711548
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6157500743865967
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.845750093460083
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.9609583616256714
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.486375093460083
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.556375026702881
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.6963748931884766
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.773124933242798
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 2.898124933242798
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.0581250190734863
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 3.5525002479553223
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 3.6125001907348633
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 3.7175002098083496
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 4.476874828338623
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 4.706875324249268
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 4.911875247955322
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.334749698638916
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.459749698638916
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.649749755859375
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.086291313171387
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.161208152770996
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.301208019256592
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 7.588791847229004
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 7.648791313171387
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 7.753791332244873
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 8.599499702453613
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 8.67449951171875
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 9.323624610900879
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 9.71199893951416
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 9.92699909210205
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.046998977661133
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 10.411540985107422
+    }
+  ]
+}

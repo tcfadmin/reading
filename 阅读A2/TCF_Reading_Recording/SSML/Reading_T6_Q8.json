@@ -1,0 +1,192 @@
+{
+  "text": "Lundi 20 juin\nMme Rico sera absente de son bureau exceptionnellement aujourd'hui, lundi. 8 Pour avoir un rendez-vous, vous pourrez la contacter demain à partir de 14 heures. Merci de votre compréhension. Quand madame Rico sera-t-elle disponible?",
+  "words": [
+    "Lundi",
+    "20",
+    "juin",
+    "Mme",
+    "Rico",
+    "sera",
+    "absente",
+    "de",
+    "son",
+    "bureau",
+    "exceptionnellement",
+    "aujourd&apos;hui,",
+    "lundi.",
+    "8",
+    "Pour",
+    "avoir",
+    "un",
+    "rendez-vous,",
+    "vous",
+    "pourrez",
+    "la",
+    "contacter",
+    "demain",
+    "à",
+    "partir",
+    "de",
+    "14",
+    "heures.",
+    "Merci",
+    "de",
+    "votre",
+    "compréhension.",
+    "Quand",
+    "madame",
+    "Rico",
+    "sera-t-elle",
+    "disponible?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4062083065509796
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.591208279132843
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8626666069030762
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2862917184829712
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7607084512710571
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.1219582557678223
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.5634584426879883
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.703458309173584
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.923166513442993
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.272749900817871
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.265499591827393
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.996457576751709
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.290374279022217
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.5603742599487305
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.770999431610107
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.040999412536621
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.125290870666504
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.946832656860352
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.086833000183105
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.387249946594238
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.502249717712402
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.103958129882812
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.504166603088379
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.554166793823242
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.958083152770996
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.068082809448242
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.595499992370605
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.737042427062988
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.092041969299316
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.198208808898926
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.4732084274292
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.503376007080078
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.678375244140625
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.038958549499512
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.400792121887207
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.906792640686035
+    }
+  ]
+}

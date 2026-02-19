@@ -1,0 +1,252 @@
+{
+  "text": "Le saviez-vous ?\nLes Galeries Lafayette sont aujourd'hui le site le plus visité à Paris après le musée du Louvre ! Vous pouvez y trouver des vêtements à la mode, des objets pour la maison ou encore des articles de cuisine. Qu'est-ce qu'on apprend sur ce grand magasin ?",
+  "words": [
+    "Le",
+    "saviez-vous",
+    "?",
+    "Les",
+    "Galeries",
+    "Lafayette",
+    "sont",
+    "aujourd&apos;hui",
+    "le",
+    "site",
+    "le",
+    "plus",
+    "visité",
+    "à",
+    "Paris",
+    "après",
+    "le",
+    "musée",
+    "du",
+    "Louvre",
+    "!",
+    "Vous",
+    "pouvez",
+    "y",
+    "trouver",
+    "des",
+    "vêtements",
+    "à",
+    "la",
+    "mode,",
+    "des",
+    "objets",
+    "pour",
+    "la",
+    "maison",
+    "ou",
+    "encore",
+    "des",
+    "articles",
+    "de",
+    "cuisine.",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "apprend",
+    "sur",
+    "ce",
+    "grand",
+    "magasin",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.12999999523162842
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7774582505226135
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0445414781570435
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1595414876937866
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5908331871032715
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.217416286468506
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4924163818359375
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.978749990463257
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.103583335876465
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.424375057220459
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.549375057220459
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.7543749809265137
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.271291732788086
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.356291770935059
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.79920768737793
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.079207897186279
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.16920804977417
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.474666595458984
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.61466646194458
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.02625036239624
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.905250072479248
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.05525016784668
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.3662919998168945
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.456291675567627
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.837333679199219
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.9773335456848145
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.479416847229004
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.534417152404785
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 8.64941692352295
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.194499969482422
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.46987533569336
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 9.797208786010742
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.021291732788086
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.131292343139648
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.576541900634766
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 10.761541366577148
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.098292350769043
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 11.309333801269531
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 11.724332809448242
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 11.819334030151367
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.253875732421875
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.45887565612793
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.664417266845703
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.004417419433594
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.2092924118042
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.329292297363281
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 14.530625343322754
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 15.056583404541016
+    }
+  ]
+}

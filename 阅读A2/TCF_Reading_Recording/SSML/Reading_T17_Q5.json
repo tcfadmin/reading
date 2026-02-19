@@ -1,0 +1,247 @@
+{
+  "text": "Salon gastronomique le 17 mars.\nVenez à la rencontre des agriculteurs, producteurs et chefs de votre région ! Vous pourrez discuter avec eux et goûter leurs délicieux produits :\npommes, fromages, beurre, miel, etc.!\nParticipez au concours de la meilleure recette! Qu'est-ce qu'on peut faire dans ce salon?",
+  "words": [
+    "Salon",
+    "gastronomique",
+    "le",
+    "17",
+    "mars.",
+    "Venez",
+    "à",
+    "la",
+    "rencontre",
+    "des",
+    "agriculteurs,",
+    "producteurs",
+    "et",
+    "chefs",
+    "de",
+    "votre",
+    "région",
+    "!",
+    "Vous",
+    "pourrez",
+    "discuter",
+    "avec",
+    "eux",
+    "et",
+    "goûter",
+    "leurs",
+    "délicieux",
+    "produits",
+    ":",
+    "pommes,",
+    "fromages,",
+    "beurre,",
+    "miel,",
+    "etc.!",
+    "Participez",
+    "au",
+    "concours",
+    "de",
+    "la",
+    "meilleure",
+    "recette!",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "peut",
+    "faire",
+    "dans",
+    "ce",
+    "salon?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.35999998450279236
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.1261667013168335
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2555416822433472
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.675374984741211
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.48425030708313
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.7692501544952393
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.8242502212524414
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.919541835784912
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.394500255584717
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.5895001888275146
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.480958461761475
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.162416934967041
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.226750373840332
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.486750602722168
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.592125415802002
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.842125415802002
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.227541923522949
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.01062536239624
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.145625591278076
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.420625686645508
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.925625324249268
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.244333267211914
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.384333610534668
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.43933391571045
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.821250915527344
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.994292259216309
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.431041717529297
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.911791801452637
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.203208923339844
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.78308391571045
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.596959114074707
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.263710021972656
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.882584571838379
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.186501502990723
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.794751167297363
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.899751663208008
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 15.2735013961792
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 15.358667373657227
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.448667526245117
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.733667373657227
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 16.58220863342285
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.767210006713867
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.91720962524414
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.05208396911621
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 17.28208351135254
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.422584533691406
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.522584915161133
+    }
+  ]
+}

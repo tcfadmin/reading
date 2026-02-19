@@ -1,0 +1,227 @@
+{
+  "text": "•À louer: logement très lumineux de trois pièces avec une cuisine équipée, parfait pour des parents avec enfants. Situé au deuxième étage d'un bel immeuble avec ascenseur, dans un quartier calme, proche des commerces. 10 minutes à pied de l'université. Qu'est-ce qu'on peut louer?",
+  "words": [
+    "•À",
+    "louer:",
+    "logement",
+    "très",
+    "lumineux",
+    "de",
+    "trois",
+    "pièces",
+    "avec",
+    "une",
+    "cuisine",
+    "équipée,",
+    "parfait",
+    "pour",
+    "des",
+    "parents",
+    "avec",
+    "enfants.",
+    "Situé",
+    "au",
+    "deuxième",
+    "étage",
+    "d&apos;un",
+    "bel",
+    "immeuble",
+    "avec",
+    "ascenseur,",
+    "dans",
+    "un",
+    "quartier",
+    "calme,",
+    "proche",
+    "des",
+    "commerces.",
+    "10",
+    "minutes",
+    "à",
+    "pied",
+    "de",
+    "l&apos;université.",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "peut",
+    "louer?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.09999999403953552
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7454167008399963
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2862499952316284
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5162500143051147
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9906666278839111
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.125666618347168
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3858749866485596
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.7906250953674316
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0356252193450928
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.1651670932769775
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.633791923522949
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.435125350952148
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.823458194732666
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.043457984924316
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.166082859039307
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.541666030883789
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.786666393280029
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.0464582443237305
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.521541595458984
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.646541595458984
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.053083419799805
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.430292129516602
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.602208137512207
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.807209014892578
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.188041687011719
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.456666946411133
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.335083961486816
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.594208717346191
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.679208755493164
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.074209213256836
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.729416847229004
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.05441665649414
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.165042877197266
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.639668464660645
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.8446683883667
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.259543418884277
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.339543342590332
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.576334953308105
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.681334495544434
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.986292839050293
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 16.19129180908203
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.361291885375977
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.522167205810547
+    }
+  ]
+}

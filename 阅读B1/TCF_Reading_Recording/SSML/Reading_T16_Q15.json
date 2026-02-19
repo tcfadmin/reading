@@ -1,0 +1,237 @@
+{
+  "text": "Amélie,\nPour le concert ce soir, on se retrouver à 19h30 devant le bar rue Daunou. Il y a un grand restaurant à côté, tout près du théâtre de l'Odéon. Le concert commence à 20 h 30.\nSarah Que vont faire les deux femmes ce soir?",
+  "words": [
+    "Amélie,",
+    "Pour",
+    "le",
+    "concert",
+    "ce",
+    "soir,",
+    "on",
+    "se",
+    "retrouver",
+    "à",
+    "19h30",
+    "devant",
+    "le",
+    "bar",
+    "rue",
+    "Daunou.",
+    "Il",
+    "y",
+    "a",
+    "un",
+    "grand",
+    "restaurant",
+    "à",
+    "côté,",
+    "tout",
+    "près",
+    "du",
+    "théâtre",
+    "de",
+    "l&apos;Odéon.",
+    "Le",
+    "concert",
+    "commence",
+    "à",
+    "20",
+    "h",
+    "30.",
+    "Sarah",
+    "Que",
+    "vont",
+    "faire",
+    "les",
+    "deux",
+    "femmes",
+    "ce",
+    "soir?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6297499537467957
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8091666102409363
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9091666340827942
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4183334112167358
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5638750791549683
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.303875207901001
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3934168815612793
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.5584168434143066
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.052708387374878
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.1370835304260254
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.1220831871032715
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.463666915893555
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.558667182922363
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.899667263031006
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.054666996002197
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.323500633239746
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.453500747680664
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.543500900268555
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.598500728607178
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.710083961486816
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.955083847045898
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.5368757247924805
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.5918755531311035
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.28366756439209
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.438667297363281
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.673791885375977
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.818792343139648
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.249167442321777
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.354167938232422
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.71420955657959
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.83920955657959
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.354333877563477
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.865625381469727
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.945626258850098
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.16562557220459
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.345625877380371
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.237042427062988
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.587041854858398
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.734541893005371
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.889541625976562
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.151208877563477
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.26620864868164
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.432791709899902
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.732791900634766
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.892666816711426
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "text": "INFORMATION VOYAGEURS\nLes bus de la ligne 25 ne circulent pas cette semaine à cause de réparations sur les routes. Les métros et tramways fonctionnent normalement. Pour plus d'informations, présentez-vous aux guichets.\nMerci de votre compréhension.\nLes transports du nord Qu'est-ce qui est annoncé?",
+  "words": [
+    "INFORMATION",
+    "VOYAGEURS",
+    "Les",
+    "bus",
+    "de",
+    "la",
+    "ligne",
+    "25",
+    "ne",
+    "circulent",
+    "pas",
+    "cette",
+    "semaine",
+    "à",
+    "cause",
+    "de",
+    "réparations",
+    "sur",
+    "les",
+    "routes.",
+    "Les",
+    "métros",
+    "et",
+    "tramways",
+    "fonctionnent",
+    "normalement.",
+    "Pour",
+    "plus",
+    "d&apos;informations,",
+    "présentez-vous",
+    "aux",
+    "guichets.",
+    "Merci",
+    "de",
+    "votre",
+    "compréhension.",
+    "Les",
+    "transports",
+    "du",
+    "nord",
+    "Qu&apos;est-ce",
+    "qui",
+    "est",
+    "annoncé?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7257916927337646
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.2975834608078003
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.412583351135254
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6638332605361938
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.778833270072937
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.8838331699371338
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.1701667308807373
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.8111250400543213
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.961124897003174
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.410916566848755
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.586416244506836
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.821416139602661
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.233916282653809
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.311040878295898
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.566040992736816
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.676041126251221
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.397499084472656
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.606915473937988
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.706915378570557
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.988456726074219
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.113456726074219
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.577790260314941
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.637790203094482
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.093290328979492
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.659624099731445
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.715249061584473
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.895248413085938
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.14012336730957
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.224748611450195
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.94174861907959
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.03174877166748
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.92420768737793
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.279207229614258
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.385374069213867
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.66037368774414
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.69054126739502
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.805541038513184
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 15.33004093170166
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.465041160583496
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.74004077911377
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.964749336242676
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.119749069213867
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.24449920654297
+    }
+  ]
+}

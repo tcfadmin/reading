@@ -1,0 +1,112 @@
+{
+  "text": "Thierry,\nPeux-tu passer à la boulangerie et prendre du pain pour le dîner?\nBises.\nMichèle. Qu'est-ce que Michèle demande à Thierry?",
+  "words": [
+    "Thierry,",
+    "Peux-tu",
+    "passer",
+    "à",
+    "la",
+    "boulangerie",
+    "et",
+    "prendre",
+    "du",
+    "pain",
+    "pour",
+    "le",
+    "dîner?",
+    "Bises.",
+    "Michèle.",
+    "Qu&apos;est-ce",
+    "que",
+    "Michèle",
+    "demande",
+    "à",
+    "Thierry?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.765666663646698
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0489583015441895
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4190831184387207
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.489083170890808
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.594249963760376
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.2400834560394287
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3000833988189697
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6953749656677246
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.8153750896453857
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0753750801086426
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.245374917984009
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.3253750801086426
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.548250198364258
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.210625171661377
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.056416988372803
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.276417255401611
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.426417350769043
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.876333713531494
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.246833801269531
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.316833972930908
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "text": "Étudiante donne cours d'anglais.\nRenseignements au 06 35 75 6780. Que veut faire la jeune fille?",
+  "words": [
+    "Étudiante",
+    "donne",
+    "cours",
+    "d&apos;anglais.",
+    "Renseignements",
+    "au",
+    "06",
+    "35",
+    "75",
+    "6780.",
+    "Que",
+    "veut",
+    "faire",
+    "la",
+    "jeune",
+    "fille?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6455416679382324
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9057916402816772
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.170791745185852
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.861875057220459
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.6362500190734863
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.7512500286102295
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.346250057220459
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 4.074666976928711
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.969749927520752
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 6.720874786376953
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.850874900817871
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.980875015258789
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 7.215000152587891
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 7.335000038146973
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.565333366394043
+    }
+  ]
+}

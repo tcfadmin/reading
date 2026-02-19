@@ -1,0 +1,127 @@
+{
+  "text": "Mathilde,\nJe t'attends devant l'entrée du stade rue Victor Hugo. Fais vite, le match va commencer !\nLaura Pourquoi est-ce que Laura attend Mathilde?",
+  "words": [
+    "Mathilde,",
+    "Je",
+    "t&apos;attends",
+    "devant",
+    "l&apos;entrée",
+    "du",
+    "stade",
+    "rue",
+    "Victor",
+    "Hugo.",
+    "Fais",
+    "vite,",
+    "le",
+    "match",
+    "va",
+    "commencer",
+    "!",
+    "Laura",
+    "Pourquoi",
+    "est-ce",
+    "que",
+    "Laura",
+    "attend",
+    "Mathilde?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7853333353996277
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.940333366394043
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.364708423614502
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6452085971832275
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.0413336753845215
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.1813337802886963
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.580958604812622
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.786750316619873
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.2873754501342773
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.0612921714782715
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.236292362213135
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.722583770751953
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.82258415222168
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.129209041595459
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.234542369842529
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.79929256439209
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.24570894241333
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.565709114074707
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.960709095001221
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.080708980560303
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.220708847045898
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.536834239959717
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.796000957489014
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "text": "Cédric,\nTa mère et moi rentrons tard ce soir. Ton repas est dans le réfrigérateur, je t'ai fait du poulet avec des légumes. Avant de te coucher, n'oublie pas de sortir le chien et de lui donner à manger!\nBonne soirée,\nPapa Qu'est-ce que Cédric doit faire ?",
+  "words": [
+    "Cédric,",
+    "Ta",
+    "mère",
+    "et",
+    "moi",
+    "rentrons",
+    "tard",
+    "ce",
+    "soir.",
+    "Ton",
+    "repas",
+    "est",
+    "dans",
+    "le",
+    "réfrigérateur,",
+    "je",
+    "t&apos;ai",
+    "fait",
+    "du",
+    "poulet",
+    "avec",
+    "des",
+    "légumes.",
+    "Avant",
+    "de",
+    "te",
+    "coucher,",
+    "n&apos;oublie",
+    "pas",
+    "de",
+    "sortir",
+    "le",
+    "chien",
+    "et",
+    "de",
+    "lui",
+    "donner",
+    "à",
+    "manger!",
+    "Bonne",
+    "soirée,",
+    "Papa",
+    "Qu&apos;est-ce",
+    "que",
+    "Cédric",
+    "doit",
+    "faire",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8149166703224182
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.984916627407074
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2413333654403687
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.311333417892456
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5513334274291992
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9471251964569092
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.2035415172576904
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3335416316986084
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.199333429336548
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.424333333969116
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.71274995803833
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.7927498817443848
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.9477498531341553
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.019416809082031
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.256916522979736
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.386916637420654
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.538332939147949
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.7133331298828125
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.848333358764648
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.186958312988281
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.407749652862549
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.537749290466309
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.875416278839111
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.140416145324707
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.230416297912598
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.353583335876465
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.125
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.460166931152344
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.655166625976562
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.76016616821289
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.210999488830566
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.310999870300293
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.631166458129883
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.691165924072266
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.801166534423828
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 10.941165924072266
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.220125198364258
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 11.285124778747559
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.5842924118042
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.80929183959961
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.389666557312012
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.689666748046875
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.904250144958496
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.029250144958496
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.416125297546387
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.602458953857422
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 14.982583999633789
+    }
+  ]
+}

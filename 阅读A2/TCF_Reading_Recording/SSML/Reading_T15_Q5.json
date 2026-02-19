@@ -1,0 +1,242 @@
+{
+  "text": "Prière de ne pas toucher à la photocopieuse\nLe réparateur arrive demain à la première heure. En attendant, donnez vos documents à ma secrétaire qui les photocopies au bureau de la comptable.\nMerci,\nLe directeur. Qui va faire les photocopies pendant que la photocopieuse est en réparation?",
+  "words": [
+    "Prière",
+    "de",
+    "ne",
+    "pas",
+    "toucher",
+    "à",
+    "la",
+    "photocopieuse",
+    "Le",
+    "réparateur",
+    "arrive",
+    "demain",
+    "à",
+    "la",
+    "première",
+    "heure.",
+    "En",
+    "attendant,",
+    "donnez",
+    "vos",
+    "documents",
+    "à",
+    "ma",
+    "secrétaire",
+    "qui",
+    "les",
+    "photocopies",
+    "au",
+    "bureau",
+    "de",
+    "la",
+    "comptable.",
+    "Merci,",
+    "Le",
+    "directeur.",
+    "Qui",
+    "va",
+    "faire",
+    "les",
+    "photocopies",
+    "pendant",
+    "que",
+    "la",
+    "photocopieuse",
+    "est",
+    "en",
+    "réparation?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.375
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4856666922569275
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5906667113304138
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.7406666874885559
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.1020416021347046
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.1620415449142456
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.2484164237976074
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.1111247539520264
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.2111246585845947
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.87233304977417
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.1419997215270996
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5369997024536133
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.5919997692108154
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.686999797821045
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.097416877746582
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.1152496337890625
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.265249729156494
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.994708061218262
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.294708251953125
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.444708347320557
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.915500164031982
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.950500011444092
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.062291622161865
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.7422919273376465
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.926458358764648
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.011458396911621
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.67733383178711
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.762333869934082
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.062458992004395
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.152458190917969
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.237459182739258
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.571876525878906
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.212000846862793
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.307001113891602
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.087543487548828
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.232542991638184
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.347542762756348
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.583751678466797
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.678750991821289
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.339710235595703
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.649834632873535
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.759835243225098
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.84483528137207
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.564668655395508
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.674668312072754
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.779668807983398
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "text": "Bonjour.\nEst-ce que vous pouvez dire à vos enfants qu'il est interdit de jouer avec l'ascenseur ?\nIl est souvent en panne, car ils s'amusent avec les boutons. Je suis obligé de monter et de descendre les 5 étages à pied.\nMerci de votre compréhension.\nM. Déroulède/5e gauche Pourquoi M. Déroulède est-il mécontent?",
+  "words": [
+    "Bonjour.",
+    "Est-ce",
+    "que",
+    "vous",
+    "pouvez",
+    "dire",
+    "à",
+    "vos",
+    "enfants",
+    "qu&apos;il",
+    "est",
+    "interdit",
+    "de",
+    "jouer",
+    "avec",
+    "l&apos;ascenseur",
+    "?",
+    "Il",
+    "est",
+    "souvent",
+    "en",
+    "panne,",
+    "car",
+    "ils",
+    "s&apos;amusent",
+    "avec",
+    "les",
+    "boutons.",
+    "Je",
+    "suis",
+    "obligé",
+    "de",
+    "monter",
+    "et",
+    "de",
+    "descendre",
+    "les",
+    "5",
+    "étages",
+    "à",
+    "pied.",
+    "Merci",
+    "de",
+    "votre",
+    "compréhension.",
+    "M.",
+    "Déroulède/5e",
+    "gauche",
+    "Pourquoi",
+    "M.",
+    "Déroulède",
+    "est-il",
+    "mécontent?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7098749876022339
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8398749828338623
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9548749923706055
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.0698750019073486
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3358333110809326
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.551374912261963
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.6113749742507935
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.8263750076293945
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.1627917289733887
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.347708225250244
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.477708339691162
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.8730833530426025
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 2.9880833625793457
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.242208242416382
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 3.4464168548583984
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.063291549682617
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.846250057220459
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 4.966250419616699
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.001250267028809
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.342583656311035
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 5.432583332061768
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 5.972499847412109
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.14662504196167
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 6.246624946594238
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 6.666333198547363
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 6.882624626159668
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 6.967624664306641
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.140375137329102
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 8.255374908447266
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 8.510375022888184
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 8.900750160217285
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 9.005749702453613
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 9.442208290100098
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 9.507207870483398
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 9.632207870483398
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 10.121458053588867
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 10.20645809173584
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 10.512249946594238
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 10.837249755859375
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 10.886124610900879
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 11.952542304992676
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 12.267541885375977
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 12.363333702087402
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 12.603333473205566
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 13.52208423614502
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 13.822083473205566
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 15.144667625427246
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 15.488208770751953
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 15.843209266662598
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 16.157875061035156
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 16.659542083740234
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 16.929542541503906
+    }
+  ]
+}

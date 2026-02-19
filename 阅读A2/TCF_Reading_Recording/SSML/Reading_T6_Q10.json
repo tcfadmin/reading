@@ -1,0 +1,182 @@
+{
+  "text": "Noël Approche !\nPour que vos colis arrivent avant les fêtes, nous vous proposons de les transporter en mode express. Renseignez-vous auprès de nos conseillers ou rendez-vous directement au guichet. À quoi sert ce service?",
+  "words": [
+    "Noël",
+    "Approche",
+    "!",
+    "Pour",
+    "que",
+    "vos",
+    "colis",
+    "arrivent",
+    "avant",
+    "les",
+    "fêtes,",
+    "nous",
+    "vous",
+    "proposons",
+    "de",
+    "les",
+    "transporter",
+    "en",
+    "mode",
+    "express.",
+    "Renseignez-vous",
+    "auprès",
+    "de",
+    "nos",
+    "conseillers",
+    "ou",
+    "rendez-vous",
+    "directement",
+    "au",
+    "guichet.",
+    "À",
+    "quoi",
+    "sert",
+    "ce",
+    "service?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3499999940395355
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9119582772254944
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1769583225250244
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3569583892822266
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4919583797454834
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6529583930969238
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.038541793823242
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3717498779296875
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.606750011444092
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.70674991607666
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.4374165534973145
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5632081031799316
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.6982083320617676
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.28320837020874
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.383500099182129
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.483500003814697
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.188666343688965
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.298666477203369
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.52191686630249
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.0460004806518555
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.786458969116211
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.086626052856445
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.206417083740234
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.351417541503906
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.95220947265625
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.112459182739258
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.574501037597656
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.255708694458008
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.325708389282227
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.211792945861816
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.281792640686035
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.471792221069336
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.718626022338867
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.843626022338867
+    }
+  ]
+}

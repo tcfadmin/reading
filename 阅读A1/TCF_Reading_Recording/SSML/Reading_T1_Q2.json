@@ -1,0 +1,107 @@
+{
+  "text": "Attention\nCette semaine, l'accueil de l'université est fermé lundi toute la journée et vendredi après-midi. À quoi sert cette affiche?",
+  "words": [
+    "Attention",
+    "Cette",
+    "semaine,",
+    "l&apos;accueil",
+    "de",
+    "l&apos;université",
+    "est",
+    "fermé",
+    "lundi",
+    "toute",
+    "la",
+    "journée",
+    "et",
+    "vendredi",
+    "après-midi.",
+    "À",
+    "quoi",
+    "sert",
+    "cette",
+    "affiche?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5602499842643738
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8035416603088379
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4785417318344116
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.9002084732055664
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.026625156402588
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.936500072479248
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.99150013923645
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.421583652496338
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.7920005321502686
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.067000389099121
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.192000389099121
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.617833137512207
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.713124752044678
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.3087077140808105
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.779250144958496
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.849250316619873
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.034250259399414
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.279250144958496
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.509250164031982
+    }
+  ]
+}

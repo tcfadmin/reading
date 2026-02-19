@@ -1,0 +1,107 @@
+{
+  "text": "Je suis bien arrivé chez moi. Je t'appelle demain pour aller voir le film. Je t'embrasse.\nCristian. Où est Cristian?",
+  "words": [
+    "Je",
+    "suis",
+    "bien",
+    "arrivé",
+    "chez",
+    "moi.",
+    "Je",
+    "t&apos;appelle",
+    "demain",
+    "pour",
+    "aller",
+    "voir",
+    "le",
+    "film.",
+    "Je",
+    "t&apos;embrasse.",
+    "Cristian.",
+    "Où",
+    "est",
+    "Cristian?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.12999999523162842
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.3199999928474426
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5900833010673523
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.9054999947547913
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.1004998683929443
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.7881666421890259
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9281666278839111
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.340083360671997
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7557499408721924
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.981916666030884
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.1369166374206543
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.371666431427002
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.4616665840148926
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.340249538421631
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.475249767303467
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.382874488830566
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.325499534606934
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.440499782562256
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.485499858856201
+    }
+  ]
+}

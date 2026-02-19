@@ -1,0 +1,67 @@
+{
+  "text": "1kg de pommes\nSalade\nMouchoirs en papier Où trouve-t-on ces produits ?",
+  "words": [
+    "1kg",
+    "de",
+    "pommes",
+    "Salade",
+    "Mouchoirs",
+    "en",
+    "papier",
+    "Où",
+    "trouve-t-on",
+    "ces",
+    "produits",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7554583549499512
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8830833435058594
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1630834341049194
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.585625171661377
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.0711669921875
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.181166887283325
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.636166572570801
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.7711665630340576
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.2472500801086426
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.3922500610351562
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.830166816711426
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "text": "Salut tout le monde,\nCamilo est né. Le bébé et la maman vont bien. Ils vous attendent dans la chambre 335 au  3e étage.\nGabin Où est Camilo ?",
+  "words": [
+    "Salut",
+    "tout",
+    "le",
+    "monde,",
+    "Camilo",
+    "est",
+    "né.",
+    "Le",
+    "bébé",
+    "et",
+    "la",
+    "maman",
+    "vont",
+    "bien.",
+    "Ils",
+    "vous",
+    "attendent",
+    "dans",
+    "la",
+    "chambre",
+    "335",
+    "au",
+    "3e",
+    "étage.",
+    "Gabin",
+    "Où",
+    "est",
+    "Camilo",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3199999928474426
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4789583086967468
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5439583659172058
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.044041633605957
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5590417385101318
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6142916679382324
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3042919635772705
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.4292919635772705
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.800416946411133
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.860416889190674
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.0004167556762695
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.360416889190674
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.5552918910980225
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.257124900817871
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.387125015258789
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.627124786376953
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.00795841217041
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.174416542053223
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.279417037963867
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.763208389282227
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.829666614532471
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.909666538238525
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.351249694824219
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.703749656677246
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.138833045959473
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.288832664489746
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.328832626342773
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.883207321166992
+    }
+  ]
+}

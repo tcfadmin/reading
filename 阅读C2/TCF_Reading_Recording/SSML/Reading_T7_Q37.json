@@ -1,0 +1,657 @@
+{
+  "text": "L'avenir est dans la formation de la jeunesse, dans l'innovation, dans la recherche. Pour prendre pleinement ses responsabilités, l'université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui ressemble les acteurs de l'enseignement supérieur et de la recherche (grandes écoles, organismes de recherche, centre hospitalier universitaire...) Ce nouveau modèle remet au centre des préoccupations la question de l'accès à un enseignement supérieur qualitatif pour le plus grand nombre. Il a l'ambition de créer les conditions de réussite et d'épanouissement pour tous ses étudiants et de permettre des innovations majeures.\nAu travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social. Quel est l'objectif de cette université ?",
+  "words": [
+    "L&apos;avenir",
+    "est",
+    "dans",
+    "la",
+    "formation",
+    "de",
+    "la",
+    "jeunesse,",
+    "dans",
+    "l&apos;innovation,",
+    "dans",
+    "la",
+    "recherche.",
+    "Pour",
+    "prendre",
+    "pleinement",
+    "ses",
+    "responsabilités,",
+    "l&apos;université",
+    "de",
+    "Nantes",
+    "propose",
+    "un",
+    "nouveau",
+    "modèle",
+    "universitaire",
+    "en",
+    "France,",
+    "décloisonné,",
+    "qui",
+    "ressemble",
+    "les",
+    "acteurs",
+    "de",
+    "l&apos;enseignement",
+    "supérieur",
+    "et",
+    "de",
+    "la",
+    "recherche",
+    "(grandes",
+    "écoles,",
+    "organismes",
+    "de",
+    "recherche,",
+    "centre",
+    "hospitalier",
+    "universitaire...)",
+    "Ce",
+    "nouveau",
+    "modèle",
+    "remet",
+    "au",
+    "centre",
+    "des",
+    "préoccupations",
+    "la",
+    "question",
+    "de",
+    "l&apos;accès",
+    "à",
+    "un",
+    "enseignement",
+    "supérieur",
+    "qualitatif",
+    "pour",
+    "le",
+    "plus",
+    "grand",
+    "nombre.",
+    "Il",
+    "a",
+    "l&apos;ambition",
+    "de",
+    "créer",
+    "les",
+    "conditions",
+    "de",
+    "réussite",
+    "et",
+    "d&apos;épanouissement",
+    "pour",
+    "tous",
+    "ses",
+    "étudiants",
+    "et",
+    "de",
+    "permettre",
+    "des",
+    "innovations",
+    "majeures.",
+    "Au",
+    "travers",
+    "de",
+    "ce",
+    "projet",
+    "de",
+    "nouvelle",
+    "université,",
+    "le",
+    "président",
+    "et",
+    "son",
+    "équipe",
+    "défendent",
+    "une",
+    "vision",
+    "innovante",
+    "et",
+    "proposent",
+    "un",
+    "nouveau",
+    "modèle",
+    "qui",
+    "conjugue",
+    "exigence",
+    "et",
+    "main",
+    "tendue,",
+    "excellence",
+    "et",
+    "lien",
+    "social.",
+    "Quel",
+    "est",
+    "l&apos;objectif",
+    "de",
+    "cette",
+    "université",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5850833654403687
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6350833773612976
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8032916784286499
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.8982917070388794
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5344167947769165
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.637624979019165
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.7476249933242798
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.5184998512268066
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.698499917984009
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.6897082328796387
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.854708194732666
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.966374635696411
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.458582401275635
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.643582344055176
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.058624267578125
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.549124240875244
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.7257490158081055
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 8.096749305725098
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.91654109954834
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.047332763671875
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 9.39558219909668
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.930582046508789
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.02058219909668
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.331707000732422
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.723581314086914
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.597414016723633
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.69741439819336
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 12.462455749511719
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 13.5487060546875
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 13.732123374938965
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.217081069946289
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.421873092651367
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.805582046508789
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.940582275390625
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.562874794006348
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 16.302040100097656
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 16.357707977294922
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 16.482707977294922
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 16.592708587646484
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 17.24808120727539
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 17.83449935913086
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 18.477832794189453
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 19.159040451049805
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 19.27404022216797
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 20.0518741607666
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 20.391708374023438
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 21.062707901000977
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 22.824079513549805
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 23.00908088684082
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 23.29907989501953
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 23.73912239074707
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 24.09041404724121
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 24.210412979125977
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 24.654996871948242
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 24.775997161865234
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 25.719287872314453
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 25.83928871154785
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 26.3577880859375
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 26.467788696289062
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 26.93816375732422
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 26.9931640625
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 27.167537689208984
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 27.75358009338379
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 28.459245681762695
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 29.24616241455078
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 29.44220542907715
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 29.53720474243164
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 29.722206115722656
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 29.98395538330078
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 31.278663635253906
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 31.418664932250977
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 31.493663787841797
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 32.07849884033203
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 32.188499450683594
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 32.498538970947266
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 32.60853958129883
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 33.2443733215332
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 33.3443717956543
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 33.990623474121094
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 34.06049728393555
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 34.92912292480469
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 35.159122467041016
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 35.32412338256836
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 35.58549880981445
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 36.172122955322266
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 36.23212432861328
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 36.36603927612305
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 36.89133071899414
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 37.1013298034668
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 37.663997650146484
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 39.08424758911133
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 39.17924880981445
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 39.579246520996094
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 39.689247131347656
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 39.866249084472656
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 40.27324676513672
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 40.39824676513672
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 40.73733139038086
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 41.93108367919922
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 42.05608367919922
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 42.66462326049805
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 42.709625244140625
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 42.98128890991211
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 43.35129165649414
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 43.86616516113281
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 44.00616455078125
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 44.43708038330078
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 45.087791442871094
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 45.167789459228516
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 45.71004104614258
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 45.80503845214844
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 46.09503936767578
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 46.5347900390625
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 46.73978805541992
+    },
+    {
+      "markName": "115",
+      "timeSeconds": 47.22978973388672
+    },
+    {
+      "markName": "116",
+      "timeSeconds": 47.93170928955078
+    },
+    {
+      "markName": "117",
+      "timeSeconds": 47.99170684814453
+    },
+    {
+      "markName": "118",
+      "timeSeconds": 48.188499450683594
+    },
+    {
+      "markName": "119",
+      "timeSeconds": 48.88779067993164
+    },
+    {
+      "markName": "120",
+      "timeSeconds": 49.552955627441406
+    },
+    {
+      "markName": "121",
+      "timeSeconds": 49.60795593261719
+    },
+    {
+      "markName": "122",
+      "timeSeconds": 49.8206672668457
+    },
+    {
+      "markName": "123",
+      "timeSeconds": 51.28987503051758
+    },
+    {
+      "markName": "124",
+      "timeSeconds": 51.494876861572266
+    },
+    {
+      "markName": "125",
+      "timeSeconds": 51.55987548828125
+    },
+    {
+      "markName": "126",
+      "timeSeconds": 52.206626892089844
+    },
+    {
+      "markName": "127",
+      "timeSeconds": 52.32662582397461
+    },
+    {
+      "markName": "128",
+      "timeSeconds": 52.54570770263672
+    },
+    {
+      "markName": "129",
+      "timeSeconds": 53.32154083251953
+    }
+  ]
+}

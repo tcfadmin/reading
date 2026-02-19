@@ -1,0 +1,147 @@
+{
+  "text": "Visite d'un musée des beaux-arts vendredi prochain.\nMerci de donner deux tickets de métro à votre enfant.\nLe professeur. Qu'est-ce que les parents payent pour cette activité ?",
+  "words": [
+    "Visite",
+    "d&apos;un",
+    "musée",
+    "des",
+    "beaux-arts",
+    "vendredi",
+    "prochain.",
+    "Merci",
+    "de",
+    "donner",
+    "deux",
+    "tickets",
+    "de",
+    "métro",
+    "à",
+    "votre",
+    "enfant.",
+    "Le",
+    "professeur.",
+    "Qu&apos;est-ce",
+    "que",
+    "les",
+    "parents",
+    "payent",
+    "pour",
+    "cette",
+    "activité",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4151249825954437
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6051249504089355
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9671666026115417
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1021665334701538
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.589583396911621
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.0806667804718018
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.0202085971832275
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.3902084827423096
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.5202083587646484
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.8215417861938477
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.021541595458984
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.39133358001709
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.506333351135254
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.9381256103515625
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.983666896820068
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.248666763305664
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.074500560760498
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.194500923156738
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.242375373840332
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.452375411987305
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.5923752784729
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.697417259216309
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.042667388916016
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.297667503356934
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.504292488098145
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.7092924118042
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.361750602722168
+    }
+  ]
+}

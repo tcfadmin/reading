@@ -1,0 +1,137 @@
+{
+  "text": "Maman,\nJe fais mes devoirs de mathématiques chez Louise. Je rentre à 21 heures. Bises et à ce soir.\nPatrick Qu'est-ce que Patrick fait chez Louise?",
+  "words": [
+    "Maman,",
+    "Je",
+    "fais",
+    "mes",
+    "devoirs",
+    "de",
+    "mathématiques",
+    "chez",
+    "Louise.",
+    "Je",
+    "rentre",
+    "à",
+    "21",
+    "heures.",
+    "Bises",
+    "et",
+    "à",
+    "ce",
+    "soir.",
+    "Patrick",
+    "Qu&apos;est-ce",
+    "que",
+    "Patrick",
+    "fait",
+    "chez",
+    "Louise?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6699999570846558
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8165000081062317
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9965000152587891
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1365000009536743
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4826250076293945
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5861666202545166
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3183748722076416
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.4877498149871826
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.3029162883758545
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.4379162788391113
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.758416175842285
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.833416223526001
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.3584160804748535
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.067124366760254
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.427124500274658
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.517666339874268
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.587666034698486
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.722666263580322
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.581749439239502
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.007124423980713
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.2221245765686035
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.361749649047852
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.803374290466309
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.963374137878418
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.15412425994873
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "text": "Vous venez d'arriver à Lyon pour suivre des cours à l'université, mais vous ne connaissez pas la ville? Profitez des conseils de Clémence, lyonnaise, qui vous donne ses adresses pour diner ou faire la fête le soir.\nLesconseilsdeclémence-lyon.fr Que peut-on faire dans les endroits que propose Clémence ?",
+  "words": [
+    "Vous",
+    "venez",
+    "d&apos;arriver",
+    "à",
+    "Lyon",
+    "pour",
+    "suivre",
+    "des",
+    "cours",
+    "à",
+    "l&apos;université,",
+    "mais",
+    "vous",
+    "ne",
+    "connaissez",
+    "pas",
+    "la",
+    "ville?",
+    "Profitez",
+    "des",
+    "conseils",
+    "de",
+    "Clémence,",
+    "lyonnaise,",
+    "qui",
+    "vous",
+    "donne",
+    "ses",
+    "adresses",
+    "pour",
+    "diner",
+    "ou",
+    "faire",
+    "la",
+    "fête",
+    "le",
+    "soir.",
+    "Lesconseilsdeclémence-lyon.fr",
+    "Que",
+    "peut-on",
+    "faire",
+    "dans",
+    "les",
+    "endroits",
+    "que",
+    "propose",
+    "Clémence",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.17499999701976776
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.42499998211860657
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8827082514762878
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.9877082705497742
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3084583282470703
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5234583616256714
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9249582290649414
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.041541576385498
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.3365414142608643
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.396958112716675
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.620166301727295
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.735166311264038
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.875166177749634
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.9709994792938232
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.394083023071289
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.559082984924316
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.6787495613098145
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.901874542236328
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.432208061218262
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.557208061218262
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.054791450500488
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.179791450500488
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.047165870666504
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.913373947143555
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.076166152954102
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.226165771484375
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.460916519165039
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.745916366577148
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.151623725891113
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.37308120727539
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.692998886108398
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.792998313903809
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.048123359680176
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.148122787475586
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.463415145874023
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.578414916992188
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.919248580932617
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 16.535165786743164
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 16.70516586303711
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 17.055997848510742
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 17.33624839782715
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 17.486248016357422
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 17.67508316040039
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.995708465576172
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 18.130706787109375
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 18.57262420654297
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 19.224790573120117
+    }
+  ]
+}

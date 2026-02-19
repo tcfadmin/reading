@@ -1,0 +1,277 @@
+{
+  "text": "Un projet surprenant: José, 13 ans, a gagné le Prix du Climat l'an dernier. Il a imaginé une banque écologique dans son pays. Si chaque mois, un enfant ramasse une certaine quantité de déchets ( plastique, carton...), on lui donne une monnaie qu'il peut échanger contre de l'argent réel. De quoi parle cet article?",
+  "words": [
+    "Un",
+    "projet",
+    "surprenant:",
+    "José,",
+    "13",
+    "ans,",
+    "a",
+    "gagné",
+    "le",
+    "Prix",
+    "du",
+    "Climat",
+    "l&apos;an",
+    "dernier.",
+    "Il",
+    "a",
+    "imaginé",
+    "une",
+    "banque",
+    "écologique",
+    "dans",
+    "son",
+    "pays.",
+    "Si",
+    "chaque",
+    "mois,",
+    "un",
+    "enfant",
+    "ramasse",
+    "une",
+    "certaine",
+    "quantité",
+    "de",
+    "déchets",
+    "(",
+    "plastique,",
+    "carton...),",
+    "on",
+    "lui",
+    "donne",
+    "une",
+    "monnaie",
+    "qu&apos;il",
+    "peut",
+    "échanger",
+    "contre",
+    "de",
+    "l&apos;argent",
+    "réel.",
+    "De",
+    "quoi",
+    "parle",
+    "cet",
+    "article?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.12999999523162842
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5225416421890259
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.5894582271575928
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.3712916374206543
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.70129132270813
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.17199969291687
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.246999740600586
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.6122498512268066
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.722249984741211
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.9524166584014893
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.087416648864746
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.498124599456787
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.678374767303467
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.998332500457764
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.143332481384277
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.203332424163818
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.743707656860352
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.8981242179870605
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.188999176025391
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.839957237243652
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.019999504089355
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.23499870300293
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.031998634338379
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.226998329162598
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.562165260314941
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.05724811553955
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.231456756591797
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.571456909179688
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.00341510772705
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.133415222167969
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.616373062133789
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.131540298461914
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.251081466674805
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.688289642333984
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.989831924438477
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.874998092651367
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.863414764404297
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.958415031433105
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.108415603637695
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.333581924438477
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.463581085205078
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.78278923034668
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.053956985473633
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 16.23395538330078
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.737289428710938
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.13728904724121
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.2429141998291
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.628456115722656
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.927371978759766
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 19.072372436523438
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.25737190246582
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 19.567373275756836
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.79812240600586
+    }
+  ]
+}

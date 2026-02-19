@@ -1,0 +1,512 @@
+{
+  "text": "Ces dernières années, les nouvelles versions de films à succès se sont multipliées et ce mouvement ne semble pas près de s'arrêter, comme si l'industrie cinématographique ne parvenait plus à inventer de nouvelles histoires, de nouveaux concepts qui pourraient éveiller la curiosité d'un large public. Pourtant, de nouvelles idées, de nouvelles sensibilités, il y en aura toujours, encore faut-il qu'elles trouvent un relais financier pour voir le jour. Et l'industrie cinématographique hésite à investir dans du « neuf », alors elle se tourne vers les valeurs sûres des succès passés Quelle constatation ce journaliste fait il sur le cinéma contemporain ?",
+  "words": [
+    "Ces",
+    "dernières",
+    "années,",
+    "les",
+    "nouvelles",
+    "versions",
+    "de",
+    "films",
+    "à",
+    "succès",
+    "se",
+    "sont",
+    "multipliées",
+    "et",
+    "ce",
+    "mouvement",
+    "ne",
+    "semble",
+    "pas",
+    "près",
+    "de",
+    "s&apos;arrêter,",
+    "comme",
+    "si",
+    "l&apos;industrie",
+    "cinématographique",
+    "ne",
+    "parvenait",
+    "plus",
+    "à",
+    "inventer",
+    "de",
+    "nouvelles",
+    "histoires,",
+    "de",
+    "nouveaux",
+    "concepts",
+    "qui",
+    "pourraient",
+    "éveiller",
+    "la",
+    "curiosité",
+    "d&apos;un",
+    "large",
+    "public.",
+    "Pourtant,",
+    "de",
+    "nouvelles",
+    "idées,",
+    "de",
+    "nouvelles",
+    "sensibilités,",
+    "il",
+    "y",
+    "en",
+    "aura",
+    "toujours,",
+    "encore",
+    "faut-il",
+    "qu&apos;elles",
+    "trouvent",
+    "un",
+    "relais",
+    "financier",
+    "pour",
+    "voir",
+    "le",
+    "jour.",
+    "Et",
+    "l&apos;industrie",
+    "cinématographique",
+    "hésite",
+    "à",
+    "investir",
+    "dans",
+    "du",
+    "«",
+    "neuf",
+    "»,",
+    "alors",
+    "elle",
+    "se",
+    "tourne",
+    "vers",
+    "les",
+    "valeurs",
+    "sûres",
+    "des",
+    "succès",
+    "passés",
+    "Quelle",
+    "constatation",
+    "ce",
+    "journaliste",
+    "fait",
+    "il",
+    "sur",
+    "le",
+    "cinéma",
+    "contemporain",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2149999886751175
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.750249981880188
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.311833381652832
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.436833381652832
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7768332958221436
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.253458261489868
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3534581661224365
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.7234580516815186
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7765414714813232
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2580413818359375
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.4480414390563965
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.6485414505004883
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.423874855041504
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.488874912261963
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.702666282653809
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.188124179840088
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.30312442779541
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.652916431427002
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.822916507720947
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.033916473388672
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.143916606903076
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.069791793823242
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.274791717529297
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.480708122253418
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.0555419921875
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.219376564025879
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.377126693725586
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.827503204345703
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.192543983459473
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.242544174194336
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.699668884277344
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.819668769836426
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.256793022155762
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.178500175476074
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.338500022888184
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.654084205627441
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.216042518615723
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.385209083557129
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.699417114257812
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.125916481018066
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.24091625213623
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.951290130615234
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.131290435791016
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.473289489746094
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.9287052154541
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.58870506286621
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.755706787109375
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.220788955688477
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 18.836206436157227
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.986705780029297
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.34208106994629
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 20.73874855041504
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 20.865413665771484
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 20.9304141998291
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 21.0554141998291
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 21.22641372680664
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 22.00616455078125
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 22.31116485595703
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 22.722579956054688
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 22.948287963867188
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 23.25849723815918
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 23.34849739074707
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 23.579248428344727
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 24.225955963134766
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 24.449914932250977
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 24.679914474487305
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 24.774330139160156
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 26.041332244873047
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 26.1213321685791
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 26.6924991607666
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 27.906208038330078
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 28.337249755859375
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 28.42420768737793
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 29.044248580932617
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 29.250999450683594
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 29.451000213623047
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 29.595998764038086
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 30.039833068847656
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 30.351207733154297
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 30.707332611083984
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 30.802331924438477
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 31.00733184814453
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 31.40074920654297
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 31.600875854492188
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 31.71087646484375
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 32.06137466430664
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 32.37158203125
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 32.49658203125
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 32.90562438964844
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 33.30704116821289
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 33.57441711425781
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 34.47704315185547
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 34.63671112060547
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 35.34904479980469
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 35.54420852661133
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 35.729209899902344
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 35.9583740234375
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 36.04337692260742
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 36.47937774658203
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 37.22479248046875
+    }
+  ]
+}

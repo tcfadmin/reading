@@ -1,0 +1,122 @@
+{
+  "text": "Urgent! cherche maison à louer pour vacances d'été dans le centre-ville.\n\nLaetitia : 07 08 09 80 90 Qu'est-ce que Laetitia veut faire?",
+  "words": [
+    "Urgent!",
+    "cherche",
+    "maison",
+    "à",
+    "louer",
+    "pour",
+    "vacances",
+    "d&apos;été",
+    "dans",
+    "le",
+    "centre-ville.",
+    "Laetitia",
+    ":",
+    "07",
+    "08",
+    "09",
+    "80",
+    "90",
+    "Qu&apos;est-ce",
+    "que",
+    "Laetitia",
+    "veut",
+    "faire?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8862499594688416
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.3253332376480103
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.686083436012268
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.751083493232727
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9912917613983154
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.206291675567627
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.6174581050872803
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.9593334197998047
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.119333267211914
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.1952500343322754
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.767916679382324
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.433166980743408
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.738166809082031
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.42020845413208
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.094875335693359
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.790874481201172
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.483332633972168
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 9.568166732788086
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.818166732788086
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.94999885559082
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.44474983215332
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.564748764038086
+    }
+  ]
+}

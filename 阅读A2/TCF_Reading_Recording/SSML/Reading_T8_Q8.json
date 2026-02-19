@@ -1,0 +1,192 @@
+{
+  "text": "GRANDE MARCHE POUR\nDEFENDRE NOS EMPLOIS\nMARDI 12 JUIN\nVENEZ NOMBREUX\nDÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRES À 10H.\nARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES\nENTREPRISES.\nBOULEVARD DES PLATANES. Qu'annonce cette affiche?",
+  "words": [
+    "GRANDE",
+    "MARCHE",
+    "POUR",
+    "DEFENDRE",
+    "NOS",
+    "EMPLOIS",
+    "MARDI",
+    "12",
+    "JUIN",
+    "VENEZ",
+    "NOMBREUX",
+    "DÉPART",
+    "PLACE",
+    "DES",
+    "NATIONS",
+    "DEVANT",
+    "LE",
+    "CENTRE",
+    "DES",
+    "CONGRES",
+    "À",
+    "10H.",
+    "ARRIVÉE",
+    "PRÉVUE",
+    "VERS",
+    "MIDI",
+    "DEVANT",
+    "LA",
+    "MAISON",
+    "DES",
+    "ENTREPRISES.",
+    "BOULEVARD",
+    "DES",
+    "PLATANES.",
+    "Qu&apos;annonce",
+    "cette",
+    "affiche?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3199999928474426
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6802083253860474
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9262500405311584
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.297750234603882
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.5221669673919678
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.897291898727417
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.2848751544952393
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.564875364303589
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.9906251430511475
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.326292037963867
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.712000370025635
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.197000503540039
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.557042121887207
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.692041873931885
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.192375183105469
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.538583278656006
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.6285834312438965
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.041041374206543
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.151041507720947
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.546416282653809
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.626416206359863
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.078166961669922
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.458874702453613
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.855500221252441
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.065500259399414
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.465583801269531
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.802374839782715
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.912375450134277
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.25808334350586
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.450333595275879
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.54525089263916
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.01008415222168
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.140084266662598
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.027376174926758
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.414084434509277
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.63408374786377
+    }
+  ]
+}

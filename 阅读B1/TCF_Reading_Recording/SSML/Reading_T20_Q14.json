@@ -1,0 +1,312 @@
+{
+  "text": "VOUS VOULEZ FAIRE LE TOUR DE FRANCE EN UN APRES-MIDI ?\nVenez au parc FRANCE MINI ! Vous y verrez des bâtiments de toute la France, en plus petite. Vous pourrez passer de la Tour Eiffel au Mont Saint-Michel en quelques minutes.\nEntrée : adulte, 7€\net enfant à partir de 6 ans, 5€ Qu'est-ce qu'on peut faire dans ce parc?",
+  "words": [
+    "VOUS",
+    "VOULEZ",
+    "FAIRE",
+    "LE",
+    "TOUR",
+    "DE",
+    "FRANCE",
+    "EN",
+    "UN",
+    "APRES-MIDI",
+    "?",
+    "Venez",
+    "au",
+    "parc",
+    "FRANCE",
+    "MINI",
+    "!",
+    "Vous",
+    "y",
+    "verrez",
+    "des",
+    "bâtiments",
+    "de",
+    "toute",
+    "la",
+    "France,",
+    "en",
+    "plus",
+    "petite.",
+    "Vous",
+    "pourrez",
+    "passer",
+    "de",
+    "la",
+    "Tour",
+    "Eiffel",
+    "au",
+    "Mont",
+    "Saint-Michel",
+    "en",
+    "quelques",
+    "minutes.",
+    "Entrée",
+    ":",
+    "adulte,",
+    "7€",
+    "et",
+    "enfant",
+    "à",
+    "partir",
+    "de",
+    "6",
+    "ans,",
+    "5€",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "peut",
+    "faire",
+    "dans",
+    "ce",
+    "parc?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.1550000011920929
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4001666307449341
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6801666021347046
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.8018332719802856
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.0418331623077393
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.1568330526351929
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.606208086013794
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.7812081575393677
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 1.921208143234253
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.3407914638519287
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.2236247062683105
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.50362491607666
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.583624839782715
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.886041641235352
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.253999710083008
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.588791370391846
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.040207862854004
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.2552080154418945
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.335207939147949
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.616208076477051
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.746208190917969
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.293041229248047
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.408041000366211
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.658041477203369
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.773041248321533
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.46933364868164
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.579333305358887
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.739333152770996
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.120667457580566
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.265666961669922
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.560833930969238
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.95020866394043
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.060208320617676
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.170208930969238
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.457708358764648
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.897125244140625
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.997125625610352
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.194875717163086
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.929291725158691
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.054291725158691
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.394708633422852
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.761374473571777
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.183540344238281
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.589957237243652
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.40574836730957
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.075748443603516
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.161041259765625
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.575374603271484
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.62037467956543
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.011165618896484
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.131166458129883
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.45345687866211
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 18.99424934387207
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.629207611083984
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.889789581298828
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.054790496826172
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.20149803161621
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.45149803161621
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 20.596332550048828
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 20.721332550048828
+    }
+  ]
+}

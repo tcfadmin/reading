@@ -1,0 +1,127 @@
+{
+  "text": "Paul,\nM. Redon a téléphoné. Il Ne vient pas aujourd'hui Car il a la grippe. Pourquoi est-ce que M. Redon annule son rendez-vous ?",
+  "words": [
+    "Paul,",
+    "M.",
+    "Redon",
+    "a",
+    "téléphoné.",
+    "Il",
+    "Ne",
+    "vient",
+    "pas",
+    "aujourd&apos;hui",
+    "Car",
+    "il",
+    "a",
+    "la",
+    "grippe.",
+    "Pourquoi",
+    "est-ce",
+    "que",
+    "M.",
+    "Redon",
+    "annule",
+    "son",
+    "rendez-vous",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.49820831418037415
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.828041672706604
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1887084245681763
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2387083768844604
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.334416627883911
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.454416513442993
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.5694165229797363
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.780208110809326
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.040208339691162
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.546833038330078
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.811833143234253
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.9331247806549072
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.998124837875366
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.108124732971191
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.94683313369751
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.291833400726318
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.411999702453613
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.536999702453613
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.837374687194824
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.2179999351501465
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.482999801635742
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.703000068664551
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.219457626342773
+    }
+  ]
+}

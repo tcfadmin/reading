@@ -1,0 +1,162 @@
+{
+  "text": "Rendez-vous à Londres! \n15% de réduction sur nos vols\nAir France Paris-Londres en juillet!\nConsultez notre site\n(Offre valable pour un départ aéroport Charles de Gaulle) Que propose cette publicité ?",
+  "words": [
+    "Rendez-vous",
+    "à",
+    "Londres!",
+    "15%",
+    "de",
+    "réduction",
+    "sur",
+    "nos",
+    "vols",
+    "Air",
+    "France",
+    "Paris-Londres",
+    "en",
+    "juillet!",
+    "Consultez",
+    "notre",
+    "site",
+    "(Offre",
+    "valable",
+    "pour",
+    "un",
+    "départ",
+    "aéroport",
+    "Charles",
+    "de",
+    "Gaulle)",
+    "Que",
+    "propose",
+    "cette",
+    "publicité",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.47066667675971985
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5306666493415833
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.122416615486145
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.7374582290649414
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8174582719802856
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3431248664855957
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.51812481880188
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.628124713897705
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.831583023071289
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.971583366394043
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.300708293914795
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.8321664333343506
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.9271249771118164
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.113333225250244
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.618666648864746
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.914541721343994
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.310832977294922
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.7499165534973145
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.215083122253418
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.425083160400391
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.4995832443237305
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.848291397094727
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.340332984924316
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.682124137878418
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.8021240234375
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.433624267578125
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.558624267578125
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.96049976348877
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.155499458312988
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.809915542602539
+    }
+  ]
+}

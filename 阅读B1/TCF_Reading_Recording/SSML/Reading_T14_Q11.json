@@ -1,0 +1,155 @@
+{
+  "text": "Bienvenue à\nl'hôtel du Parc\nNotre boutique vous attend:\n- Bagages\n- Parfums\n- Bijoux\n- Produits de la région.\n- Journaux et magazines. Qu'est-ce qu'on peut acheter dans la boutique ?",
+  "words": [
+    "Bienvenue",
+    "à",
+    "l&apos;hôtel",
+    "du",
+    "Parc",
+    "Notre",
+    "boutique",
+    "vous",
+    "attend:",
+    "-",
+    "Bagages",
+    "-",
+    "Parfums",
+    "-",
+    "Bijoux",
+    "-",
+    "Produits",
+    "de",
+    "la",
+    "région.",
+    "-",
+    "Journaux",
+    "et",
+    "magazines.",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "peut",
+    "acheter",
+    "dans",
+    "la",
+    "boutique",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5101666450500488
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5901666283607483
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9725416302680969
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1025416851043701
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.457541823387146
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.7641252279281616
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.20412540435791
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.44170880317688
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7815005779266357
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2029170989990234
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.6637918949127197
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.122666835784912
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.454250335693359
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.836333751678467
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 4.941333770751953
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.0463337898254395
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.346417427062988
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.361417293548584
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.8915839195251465
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.94158411026001
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.89429235458374
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.104292869567871
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.274542808532715
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.439542770385742
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.825042724609375
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 8.975042343139648
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.076126098632812
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.585667610168457
+    }
+  ]
+}

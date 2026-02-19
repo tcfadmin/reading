@@ -1,0 +1,182 @@
+{
+  "text": "Salut Samira,\nLa fête du cinéma commence samedi prochain, ça t'intéresse ? Viens chez moi après le travail vendredi, on choisira ce qu'on ira voir samedi ou dimanche. Réponds-moi vite!\n\nLali Que veut faire Lali?",
+  "words": [
+    "Salut",
+    "Samira,",
+    "La",
+    "fête",
+    "du",
+    "cinéma",
+    "commence",
+    "samedi",
+    "prochain,",
+    "ça",
+    "t&apos;intéresse",
+    "?",
+    "Viens",
+    "chez",
+    "moi",
+    "après",
+    "le",
+    "travail",
+    "vendredi,",
+    "on",
+    "choisira",
+    "ce",
+    "qu&apos;on",
+    "ira",
+    "voir",
+    "samedi",
+    "ou",
+    "dimanche.",
+    "Réponds-moi",
+    "vite!",
+    "Lali",
+    "Que",
+    "veut",
+    "faire",
+    "Lali?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3149999976158142
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.1278332471847534
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2451664209365845
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4951664209365845
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6433748006820679
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.098249673843384
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.534041166305542
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.8954575061798096
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.6576242446899414
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.802624225616455
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.420082092285156
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.302915096282959
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.532915115356445
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.744748592376709
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.969748497009277
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.224748611450195
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.319748401641846
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.747290134429932
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.6740403175354
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.744040489196777
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.260332107543945
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.409748077392578
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.639748573303223
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.837331771850586
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.162331581115723
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.658748626708984
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.748748779296875
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.246831893920898
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.75716495513916
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.354290008544922
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.659289360046387
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.811372756958008
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.936372756958008
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.177206039428711
+    }
+  ]
+}

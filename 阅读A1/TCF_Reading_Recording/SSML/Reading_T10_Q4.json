@@ -1,0 +1,112 @@
+{
+  "text": "Pascal,\nnous sommes en réunion sur la publicité du jus de fruit Koj.\nC'est en salle 20.\nJean Où est Jean?",
+  "words": [
+    "Pascal,",
+    "nous",
+    "sommes",
+    "en",
+    "réunion",
+    "sur",
+    "la",
+    "publicité",
+    "du",
+    "jus",
+    "de",
+    "fruit",
+    "Koj.",
+    "C&apos;est",
+    "en",
+    "salle",
+    "20.",
+    "Jean",
+    "Où",
+    "est",
+    "Jean?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8261249661445618
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.966124951839447
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2409167289733887
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3609167337417603
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8417084217071533
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.053875207901001
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.1538753509521484
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.86887526512146
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.038875102996826
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2168335914611816
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.321833610534668
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5865836143493652
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.930583477020264
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.185583591461182
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.290583610534668
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.556917190551758
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.065916538238525
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.370916843414307
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.521249771118164
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.581250190734863
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "text": "Désolé de te le dire si tard!\nJe ne peux pas venir ce soir.\nPierre Pourquoi Pierre a-t-il écrit ce message?",
+  "words": [
+    "Désolé",
+    "de",
+    "te",
+    "le",
+    "dire",
+    "si",
+    "tard!",
+    "Je",
+    "ne",
+    "peux",
+    "pas",
+    "venir",
+    "ce",
+    "soir.",
+    "Pierre",
+    "Pourquoi",
+    "Pierre",
+    "a-t-il",
+    "écrit",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4910416603088379
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.606041669845581
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.731041669845581
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.81208336353302
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.0420833826065063
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.1918333768844604
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9852917194366455
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.1102917194366455
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.195291757583618
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.3152916431427
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.4907917976379395
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.8022499084472656
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 2.9272499084472656
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.784625291824341
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.059625148773193
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.459791660308838
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.790708541870117
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.060958385467529
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.356083393096924
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.5060834884643555
+    }
+  ]
+}

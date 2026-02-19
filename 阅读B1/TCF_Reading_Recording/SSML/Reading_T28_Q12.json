@@ -1,0 +1,332 @@
+{
+  "text": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d'un instrument depuis plusieurs années ? Rejoignez l'orchestre des agents de la ville de Rouen !\nLes répétitions reprennent en septembre (à la fin des congés d'été) et ont lieu les jeudis entre 12h et 13 h30 au conservatoire de la ville. Qu'est-ce qui est proposé aux agents de la mairie ?",
+  "words": [
+    "Vous",
+    "travaillez",
+    "à",
+    "la",
+    "mairie",
+    "de",
+    "Rouen,",
+    "vous",
+    "êtes",
+    "musicien",
+    "et",
+    "vous",
+    "jouez",
+    "d&apos;un",
+    "instrument",
+    "depuis",
+    "plusieurs",
+    "années",
+    "?",
+    "Rejoignez",
+    "l&apos;orchestre",
+    "des",
+    "agents",
+    "de",
+    "la",
+    "ville",
+    "de",
+    "Rouen",
+    "!",
+    "Les",
+    "répétitions",
+    "reprennent",
+    "en",
+    "septembre",
+    "(à",
+    "la",
+    "fin",
+    "des",
+    "congés",
+    "d&apos;été)",
+    "et",
+    "ont",
+    "lieu",
+    "les",
+    "jeudis",
+    "entre",
+    "12h",
+    "et",
+    "13",
+    "h30",
+    "au",
+    "conservatoire",
+    "de",
+    "la",
+    "ville.",
+    "Qu&apos;est-ce",
+    "qui",
+    "est",
+    "proposé",
+    "aux",
+    "agents",
+    "de",
+    "la",
+    "mairie",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.1550000011920929
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6711666584014893
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7361666560173035
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.8456250429153442
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.1456249952316284
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.2604999542236328
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.8455417156219482
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.062000274658203
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.247000217437744
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.953666925430298
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.0236668586730957
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.1909584999084473
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.4409584999084473
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.665250062942505
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.198041915893555
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.4690423011779785
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.966042518615723
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.247042179107666
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.130000114440918
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.654916763305664
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.30316686630249
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.5381669998168945
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.809041976928711
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.904041767120361
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.024042129516602
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.230709075927734
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.355709075927734
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.672082901000977
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.118500709533691
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.253499984741211
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.008749961853027
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.448625564575195
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.558625221252441
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.315958976745605
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.506500244140625
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 11.61150074005127
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 11.871625900268555
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 11.971626281738281
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.366667747497559
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.300500869750977
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.375500679016113
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.511333465576172
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.691333770751953
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 13.817042350769043
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.177458763122559
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 14.45745849609375
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 14.83387565612793
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 14.908875465393066
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 15.343417167663574
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 15.929625511169434
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 16.01962661743164
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 16.850250244140625
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 16.95629119873047
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 17.08129119873047
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 18.29024887084961
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 18.510250091552734
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 18.66524887084961
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 18.7103328704834
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 19.275249481201172
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 19.4913330078125
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 19.751333236694336
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 19.842416763305664
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 19.937416076660156
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 20.312623977661133
+    }
+  ]
+}

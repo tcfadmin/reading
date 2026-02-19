@@ -1,0 +1,112 @@
+{
+  "text": "Sophie et ses parents sont très heureux de vous annoncer la naissance d'Adrien, le 7 mai dernier. Qui écrit ce message?",
+  "words": [
+    "Sophie",
+    "et",
+    "ses",
+    "parents",
+    "sont",
+    "très",
+    "heureux",
+    "de",
+    "vous",
+    "annoncer",
+    "la",
+    "naissance",
+    "d&apos;Adrien,",
+    "le",
+    "7",
+    "mai",
+    "dernier.",
+    "Qui",
+    "écrit",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.45524999499320984
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5102499723434448
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7102499604225159
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.100000023841858
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3289166688919067
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6448334455490112
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9198333024978638
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.0312082767486572
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.2562084197998047
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.6623334884643555
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.7793333530426025
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.2153749465942383
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.950958728790283
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.085958480834961
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.436791896820068
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.581791877746582
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.897083759307861
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.067083835601807
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.3624587059021
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.522459030151367
+    }
+  ]
+}

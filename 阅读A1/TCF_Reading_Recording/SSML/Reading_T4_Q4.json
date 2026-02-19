@@ -1,0 +1,167 @@
+{
+  "text": "LA MAIRIE VOUS INFORME\nPendant les travaux, il est interdit de stationner devant l'entrée du supermarché.\nMerci d'utiliser le parking derrière la poste. Où pouvez-vous laisser votre voiture pendant les travaux ?",
+  "words": [
+    "LA",
+    "MAIRIE",
+    "VOUS",
+    "INFORME",
+    "Pendant",
+    "les",
+    "travaux,",
+    "il",
+    "est",
+    "interdit",
+    "de",
+    "stationner",
+    "devant",
+    "l&apos;entrée",
+    "du",
+    "supermarché.",
+    "Merci",
+    "d&apos;utiliser",
+    "le",
+    "parking",
+    "derrière",
+    "la",
+    "poste.",
+    "Où",
+    "pouvez-vous",
+    "laisser",
+    "votre",
+    "voiture",
+    "pendant",
+    "les",
+    "travaux",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.14999999105930328
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4702499806880951
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7152499556541443
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2116248607635498
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5366249084472656
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6414581537246704
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.424208402633667
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.549208402633667
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7042083740234375
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.1640830039978027
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.2890830039978027
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.9092912673950195
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.204291820526123
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.5747504234313965
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.700666904449463
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.4013752937316895
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.786625385284424
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.357250213623047
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.457250595092773
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.99275016784668
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.36816692352295
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.478166580200195
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.406584739685059
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.491584777832031
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.962417602539062
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.2871675491333
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.60370922088623
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.043709754943848
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.338709831237793
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.433834075927734
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.870709419250488
+    }
+  ]
+}

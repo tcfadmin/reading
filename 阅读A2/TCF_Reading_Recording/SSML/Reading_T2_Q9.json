@@ -1,0 +1,247 @@
+{
+  "text": "Bonjour Ahmed,\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers-repas pour le midi, car la séance peut durer longtemps: les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés? Merci d'avance.\n\nÀ lundi.\nAyoub Que demande Ayoub à Ahmed?",
+  "words": [
+    "Bonjour",
+    "Ahmed,",
+    "Ce",
+    "message",
+    "pour",
+    "te",
+    "rappeler",
+    "la",
+    "réunion",
+    "de",
+    "lundi.",
+    "Nous",
+    "commanderons",
+    "des",
+    "paniers-repas",
+    "pour",
+    "le",
+    "midi,",
+    "car",
+    "la",
+    "séance",
+    "peut",
+    "durer",
+    "longtemps:",
+    "les",
+    "dossiers",
+    "à",
+    "traiter",
+    "sont",
+    "nombreux.",
+    "Peux-tu",
+    "en",
+    "informer",
+    "les",
+    "personnes",
+    "des",
+    "services",
+    "concernés?",
+    "Merci",
+    "d&apos;avance.",
+    "À",
+    "lundi.",
+    "Ayoub",
+    "Que",
+    "demande",
+    "Ayoub",
+    "à",
+    "Ahmed?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4312916696071625
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0875415802001953
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2754582166671753
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.7352498769760132
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9202498197555542
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.051874876022339
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4275832176208496
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.5525832176208496
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.988333225250244
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0933332443237305
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.382332801818848
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.512332916259766
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.102208137512207
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.220541477203369
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.8205413818359375
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.039999961853027
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.124999523162842
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.823583126068115
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.02858304977417
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.129333019256592
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.604457855224609
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.764457702636719
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.070999145507812
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.03537368774414
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.16783332824707
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.603790283203125
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.67379093170166
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.082582473754883
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.305248260498047
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.63879108428955
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.933791160583496
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.098499298095703
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.572957038879395
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.687957763671875
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.17824935913086
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.284332275390625
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.719457626342773
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.787874221801758
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.13287353515625
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.96574878692627
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 16.060749053955078
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.758872985839844
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 17.0888729095459
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.243497848510742
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 17.613414764404297
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.94687271118164
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 18.041873931884766
+    }
+  ]
+}

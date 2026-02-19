@@ -1,0 +1,252 @@
+{
+  "text": "Vous pratiquez un instrument de musique?\nVous avez entre 17 et 25 ans ?\nVenez jouer ensemble à la Maison de la Jeunesse et de la Culture!\nRendez-vous tous les mercredis entre 15h et 19h.\nEncadrement par nos animateurs. Que peuvent faire les jeunes dans ce centre culturel ?",
+  "words": [
+    "Vous",
+    "pratiquez",
+    "un",
+    "instrument",
+    "de",
+    "musique?",
+    "Vous",
+    "avez",
+    "entre",
+    "17",
+    "et",
+    "25",
+    "ans",
+    "?",
+    "Venez",
+    "jouer",
+    "ensemble",
+    "à",
+    "la",
+    "Maison",
+    "de",
+    "la",
+    "Jeunesse",
+    "et",
+    "de",
+    "la",
+    "Culture!",
+    "Rendez-vous",
+    "tous",
+    "les",
+    "mercredis",
+    "entre",
+    "15h",
+    "et",
+    "19h.",
+    "Encadrement",
+    "par",
+    "nos",
+    "animateurs.",
+    "Que",
+    "peuvent",
+    "faire",
+    "les",
+    "jeunes",
+    "dans",
+    "ce",
+    "centre",
+    "culturel",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.15000000596046448
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7107083201408386
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8643749356269836
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.343083381652832
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4330832958221436
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3834586143493652
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.6084585189819336
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.798875093460083
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.103875160217285
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.5907084941864014
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.6557085514068604
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.176375389099121
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.357750415802002
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.804166793823242
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.084167003631592
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.335000038146973
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.8466668128967285
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.9116668701171875
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.022749900817871
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.387458801269531
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.482458591461182
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.587458610534668
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.078499794006348
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.123499870300293
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.2321672439575195
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.322166919708252
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.434041976928711
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.904375076293945
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.093999862670898
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.18899917602539
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.813333511352539
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.097957611083984
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.627540588378906
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.696664810180664
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.311707496643066
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.966123580932617
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.167123794555664
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.382123947143555
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.34799861907959
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.47299861907959
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.707998275756836
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.975706100463867
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.100706100463867
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.39649772644043
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.548164367675781
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.698164939880371
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.058290481567383
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.71766471862793
+    }
+  ]
+}

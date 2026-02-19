@@ -1,0 +1,177 @@
+{
+  "text": "Salut à tous,\nCaroline déménage dans deux semaines à Genève. Elle organise une fête pour son départ. Vous êtes d'accord pour lui offrir un bouquet de fleurs?\nJ'attends votre réponse,\nPatrice Que propose Patrice?",
+  "words": [
+    "Salut",
+    "à",
+    "tous,",
+    "Caroline",
+    "déménage",
+    "dans",
+    "deux",
+    "semaines",
+    "à",
+    "Genève.",
+    "Elle",
+    "organise",
+    "une",
+    "fête",
+    "pour",
+    "son",
+    "départ.",
+    "Vous",
+    "êtes",
+    "d&apos;accord",
+    "pour",
+    "lui",
+    "offrir",
+    "un",
+    "bouquet",
+    "de",
+    "fleurs?",
+    "J&apos;attends",
+    "votre",
+    "réponse,",
+    "Patrice",
+    "Que",
+    "propose",
+    "Patrice?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.35499998927116394
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.44079166650772095
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1199584007263184
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.674875020980835
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2251250743865967
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.414541721343994
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.5695416927337646
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.95412540435791
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.014125347137451
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.9270005226135254
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.072000503540039
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.5972089767456055
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.7378339767456055
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.06783390045166
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.271583557128906
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.4515838623046875
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.40024995803833
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.595250129699707
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.725250244140625
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.14133358001709
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.34404182434082
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.46904182434082
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.809041976928711
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.909041881561279
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.209041595458984
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.314042091369629
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.213000297546387
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.594249725341797
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.874250411987305
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.66379165649414
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.110292434692383
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.253791809082031
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.679166793823242
+    }
+  ]
+}

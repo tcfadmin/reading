@@ -1,0 +1,197 @@
+{
+  "text": "ATTENTION\nDate limite des demandes de congés pour les vacances d'été : les faire parvenir à Mme Létourneau, bureau du personnel, 2e étage, avant le 20 avril, dernier délai.\nLe Bureau du personnel. À qui s'adresse ce message?",
+  "words": [
+    "ATTENTION",
+    "Date",
+    "limite",
+    "des",
+    "demandes",
+    "de",
+    "congés",
+    "pour",
+    "les",
+    "vacances",
+    "d&apos;été",
+    ":",
+    "les",
+    "faire",
+    "parvenir",
+    "à",
+    "Mme",
+    "Létourneau,",
+    "bureau",
+    "du",
+    "personnel,",
+    "2e",
+    "étage,",
+    "avant",
+    "le",
+    "20",
+    "avril,",
+    "dernier",
+    "délai.",
+    "Le",
+    "Bureau",
+    "du",
+    "personnel.",
+    "À",
+    "qui",
+    "s&apos;adresse",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5289166569709778
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7739166617393494
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1426249742507935
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2928749322891235
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6479166746139526
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.7679166793823242
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.147916793823242
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.347583532333374
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.4325835704803467
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.8185415267944336
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.1958749294281006
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5872914791107178
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.692291498184204
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.9286251068115234
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.438708305358887
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.498708248138428
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.85641622543335
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.577125072479248
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.897374629974365
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.017374515533447
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.871583461761475
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.2623748779296875
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.940624713897705
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.20616626739502
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.311166763305664
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.521166801452637
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.096542358398438
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.471667289733887
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.535958290100098
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.645957946777344
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.95604133605957
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.071041107177734
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.925707817077637
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.990707397460938
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.155707359313965
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.555416107177734
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.670415878295898
+    }
+  ]
+}

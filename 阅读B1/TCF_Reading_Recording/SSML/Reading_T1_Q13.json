@@ -1,0 +1,192 @@
+{
+  "text": "Madame Guilbert,  L'imprimante de mon bureau ne fonctionne pas. Mes consultations commencent demain à 14 h. Pourriez-vous commander rapidement du papier. et de l'encre, s'il vous plaît ?  Merci Docteur Philippe Que doit faire Madame Guilbert ?",
+  "words": [
+    "Madame",
+    "Guilbert,",
+    "L&apos;imprimante",
+    "de",
+    "mon",
+    "bureau",
+    "ne",
+    "fonctionne",
+    "pas.",
+    "Mes",
+    "consultations",
+    "commencent",
+    "demain",
+    "à",
+    "14",
+    "h.",
+    "Pourriez-vous",
+    "commander",
+    "rapidement",
+    "du",
+    "papier.",
+    "et",
+    "de",
+    "l&apos;encre,",
+    "s&apos;il",
+    "vous",
+    "plaît",
+    "?",
+    "Merci",
+    "Docteur",
+    "Philippe",
+    "Que",
+    "doit",
+    "faire",
+    "Madame",
+    "Guilbert",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.40587499737739563
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.235791563987732
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.8356249332427979
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.965999960899353
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.135999917984009
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.472249746322632
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.577249765396118
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.086707830429077
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.733999729156494
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.858999729156494
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.70770788192749
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.132291316986084
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.552666664123535
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.597666263580322
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.218249797821045
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.005041122436523
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.484832763671875
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.964624404907227
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.532207489013672
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.642207145690918
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 9.976957321166992
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.056957244873047
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.181957244873047
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.691956520080566
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.883914947509766
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.02391529083252
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.279290199279785
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.730707168579102
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.080706596374512
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.50424861907959
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.889248847961426
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.021456718444824
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.181456565856934
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.397998809814453
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.722747802734375
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.297539710998535
+    }
+  ]
+}

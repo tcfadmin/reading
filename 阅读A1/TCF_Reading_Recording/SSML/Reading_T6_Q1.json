@@ -1,0 +1,77 @@
+{
+  "text": "Je suis en consultation revenez dans quelques minutes Que faire pour rencontrer l'infirmière ?",
+  "words": [
+    "Je",
+    "suis",
+    "en",
+    "consultation",
+    "revenez",
+    "dans",
+    "quelques",
+    "minutes",
+    "Que",
+    "faire",
+    "pour",
+    "rencontrer",
+    "l&apos;infirmière",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.13499999046325684
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.38999998569488525
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.4959582984447479
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.373166561126709
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.7879582643508911
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9645416736602783
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.3145415782928467
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6752912998199463
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.8243746757507324
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.029374599456787
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.2254579067230225
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.7307910919189453
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.451833248138428
+    }
+  ]
+}

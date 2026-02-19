@@ -1,0 +1,147 @@
+{
+  "text": "J'ai une réunion jusqu'à 19h 30.\nTu peux réserver nos places au cinéma pour un film après 20h ?\nMerci\nLucie Que veut faire Lucie après 19h 30?",
+  "words": [
+    "J&apos;ai",
+    "une",
+    "réunion",
+    "jusqu&apos;à",
+    "19h",
+    "30.",
+    "Tu",
+    "peux",
+    "réserver",
+    "nos",
+    "places",
+    "au",
+    "cinéma",
+    "pour",
+    "un",
+    "film",
+    "après",
+    "20h",
+    "?",
+    "Merci",
+    "Lucie",
+    "Que",
+    "veut",
+    "faire",
+    "Lucie",
+    "après",
+    "19h",
+    "30?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.17499999701976776
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.32499998807907104
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8560832738876343
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.233041524887085
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.783583402633667
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.669916868209839
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.8099167346954346
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.964916706085205
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.4700417518615723
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.620041608810425
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.002208232879639
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.077208518981934
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.570708274841309
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.795708656311035
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.870708465576172
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.216667175292969
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.46250057220459
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.0072503089904785
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.890166759490967
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.235167026519775
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.525000095367432
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.665833473205566
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.785833358764648
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.020833015441895
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.42679214477539
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.671916961669922
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.213708877563477
+    }
+  ]
+}

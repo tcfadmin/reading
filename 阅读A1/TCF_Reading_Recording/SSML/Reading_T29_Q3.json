@@ -1,0 +1,132 @@
+{
+  "text": "Initiation à l'informatique \n25, 26 et 27 mars de 9h à 14h\nSalle de réunion. Pendant cette formation, qu'est-ce qu'on va apprendre à utiliser ?",
+  "words": [
+    "Initiation",
+    "à",
+    "l&apos;informatique",
+    "25,",
+    "26",
+    "et",
+    "27",
+    "mars",
+    "de",
+    "9h",
+    "à",
+    "14h",
+    "Salle",
+    "de",
+    "réunion.",
+    "Pendant",
+    "cette",
+    "formation,",
+    "qu&apos;est-ce",
+    "qu&apos;on",
+    "va",
+    "apprendre",
+    "à",
+    "utiliser",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7352499961853027
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.799750030040741
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.531583309173584
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.4060416221618652
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 3.008291482925415
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.063291549682617
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.559999704360962
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.9397497177124023
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.089749813079834
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.580249786376953
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.645249843597412
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.3162078857421875
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.535833358764648
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.645833492279053
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.02762508392334
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.342625141143799
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.568333625793457
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 8.470749855041504
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.665583610534668
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.840583801269531
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.960583686828613
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.382750511169434
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.442750930786133
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.059625625610352
+    }
+  ]
+}

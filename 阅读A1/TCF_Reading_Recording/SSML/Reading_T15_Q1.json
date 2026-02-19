@@ -1,0 +1,97 @@
+{
+  "text": "SERVICE DES VISAS\nOuvert du lundi au vendredi\nDe 8h à 13h Quand pouvez-vous demander un visa ?",
+  "words": [
+    "SERVICE",
+    "DES",
+    "VISAS",
+    "Ouvert",
+    "du",
+    "lundi",
+    "au",
+    "vendredi",
+    "De",
+    "8h",
+    "à",
+    "13h",
+    "Quand",
+    "pouvez-vous",
+    "demander",
+    "un",
+    "visa",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.47479164600372314
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6147916913032532
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9302083253860474
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2861666679382324
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4411667585372925
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.8217085599899292
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.921708583831787
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.444291591644287
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.579291582107544
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0447914600372314
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.1147913932800293
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.711749315261841
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.9119160175323486
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.347124099731445
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.757540702819824
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.8625407218933105
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.243916034698486
+    }
+  ]
+}

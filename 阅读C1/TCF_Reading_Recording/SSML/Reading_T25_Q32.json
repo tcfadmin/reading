@@ -1,0 +1,522 @@
+{
+  "text": "Selon plusieurs scientifiques, les nouvelles solutions « écologiques », comme la voiture électrique, tendent en fait à accroître l'activité économique et ne pourront pas préserver notre modèle de développement. Au-delà du double écueil de la fabrication des voitures électriques qui est énergivore et génère beaucoup de déchets, le problème des technologies dites « vertes » est principalement dû à l'effet rebond, c'est-à-dire l'augmentation de l'activité globale qu'entraîne toute découverte ou amélioration technologique. Ainsi, une véritable approche écologique devrait obligatoirement comporter une part de sobriété, grâce à laquelle le progrès technique servirait une réduction de la consommation. Que pense l'auteur des nouvelles solutions écologiques?",
+  "words": [
+    "Selon",
+    "plusieurs",
+    "scientifiques,",
+    "les",
+    "nouvelles",
+    "solutions",
+    "«",
+    "écologiques",
+    "»,",
+    "comme",
+    "la",
+    "voiture",
+    "électrique,",
+    "tendent",
+    "en",
+    "fait",
+    "à",
+    "accroître",
+    "l&apos;activité",
+    "économique",
+    "et",
+    "ne",
+    "pourront",
+    "pas",
+    "préserver",
+    "notre",
+    "modèle",
+    "de",
+    "développement.",
+    "Au-delà",
+    "du",
+    "double",
+    "écueil",
+    "de",
+    "la",
+    "fabrication",
+    "des",
+    "voitures",
+    "électriques",
+    "qui",
+    "est",
+    "énergivore",
+    "et",
+    "génère",
+    "beaucoup",
+    "de",
+    "déchets,",
+    "le",
+    "problème",
+    "des",
+    "technologies",
+    "dites",
+    "«",
+    "vertes",
+    "»",
+    "est",
+    "principalement",
+    "dû",
+    "à",
+    "l&apos;effet",
+    "rebond,",
+    "c&apos;est-à-dire",
+    "l&apos;augmentation",
+    "de",
+    "l&apos;activité",
+    "globale",
+    "qu&apos;entraîne",
+    "toute",
+    "découverte",
+    "ou",
+    "amélioration",
+    "technologique.",
+    "Ainsi,",
+    "une",
+    "véritable",
+    "approche",
+    "écologique",
+    "devrait",
+    "obligatoirement",
+    "comporter",
+    "une",
+    "part",
+    "de",
+    "sobriété,",
+    "grâce",
+    "à",
+    "laquelle",
+    "le",
+    "progrès",
+    "technique",
+    "servirait",
+    "une",
+    "réduction",
+    "de",
+    "la",
+    "consommation.",
+    "Que",
+    "pense",
+    "l&apos;auteur",
+    "des",
+    "nouvelles",
+    "solutions",
+    "écologiques?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.40070831775665283
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8315416574478149
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.831208348274231
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.962249994277954
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2972500324249268
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.026583194732666
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.151583194732666
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 4.005958080291748
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.270957946777344
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.467207908630371
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.572207927703857
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.004499435424805
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.009917259216309
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.310000419616699
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.410000324249268
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.730000019073486
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.795000076293945
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.295042037963867
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.918750762939453
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.640792846679688
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.700793266296387
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.830793380737305
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.15683650970459
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.321836471557617
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.890668869018555
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.197502136230469
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.558584213256836
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.678584098815918
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.191998481750488
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.541997909545898
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.698040008544922
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.978498458862305
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.343498229980469
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.464790344238281
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.549789428710938
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.343206405639648
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.458206176757812
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 15.002206802368164
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.607206344604492
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.805415153503418
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.945414543151855
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.676956176757812
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 16.731956481933594
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 17.146705627441406
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 17.50812339782715
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.63312339782715
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 18.496288299560547
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 18.62628936767578
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 19.107206344604492
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 19.228038787841797
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 19.97470474243164
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 20.32845687866211
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 20.409164428710938
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 20.94049644470215
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 21.07049560546875
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 21.14049530029297
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 21.945411682128906
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 22.105411529541016
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 22.170412063598633
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 22.49153709411621
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 23.139829635620117
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 23.723247528076172
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 24.462207794189453
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 24.562206268310547
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 25.182540893554688
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 25.677539825439453
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 26.190082550048828
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 26.43812370300293
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 27.18387222290039
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 27.318872451782227
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 28.023664474487305
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 29.753204345703125
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 30.393287658691406
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 30.545621871948242
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 31.1167049407959
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 31.562788009643555
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 32.224205017089844
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 32.5909538269043
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 33.4484977722168
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 34.07937240600586
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 34.2193717956543
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 34.477745056152344
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 34.60774612426758
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 35.78287124633789
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 36.1680793762207
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 36.213077545166016
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 36.588077545166016
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 36.713077545166016
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 37.13807678222656
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 37.68307876586914
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 38.18424606323242
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 38.341453552246094
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 38.915287017822266
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 39.01028823852539
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 39.109371185302734
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 40.79728698730469
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 40.92728805541992
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 41.26020431518555
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 41.6403694152832
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 41.760372161865234
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 42.09245300292969
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 42.729122161865234
+    }
+  ]
+}

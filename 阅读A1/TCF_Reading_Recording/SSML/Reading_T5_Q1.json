@@ -1,0 +1,197 @@
+{
+  "text": "Heures d'ouverture du service consulaire:\nLe service consulaire est ouvert au public les lundis, mercredis et jeudis de 8h à 14h et les mardis et vendredis de 14h 30 à 18h. Quand le service est-il fermé au public?",
+  "words": [
+    "Heures",
+    "d&apos;ouverture",
+    "du",
+    "service",
+    "consulaire:",
+    "Le",
+    "service",
+    "consulaire",
+    "est",
+    "ouvert",
+    "au",
+    "public",
+    "les",
+    "lundis,",
+    "mercredis",
+    "et",
+    "jeudis",
+    "de",
+    "8h",
+    "à",
+    "14h",
+    "et",
+    "les",
+    "mardis",
+    "et",
+    "vendredis",
+    "de",
+    "14h",
+    "30",
+    "à",
+    "18h.",
+    "Quand",
+    "le",
+    "service",
+    "est-il",
+    "fermé",
+    "au",
+    "public?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.17499999701976776
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7407083511352539
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8663750290870667
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3173750638961792
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.4487502574920654
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.5687503814697266
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.0387918949127197
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.6759581565856934
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.8409581184387207
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.1709160804748535
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.255916118621826
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.765915870666504
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.880915641784668
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.539748668670654
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.179749011993408
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.23795747756958
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.597957134246826
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.733665466308594
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.199123859405518
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.259123802185059
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.00454044342041
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.06454086303711
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.169541358947754
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.593832969665527
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.673832893371582
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.224832534790039
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.370208740234375
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.011041641235352
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.418375015258789
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.493374824523926
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.119333267211914
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.304332733154297
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 12.394332885742188
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.911458015441895
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 13.17145824432373
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 13.553915977478027
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.633915901184082
+    }
+  ]
+}

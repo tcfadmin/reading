@@ -1,0 +1,202 @@
+{
+  "text": "Marché facile est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés. Elle donne aussi des informations sur le fromage, la viande et le poisson. À quoi sert cette application?",
+  "words": [
+    "Marché",
+    "facile",
+    "est",
+    "une",
+    "application",
+    "pour",
+    "téléphone",
+    "portable",
+    "qui",
+    "vous",
+    "conseille",
+    "les",
+    "bons",
+    "fruits",
+    "et",
+    "légumes",
+    "de",
+    "saison",
+    "dans",
+    "les",
+    "supermarchés.",
+    "Elle",
+    "donne",
+    "aussi",
+    "des",
+    "informations",
+    "sur",
+    "le",
+    "fromage,",
+    "la",
+    "viande",
+    "et",
+    "le",
+    "poisson.",
+    "À",
+    "quoi",
+    "sert",
+    "cette",
+    "application?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.3799999952316284
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8308333158493042
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9808332920074463
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1458332538604736
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8438749313354492
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.041541576385498
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.569958209991455
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.2399580478668213
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.449958086013794
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.5919578075408936
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.070957660675049
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.190958023071289
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.406082630157471
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.700957775115967
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.760957717895508
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.142207622528076
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.262207984924316
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.742125034332275
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.88629150390625
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.981291770935059
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.690375328063965
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.8403754234313965
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.070625305175781
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.38062572479248
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.612208366394043
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.30262565612793
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.502625465393066
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.587625503540039
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.40162467956543
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.549083709716797
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.919083595275879
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.979084014892578
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.07408332824707
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.437542915344238
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.507542610168457
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.697542190551758
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.952376365661621
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.172375679016113
+    }
+  ]
+}

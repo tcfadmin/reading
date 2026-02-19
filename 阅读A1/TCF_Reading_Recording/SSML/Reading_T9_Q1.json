@@ -1,0 +1,77 @@
+{
+  "text": "• 500 euros/mois:\nLocation deux pièces\nCuisine, vue sur mer. Que présente cette annonce?",
+  "words": [
+    "•",
+    "500",
+    "euros/mois:",
+    "Location",
+    "deux",
+    "pièces",
+    "Cuisine,",
+    "vue",
+    "sur",
+    "mer.",
+    "Que",
+    "présente",
+    "cette",
+    "annonce?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6714999675750732
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.8338333368301392
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.473416805267334
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.648416519165039
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.9329166412353516
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.7468748092651367
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.952083110809326
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.197082996368408
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 5.436707973480225
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.566708087921143
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.03791618347168
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.267916202545166
+    }
+  ]
+}

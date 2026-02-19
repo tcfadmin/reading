@@ -1,0 +1,282 @@
+{
+  "text": "Chers locataires,\nLa société « Ville propre » nous demande de faire plus attention quand on jette nos déchets. Il faut séparer le plastique et le carton et les mettre dans les poubelles jaunes. Vous pouvez jeter les autres déchets dans les poubelles grises.\nMerci,\nVotre gardien. Pourquoi est-ce que le concierge écrit aux locataires?",
+  "words": [
+    "Chers",
+    "locataires,",
+    "La",
+    "société",
+    "«",
+    "Ville",
+    "propre",
+    "»",
+    "nous",
+    "demande",
+    "de",
+    "faire",
+    "plus",
+    "attention",
+    "quand",
+    "on",
+    "jette",
+    "nos",
+    "déchets.",
+    "Il",
+    "faut",
+    "séparer",
+    "le",
+    "plastique",
+    "et",
+    "le",
+    "carton",
+    "et",
+    "les",
+    "mettre",
+    "dans",
+    "les",
+    "poubelles",
+    "jaunes.",
+    "Vous",
+    "pouvez",
+    "jeter",
+    "les",
+    "autres",
+    "déchets",
+    "dans",
+    "les",
+    "poubelles",
+    "grises.",
+    "Merci,",
+    "Votre",
+    "gardien.",
+    "Pourquoi",
+    "est-ce",
+    "que",
+    "le",
+    "concierge",
+    "écrit",
+    "aux",
+    "locataires?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.32999998331069946
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.2507084608078003
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.3807084560394287
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.1051666736602783
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.2851667404174805
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.5560832023620605
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.150083541870117
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.3850834369659424
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.5220417976379395
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.877041816711426
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.9934167861938477
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.228416919708252
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.542999744415283
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.069291591644287
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.279291152954102
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.369291305541992
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.655665874481201
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.785665988922119
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.1014580726623535
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.216458320617676
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.431457996368408
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.926208019256592
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.031208038330078
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.614916801452637
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.665541648864746
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.770541191101074
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.370416641235352
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.430416107177734
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.551124572753906
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.919750213623047
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.064749717712402
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.159749984741211
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.568082809448242
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.870625495910645
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.015625
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.351541519165039
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.677042007446289
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.9020414352417
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.158166885375977
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.580750465393066
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 13.75575065612793
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.850500106811523
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.25141716003418
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.16270923614502
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.847458839416504
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 16.11283302307129
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.81879234313965
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.17379379272461
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.299001693725586
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.444002151489258
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 17.53900146484375
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.074167251586914
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 18.389333724975586
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 18.46933364868164
+    }
+  ]
+}

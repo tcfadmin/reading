@@ -1,0 +1,222 @@
+{
+  "text": "Du 10 avril au 15 septembre, les ascenseurs de votre station de métro sont en réparation. Pour faciliter vos déplacements, les installations changent. Pendant les travaux, prenez l'escalier à droite des guichets. Qu'est-ce qui est fermé du 10 avril au 15 septembre ?",
+  "words": [
+    "Du",
+    "10",
+    "avril",
+    "au",
+    "15",
+    "septembre,",
+    "les",
+    "ascenseurs",
+    "de",
+    "votre",
+    "station",
+    "de",
+    "métro",
+    "sont",
+    "en",
+    "réparation.",
+    "Pour",
+    "faciliter",
+    "vos",
+    "déplacements,",
+    "les",
+    "installations",
+    "changent.",
+    "Pendant",
+    "les",
+    "travaux,",
+    "prenez",
+    "l&apos;escalier",
+    "à",
+    "droite",
+    "des",
+    "guichets.",
+    "Qu&apos;est-ce",
+    "qui",
+    "est",
+    "fermé",
+    "du",
+    "10",
+    "avril",
+    "au",
+    "15",
+    "septembre",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.20000000298023224
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5119999647140503
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8518749475479126
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.9418749213218689
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.2370415925979614
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.158541440963745
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.370624542236328
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.891749858856201
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0017497539520264
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.285749673843384
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.761415958404541
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.8664159774780273
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.323082447052002
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.593082427978516
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.702207565307617
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.304623603820801
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.489623546600342
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.145206928253174
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.300207138061523
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.303540229797363
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.513540267944336
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.159666061401367
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.116915702819824
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.446915626525879
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.561290740966797
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 11.334832191467285
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.674915313720703
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 12.295456886291504
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.380456924438477
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.70374870300293
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.838165283203125
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 13.730998992919922
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.96099853515625
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.116165161132812
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.161165237426758
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.566581726074219
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 14.721582412719727
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 15.026623725891113
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 15.37170696258545
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.46170711517334
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.742082595825195
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 16.3819580078125
+    }
+  ]
+}

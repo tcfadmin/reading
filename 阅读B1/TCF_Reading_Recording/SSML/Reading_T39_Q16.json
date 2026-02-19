@@ -1,0 +1,422 @@
+{
+  "text": "NATURE +\nVous êtes-vous déjà promené en forêt après le coucher du soleil ? C'est un moyen unique de redécouvrir la forêt autrement, d'écouter les oiseaux et le bruit des animaux, de reconnaître les arbres et les plantes par le toucher. Vous serez accompagné d'un guide spécialiste de la région. Nature+ vous propose une promenade à pied ou à cheval. Il faut prévoir un vêtement chaud et une lampe de poche. Vous pouvez réserver en ligne dès à présent. Que propose Nature+ ?",
+  "words": [
+    "NATURE",
+    "+",
+    "Vous",
+    "êtes-vous",
+    "déjà",
+    "promené",
+    "en",
+    "forêt",
+    "après",
+    "le",
+    "coucher",
+    "du",
+    "soleil",
+    "?",
+    "C&apos;est",
+    "un",
+    "moyen",
+    "unique",
+    "de",
+    "redécouvrir",
+    "la",
+    "forêt",
+    "autrement,",
+    "d&apos;écouter",
+    "les",
+    "oiseaux",
+    "et",
+    "le",
+    "bruit",
+    "des",
+    "animaux,",
+    "de",
+    "reconnaître",
+    "les",
+    "arbres",
+    "et",
+    "les",
+    "plantes",
+    "par",
+    "le",
+    "toucher.",
+    "Vous",
+    "serez",
+    "accompagné",
+    "d&apos;un",
+    "guide",
+    "spécialiste",
+    "de",
+    "la",
+    "région.",
+    "Nature+",
+    "vous",
+    "propose",
+    "une",
+    "promenade",
+    "à",
+    "pied",
+    "ou",
+    "à",
+    "cheval.",
+    "Il",
+    "faut",
+    "prévoir",
+    "un",
+    "vêtement",
+    "chaud",
+    "et",
+    "une",
+    "lampe",
+    "de",
+    "poche.",
+    "Vous",
+    "pouvez",
+    "réserver",
+    "en",
+    "ligne",
+    "dès",
+    "à",
+    "présent.",
+    "Que",
+    "propose",
+    "Nature+",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.42145833373069763
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.7014583349227905
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.8475832939147949
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.199708342552185
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4997084140777588
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9544583559036255
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.070291519165039
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.5064165592193604
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7713747024536133
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.856374740600586
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.196125030517578
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.31612491607666
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.7930831909179688
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.675999641418457
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.955999851226807
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.045999526977539
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.410333156585693
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.765666484832764
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.905457973480225
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.648833274841309
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.758832931518555
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.163832664489746
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.993832588195801
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.520040512084961
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.746166229248047
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.221916198730469
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.271915435791016
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.388165473937988
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.683165550231934
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.934415817260742
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.704916000366211
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.849916458129883
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.505290985107422
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.740289688110352
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.05029010772705
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.112415313720703
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.222414016723633
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.607123374938965
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.807123184204102
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.902124404907227
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.24670696258545
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.396706581115723
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.82804012298584
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.462414741516113
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.65241527557373
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.868165016174316
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.666790008544922
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.776790618896484
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 16.881790161132812
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.77266502380371
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.49866485595703
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.65020751953125
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.136791229248047
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.28679084777832
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.81920623779297
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 19.899208068847656
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.194124221801758
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.389123916625977
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 20.434123992919922
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 21.385040283203125
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.505041122436523
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 21.710041046142578
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 22.201040267944336
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 22.301040649414062
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 22.729623794555664
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 23.15625
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 23.221248626708984
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 23.3524169921875
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 23.592416763305664
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 23.733123779296875
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 24.66929054260254
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 24.81429100036621
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 25.13974952697754
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 25.637083053588867
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 25.75208282470703
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 26.087291717529297
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 26.373207092285156
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 26.433208465576172
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 27.321041107177734
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 27.45604133605957
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 27.918209075927734
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 28.773582458496094
+    }
+  ]
+}

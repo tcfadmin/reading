@@ -1,0 +1,162 @@
+{
+  "text": "Madame,\nSuite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.\nTrès cordialement\nSOPHIE LELOUX Service clientèle Pourquoi est-ce que Sophie LELOUX écrit cette lettre?",
+  "words": [
+    "Madame,",
+    "Suite",
+    "à",
+    "votre",
+    "courrier",
+    "du",
+    "17",
+    "juin",
+    "dernier,",
+    "je",
+    "vous",
+    "envoie",
+    "le",
+    "catalogue",
+    "de",
+    "nos",
+    "produits.",
+    "Très",
+    "cordialement",
+    "SOPHIE",
+    "LELOUX",
+    "Service",
+    "clientèle",
+    "Pourquoi",
+    "est-ce",
+    "que",
+    "Sophie",
+    "LELOUX",
+    "écrit",
+    "cette",
+    "lettre?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7050417065620422
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.064416766166687
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.129416823387146
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.43625009059906
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.876500129699707
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.0312085151672363
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4409167766571045
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.7009167671203613
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.496500253677368
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.626708507537842
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.8367085456848145
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.106874942779541
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.196875095367432
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.721875190734863
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.841875076293945
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.961874961853027
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.290624618530273
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.460624694824219
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.099124908447266
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.579999923706055
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.525416374206543
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 9.017000198364258
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 9.73195743560791
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 10.19679069519043
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.326791763305664
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.47179126739502
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.896665573120117
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 11.787958145141602
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 12.042957305908203
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 12.301416397094727
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "text": "Taméo,\nLe train de ta collègue Allemande arrive à 15 heures. Tu peux aller la chercher ?\nSMS 12:14 Où doit aller Taméo ?",
+  "words": [
+    "Taméo,",
+    "Le",
+    "train",
+    "de",
+    "ta",
+    "collègue",
+    "Allemande",
+    "arrive",
+    "à",
+    "15",
+    "heures.",
+    "Tu",
+    "peux",
+    "aller",
+    "la",
+    "chercher",
+    "?",
+    "SMS",
+    "12:14",
+    "Où",
+    "doit",
+    "aller",
+    "Taméo",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8117083311080933
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9517083168029785
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2217917442321777
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.331791639328003
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4717916250228882
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.8999165296554565
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.340250015258789
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6255834102630615
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.6955833435058594
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0555832386016846
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.201374530792236
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.336374759674072
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.506374835968018
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.681374549865723
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.786374568939209
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.3168745040893555
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.769374370574951
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.35474967956543
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.184415817260742
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.259416103363037
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.4499993324279785
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.604999542236328
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.102957725524902
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "text": "Antoine, S'il te plait, viens dans mon bureau après la réunion.\nMerci\nLudovic Que doit faire Antoine ?",
+  "words": [
+    "Antoine,",
+    "S&apos;il",
+    "te",
+    "plait,",
+    "viens",
+    "dans",
+    "mon",
+    "bureau",
+    "après",
+    "la",
+    "réunion.",
+    "Merci",
+    "Ludovic",
+    "Que",
+    "doit",
+    "faire",
+    "Antoine",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7497500777244568
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.004083275794983
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1640833616256714
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.7317917346954346
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.007000207901001
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.142000198364258
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.312000036239624
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.686999797821045
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.9322915077209473
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0422916412353516
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.413666248321533
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.7686662673950195
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.244124412536621
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.374124526977539
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.529124736785889
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.750832557678223
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.289166450500488
+    }
+  ]
+}

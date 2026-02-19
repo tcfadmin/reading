@@ -1,0 +1,117 @@
+{
+  "text": "Jean n'oublie pas d'aller chercher les enfants à l'école !\nJe suis en rendez-vous Jusqu'à 17h\nBisous\nClaudia Que doit faire Jean?",
+  "words": [
+    "Jean",
+    "n&apos;oublie",
+    "pas",
+    "d&apos;aller",
+    "chercher",
+    "les",
+    "enfants",
+    "à",
+    "l&apos;école",
+    "!",
+    "Je",
+    "suis",
+    "en",
+    "rendez-vous",
+    "Jusqu&apos;à",
+    "17h",
+    "Bisous",
+    "Claudia",
+    "Que",
+    "doit",
+    "faire",
+    "Jean?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.26999998092651367
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5912500023841858
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7914583683013916
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.01645827293396
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.4418748617172241
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6319164037704468
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9619581699371338
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.011958122253418
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.4887497425079346
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.935166358947754
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.055166244506836
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.321791172027588
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.426791191101074
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.897749662399292
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.265416145324707
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.854874610900879
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.211791038513184
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.681833267211914
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.8368330001831055
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 5.991833209991455
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.229833126068115
+    }
+  ]
+}

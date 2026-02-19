@@ -1,0 +1,127 @@
+{
+  "text": "La bibliothèque ferme ses portes à 19h 00.\nMerci de quitter la salle de lecture avant 18h 50 Quelle information est communiquée au public?",
+  "words": [
+    "La",
+    "bibliothèque",
+    "ferme",
+    "ses",
+    "portes",
+    "à",
+    "19h",
+    "00.",
+    "Merci",
+    "de",
+    "quitter",
+    "la",
+    "salle",
+    "de",
+    "lecture",
+    "avant",
+    "18h",
+    "50",
+    "Quelle",
+    "information",
+    "est",
+    "communiquée",
+    "au",
+    "public?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.14499999582767487
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9398332834243774
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.3140416145324707
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4990415573120117
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9277915954589844
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.0108747482299805
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.651291608810425
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.7693333625793457
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.12933349609375
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.249624729156494
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.590291500091553
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.710291862487793
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.990208148956299
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.110208511352539
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.631875038146973
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.836750030517578
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.417541027069092
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.909374237060547
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.1243743896484375
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.793957710266113
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.833957672119141
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.433749198913574
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.518457412719727
+    }
+  ]
+}

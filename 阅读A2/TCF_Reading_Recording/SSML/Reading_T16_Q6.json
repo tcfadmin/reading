@@ -1,0 +1,102 @@
+{
+  "text": "1 PLACE\nFILM: LES 3 FRÈRES\nSÉANCE : 20h 30\nTARIF ÉTUDIANT\n6.00€ Où peut-on vous donner ce ticket?",
+  "words": [
+    "1",
+    "PLACE",
+    "FILM:",
+    "LES",
+    "3",
+    "FRÈRES",
+    "SÉANCE",
+    ":",
+    "20h",
+    "30",
+    "TARIF",
+    "ÉTUDIANT",
+    "6.00€",
+    "Où",
+    "peut-on",
+    "vous",
+    "donner",
+    "ce",
+    "ticket?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.125
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4130833148956299
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.035666584968567
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.15066659450531
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3656665086746216
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6211248636245728
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.1740832328796387
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.4754998683929443
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.835583448410034
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.085583448410034
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.437500238418579
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.8675003051757812
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.402791976928711
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.487792015075684
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.792791843414307
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.902791976928711
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.12837553024292
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.263375759124756
+    }
+  ]
+}

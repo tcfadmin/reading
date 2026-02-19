@@ -1,0 +1,102 @@
+{
+  "text": "Perdu chat gris avec un collier jaune.\nAppelez Stéphanie 06 42 58 96 31 Qu'est-ce que Stéphanie cherche ?",
+  "words": [
+    "Perdu",
+    "chat",
+    "gris",
+    "avec",
+    "un",
+    "collier",
+    "jaune.",
+    "Appelez",
+    "Stéphanie",
+    "06",
+    "42",
+    "58",
+    "96",
+    "31",
+    "Qu&apos;est-ce",
+    "que",
+    "Stéphanie",
+    "cherche",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.35999998450279236
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5897499918937683
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9144583344459534
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1844582557678223
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.2744582891464233
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6248749494552612
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.492375135421753
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.84737491607666
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.5075833797454834
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.264666557312012
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.972875118255615
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.947166442871094
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.9839582443237305
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 7.704583168029785
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 8.045166969299316
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 8.195167541503906
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.703417778015137
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 9.249542236328125
+    }
+  ]
+}

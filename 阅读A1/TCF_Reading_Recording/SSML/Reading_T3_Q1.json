@@ -1,0 +1,192 @@
+{
+  "text": "Chers Amis,\nNous sommes heureux de vous annoncer l'arrivée d'un nouveau membre dans notre famille. Il se nomme Adrien et a vu le jour le 1er septembre au matin.\nBien à vous. De quel évènement s'agit-il ?",
+  "words": [
+    "Chers",
+    "Amis,",
+    "Nous",
+    "sommes",
+    "heureux",
+    "de",
+    "vous",
+    "annoncer",
+    "l&apos;arrivée",
+    "d&apos;un",
+    "nouveau",
+    "membre",
+    "dans",
+    "notre",
+    "famille.",
+    "Il",
+    "se",
+    "nomme",
+    "Adrien",
+    "et",
+    "a",
+    "vu",
+    "le",
+    "jour",
+    "le",
+    "1er",
+    "septembre",
+    "au",
+    "matin.",
+    "Bien",
+    "à",
+    "vous.",
+    "De",
+    "quel",
+    "évènement",
+    "s&apos;agit-il",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.40529167652130127
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.9485416412353516
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0685416460037231
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.344833254814148
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6101248264312744
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.7201248407363892
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.9501248598098755
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.361208200454712
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.8272080421447754
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0072081089019775
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.312833309173584
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.7429580688476562
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.882957935333252
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.169707775115967
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.515082836151123
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.640082836151123
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.840083122253418
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.085457801818848
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.646124839782715
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.770082950592041
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.845083236694336
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.020082950592041
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.13433313369751
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.45437479019165
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.569375038146973
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.939791679382324
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.569832801818848
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.635540962219238
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.928750038146973
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.188749313354492
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.263750076293945
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.776458740234375
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.916458129882812
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.151458740234375
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.58650016784668
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.254166603088379
+    }
+  ]
+}

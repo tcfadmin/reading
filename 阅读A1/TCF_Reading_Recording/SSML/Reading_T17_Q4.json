@@ -1,0 +1,142 @@
+{
+  "text": "Adrien\nUrgent,\nVincent Jade a téléphoné à midi. Rappelez-le aujourd'hui. Il part à 20 heures en Inde pour tout l'été. Quand est-ce qu'Adrien doit rappeler Vincent Jade?",
+  "words": [
+    "Adrien",
+    "Urgent,",
+    "Vincent",
+    "Jade",
+    "a",
+    "téléphoné",
+    "à",
+    "midi.",
+    "Rappelez-le",
+    "aujourd&apos;hui.",
+    "Il",
+    "part",
+    "à",
+    "20",
+    "heures",
+    "en",
+    "Inde",
+    "pour",
+    "tout",
+    "l&apos;été.",
+    "Quand",
+    "est-ce",
+    "qu&apos;Adrien",
+    "doit",
+    "rappeler",
+    "Vincent",
+    "Jade?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.49558332562446594
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.1976666450500488
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.637458324432373
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.9732500314712524
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.04325008392334
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.6584582328796387
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.7234582901000977
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.548874855041504
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.104083061218262
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.916707992553711
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.061707973480225
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.3258748054504395
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.410874843597412
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.7158331871032715
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.880833148956299
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.06583309173584
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.271958351135254
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.506083011627197
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.676083087921143
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.516458034515381
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.771458148956299
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.90191650390625
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.3323335647583
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.517333030700684
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.881124496459961
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.270792007446289
+    }
+  ]
+}

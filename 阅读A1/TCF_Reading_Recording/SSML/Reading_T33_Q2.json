@@ -1,0 +1,192 @@
+{
+  "text": "Marie,\nAppelez l'agence de voyage et prenez une place pour le directeur sur le vol Paris-Marseille de demain, SVP.\nLe n° de l'agence: 01 22 35 53 46\nMerci.\nA. Delmont Qu'est-ce que Marie doit faire ?",
+  "words": [
+    "Marie,",
+    "Appelez",
+    "l&apos;agence",
+    "de",
+    "voyage",
+    "et",
+    "prenez",
+    "une",
+    "place",
+    "pour",
+    "le",
+    "directeur",
+    "sur",
+    "le",
+    "vol",
+    "Paris-Marseille",
+    "de",
+    "demain,",
+    "SVP.",
+    "Le",
+    "n°",
+    "de",
+    "l&apos;agence:",
+    "01",
+    "22",
+    "35",
+    "53",
+    "46",
+    "Merci.",
+    "A.",
+    "Delmont",
+    "Qu&apos;est-ce",
+    "que",
+    "Marie",
+    "doit",
+    "faire",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6899999976158142
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0300415754318237
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4554165601730347
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5842915773391724
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.099541664123535
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.1495416164398193
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.523749589920044
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6637496948242188
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0087497234344482
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.203749656677246
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.2987496852874756
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.918541431427002
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.098540782928467
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.198541164398193
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.458250045776367
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.36062479019165
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.5070414543151855
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.066874980926514
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.372165679931641
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.492165565490723
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.922082424163818
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.032082557678223
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.998373985290527
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.568290710449219
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 10.11824893951416
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.915373802185059
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 11.700998306274414
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 12.462957382202148
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 13.776082038879395
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 13.876081466674805
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.316498756408691
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.541498184204102
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.676331520080566
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.947415351867676
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.112415313720703
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 15.502456665039062
+    }
+  ]
+}

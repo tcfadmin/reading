@@ -1,0 +1,147 @@
+{
+  "text": "Félicitation !\nC'est bientôt votre\nanniversaire !\nVenez vite retirer votre surprise dans notre boutique.\nÀ très bientôt.\nVotre coiffeur Michel Que fait Michel dans cette carte ?",
+  "words": [
+    "Félicitation",
+    "!",
+    "C&apos;est",
+    "bientôt",
+    "votre",
+    "anniversaire",
+    "!",
+    "Venez",
+    "vite",
+    "retirer",
+    "votre",
+    "surprise",
+    "dans",
+    "notre",
+    "boutique.",
+    "À",
+    "très",
+    "bientôt.",
+    "Votre",
+    "coiffeur",
+    "Michel",
+    "Que",
+    "fait",
+    "Michel",
+    "dans",
+    "cette",
+    "carte",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.9774166345596313
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.313833236694336
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.4738332033157349
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.8345000743865967
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.071166515350342
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.8080413341522217
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.209458351135254
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.4944581985473633
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.6910414695739746
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.145583152770996
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.438624858856201
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.954291343688965
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.089291572570801
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.374541282653809
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.311583042144775
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.396583080291748
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.606583118438721
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.31108283996582
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.621082782745361
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 8.048957824707031
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 8.464166641235352
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.605374336242676
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.780374526977539
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.190082550048828
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.325374603271484
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.530374526977539
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.93549919128418
+    }
+  ]
+}

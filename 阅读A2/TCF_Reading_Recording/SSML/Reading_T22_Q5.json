@@ -1,0 +1,167 @@
+{
+  "text": "Résidence Bellevue\nRue de l'Océan 25013 Mer Sur l'Isle\nFacture N°13\nEntreprise Jolifleur Bruxelles\n\nDésignation                           Quantité                                   Prix \nNuit                                               3                                  250,00 euros\n+ petit-déj\n\nParking sécurisé                                                                   gratuit Que doit payer l'entreprise Jolifeur ?",
+  "words": [
+    "Résidence",
+    "Bellevue",
+    "Rue",
+    "de",
+    "l&apos;Océan",
+    "25013",
+    "Mer",
+    "Sur",
+    "l&apos;Isle",
+    "Facture",
+    "N°13",
+    "Entreprise",
+    "Jolifleur",
+    "Bruxelles",
+    "Désignation",
+    "Quantité",
+    "Prix",
+    "Nuit",
+    "3",
+    "250,00",
+    "euros",
+    "+",
+    "petit-déj",
+    "Parking",
+    "sécurisé",
+    "gratuit",
+    "Que",
+    "doit",
+    "payer",
+    "l&apos;entreprise",
+    "Jolifeur",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6211665868759155
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0863332748413086
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.260958194732666
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3809581995010376
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8701248168945312
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.866499662399292
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.226374864578247
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.476374864578247
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.6834583282470703
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.288458824157715
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.094292163848877
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.649292469024658
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.224834442138672
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.775459289550781
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.564958572387695
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 8.09558391571045
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 8.385167121887207
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 8.65766716003418
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.007583618164062
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 11.014083862304688
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 11.264083862304688
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 11.584084510803223
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 12.17370891571045
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 12.731167793273926
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 13.366833686828613
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 13.815999984741211
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 13.9660005569458
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 14.127917289733887
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 14.452917098999023
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 15.073790550231934
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 15.758665084838867
+    }
+  ]
+}

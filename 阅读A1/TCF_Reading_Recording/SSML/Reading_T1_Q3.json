@@ -1,0 +1,132 @@
+{
+  "text": "Alen, bonjour,\nC'est d'accord, RV avec les copines chez-moi le 30 avril pour déjeuner\nBisous\nYvette Quelles sont les relations entre Aline et Yvette ?",
+  "words": [
+    "Alen,",
+    "bonjour,",
+    "C&apos;est",
+    "d&apos;accord,",
+    "RV",
+    "avec",
+    "les",
+    "copines",
+    "chez-moi",
+    "le",
+    "30",
+    "avril",
+    "pour",
+    "déjeuner",
+    "Bisous",
+    "Yvette",
+    "Quelles",
+    "sont",
+    "les",
+    "relations",
+    "entre",
+    "Aline",
+    "et",
+    "Yvette",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6200000047683716
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.497333288192749
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.682416558265686
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.6277081966400146
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 3.0081663131713867
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.257749557495117
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.34274959564209
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.822957992553711
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.252166271209717
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.366333484649658
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.706583023071289
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.060874938964844
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.285874843597412
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.693249702453613
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 6.104874610900879
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.595499515533447
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.824374675750732
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.04420804977417
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.1342082023620605
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.6404571533203125
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.860457420349121
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.180458068847656
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.24120807647705
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.711542129516602
+    }
+  ]
+}

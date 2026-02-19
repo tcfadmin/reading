@@ -1,0 +1,142 @@
+{
+  "text": "La Table « votre restaurant d'entreprise »\nOUVERT DU LUNDI AU VENDREDI SERVICE DE 12H À 14H\nFERMETURE: SAMEDI et DIMANCHE Que peut-on faire dans ce lieu?",
+  "words": [
+    "La",
+    "Table",
+    "«",
+    "votre",
+    "restaurant",
+    "d&apos;entreprise",
+    "»",
+    "OUVERT",
+    "DU",
+    "LUNDI",
+    "AU",
+    "VENDREDI",
+    "SERVICE",
+    "DE",
+    "12H",
+    "À",
+    "14H",
+    "FERMETURE:",
+    "SAMEDI",
+    "et",
+    "DIMANCHE",
+    "Que",
+    "peut-on",
+    "faire",
+    "dans",
+    "ce",
+    "lieu?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.1550000011920929
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6050416827201843
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.700041651725769
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.0650415420532227
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5955833196640015
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3764164447784424
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.6064164638519287
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.9314162731170654
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0964162349700928
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.4566662311553955
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.5454161167144775
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.066124439239502
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.526416301727295
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.656416416168213
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.038374900817871
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.094708442687988
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.721291542053223
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.902750015258789
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.458000659942627
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.528000831604004
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.998375415802002
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.118375778198242
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.443374633789062
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.684167861938477
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.82416820526123
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.967418670654297
+    }
+  ]
+}

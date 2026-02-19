@@ -1,0 +1,92 @@
+{
+  "text": "Sophie,\nTu es jolie, intelligente, merveilleuse.\nJe t'aime! Marions-nous !\nRobret Pourquoi Robert écrit à Sophie ?",
+  "words": [
+    "Sophie,",
+    "Tu",
+    "es",
+    "jolie,",
+    "intelligente,",
+    "merveilleuse.",
+    "Je",
+    "t&apos;aime!",
+    "Marions-nous",
+    "!",
+    "Robret",
+    "Pourquoi",
+    "Robert",
+    "écrit",
+    "à",
+    "Sophie",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.6802915930747986
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8773332834243774
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9373332858085632
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.6394165754318237
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.720916509628296
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.875875234603882
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 4.005875110626221
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 4.677374839782715
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 5.2773332595825195
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 5.708749771118164
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.084916591644287
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.510875225067139
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.935625076293945
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 7.245791435241699
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.3007917404174805
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.780708312988281
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "text": "Je suis dans le métro l'arrive dans 20 minutes au bureau.\nCommencez la réunion de travail.\nSans moi. Merci\nJean Pour qui est ce message de Jean?",
+  "words": [
+    "Je",
+    "suis",
+    "dans",
+    "le",
+    "métro",
+    "l&apos;arrive",
+    "dans",
+    "20",
+    "minutes",
+    "au",
+    "bureau.",
+    "Commencez",
+    "la",
+    "réunion",
+    "de",
+    "travail.",
+    "Sans",
+    "moi.",
+    "Merci",
+    "Jean",
+    "Pour",
+    "qui",
+    "est",
+    "ce",
+    "message",
+    "de",
+    "Jean?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.13499999046325684
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.3400000035762787
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.49533334374427795
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.5703333616256714
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 0.9975416660308838
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.3875417709350586
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.6067501306533813
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 1.781750202178955
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.1620419025421143
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.232041835784912
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.060041904449463
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.5695834159851074
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.7045834064483643
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.15024995803833
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.251166343688965
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.238041400909424
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.478041648864746
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.974082946777344
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.349082946777344
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.584291458129883
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.7842912673950195
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.954291343688965
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.99929141998291
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.163666248321533
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.549958229064941
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 7.674958229064941
+    }
+  ]
+}

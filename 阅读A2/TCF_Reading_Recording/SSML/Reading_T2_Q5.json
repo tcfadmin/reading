@@ -1,0 +1,82 @@
+{
+  "text": "François,\nPouvons-nous nous rencontrer dans ton bureau demain matin?\nAriane Pourquoi Ariane écrit-elle ce message?",
+  "words": [
+    "François,",
+    "Pouvons-nous",
+    "nous",
+    "rencontrer",
+    "dans",
+    "ton",
+    "bureau",
+    "demain",
+    "matin?",
+    "Ariane",
+    "Pourquoi",
+    "Ariane",
+    "écrit-elle",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.8071249723434448
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.2521250247955322
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.3821250200271606
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.9719586372375488
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.1269586086273193
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3019585609436035
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.6043756008148193
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.8454172611236572
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.6817924976348877
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.087334156036377
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.512500762939453
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.87741756439209
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.364958763122559
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.534958839416504
+    }
+  ]
+}

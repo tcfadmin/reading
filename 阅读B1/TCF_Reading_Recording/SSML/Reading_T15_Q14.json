@@ -1,0 +1,192 @@
+{
+  "text": "Vous avez besoin d'aller à l'aéroport de Marseille ? Le parking coûte trop cher? Avec notre société, payez seulement le nombre de Kilomètres nécessaires. Appelez-nous tous les jours, 24h sur 24. Quel service propose cette société ?",
+  "words": [
+    "Vous",
+    "avez",
+    "besoin",
+    "d&apos;aller",
+    "à",
+    "l&apos;aéroport",
+    "de",
+    "Marseille",
+    "?",
+    "Le",
+    "parking",
+    "coûte",
+    "trop",
+    "cher?",
+    "Avec",
+    "notre",
+    "société,",
+    "payez",
+    "seulement",
+    "le",
+    "nombre",
+    "de",
+    "Kilomètres",
+    "nécessaires.",
+    "Appelez-nous",
+    "tous",
+    "les",
+    "jours,",
+    "24h",
+    "sur",
+    "24.",
+    "Quel",
+    "service",
+    "propose",
+    "cette",
+    "société",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.22500000894069672
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4009999930858612
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7905833125114441
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.0655832290649414
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.1455832719802856
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6910831928253174
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.7910830974578857
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.3366665840148926
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.7845001220703125
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.8894999027252197
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.389500141143799
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.6161251068115234
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.831125020980835
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.723583221435547
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.033583164215088
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.324250221252441
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.2841668128967285
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.55916690826416
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.00333309173584
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.123958587646484
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.470916748046875
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.580916404724121
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.196208000183105
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.33970832824707
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.83983325958252
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 10.044833183288574
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 10.17520809173584
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.770208358764648
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 11.492958068847656
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 11.70462417602539
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 12.774832725524902
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 12.979832649230957
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 13.47470760345459
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 13.933915138244629
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 14.153999328613281
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 14.738748550415039
+    }
+  ]
+}

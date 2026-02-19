@@ -1,0 +1,187 @@
+{
+  "text": "Jardin de la Fontaine\nOuverture-Fermeture\nDu 1er septembre au 31 mars 7h30-18h30\nDu 1er avril au 30 juin 7h30-20h30\nDu 1er juillet au 31 aout 7h00-22h30 Quand peut-on se promener dans le parc après 18h30 ?",
+  "words": [
+    "Jardin",
+    "de",
+    "la",
+    "Fontaine",
+    "Ouverture-Fermeture",
+    "Du",
+    "1er",
+    "septembre",
+    "au",
+    "31",
+    "mars",
+    "7h30-18h30",
+    "Du",
+    "1er",
+    "avril",
+    "au",
+    "30",
+    "juin",
+    "7h30-20h30",
+    "Du",
+    "1er",
+    "juillet",
+    "au",
+    "31",
+    "aout",
+    "7h00-22h30",
+    "Quand",
+    "peut-on",
+    "se",
+    "promener",
+    "dans",
+    "le",
+    "parc",
+    "après",
+    "18h30",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.44491663575172424
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5449166297912598
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6449166536331177
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1289583444595337
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.299417018890381
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.4335005283355713
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.799542188644409
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.4264588356018066
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.516458749771118
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.9960837364196777
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.324291706085205
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.121500015258789
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.2830424308776855
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.705084323883057
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.0583343505859375
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 7.163334369659424
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 7.484126567840576
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.734126567840576
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.464041709899902
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.634041786193848
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.004084587097168
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.394125938415527
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 10.51412582397461
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 11.048917770385742
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 11.26891803741455
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 12.82400131225586
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 13.04908561706543
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 13.410502433776855
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 13.570502281188965
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 14.029793739318848
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.19162654876709
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.286626815795898
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.667208671569824
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 14.922124862670898
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 15.940457344055176
+    }
+  ]
+}

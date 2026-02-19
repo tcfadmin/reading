@@ -1,0 +1,227 @@
+{
+  "text": "Un cinéma historique en centre-ville, c'est exceptionnel ! La famille propriétaire de ce monument n'a pas changé depuis son ouverture en 1911, dans ses sept salles vous trouverez des films internationaux et des événements de qualité chaque semaine. Qu'est-ce qu'on apprend sur ce cinéma?",
+  "words": [
+    "Un",
+    "cinéma",
+    "historique",
+    "en",
+    "centre-ville,",
+    "c&apos;est",
+    "exceptionnel",
+    "!",
+    "La",
+    "famille",
+    "propriétaire",
+    "de",
+    "ce",
+    "monument",
+    "n&apos;a",
+    "pas",
+    "changé",
+    "depuis",
+    "son",
+    "ouverture",
+    "en",
+    "1911,",
+    "dans",
+    "ses",
+    "sept",
+    "salles",
+    "vous",
+    "trouverez",
+    "des",
+    "films",
+    "internationaux",
+    "et",
+    "des",
+    "événements",
+    "de",
+    "qualité",
+    "chaque",
+    "semaine.",
+    "Qu&apos;est-ce",
+    "qu&apos;on",
+    "apprend",
+    "sur",
+    "ce",
+    "cinéma?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.10999999940395355
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5849166512489319
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.1643333435058594
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.262458324432373
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.1541666984558105
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.3897500038146973
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.1782917976379395
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.629833698272705
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.749833583831787
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 4.1201252937316895
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.8766255378723145
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.981625556945801
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.156625270843506
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.6827921867370605
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.832792282104492
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.9974589347839355
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.398083686828613
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.7030839920043945
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.943792343139648
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.47379207611084
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.5602922439575195
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.677791595458984
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.846041679382324
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 9.001041412353516
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.328374862670898
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.598499298095703
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.758500099182129
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.19487476348877
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.324874877929688
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.743165969848633
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.621249198913574
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.691248893737793
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.929999351501465
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.340208053588867
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.455208778381348
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.941166877746582
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.262208938598633
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 14.613459587097168
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 14.818459510803223
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 15.028876304626465
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 15.368875503540039
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.564208984375
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.674209594726562
+    }
+  ]
+}

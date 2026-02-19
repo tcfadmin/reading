@@ -1,0 +1,337 @@
+{
+  "text": "L'action du film se situe en Nouvelle-Angleterre, à la fin du XVIIIe siècle. Un jeune inspecteur de police ne jure que par la science et la logique et ne rate jamais une occasion de le faire savoir. Pour le mettre à l'épreuve, ses supérieurs l'envoient dans un petit village de fermiers d'origine hollandaise, théâtre de plusieurs meurtres étranges. Quel est le sujet du film présenté ?",
+  "words": [
+    "L&apos;action",
+    "du",
+    "film",
+    "se",
+    "situe",
+    "en",
+    "Nouvelle-Angleterre,",
+    "à",
+    "la",
+    "fin",
+    "du",
+    "XVIIIe",
+    "siècle.",
+    "Un",
+    "jeune",
+    "inspecteur",
+    "de",
+    "police",
+    "ne",
+    "jure",
+    "que",
+    "par",
+    "la",
+    "science",
+    "et",
+    "la",
+    "logique",
+    "et",
+    "ne",
+    "rate",
+    "jamais",
+    "une",
+    "occasion",
+    "de",
+    "le",
+    "faire",
+    "savoir.",
+    "Pour",
+    "le",
+    "mettre",
+    "à",
+    "l&apos;épreuve,",
+    "ses",
+    "supérieurs",
+    "l&apos;envoient",
+    "dans",
+    "un",
+    "petit",
+    "village",
+    "de",
+    "fermiers",
+    "d&apos;origine",
+    "hollandaise,",
+    "théâtre",
+    "de",
+    "plusieurs",
+    "meurtres",
+    "étranges.",
+    "Quel",
+    "est",
+    "le",
+    "sujet",
+    "du",
+    "film",
+    "présenté",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4899166524410248
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6149166226387024
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9797499179840088
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.1697498559951782
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.567208170890808
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.6622081995010376
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.9193332195281982
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.999333143234253
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0943331718444824
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.3493330478668213
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.484333038330078
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.066624641418457
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 5.411749362945557
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.521749496459961
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.761749267578125
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.318207740783691
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.4332075119018555
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.982332706451416
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.107332706451416
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.360457897186279
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.520457744598389
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.710457801818848
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.813082695007324
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.278416633605957
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.323416709899902
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.438416481018066
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.969207763671875
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.019207954406738
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.134207725524902
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.361373901367188
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 9.666374206542969
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 9.811498641967773
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.295456886291504
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.39545726776123
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 10.478998184204102
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 10.713998794555664
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.165874481201172
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.340873718261719
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.450874328613281
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.736041069030762
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 12.80604076385498
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.605541229248047
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 13.796998977661133
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 14.472623825073242
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 14.884081840515137
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.144082069396973
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 15.234082221984863
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 15.554290771484375
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 15.93074893951416
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 16.04574966430664
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 16.508373260498047
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 17.071666717529297
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 17.98529052734375
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 18.495332717895508
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 18.625333786010742
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 19.050582885742188
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 19.536457061767578
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.980541229248047
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 21.1855411529541
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 21.25054168701172
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.34554100036621
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 21.69099998474121
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 21.821666717529297
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 22.136667251586914
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 22.777416229248047
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "text": "Dans une interview, le ministre de l'Écologie proposait ces quelques conseils, mis en pratique par lui-même au quotidien, afin de mieux contribuer au respect de l'environnement : « Ma famille et moi-même avons d'abord installé des économiseurs sur tous les robinets de la maison. D'autre part, nous faisons très attention à ne consommer que des produits de saison afin de réduire au maximum les emballages inutiles que produisent les techniques de congélation et de mise en conserve des aliments. Bref, nous essayons d'appliquer tous ces petits gestes qui doivent devenir de vrais réflexes Quelle pratique, entre autres, le ministre de l'Ecologie cherche-t-il à limiter ?",
+  "words": [
+    "Dans",
+    "une",
+    "interview,",
+    "le",
+    "ministre",
+    "de",
+    "l&apos;Écologie",
+    "proposait",
+    "ces",
+    "quelques",
+    "conseils,",
+    "mis",
+    "en",
+    "pratique",
+    "par",
+    "lui-même",
+    "au",
+    "quotidien,",
+    "afin",
+    "de",
+    "mieux",
+    "contribuer",
+    "au",
+    "respect",
+    "de",
+    "l&apos;environnement",
+    ":",
+    "«",
+    "Ma",
+    "famille",
+    "et",
+    "moi-même",
+    "avons",
+    "d&apos;abord",
+    "installé",
+    "des",
+    "économiseurs",
+    "sur",
+    "tous",
+    "les",
+    "robinets",
+    "de",
+    "la",
+    "maison.",
+    "D&apos;autre",
+    "part,",
+    "nous",
+    "faisons",
+    "très",
+    "attention",
+    "à",
+    "ne",
+    "consommer",
+    "que",
+    "des",
+    "produits",
+    "de",
+    "saison",
+    "afin",
+    "de",
+    "réduire",
+    "au",
+    "maximum",
+    "les",
+    "emballages",
+    "inutiles",
+    "que",
+    "produisent",
+    "les",
+    "techniques",
+    "de",
+    "congélation",
+    "et",
+    "de",
+    "mise",
+    "en",
+    "conserve",
+    "des",
+    "aliments.",
+    "Bref,",
+    "nous",
+    "essayons",
+    "d&apos;appliquer",
+    "tous",
+    "ces",
+    "petits",
+    "gestes",
+    "qui",
+    "doivent",
+    "devenir",
+    "de",
+    "vrais",
+    "réflexes",
+    "Quelle",
+    "pratique,",
+    "entre",
+    "autres,",
+    "le",
+    "ministre",
+    "de",
+    "l&apos;Ecologie",
+    "cherche-t-il",
+    "à",
+    "limiter",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.28999999165534973
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4351249933242798
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2239582538604736
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3489582538604736
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.9089999198913574
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.0360000133514404
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.672541856765747
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.2243332862854004
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.4093332290649414
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.795874834060669
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.70508337020874
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.890083312988281
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.99008321762085
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 5.4527082443237305
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.677708625793457
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.113041877746582
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.188041687011719
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.143917083740234
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 7.464041709899902
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.579041481018066
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.784041881561279
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 8.419458389282227
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 8.539458274841309
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.985417366027832
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 9.110417366027832
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 9.91270923614502
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.91270923614502
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 10.324125289916992
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 10.46412467956543
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.944124221801758
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.004124641418457
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.52416706085205
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.779541969299316
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.115291595458984
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.551375389099121
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.77137565612793
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.585500717163086
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.809667587280273
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.99966812133789
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.09050178527832
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.530710220336914
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.640710830688477
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 14.740711212158203
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 16.004377365112305
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 16.37437629699707
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 17.058626174926758
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 17.185169219970703
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 17.535167694091797
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.830793380737305
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.40066909790039
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.450668334960938
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.5606689453125
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.08704376220703
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.28291893005371
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 19.40291976928711
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 19.805377960205078
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 19.930044174194336
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.450294494628906
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 20.725627899169922
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 20.820627212524414
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.237293243408203
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 21.32229232788086
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 21.9880428314209
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 22.213043212890625
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 22.85204315185547
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 23.40362548828125
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 23.608627319335938
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 24.12808609008789
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 24.255043029785156
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 24.729501724243164
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 24.884502410888672
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 25.692378997802734
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 25.75629425048828
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 25.891294479370117
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 26.177419662475586
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 26.287418365478516
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 26.847919464111328
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 27.062917709350586
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 28.33762550354004
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 29.055917739868164
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 29.28558349609375
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 29.759960174560547
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 30.275959014892578
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 30.470958709716797
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 30.640958786010742
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 30.965959548950195
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 31.44933319091797
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 31.639333724975586
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 31.880416870117188
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 32.3512077331543
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 32.491207122802734
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 32.741207122802734
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 33.356292724609375
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 33.58191680908203
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 34.342041015625
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 34.6036262512207
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 35.0983772277832
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 35.21837615966797
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 35.740543365478516
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 35.85554504394531
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 36.43654251098633
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 37.04279327392578
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 37.09779357910156
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 37.64500045776367
+    }
+  ]
+}

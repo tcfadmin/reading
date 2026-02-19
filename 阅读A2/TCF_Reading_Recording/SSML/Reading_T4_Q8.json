@@ -1,0 +1,167 @@
+{
+  "text": "GRAND JEU JARDIMARCHÉ\nVous pensez avoir le plus jardin ?\nEnvoyer une photo à grandjeu@jardimarche.com.\nTrois gagnants recevront un chèque de 500 euros valable. dans tous nos magasins. Que propose Jardimarché ?",
+  "words": [
+    "GRAND",
+    "JEU",
+    "JARDIMARCHÉ",
+    "Vous",
+    "pensez",
+    "avoir",
+    "le",
+    "plus",
+    "jardin",
+    "?",
+    "Envoyer",
+    "une",
+    "photo",
+    "à",
+    "grandjeu@jardimarche.com.",
+    "Trois",
+    "gagnants",
+    "recevront",
+    "un",
+    "chèque",
+    "de",
+    "500",
+    "euros",
+    "valable.",
+    "dans",
+    "tous",
+    "nos",
+    "magasins.",
+    "Que",
+    "propose",
+    "Jardimarché",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2849999964237213
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4651666283607483
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 2.5763750076293945
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 2.726374864578247
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 3.122999906539917
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.388000011444092
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 3.4779999256134033
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.6687915325164795
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.120499610900879
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 5.003665924072266
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 5.4240827560424805
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 5.5390825271606445
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.029082775115967
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.094082832336426
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 9.164624214172363
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 9.424623489379883
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 9.900290489196777
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 10.526415824890137
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 10.58641529083252
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 10.942915916442871
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 11.105332374572754
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 11.723207473754883
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 11.933457374572754
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 12.87341594696045
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 13.093415260314941
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 13.268415451049805
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 13.40341567993164
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 14.205916404724121
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 14.34091567993164
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 14.822249412536621
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 15.621582984924316
+    }
+  ]
+}

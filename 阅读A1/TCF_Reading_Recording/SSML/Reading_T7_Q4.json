@@ -1,0 +1,97 @@
+{
+  "text": "VISITE DU CHÂTEAU\nGratuit pour les moins de 12 ans Quelle est l'information affichée sur ce panneau ?",
+  "words": [
+    "VISITE",
+    "DU",
+    "CHÂTEAU",
+    "Gratuit",
+    "pour",
+    "les",
+    "moins",
+    "de",
+    "12",
+    "ans",
+    "Quelle",
+    "est",
+    "l&apos;information",
+    "affichée",
+    "sur",
+    "ce",
+    "panneau",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.4049999713897705
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.5600000023841858
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9646249413490295
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4150416851043701
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.63420832157135
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.7392082214355469
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.969833254814148
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.0898330211639404
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.3810415267944336
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.541041612625122
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.76212477684021
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 2.822124719619751
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.5725834369659424
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 3.9835002422332764
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.19350004196167
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.318624973297119
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.713624954223633
+    }
+  ]
+}

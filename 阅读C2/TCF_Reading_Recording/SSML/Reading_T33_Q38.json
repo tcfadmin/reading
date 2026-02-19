@@ -1,0 +1,617 @@
+{
+  "text": "Qu'est-ce que la « banquise » ? Un amas de glace flottante, un peu comme un glaçon géant. D'ailleurs, ce mot nous fait spontanément penser à un banc de glace. On parle bien de banquette, alors pourquoi pas de banquise? Hélas, l'origine du mot est tout autre.\nEn fait, on devrait plutôt dire «panquise», puisque le mot provient d'une vieille langue scandinave, le norrois, dans laquelle un « pakkis » est un bloc de glace. Le début du mot appartiendrait à la famille de « paquet » et le «-Is » final signifie « glace » dans de nombreuses langues du Nord. Alors bien sûr, c'est la proximité du mot français «banc » qui a prêté à confusion. Qu'apprend-on dans cet article?",
+  "words": [
+    "Qu&apos;est-ce",
+    "que",
+    "la",
+    "«",
+    "banquise",
+    "»",
+    "?",
+    "Un",
+    "amas",
+    "de",
+    "glace",
+    "flottante,",
+    "un",
+    "peu",
+    "comme",
+    "un",
+    "glaçon",
+    "géant.",
+    "D&apos;ailleurs,",
+    "ce",
+    "mot",
+    "nous",
+    "fait",
+    "spontanément",
+    "penser",
+    "à",
+    "un",
+    "banc",
+    "de",
+    "glace.",
+    "On",
+    "parle",
+    "bien",
+    "de",
+    "banquette,",
+    "alors",
+    "pourquoi",
+    "pas",
+    "de",
+    "banquise?",
+    "Hélas,",
+    "l&apos;origine",
+    "du",
+    "mot",
+    "est",
+    "tout",
+    "autre.",
+    "En",
+    "fait,",
+    "on",
+    "devrait",
+    "plutôt",
+    "dire",
+    "«panquise»,",
+    "puisque",
+    "le",
+    "mot",
+    "provient",
+    "d&apos;une",
+    "vieille",
+    "langue",
+    "scandinave,",
+    "le",
+    "norrois,",
+    "dans",
+    "laquelle",
+    "un",
+    "«",
+    "pakkis",
+    "»",
+    "est",
+    "un",
+    "bloc",
+    "de",
+    "glace.",
+    "Le",
+    "début",
+    "du",
+    "mot",
+    "appartiendrait",
+    "à",
+    "la",
+    "famille",
+    "de",
+    "«",
+    "paquet",
+    "»",
+    "et",
+    "le",
+    "«-Is",
+    "»",
+    "final",
+    "signifie",
+    "«",
+    "glace",
+    "»",
+    "dans",
+    "de",
+    "nombreuses",
+    "langues",
+    "du",
+    "Nord.",
+    "Alors",
+    "bien",
+    "sûr,",
+    "c&apos;est",
+    "la",
+    "proximité",
+    "du",
+    "mot",
+    "français",
+    "«banc",
+    "»",
+    "qui",
+    "a",
+    "prêté",
+    "à",
+    "confusion.",
+    "Qu&apos;apprend-on",
+    "dans",
+    "cet",
+    "article?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.25999999046325684
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.4300000071525574
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.6449999809265137
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.8785833120346069
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5973750352859497
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5973750352859497
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.0487916469573975
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.2187914848327637
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.4440414905548096
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.5740413665771484
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 2.9207496643066406
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.784041404724121
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.899041175842285
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.08216667175293
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.342166423797607
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.42812442779541
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.863041400909424
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.126666069030762
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.8818745613098145
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 7.081916332244873
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.287041187286377
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.407041072845459
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.587040901184082
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.350957870483398
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.800957679748535
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.850749015808105
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.010749816894531
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.210748672485352
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.317207336425781
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 10.684415817260742
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.774415016174316
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.084540367126465
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.334540367126465
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.434540748596191
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.207123756408691
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.450456619262695
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.79666519165039
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.966665267944336
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.061665534973145
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.013998985290527
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.69145679473877
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 15.24283218383789
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.382831573486328
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.642831802368164
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.692831993103027
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 15.956457138061523
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.753372192382812
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.85337257385254
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.429622650146484
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 17.555706024169922
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 17.865705490112305
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 18.29691505432129
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 18.66883087158203
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.829998016357422
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 20.239206314086914
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.343122482299805
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.543121337890625
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 20.997081756591797
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 21.195415496826172
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 21.451290130615234
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 21.721290588378906
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 22.684831619262695
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 22.824831008911133
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.539539337158203
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 23.704540252685547
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 24.116914749145508
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 24.276914596557617
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 24.446914672851562
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 24.917081832885742
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 25.18375015258789
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 25.347248077392578
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 25.462249755859375
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 25.733707427978516
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 25.873706817626953
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 27.221664428710938
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 27.351665496826172
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 27.702497482299805
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 27.847497940063477
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 28.047832489013672
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 28.88520622253418
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 28.960206985473633
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 29.06020736694336
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 29.466873168945312
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 29.72895622253418
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 29.87395668029785
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 30.362247467041016
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 30.592248916625977
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 30.697248458862305
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 30.886873245239258
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 31.28187370300293
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 31.471874237060547
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 31.941665649414062
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 32.6632080078125
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 32.953208923339844
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 33.53628921508789
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 33.736289978027344
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 33.92691421508789
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 34.04191589355469
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 34.497413635253906
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 34.72266387939453
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 34.84266662597656
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 36.05712127685547
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 36.35212326049805
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 36.578956604003906
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 37.14912033081055
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 37.338165283203125
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 37.44316482543945
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 38.20832824707031
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 38.36333084106445
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 38.5469970703125
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 39.17045593261719
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 39.65028762817383
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 39.94028854370117
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 40.110286712646484
+    },
+    {
+      "markName": "115",
+      "timeSeconds": 40.165287017822266
+    },
+    {
+      "markName": "116",
+      "timeSeconds": 40.57066345214844
+    },
+    {
+      "markName": "117",
+      "timeSeconds": 40.640663146972656
+    },
+    {
+      "markName": "118",
+      "timeSeconds": 42.147911071777344
+    },
+    {
+      "markName": "119",
+      "timeSeconds": 42.68962097167969
+    },
+    {
+      "markName": "120",
+      "timeSeconds": 42.819618225097656
+    },
+    {
+      "markName": "121",
+      "timeSeconds": 43.03866195678711
+    }
+  ]
+}

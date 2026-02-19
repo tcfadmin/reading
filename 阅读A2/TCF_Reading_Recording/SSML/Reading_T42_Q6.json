@@ -1,0 +1,192 @@
+{
+  "text": "À cause de la grève de certains conducteurs de métro parisien, seul un train sur trois circule ce matin. La circulation de la ligne 9 va redevenir normale dans la soirée. Qu'est-ce qui est annoncé aux voyageurs?",
+  "words": [
+    "À",
+    "cause",
+    "de",
+    "la",
+    "grève",
+    "de",
+    "certains",
+    "conducteurs",
+    "de",
+    "métro",
+    "parisien,",
+    "seul",
+    "un",
+    "train",
+    "sur",
+    "trois",
+    "circule",
+    "ce",
+    "matin.",
+    "La",
+    "circulation",
+    "de",
+    "la",
+    "ligne",
+    "9",
+    "va",
+    "redevenir",
+    "normale",
+    "dans",
+    "la",
+    "soirée.",
+    "Qu&apos;est-ce",
+    "qui",
+    "est",
+    "annoncé",
+    "aux",
+    "voyageurs?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.09999999403953552
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.375
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.5060833096504211
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 0.6210833191871643
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 0.9617916941642761
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.0917917490005493
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 1.5265417098999023
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.147458553314209
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.262458562850952
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 2.6518335342407227
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.6035003662109375
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.893500566482544
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.008542060852051
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.283542156219482
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.5145416259765625
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.779749870300293
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.267749786376953
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.437749862670898
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.699166297912598
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.824166297912598
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 7.625374794006348
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.730374813079834
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.849791526794434
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.099791526794434
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.460000038146973
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.619999885559082
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.235249519348145
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.700291633605957
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.845416069030762
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.94041633605957
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 11.24291706085205
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.452917098999023
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.602916717529297
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.737874984741211
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.148208618164062
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.25320816040039
+    }
+  ]
+}

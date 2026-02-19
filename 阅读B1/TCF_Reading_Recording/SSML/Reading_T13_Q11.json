@@ -1,0 +1,197 @@
+{
+  "text": "Chez Doris\nAu restaurant Chez Doris, si vous prenez un menu complet avec une entrée, un plat et un dessert entre midi et 14h, le café sont offert (seulement du lundi au vendredi). Qu'est-ce que ce restaurant propose?",
+  "words": [
+    "Chez",
+    "Doris",
+    "Au",
+    "restaurant",
+    "Chez",
+    "Doris,",
+    "si",
+    "vous",
+    "prenez",
+    "un",
+    "menu",
+    "complet",
+    "avec",
+    "une",
+    "entrée,",
+    "un",
+    "plat",
+    "et",
+    "un",
+    "dessert",
+    "entre",
+    "midi",
+    "et",
+    "14h,",
+    "le",
+    "café",
+    "sont",
+    "offert",
+    "(seulement",
+    "du",
+    "lundi",
+    "au",
+    "vendredi).",
+    "Qu&apos;est-ce",
+    "que",
+    "ce",
+    "restaurant",
+    "propose?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.23499999940395355
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6908749341964722
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.7658749222755432
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.3139582872390747
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.5239582061767578
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.2851250171661377
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4897499084472656
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6197497844696045
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.0070416927337646
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.0920417308807373
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.3921666145324707
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.9219167232513428
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.196916580200195
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.334000110626221
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.120332717895508
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.230332851409912
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.555624485015869
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.670624256134033
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 5.765624046325684
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.2017903327941895
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.463498592376709
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.798332214355469
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 6.848332405090332
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.930624008178711
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.055624008178711
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.436582565307617
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.726207733154297
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.226415634155273
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.79675006866455
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.936750411987305
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.311749458312988
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.401749610900879
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.820958137512207
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 12.015957832336426
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.150958061218262
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.279915809631348
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.760540962219238
+    }
+  ]
+}

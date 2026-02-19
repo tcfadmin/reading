@@ -1,0 +1,622 @@
+{
+  "text": "L'alpinisme reste une affaire de mâles : les femmes sont très minoritaires en haute montagne et se cantonnent souvent au rôle de second de cordée. Mais au royaume de la testostérone, de la puissance physique et de l'héroïsation, une génération de femmes alpinistes est en train de bouleverser la donne.\nEn Himalaya, une des performances les plus importantes est l'ascension du Nanga Parbat par Elisabeth Revol. Si son exploit a été éclipsé par une tragédie à la descente, elle n'en reste pas moins la première femme à avoir gravi un tel sommet en hiver et en style alpin. Le message est limpide : les femmes ont leur place dans l'élite de l'himalayisme. Selon cet article, quelle est la situation des femmes alpinistes ?",
+  "words": [
+    "L&apos;alpinisme",
+    "reste",
+    "une",
+    "affaire",
+    "de",
+    "mâles",
+    ":",
+    "les",
+    "femmes",
+    "sont",
+    "très",
+    "minoritaires",
+    "en",
+    "haute",
+    "montagne",
+    "et",
+    "se",
+    "cantonnent",
+    "souvent",
+    "au",
+    "rôle",
+    "de",
+    "second",
+    "de",
+    "cordée.",
+    "Mais",
+    "au",
+    "royaume",
+    "de",
+    "la",
+    "testostérone,",
+    "de",
+    "la",
+    "puissance",
+    "physique",
+    "et",
+    "de",
+    "l&apos;héroïsation,",
+    "une",
+    "génération",
+    "de",
+    "femmes",
+    "alpinistes",
+    "est",
+    "en",
+    "train",
+    "de",
+    "bouleverser",
+    "la",
+    "donne.",
+    "En",
+    "Himalaya,",
+    "une",
+    "des",
+    "performances",
+    "les",
+    "plus",
+    "importantes",
+    "est",
+    "l&apos;ascension",
+    "du",
+    "Nanga",
+    "Parbat",
+    "par",
+    "Elisabeth",
+    "Revol.",
+    "Si",
+    "son",
+    "exploit",
+    "a",
+    "été",
+    "éclipsé",
+    "par",
+    "une",
+    "tragédie",
+    "à",
+    "la",
+    "descente,",
+    "elle",
+    "n&apos;en",
+    "reste",
+    "pas",
+    "moins",
+    "la",
+    "première",
+    "femme",
+    "à",
+    "avoir",
+    "gravi",
+    "un",
+    "tel",
+    "sommet",
+    "en",
+    "hiver",
+    "et",
+    "en",
+    "style",
+    "alpin.",
+    "Le",
+    "message",
+    "est",
+    "limpide",
+    ":",
+    "les",
+    "femmes",
+    "ont",
+    "leur",
+    "place",
+    "dans",
+    "l&apos;élite",
+    "de",
+    "l&apos;himalayisme.",
+    "Selon",
+    "cet",
+    "article,",
+    "quelle",
+    "est",
+    "la",
+    "situation",
+    "des",
+    "femmes",
+    "alpinistes",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.7747917175292969
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.0797916650772095
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2538751363754272
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5642082691192627
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.6842082738876343
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.01895809173584
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.490374803543091
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.6253747940063477
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.014291524887085
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.2587080001831055
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.468708038330078
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.189208030700684
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.319416522979736
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.5594162940979
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.185749530792236
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.250749588012695
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.445749759674072
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.905791282653809
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.3358330726623535
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.425833225250244
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.68179178237915
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 6.801792144775391
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.203667163848877
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.308667182922363
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.666167259216309
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.826167106628418
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.936166763305664
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.3861665725708
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.50766658782959
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.617667198181152
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.821125030517578
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.976125717163086
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.08620834350586
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.668875694274902
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 12.159667015075684
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.213791847229004
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.333791732788086
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.665916442871094
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.80154037475586
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 14.472166061401367
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 14.584416389465332
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 14.997249603271484
+    },
+    {
+      "markName": "43",
+      "timeSeconds": 15.648124694824219
+    },
+    {
+      "markName": "44",
+      "timeSeconds": 15.797666549682617
+    },
+    {
+      "markName": "45",
+      "timeSeconds": 15.917667388916016
+    },
+    {
+      "markName": "46",
+      "timeSeconds": 16.152708053588867
+    },
+    {
+      "markName": "47",
+      "timeSeconds": 16.26770782470703
+    },
+    {
+      "markName": "48",
+      "timeSeconds": 16.92304229736328
+    },
+    {
+      "markName": "49",
+      "timeSeconds": 17.053043365478516
+    },
+    {
+      "markName": "50",
+      "timeSeconds": 18.275209426879883
+    },
+    {
+      "markName": "51",
+      "timeSeconds": 18.450210571289062
+    },
+    {
+      "markName": "52",
+      "timeSeconds": 19.305835723876953
+    },
+    {
+      "markName": "53",
+      "timeSeconds": 19.46550178527832
+    },
+    {
+      "markName": "54",
+      "timeSeconds": 19.58550262451172
+    },
+    {
+      "markName": "55",
+      "timeSeconds": 20.36308479309082
+    },
+    {
+      "markName": "56",
+      "timeSeconds": 20.463085174560547
+    },
+    {
+      "markName": "57",
+      "timeSeconds": 20.744667053222656
+    },
+    {
+      "markName": "58",
+      "timeSeconds": 21.474960327148438
+    },
+    {
+      "markName": "59",
+      "timeSeconds": 21.539958953857422
+    },
+    {
+      "markName": "60",
+      "timeSeconds": 22.17612648010254
+    },
+    {
+      "markName": "61",
+      "timeSeconds": 22.32112693786621
+    },
+    {
+      "markName": "62",
+      "timeSeconds": 22.79708480834961
+    },
+    {
+      "markName": "63",
+      "timeSeconds": 23.335084915161133
+    },
+    {
+      "markName": "64",
+      "timeSeconds": 23.570085525512695
+    },
+    {
+      "markName": "65",
+      "timeSeconds": 24.170501708984375
+    },
+    {
+      "markName": "66",
+      "timeSeconds": 25.560874938964844
+    },
+    {
+      "markName": "67",
+      "timeSeconds": 25.740875244140625
+    },
+    {
+      "markName": "68",
+      "timeSeconds": 26.0106258392334
+    },
+    {
+      "markName": "69",
+      "timeSeconds": 26.505584716796875
+    },
+    {
+      "markName": "70",
+      "timeSeconds": 26.555583953857422
+    },
+    {
+      "markName": "71",
+      "timeSeconds": 26.797834396362305
+    },
+    {
+      "markName": "72",
+      "timeSeconds": 27.37762451171875
+    },
+    {
+      "markName": "73",
+      "timeSeconds": 27.59262466430664
+    },
+    {
+      "markName": "74",
+      "timeSeconds": 27.702625274658203
+    },
+    {
+      "markName": "75",
+      "timeSeconds": 28.2882080078125
+    },
+    {
+      "markName": "76",
+      "timeSeconds": 28.33820915222168
+    },
+    {
+      "markName": "77",
+      "timeSeconds": 28.443208694458008
+    },
+    {
+      "markName": "78",
+      "timeSeconds": 29.442041397094727
+    },
+    {
+      "markName": "79",
+      "timeSeconds": 29.549875259399414
+    },
+    {
+      "markName": "80",
+      "timeSeconds": 29.724876403808594
+    },
+    {
+      "markName": "81",
+      "timeSeconds": 30.035167694091797
+    },
+    {
+      "markName": "82",
+      "timeSeconds": 30.195167541503906
+    },
+    {
+      "markName": "83",
+      "timeSeconds": 30.39983367919922
+    },
+    {
+      "markName": "84",
+      "timeSeconds": 30.504833221435547
+    },
+    {
+      "markName": "85",
+      "timeSeconds": 30.939167022705078
+    },
+    {
+      "markName": "86",
+      "timeSeconds": 31.254791259765625
+    },
+    {
+      "markName": "87",
+      "timeSeconds": 31.304792404174805
+    },
+    {
+      "markName": "88",
+      "timeSeconds": 31.588459014892578
+    },
+    {
+      "markName": "89",
+      "timeSeconds": 32.041168212890625
+    },
+    {
+      "markName": "90",
+      "timeSeconds": 32.136165618896484
+    },
+    {
+      "markName": "91",
+      "timeSeconds": 32.37116622924805
+    },
+    {
+      "markName": "92",
+      "timeSeconds": 32.75529098510742
+    },
+    {
+      "markName": "93",
+      "timeSeconds": 32.961708068847656
+    },
+    {
+      "markName": "94",
+      "timeSeconds": 33.39674758911133
+    },
+    {
+      "markName": "95",
+      "timeSeconds": 33.47174835205078
+    },
+    {
+      "markName": "96",
+      "timeSeconds": 33.581748962402344
+    },
+    {
+      "markName": "97",
+      "timeSeconds": 33.90020751953125
+    },
+    {
+      "markName": "98",
+      "timeSeconds": 35.198204040527344
+    },
+    {
+      "markName": "99",
+      "timeSeconds": 35.31320571899414
+    },
+    {
+      "markName": "100",
+      "timeSeconds": 35.77682876586914
+    },
+    {
+      "markName": "101",
+      "timeSeconds": 35.83182907104492
+    },
+    {
+      "markName": "102",
+      "timeSeconds": 36.357330322265625
+    },
+    {
+      "markName": "103",
+      "timeSeconds": 36.71674728393555
+    },
+    {
+      "markName": "104",
+      "timeSeconds": 36.8364143371582
+    },
+    {
+      "markName": "105",
+      "timeSeconds": 37.19132995605469
+    },
+    {
+      "markName": "106",
+      "timeSeconds": 37.276329040527344
+    },
+    {
+      "markName": "107",
+      "timeSeconds": 37.45132827758789
+    },
+    {
+      "markName": "108",
+      "timeSeconds": 37.78453826904297
+    },
+    {
+      "markName": "109",
+      "timeSeconds": 37.93516159057617
+    },
+    {
+      "markName": "110",
+      "timeSeconds": 38.25016403198242
+    },
+    {
+      "markName": "111",
+      "timeSeconds": 38.39033126831055
+    },
+    {
+      "markName": "112",
+      "timeSeconds": 40.06632995605469
+    },
+    {
+      "markName": "113",
+      "timeSeconds": 40.41633224487305
+    },
+    {
+      "markName": "114",
+      "timeSeconds": 40.66999816894531
+    },
+    {
+      "markName": "115",
+      "timeSeconds": 41.46720504760742
+    },
+    {
+      "markName": "116",
+      "timeSeconds": 41.67229080200195
+    },
+    {
+      "markName": "117",
+      "timeSeconds": 41.7322883605957
+    },
+    {
+      "markName": "118",
+      "timeSeconds": 41.8472900390625
+    },
+    {
+      "markName": "119",
+      "timeSeconds": 42.5551643371582
+    },
+    {
+      "markName": "120",
+      "timeSeconds": 42.670162200927734
+    },
+    {
+      "markName": "121",
+      "timeSeconds": 43.05449676513672
+    },
+    {
+      "markName": "122",
+      "timeSeconds": 43.733665466308594
+    }
+  ]
+}

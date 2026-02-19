@@ -1,0 +1,157 @@
+{
+  "text": "Vend Renault grise 50 000 km.\nClimatiseur automatique airbag.\n4 vitres électriques, autoradio.\nBon état général, 2100 euros.\nContactez Pierre au 06 97 73 61 27. Que cherche Pierre ?",
+  "words": [
+    "Vend",
+    "Renault",
+    "grise",
+    "50",
+    "000",
+    "km.",
+    "Climatiseur",
+    "automatique",
+    "airbag.",
+    "4",
+    "vitres",
+    "électriques,",
+    "autoradio.",
+    "Bon",
+    "état",
+    "général,",
+    "2100",
+    "euros.",
+    "Contactez",
+    "Pierre",
+    "au",
+    "06",
+    "97",
+    "73",
+    "61",
+    "27.",
+    "Que",
+    "cherche",
+    "Pierre",
+    "?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2849999964237213
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.640625
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.0309582948684692
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5980000495910645
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.650416612625122
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 3.7537503242492676
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 4.5341668128967285
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 5.244375228881836
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 6.024083614349365
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 6.3890838623046875
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.807750225067139
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 7.679250717163086
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 8.788458824157715
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 9.033458709716797
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 9.275208473205566
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 10.123666763305664
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 10.848833084106445
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 11.581459045410156
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 12.154708862304688
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 12.564374923706055
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 12.679375648498535
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 13.486124992370605
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 14.585624694824219
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 15.498125076293945
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 16.361665725708008
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 17.466957092285156
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 17.59695816040039
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 17.982166290283203
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 18.392166137695312
+    }
+  ]
+}

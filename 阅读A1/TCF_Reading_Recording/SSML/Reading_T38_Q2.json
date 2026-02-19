@@ -1,0 +1,127 @@
+{
+  "text": "De: standard@entreprise.fr\nÀ: duvaljulie@entreprise.fr\nObjet: message urgent\n\nRappelez monsieur Durand au 01 47 38 91 88 Que doit faire la destinataire de ce message?",
+  "words": [
+    "De:",
+    "standard@entreprise.fr",
+    "À:",
+    "duvaljulie@entreprise.fr",
+    "Objet:",
+    "message",
+    "urgent",
+    "Rappelez",
+    "monsieur",
+    "Durand",
+    "au",
+    "01",
+    "47",
+    "38",
+    "91",
+    "88",
+    "Que",
+    "doit",
+    "faire",
+    "la",
+    "destinataire",
+    "de",
+    "ce",
+    "message?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.48000001907348633
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 2.8939168453216553
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 3.425875186920166
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 6.118041515350342
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 7.08799934387207
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 7.53849983215332
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 7.923999786376953
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 8.308375358581543
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 8.67345905303955
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 9.178584098815918
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 9.313584327697754
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 9.8680419921875
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 10.63425064086914
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 11.400250434875488
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 12.296416282653809
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 13.256582260131836
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 13.421582221984863
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 13.586581230163574
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 13.832623481750488
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 13.94262409210205
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 14.688957214355469
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 14.788957595825195
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 14.933666229248047
+    }
+  ]
+}

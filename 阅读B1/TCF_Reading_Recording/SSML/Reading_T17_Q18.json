@@ -1,0 +1,177 @@
+{
+  "text": "Spécial étudiant\nVous avez trouvé un logement (chambre, studio, deux-pièces...)? N'oubliez pas de vous assurer. Promotion exceptionnelle, 3 mois d'assurance gratuite si vous vous inscrivez avant le 30 septembre. Qu'est-ce que cette annone propose?",
+  "words": [
+    "Spécial",
+    "étudiant",
+    "Vous",
+    "avez",
+    "trouvé",
+    "un",
+    "logement",
+    "(chambre,",
+    "studio,",
+    "deux-pièces...)?",
+    "N&apos;oubliez",
+    "pas",
+    "de",
+    "vous",
+    "assurer.",
+    "Promotion",
+    "exceptionnelle,",
+    "3",
+    "mois",
+    "d&apos;assurance",
+    "gratuite",
+    "si",
+    "vous",
+    "vous",
+    "inscrivez",
+    "avant",
+    "le",
+    "30",
+    "septembre.",
+    "Qu&apos;est-ce",
+    "que",
+    "cette",
+    "annone",
+    "propose?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.5556666851043701
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 1.096083402633667
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.3317917585372925
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.4967917203903198
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.8486251831054688
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.9436252117156982
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.4400835037231445
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.335792064666748
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 4.161125659942627
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 5.675083637237549
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 6.106208801269531
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 6.306208610534668
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 6.401208877563477
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 6.621833801269531
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 7.534083843231201
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 8.124709129333496
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 9.122000694274902
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 9.372000694274902
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 9.557209014892578
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 10.113125801086426
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.733708381652832
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 10.913708686828613
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 11.050292015075684
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 11.265292167663574
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 11.752126693725586
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 12.018376350402832
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 12.118375778198242
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 12.452751159667969
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 13.999959945678711
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 14.209959983825684
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 14.339959144592285
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 14.586750984191895
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 14.88145923614502
+    }
+  ]
+}

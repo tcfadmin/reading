@@ -1,0 +1,212 @@
+{
+  "text": "Louisa\nest arrivée avec un peu d'avance le 14 mars, pour le plus grand bonheur de sa famille.\nVous pouvez venir lui dire bonjour au 3, rue des bleuets à Laval. Chez Agnès et Éric Tournier. Qu'est-ce que ce message annonce?",
+  "words": [
+    "Louisa",
+    "est",
+    "arrivée",
+    "avec",
+    "un",
+    "peu",
+    "d&apos;avance",
+    "le",
+    "14",
+    "mars,",
+    "pour",
+    "le",
+    "plus",
+    "grand",
+    "bonheur",
+    "de",
+    "sa",
+    "famille.",
+    "Vous",
+    "pouvez",
+    "venir",
+    "lui",
+    "dire",
+    "bonjour",
+    "au",
+    "3,",
+    "rue",
+    "des",
+    "bleuets",
+    "à",
+    "Laval.",
+    "Chez",
+    "Agnès",
+    "et",
+    "Éric",
+    "Tournier.",
+    "Qu&apos;est-ce",
+    "que",
+    "ce",
+    "message",
+    "annonce?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.44487500190734863
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.6148750185966492
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9965000152587891
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.2901248931884766
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 1.3751249313354492
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 1.5351250171661377
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.12654185295105
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.231541872024536
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 2.784791946411133
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.428833484649658
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 3.615041732788086
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 3.7150416374206543
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 3.910041570663452
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.170749187469482
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 4.546165943145752
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 4.64616584777832
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 4.796666145324707
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 6.139124393463135
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.284124374389648
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.594749450683594
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.920374393463135
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.09037446975708
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.34399938583374
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 7.859416484832764
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 7.96441650390625
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.520541191101074
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 8.720541000366211
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 8.861332893371582
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.226332664489746
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.312041282653809
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.696457862854004
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 11.011457443237305
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 11.523332595825195
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 11.598332405090332
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.938332557678223
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.880166053771973
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 13.085165977478027
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 13.215166091918945
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 13.351290702819824
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 13.761457443237305
+    }
+  ]
+}

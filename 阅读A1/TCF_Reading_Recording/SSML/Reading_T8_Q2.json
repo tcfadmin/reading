@@ -1,0 +1,142 @@
+{
+  "text": "Vous êtes petit, blond, gros?\nVous avez les cheveux longs?\nVous voulez faire du cinéma?\nContactez-nous au 05 45 87 86 68 Qu'est-ce que cette annonce propose?",
+  "words": [
+    "Vous",
+    "êtes",
+    "petit,",
+    "blond,",
+    "gros?",
+    "Vous",
+    "avez",
+    "les",
+    "cheveux",
+    "longs?",
+    "Vous",
+    "voulez",
+    "faire",
+    "du",
+    "cinéma?",
+    "Contactez-nous",
+    "au",
+    "05",
+    "45",
+    "87",
+    "86",
+    "68",
+    "Qu&apos;est-ce",
+    "que",
+    "cette",
+    "annonce",
+    "propose?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.2199999988079071
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.35499998927116394
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 0.9368333220481873
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.5993332862854004
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.3576247692108154
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.572624683380127
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.7582497596740723
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 2.8582496643066406
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.204124689102173
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.9017913341522217
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.0317912101745605
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.276791095733643
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.532249450683594
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.657249450683594
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.6142497062683105
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 6.314457893371582
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 6.437291622161865
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 7.216041564941406
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 8.066583633422852
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 9.085208892822266
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 10.205458641052246
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 11.08912467956543
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 11.37912368774414
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 11.514123916625977
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 11.759123802185059
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 12.0487060546875
+    }
+  ]
+}

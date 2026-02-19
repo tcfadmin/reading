@@ -1,0 +1,222 @@
+{
+  "text": "Pour l'été, voici quelques gestessimples s'il fait très chaud:\n- boire un litre et demi d'eau par jour;\n- limiter les efforts physiques;\n- manger des fruits et des légumes;\n- garder sa maison au frais. Quel est le but de cette annonce?",
+  "words": [
+    "Pour",
+    "l&apos;été,",
+    "voici",
+    "quelques",
+    "gestessimples",
+    "s&apos;il",
+    "fait",
+    "très",
+    "chaud:",
+    "-",
+    "boire",
+    "un",
+    "litre",
+    "et",
+    "demi",
+    "d&apos;eau",
+    "par",
+    "jour;",
+    "-",
+    "limiter",
+    "les",
+    "efforts",
+    "physiques;",
+    "-",
+    "manger",
+    "des",
+    "fruits",
+    "et",
+    "des",
+    "légumes;",
+    "-",
+    "garder",
+    "sa",
+    "maison",
+    "au",
+    "frais.",
+    "Quel",
+    "est",
+    "le",
+    "but",
+    "de",
+    "cette",
+    "annonce?"
+  ],
+  "timepoints": [
+    {
+      "markName": "0",
+      "timeSeconds": 0.014999999664723873
+    },
+    {
+      "markName": "1",
+      "timeSeconds": 0.20000000298023224
+    },
+    {
+      "markName": "2",
+      "timeSeconds": 0.8040416240692139
+    },
+    {
+      "markName": "3",
+      "timeSeconds": 1.2046250104904175
+    },
+    {
+      "markName": "4",
+      "timeSeconds": 1.584999918937683
+    },
+    {
+      "markName": "5",
+      "timeSeconds": 2.4920835494995117
+    },
+    {
+      "markName": "6",
+      "timeSeconds": 2.727083683013916
+    },
+    {
+      "markName": "7",
+      "timeSeconds": 2.9012086391448975
+    },
+    {
+      "markName": "8",
+      "timeSeconds": 3.0962085723876953
+    },
+    {
+      "markName": "9",
+      "timeSeconds": 3.376208782196045
+    },
+    {
+      "markName": "10",
+      "timeSeconds": 3.9308338165283203
+    },
+    {
+      "markName": "11",
+      "timeSeconds": 4.250833511352539
+    },
+    {
+      "markName": "12",
+      "timeSeconds": 4.336458683013916
+    },
+    {
+      "markName": "13",
+      "timeSeconds": 4.701875686645508
+    },
+    {
+      "markName": "14",
+      "timeSeconds": 4.756875514984131
+    },
+    {
+      "markName": "15",
+      "timeSeconds": 5.0318756103515625
+    },
+    {
+      "markName": "16",
+      "timeSeconds": 5.206875801086426
+    },
+    {
+      "markName": "17",
+      "timeSeconds": 5.436875820159912
+    },
+    {
+      "markName": "18",
+      "timeSeconds": 5.847584247589111
+    },
+    {
+      "markName": "19",
+      "timeSeconds": 6.269500732421875
+    },
+    {
+      "markName": "20",
+      "timeSeconds": 6.744916915893555
+    },
+    {
+      "markName": "21",
+      "timeSeconds": 6.949916362762451
+    },
+    {
+      "markName": "22",
+      "timeSeconds": 7.25991678237915
+    },
+    {
+      "markName": "23",
+      "timeSeconds": 7.871166229248047
+    },
+    {
+      "markName": "24",
+      "timeSeconds": 8.16116714477539
+    },
+    {
+      "markName": "25",
+      "timeSeconds": 8.52095890045166
+    },
+    {
+      "markName": "26",
+      "timeSeconds": 8.653959274291992
+    },
+    {
+      "markName": "27",
+      "timeSeconds": 9.01470947265625
+    },
+    {
+      "markName": "28",
+      "timeSeconds": 9.07970905303955
+    },
+    {
+      "markName": "29",
+      "timeSeconds": 9.209709167480469
+    },
+    {
+      "markName": "30",
+      "timeSeconds": 9.69295883178711
+    },
+    {
+      "markName": "31",
+      "timeSeconds": 10.090584754943848
+    },
+    {
+      "markName": "32",
+      "timeSeconds": 10.457124710083008
+    },
+    {
+      "markName": "33",
+      "timeSeconds": 10.637958526611328
+    },
+    {
+      "markName": "34",
+      "timeSeconds": 10.982833862304688
+    },
+    {
+      "markName": "35",
+      "timeSeconds": 11.057833671569824
+    },
+    {
+      "markName": "36",
+      "timeSeconds": 12.232792854309082
+    },
+    {
+      "markName": "37",
+      "timeSeconds": 12.442792892456055
+    },
+    {
+      "markName": "38",
+      "timeSeconds": 12.507792472839355
+    },
+    {
+      "markName": "39",
+      "timeSeconds": 12.607792854309082
+    },
+    {
+      "markName": "40",
+      "timeSeconds": 12.859625816345215
+    },
+    {
+      "markName": "41",
+      "timeSeconds": 12.989625930786133
+    },
+    {
+      "markName": "42",
+      "timeSeconds": 13.225625991821289
+    }
+  ]
+}
