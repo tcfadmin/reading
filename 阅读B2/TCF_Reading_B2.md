@@ -11999,3 +11999,5 @@ D. L'exploitation des forêts peut pallier entièrement le nucléaire
 
 ---
 </div><span class="q-end" data-qid="T9Q29"></span>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{if(/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)){let a=null;document.querySelectorAll(".tcf-mini-player button").forEach(b=>{b.addEventListener("click",function(e){e.stopPropagation();e.preventDefault();if(a){a.pause();a.currentTime=0}let c=this.closest(".card, .question"),d="TCF_Audio";if(c){let m=(c.getAttribute("data-qid")||"").match(/T(\d+)Q(\d+)/i);if(m)d=`${document.body.innerText.includes("Listening")?"Listening":"Reading"}_T${m[1]}_Q${m[2]}`}let p=`./TCF_Reading_Recording/${d}.mp3`;a=new Audio(p);a.play().then(()=>{this.innerHTML="⏸️🔊"}).catch(()=>alert("MP3 加载失败: "+p));a.onended=()=>{this.innerHTML="▶️🔊"}},!0)})}});</script>
