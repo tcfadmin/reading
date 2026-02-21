@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TCF 备考全能站 - Vancouver</title>
     <style>
-        :root { --primary-blue: #3498db; --dark-blue: #2c3e50; --bg-gray: #f4f7f9; }
+        :root { --primary-blue: #3498db; --dark-blue: #2c3e50; --bg-gray: #f4f7f9; --radio-theme: #2ecc71;}
         body { font-family: -apple-system, sans-serif; margin: 0; background: var(--bg-gray); color: var(--dark-blue); }
         
         .header { text-align: center; padding: 30px 20px; background: white; border-bottom: 1px solid #ddd; }
@@ -54,6 +54,61 @@
             transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             border: 1px solid #edf2f7;
         }
+		/* 1. 定义绿色主题变量（放在 :root 中） */
+
+		/* 2. 随身听容器：强制纵向排列并对齐样式 */
+		.radio-container {
+			flex-direction: column;
+			align-items: flex-start !important;
+			cursor: default;
+			padding: 12px 16px !important;
+		}
+
+		/* 覆盖原有悬停效果，防止这一行像其他按钮一样左右晃动 */
+		.radio-container:hover { 
+			transform: none !important; 
+			border-color: #edf2f7 !important; 
+			box-shadow: none !important; 
+		}
+
+		/* 3. 随身听小标题样式 */
+		.radio-label {
+			font-size: 12px;
+			color: var(--radio-theme);
+			font-weight: 800;
+			margin-bottom: 8px;
+			display: flex;
+			align-items: center;
+			gap: 5px;
+		}
+
+		/* 4. 六栏按钮网格布局 */
+		.mini-radio-grid {
+			display: grid;
+			grid-template-columns: repeat(6, 1fr); /* 核心：平分6列 */
+			gap: 6px;
+			width: 100%;
+		}
+
+		/* 5. 小按钮的基础样式 */
+		.mini-btn {
+			text-align: center;
+			padding: 6px 0;
+			background: white;
+			border: 1px solid #ddd;
+			border-radius: 6px;
+			font-size: 11px;
+			color: #2c3e50; /* 这里的颜色要跟你原有的 dark-blue 保持一致 */
+			text-decoration: none;
+			transition: 0.2s;
+		}
+
+		/* 6. 小按钮的悬停变色效果 */
+		.mini-btn:hover {
+			background: var(--radio-theme);
+			color: white;
+			border-color: var(--radio-theme);
+		}
 
         .menu-item:hover { background: white; border-color: var(--primary-blue); transform: translateX(8px); box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1); }
         .menu-item:active { transform: scale(0.97); }
@@ -79,7 +134,19 @@
                 <a href="https://listening.taogeshare.com/听力B2/TCF_Listening_B2.html" target="_blank" class="menu-item"><span class="icon">B2</span> Niveau 中高级</a>
                 <a href="https://listening.taogeshare.com/听力C1/TCF_Listening_C1.html" target="_blank" class="menu-item"><span class="icon">C1</span> Niveau 高级</a>
                 <a href="https://listening.taogeshare.com/听力C2/TCF_Listening_C2.html" target="_blank" class="menu-item"><span class="icon">C2</span> Niveau 精通级</a>
+				<div class="menu-item radio-container">
+                    <div class="radio-label">📻 TCF 听力随身听</div>
+                    <div class="mini-radio-grid">
+                        <a href="../listening/听力A1/Radio_A1.html" target="_blank" class="mini-btn">A1</a>
+                        <a href="../listening/听力A2/Radio_A2.html" target="_blank" class="mini-btn">A2</a>
+                        <a href="../listening/听力B1/Radio_B1.html" target="_blank" class="mini-btn">B1</a>
+                        <a href="../listening/听力B2/Radio_B2.html" target="_blank" class="mini-btn">B2</a>
+                        <a href="../listening/听力C1/Radio_C1.html" target="_blank" class="mini-btn">C1</a>
+                        <a href="../listening/听力C2/Radio_C2.html" target="_blank" class="mini-btn">C2</a>
+                    </div>
+                </div>
             </div>
+			
         </div>
 
         <div class="section-card">
@@ -91,6 +158,17 @@
                 <a href="https://reading.taogeshare.com/阅读B2/TCF_Reading_B2.html" target="_blank" class="menu-item"><span class="icon">B2</span> Niveau 中高级</a>
                 <a href="https://reading.taogeshare.com/阅读C1/TCF_Reading_C1.html" target="_blank" class="menu-item"><span class="icon">C1</span> Niveau 高级</a>
                 <a href="https://reading.taogeshare.com/阅读C2/TCF_Reading_C2.html" target="_blank" class="menu-item"><span class="icon">C2</span> Niveau 精通级</a>
+				<div class="menu-item radio-container">
+                    <div class="radio-label">📻 TCF 阅读随身听</div>
+                    <div class="mini-radio-grid">
+                        <a href="./阅读A1/Radio_A1.html" target="_blank" class="mini-btn">A1</a>
+                        <a href="./阅读A2/Radio_A2.html" target="_blank" class="mini-btn">A2</a>
+                        <a href="./阅读B1/Radio_B1.html" target="_blank" class="mini-btn">B1</a>
+                        <a href="./阅读B2/Radio_B2.html" target="_blank" class="mini-btn">B2</a>
+                        <a href="./阅读C1/Radio_C1.html" target="_blank" class="mini-btn">C1</a>
+                        <a href="./阅读C2/Radio_C2.html" target="_blank" class="mini-btn">C2</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

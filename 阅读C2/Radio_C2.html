@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>TCF C2 - 阅读随身听</title>
+    <style>
+        :root {
+            --theme-color: #2ecc71;  /* 播放键默认：清新绿 */
+            --theme-dark: #27ae60;   /* 播放键悬停：深绿 */
+            --side-color: #95a5a6;   /* 侧边键默认：高级灰 */
+            --side-hover: #3498db;   /* 侧边键悬停：湖蓝色 */
+            --glass: rgba(255, 255, 255, 0.7);
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%);
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; 
+			/* 🎯 重点 3：使用 svh (Small Viewport Height)，完美避开手机地址栏/控制栏 */
+			height: 100svh; 
+			padding-top: 15px;
+			/* 🎯 重点 4：给底部也留出强制的 15px 呼吸空间 */
+			padding-bottom: 15px; 
+            margin: 0;
+            overflow: hidden;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .player-card {
+            background: var(--glass);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            width: 96%;
+            max-width: 380px;
+			/* 🎯 重点 1：使用 calc() 动态计算高度，减去顶部的 padding，防止撑爆 */
+			height: calc(100% - 20px); 
+			/* 🎯 重点 2：配合 max-height 限制，防止在平板上拉得太长 */
+			max-height: 850px;
+            padding: 20px;
+            border-radius: 28px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+            border: 1px solid rgba(255,255,255,0.4);
+            display: flex;
+            flex-direction: column;
+            align-items: center; 
+            box-sizing: border-box; 
+        }
+		.cover-art {
+					width: 140px;
+					height: 140px;
+					
+					/* 🎯 重点修改 1：浅绿到浅蓝的渐变色 */
+					background: linear-gradient(45deg, #84fab0 0%, #8fd3f4 100%); 
+					
+					margin: 5px auto 15px;
+					border-radius: 20px;
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					font-size: 50px; 
+					
+					/* 🎯 重点修改 2：把阴影也改成匹配的淡淡青色，去掉原来的粉色阴影 */
+					box-shadow: 0 10px 20px rgba(132, 250, 176, 0.3); 
+					
+					transition: transform 0.3s ease;
+					flex-shrink: 0;
+		}
+        .playing .cover-art { transform: scale(1.05); }
+
+        h2 { margin: 0; font-size: 1.1rem; color: #1d1d1f; text-align: center; width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        #status { font-size: 0.8rem; color: #86868b; margin-top: 4px; text-align: center; width: 100%; }
+
+        .progress-box {
+            width: 100%; height: 5px; background: rgba(0,0,0,0.05); border-radius: 10px; margin: 25px 0 15px; cursor: pointer; position: relative;
+        }
+        .progress-bar {
+            height: 100%; background: var(--theme-color); width: 0%; border-radius: 10px; transition: width 0.1s linear;
+        }
+
+        .controls { 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            gap: 30px; /* 拉近一点，显得更紧凑高级 */
+            margin: 10px 0 20px; 
+            width: 100%;
+        }
+
+        /* 彻底清除 Windows/Chrome 的蓝色点击焦点框 */
+        button {
+            background: none !important;
+            border: none !important;
+            outline: none !important; 
+            box-shadow: none !important;
+            padding: 0;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        button:focus, button:active, button:focus-visible {
+            outline: none !important;
+        }
+
+        /* 🎯 侧边按钮：默认灰，悬停湖蓝 + 阴影 */
+        .btn-side {
+            color: var(--side-color); 
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .btn-side:hover {
+            color: var(--side-hover); 
+            transform: scale(1.15); 
+            filter: drop-shadow(0 4px 8px rgba(52, 152, 219, 0.5));
+        }
+        .btn-side:active { 
+            transform: scale(0.95); 
+            filter: drop-shadow(0 2px 4px rgba(52, 152, 219, 0.3));
+        }
+
+        /* 🎯 播放按钮：默认绿，悬停深绿 + 阴影 */
+        .play-btn {
+            color: var(--theme-color);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .play-btn:hover {
+            color: var(--theme-dark);
+            transform: scale(1.15);
+            filter: drop-shadow(0 4px 8px rgba(46, 204, 113, 0.5));
+        }
+        .play-btn:active { 
+            transform: scale(0.95); 
+            filter: drop-shadow(0 2px 4px rgba(46, 204, 113, 0.3));
+        }
+
+        #playlist {
+            flex: 1; 
+            width: 100%; 
+            overflow-y: auto;
+            text-align: left;
+            border-top: 1px solid rgba(0,0,0,0.05);
+            padding-top: 10px;
+            -webkit-overflow-scrolling: touch;
+        }
+        
+        /* 优化 Windows 滚动条 */
+        #playlist::-webkit-scrollbar { width: 5px; }
+        #playlist::-webkit-scrollbar-track { background: transparent; }
+        #playlist::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 10px; }
+        #playlist::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.3); }
+
+        .track-item {
+            padding: 12px 15px;
+            margin-bottom: 2px;
+            border-radius: 10px;
+            font-size: 13px;
+            color: #424245;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .track-item:hover { background: rgba(0,0,0,0.03); }
+        .track-item.active {
+            background: rgba(46, 204, 113, 0.1);
+            color: var(--theme-color);
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+<div class="player-card" id="card">
+    <div class="cover-art">🚩</div>
+    <h2 id="title">TCF C2 - Maîtrise</h2>
+    <div id="status">Prêt pour l'écoute...</div>
+
+    <div class="progress-box" id="progressBox">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <div class="controls">
+        <button class="btn-side" onclick="changeTrack(-1)">
+            <svg width="50" height="50" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M7 6c.55 0 1 .45 1 1v10c0 .55-.45 1-1 1s-1-.45-1-1V7c0-.55.45-1 1-1zm3.66 6.82l5.77 4.07c.66.47 1.58-.01 1.58-.82V7.93c0-.81-.91-1.28-1.58-.82l-5.77 4.07a1 1 0 0 0 0 1.64z"/>
+            </svg>
+        </button>
+        <button class="play-btn" id="playBtn" onclick="togglePlay()">
+            <svg width="50" height="50" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18c.62-.39.62-1.29 0-1.69L9.54 5.98C8.87 5.55 8 6.03 8 6.82z"/>
+            </svg>
+        </button>
+        <button class="btn-side" onclick="changeTrack(1)">
+            <svg width="50" height="50" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M7.58 16.89l5.77-4.07c.56-.4.56-1.24 0-1.64L7.58 7.11C6.91 6.65 6 7.12 6 7.93v8.14c0 .81.91 1.28 1.58.82zM16 7v10c0 .55.45 1 1 1s1-.45 1-1V7c0-.55-.45-1-1-1s-1 .45-1 1z"/>
+            </svg>
+        </button>
+    </div>
+
+    <div id="playlist"></div>
+</div>
+
+<audio id="audioPlayer"></audio>
+
+<script>
+    const basePath = "./TCF_Reading_Recording/";
+    
+    // 🎯 83 个 MP3 文件名（严格按照 C2 MD 文档顺序）
+    const tracks = ["Reading_T1_Q36.mp3", "Reading_T1_Q37.mp3", "Reading_T1_Q38.mp3", "Reading_T1_Q39.mp3", "Reading_T11_Q36.mp3", "Reading_T11_Q37.mp3", "Reading_T11_Q38.mp3", "Reading_T11_Q39.mp3", "Reading_T12_Q38.mp3", "Reading_T13_Q37.mp3", "Reading_T13_Q38.mp3", "Reading_T14_Q38.mp3", "Reading_T14_Q39.mp3", "Reading_T15_Q36.mp3", "Reading_T15_Q37.mp3", "Reading_T15_Q38.mp3", "Reading_T15_Q39.mp3", "Reading_T16_Q37.mp3", "Reading_T16_Q39.mp3", "Reading_T17_Q37.mp3", "Reading_T17_Q38.mp3", "Reading_T17_Q39.mp3", "Reading_T18_Q36.mp3", "Reading_T18_Q37.mp3", "Reading_T18_Q38.mp3", "Reading_T18_Q39.mp3", "Reading_T19_Q36.mp3", "Reading_T19_Q38.mp3", "Reading_T20_Q36.mp3", "Reading_T20_Q39.mp3", "Reading_T2_Q36.mp3", "Reading_T2_Q37.mp3", "Reading_T2_Q38.mp3", "Reading_T2_Q39.mp3", "Reading_T21_Q39.mp3", "Reading_T22_Q36.mp3", "Reading_T22_Q38.mp3", "Reading_T22_Q39.mp3", "Reading_T24_Q38.mp3", "Reading_T24_Q39.mp3", "Reading_T25_Q37.mp3", "Reading_T26_Q36.mp3", "Reading_T26_Q37.mp3", "Reading_T26_Q38.mp3", "Reading_T26_Q39.mp3", "Reading_T27_Q37.mp3", "Reading_T27_Q38.mp3", "Reading_T27_Q39.mp3", "Reading_T28_Q38.mp3", "Reading_T28_Q39.mp3", "Reading_T29_Q38.mp3", "Reading_T3_Q36.mp3", "Reading_T3_Q37.mp3", "Reading_T3_Q38.mp3", "Reading_T3_Q39.mp3", "Reading_T30_Q36.mp3", "Reading_T30_Q37.mp3", "Reading_T30_Q38.mp3", "Reading_T31_Q36.mp3", "Reading_T31_Q38.mp3", "Reading_T31_Q39.mp3", "Reading_T32_Q36.mp3", "Reading_T32_Q37.mp3", "Reading_T32_Q38.mp3", "Reading_T32_Q39.mp3", "Reading_T33_Q37.mp3", "Reading_T33_Q38.mp3", "Reading_T33_Q39.mp3", "Reading_T34_Q38.mp3", "Reading_T34_Q39.mp3", "Reading_T35_Q38.mp3", "Reading_T35_Q39.mp3", "Reading_T4_Q36.mp3", "Reading_T4_Q37.mp3", "Reading_T4_Q38.mp3", "Reading_T4_Q39.mp3", "Reading_T5_Q36.mp3", "Reading_T5_Q37.mp3", "Reading_T5_Q38.mp3", "Reading_T5_Q39.mp3", "Reading_T8_Q38.mp3", "Reading_T8_Q39.mp3", "Reading_T9_Q38.mp3"];
+    // 🎯 完美的 50x50 SVG 矢量图标
+    const playIcon = '<svg width="50" height="50" viewBox="0 0 24 24" fill="currentColor"><path d="M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18c.62-.39.62-1.29 0-1.69L9.54 5.98C8.87 5.55 8 6.03 8 6.82z"/></svg>';
+    const pauseIcon = '<svg width="50" height="50" viewBox="0 0 24 24" fill="currentColor"><path d="M8 19c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2s-2 .9-2 2v10c0 1.1.9 2 2 2zm6-12v10c0 1.1.9 2 2 2s2-.9 2-2V7c0-1.1-.9-2-2-2s-2 .9-2 2z"/></svg>';
+
+    let cur = 0;
+    const audio = document.getElementById('audioPlayer');
+    const playBtn = document.getElementById('playBtn');
+    const progressBox = document.getElementById('progressBox'); // 绑定进度条区域
+
+    function init() {
+        const list = document.getElementById('playlist');
+        tracks.forEach((t, i) => {
+            const item = document.createElement('div');
+            item.className = 'track-item'; item.id = 'track-' + i;
+            item.innerText = (i + 1) + ". " + t;
+            item.onclick = () => load(i);
+            list.appendChild(item);
+        });
+        updateMediaSession(); // 初始化锁屏信息
+    }
+
+    function load(i) {
+        cur = i;
+        audio.src = basePath + tracks[cur];
+        document.getElementById('title').innerText = tracks[cur];
+        document.getElementById('status').innerText = "Lecture en cours...";
+        document.querySelectorAll('.track-item').forEach(el => el.classList.remove('active'));
+        const activeItem = document.getElementById('track-' + i);
+        activeItem.classList.add('active');
+        activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        document.getElementById('card').classList.add('playing');
+        audio.play();
+        playBtn.innerHTML = pauseIcon; 
+        updateMediaSession(); // 切歌时刷新锁屏状态
+    }
+
+    function togglePlay() {
+        if (!audio.src) { load(0); return; }
+        if (audio.paused) { 
+            audio.play(); 
+            playBtn.innerHTML = pauseIcon; 
+            document.getElementById('card').classList.add('playing'); 
+        } else { 
+            audio.pause(); 
+            playBtn.innerHTML = playIcon; 
+            document.getElementById('card').classList.remove('playing'); 
+        }
+    }
+
+    function changeTrack(step) {
+        load((cur + step + tracks.length) % tracks.length);
+    }
+
+    // 🎯 锁屏与系统媒体控制核心逻辑
+    function updateMediaSession() {
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: tracks[cur],
+                artist: 'TCF C2 Entraînement', // 更新为象征巅峰的 C2
+                album: 'Préparation',
+                artwork: [{ src: 'https://img.icons8.com/color/480/france-circular.png', sizes: '480x480', type: 'image/png' }]
+            });
+            navigator.mediaSession.setActionHandler('play', togglePlay);
+            navigator.mediaSession.setActionHandler('pause', togglePlay);
+            navigator.mediaSession.setActionHandler('previoustrack', () => changeTrack(-1));
+            navigator.mediaSession.setActionHandler('nexttrack', () => changeTrack(1));
+        }
+    }
+
+    audio.onended = () => changeTrack(1);
+    
+    // 更新进度条 UI（带防错处理）
+    audio.ontimeupdate = () => {
+        if (audio.duration) {
+            document.getElementById('progressBar').style.width = (audio.currentTime / audio.duration * 100) + '%';
+        }
+    };
+
+    // 🎯 进度条点击/拖动跳转逻辑
+    progressBox.addEventListener('click', function(e) {
+        if (!audio.src || !audio.duration) return; 
+        const width = this.clientWidth; 
+        const clickX = e.offsetX;       
+        const duration = audio.duration; 
+        audio.currentTime = (clickX / width) * duration; 
+    });
+
+    init();
+</script>
+</body>
+</html>
