@@ -9,26 +9,10 @@
 ## Question 1/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Paul**, <br>Je t'**écris** du Canada. J'ai **rencontré** un **étudiant** mexicain. Je suis **contente de** **parler** ma **langue** **avec** lui, car l'Espagne me **manque** beaucoup ! En juin, nous **suivons** ensemble une **formation** en Italie. Je t'appelle bientôt. <br>Bisous, <br>**Elsa**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle est la nationalité d'Elsa?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Paul**, <br>Je t'écris du Canada. J'ai rencontré un étudiant mexicain. Je suis contente de parler ma langue avec lui, car l'Espagne me manque beaucoup ! En juin, nous suivons ensemble une formation en Italie. Je t'appelle bientôt. <br>Bisous, <br>**Elsa**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle est la nationalité d'Elsa?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q5}$ Quelle est la nationalité d'Elsa?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **rencontrer** [rɑ̃kɔ̃tre] - 遇见，遇到 - **rencontrer quelqu'un** - 遇见某人
-> &nbsp;- **étudiant** [etudjɑ̃] - 学生 - **étudiant étranger** - 外国留学生
-> &nbsp;- **langue** [lɑ̃ɡ] - 语言 - **langue maternelle** - 母语
-> &nbsp;- **manquer** [mɑ̃ke] - 想念，缺少 - **manquer à quelqu'un** - (某物/人)使某人思念
-> &nbsp;- **formation** [fɔrmasjɔ̃] - 培训，教育 - **suivre une formation** - 参加培训
->
-> **常见短语**
-> &nbsp;- **écrire à** - 给...写信 - **écrire à un ami** - 给朋友写信
-> &nbsp;- **être content de** - 对...感到高兴 - **être content de son travail** - 对工作满意
-> &nbsp;- **parler avec** - 与...交谈 - **parler avec son collègue** - 与同事交谈
-> &nbsp;- **suivre une formation** - 参加培训 - **suivre une formation intensive** - 参加强化培训
->
 
 你好，Paul 我从加拿大给你写信。我遇到了一位墨西哥学生。我很高兴能够和他说我的母语，因为我非常想念西班牙！ 六月，我们将一起在意大利参加一个培训课程。我很快会打电话给你。吻你 Elsa
 
@@ -55,28 +39,16 @@ D. Mexicaine
 ---
 </div><span class="q-end" data-qid="T1Q5"></span>
 
+
 <div class="question" data-qid="T1Q6">
 
 ## Question 2/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Nous avons **prévu** quelques **réparations** dans l'appartement **à la fin de** la semaine. **Veuillez** nous **excuser** pour le **bruit**. <br>M. et. Mme Garnier 7 avenue du Général Leclerc Appt. 307</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que M. et Mme Garnier écrivent à leurs voisins?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Nous avons prévu quelques réparations dans l'appartement à la fin de la semaine. Veuillez nous excuser pour le bruit. <br>M. et. Mme Garnier 7 avenue du Général Leclerc Appt. 307</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que M. et Mme Garnier écrivent à leurs voisins?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q6}$ Qu'est-ce que M. et Mme Garnier écrivent à leurs voisins?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **prévoir** [p r e v w a r] - 计划，预见 - **prévoir de faire** - 计划做某事
-> &nbsp;- **réparation** [r e p a r a s j ɔ̃] - 修理，维修 - **en réparation** - 在修理中
-> &nbsp;- **excuser** [ɛ k s k y z e] - 原谅，宽恕 - **s'excuser pour** - 因...而道歉
-> &nbsp;- **bruit** [b r y i] - 噪音，响声 - **faire du bruit** - 发出噪音
->
-> **常见短语**
-> &nbsp;- **à la fin de** - 在...结束时 - **à la fin de la journée** - 在一天结束时
-> &nbsp;- **veuillez** - 请（礼貌表达） - **veuillez patienter** - 请稍等
->
 
 我们计划在本周末对公寓进行一些维修。 请原谅可能产生的噪音。 Garnier先生和夫人 Général Leclerc大街7号公寓307
 
@@ -103,30 +75,16 @@ D. Ils vont recevoir de la visite
 ---
 </div><span class="q-end" data-qid="T1Q6"></span>
 
+
 <div class="question" data-qid="T1Q7">
 
 ## Question 3/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chère Cathy**, <br>Après six mois de **travaux**, Pierre et moi avons **quitté** la maison de ses parents et nous sommes enfin **installés** **chez nous** ! Nous **fêtons** l'**évènement** le dimanche 23 juin **à partir de** 19h 30. <br>J'**espère** que tu pourras venir ! <br>**Lésa**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Lésa va fêter ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chère Cathy**, <br>Après six mois de travaux, Pierre et moi avons quitté la maison de ses parents et nous sommes enfin installés chez nous ! Nous fêtons l'évènement le dimanche 23 juin à partir de 19h 30. <br>J'espère que tu pourras venir ! <br>**Lésa**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Lésa va fêter ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q7}$ Qu'est-ce que Lésa va fêter ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **travaux** [travo] - 工程/装修 - **faire des travaux** - 进行装修/工程
-> &nbsp;- **quitter** [kite] - 离开 - **quitter un lieu** - 离开某地
-> &nbsp;- **fêter** [fɛte] - 庆祝 - **fêter un anniversaire** - 庆祝生日
-> &nbsp;- **évènement** [evɛnəmɑ̃] - 事件/活动 - **organiser un évènement** - 组织一项活动
-> &nbsp;- **espérer** [ɛspere] - 希望 - **j'espère que** - 我希望...（引导从句）
->
-> **常见短语**
-> &nbsp;- **s'installer** - 定居/搬入/安置 - **s'installer dans un nouvel appartement** - 搬进新公寓
-> &nbsp;- **chez nous** - 在我们家 - **inviter des amis chez nous** - 邀请朋友去我们家
-> &nbsp;- **à partir de** - 从...起/从...开始 - **à partir de demain** - 从明天起
->
 
 亲爱的 Cathy， 经过六个月的装修，Pierre 和我终于搬离了他父母的家，并正式住进了我们的新家！ 我们将在 6 月 23 日星期日 19 点 30 分 开始庆祝这一事件。 希望你能来！ Lésa
 
@@ -153,31 +111,16 @@ D. Une création d'entreprise
 ---
 </div><span class="q-end" data-qid="T1Q7"></span>
 
+
 <div class="question" data-qid="T1Q8">
 
 ## Question 4/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Un poste est libre dans votre association**? <br>Le site www.place-publique.fr vous **propose de** publier une **annonce**. **Envoyez**-nous la description du **poste**, le **salaire** et vos **coordonnées**. Votre **annonce** sera visible **pendant un mois**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peuvent faire les associations sur ce site Internet?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Un poste est libre dans votre association**? <br>Le site www.place-publique.fr vous propose de publier une annonce. Envoyez-nous la description du poste, le salaire et vos coordonnées. Votre annonce sera visible pendant un mois.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peuvent faire les associations sur ce site Internet?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q8}$ Que peuvent faire les associations sur ce site Internet?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **poste** [pɔst] - 职位/岗位 - **occuper un poste** - 担任一个职位
-> &nbsp;- **association** [asɔsjasiɔ̃] - 协会 - **être membre d'une association** - 成为协会成员
-> &nbsp;- **annonce** [anɔ̃s] - 广告/公告 - **passer une annonce** - 刊登广告
-> &nbsp;- **salaire** [salɛr] - 工资 - **négocier le salaire** - 谈薪资
-> &nbsp;- **coordonnées** [kɔɔrdɔne] - 联系方式 - **laisser ses coordonnées** - 留下联系方式
->
-> **常见短语**
-> &nbsp;- **être libre** - 空缺的/空闲的 - **la place est libre** - 这个位子是空的
-> &nbsp;- **propose de** - 提议/建议做某事 - **proposer de sortir** - 提议出去玩
-> &nbsp;- **envoyer à** - 发送给... - **envoyer un courriel à** - 发送邮件给某人
-> &nbsp;- **pendant un mois** - 持续/为期一个月 - **valable pendant un mois** - 一个月内有效
->
 
 您的协会有空缺职位吗？ 网站 www.place-publique.fr 为您提供发布招聘公告的机会。 请将职位描述、薪资信息和联系方式发送给我们，您的公告将可见 一个月。
 
@@ -204,31 +147,16 @@ D. Trouver de l'argent
 ---
 </div><span class="q-end" data-qid="T1Q8"></span>
 
+
 <div class="question" data-qid="T1Q9">
 
 ## Question 5/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame**, <br>Nous avons bien reçu votre **demande de remboursement** pour un **billet** de train (**voyage professionnel**). Vous nous avez envoyé le ticket de carte bancaire, mais nous **avons** aussi **besoin d'**une **attestation** de votre **employeur**. Merci de nous l'**adresser** par courrier postal ou sous **format électronique**. <br/>Cordialement,<br/>Le service financier.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel document doit fournir la femme ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame**, <br>Nous avons bien reçu votre demande de remboursement pour un billet de train (voyage professionnel). Vous nous avez envoyé le ticket de carte bancaire, mais nous avons aussi besoin d'une attestation de votre employeur. Merci de nous l'adresser par courrier postal ou sous format électronique. <br/>Cordialement,<br/>Le service financier.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel document doit fournir la femme ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q9}$ Quel document doit fournir la femme ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **remboursement** [rɑ̃bursəmɑ̃] - 退款 - **demander un remboursement** - 申请退款
-> &nbsp;- **billet** [bijɛ] - 票据/车票 - **billet de train** - 火车票
-> &nbsp;- **attestation** [atɛstasjɔ̃] - 证明 - **attestation d'hébergement** - 住宿证明
-> &nbsp;- **employeur** [ɑ̃plwajœr] - 雇主 - **contacter l'employeur** - 联系雇主
-> &nbsp;- **adresser** [adrɛse] - 寄送 - **adresser un e-mail** - 发送电子邮件
->
-> **常见短语**
-> &nbsp;- **demande de remboursement** - 退款申请 - **traiter une demande de remboursement** - 处理退款申请
-> &nbsp;- **voyage professionnel** - 出差/职业旅行 - **frais de voyage professionnel** - 出差费用
-> &nbsp;- **avoir besoin de** - 需要 - **avoir besoin de temps** - 需要时间
-> &nbsp;- **format électronique** - 电子格式 - **envoyer sous format électronique** - 以电子形式发送
->
 
 女士， 我们已收到您关于报销一张火车票（因公出差）的请求。您已向我们提交银行卡票据，但我们还需要您雇主的证明。请通过邮寄或电子格式将其发送给我们。 此致， 财务部门。
 
@@ -255,29 +183,16 @@ D. Une somme d'argent.
 ---
 </div><span class="q-end" data-qid="T1Q9"></span>
 
+
 <div class="question" data-qid="T1Q10">
 
 ## Question 6/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Semaine du 6 au 10 septembre**: <br/>Le **restaurant universitaire** vous **propose** des **recettes** régionales variées au **tarif** normal. <br/>Rendez-vous de 11h15 à 13h dans la salle du premier **étage**. <br/>**Bon appétit**!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose le restaurant du 6 au 10 septembre ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Semaine du 6 au 10 septembre**: <br/>Le restaurant universitaire vous propose des recettes régionales variées au tarif normal. <br/>Rendez-vous de 11h15 à 13h dans la salle du premier étage. <br/>Bon appétit!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose le restaurant du 6 au 10 septembre ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T1 $\boxed{Q10}$ Que propose le restaurant du 6 au 10 septembre ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **proposer** [prɔpɔze] - 提供，建议 - **proposer un menu** - 提供一份菜单。
-> &nbsp;- **recette** [rəsɛt] - 菜谱，食谱 - **suivre une recette** - 按食谱做菜。
-> &nbsp;- **tarif** [tarif] - 价格，费率 - **tarif réduit** - 优惠价。
-> &nbsp;- **étage** [etaʒ] - 楼层 - **au premier étage** - 在二楼（一层以上的第一层）。
->
-> **常见短语**
-> &nbsp;- **du ... au ...** - 从……到…… - **du lundi au vendredi** - 从周一到周五。
-> &nbsp;- **restaurant universitaire** - 大学生食堂 - **manger au restaurant universitaire** - 在大学食堂吃饭。
-> &nbsp;- **bon appétit** - 祝你胃口好 - **souhaiter bon appétit à qn** - 祝某人用餐愉快。
->
 
 9月6日至10日这一周： 大学餐厅为您提供正常价格的多样化地方菜谱。 地点：一楼餐厅，时间：上午11点15分至下午1点。 祝您用餐愉快！
 
@@ -304,30 +219,16 @@ D. Des tickets bon marché
 ---
 </div><span class="q-end" data-qid="T1Q10"></span>
 
+
 <div class="question" data-qid="T10Q5">
 
 ## Question 7/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**De: Société BALY INFORMATIQUE** <br/>**À: Monsieur Lefort** <br/>**Objet : Printemps des conférences – Lyon** <br/>Monsieur, <br/>**Une voiture de notre société** va nous **attendre** **à votre arrivée** à l'aéroport (porte-F) pour vous **conduire** au **Palais des Congrès**. <br/>Cordialement, <br/>**Mme Deor**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Comment est-ce que M. Lefort va aller au palais des Congrès ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**De: Société BALY INFORMATIQUE** <br/>**À: Monsieur Lefort** <br/>**Objet : Printemps des conférences – Lyon** <br/>Monsieur, <br/>Une voiture de notre société va nous attendre à votre arrivée à l'aéroport (porte-F) pour vous conduire au Palais des Congrès. <br/>Cordialement, <br/>**Mme Deor** </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Comment est-ce que M. Lefort va aller au palais des Congrès ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T10 $\boxed{Q5}$ Comment est-ce que M. Lefort va aller au palais des Congrès ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **attendre** [atɑ̃dr] - 等待 - **faire attendre quelqu'un** - 让某人等待
-> &nbsp;- **arrivée** [arive] - 到达 - **à l'arrivée de** - 在...抵达时
-> &nbsp;- **conduire** [kɔ̃dɥir] - 驾驶；送（某人） - **conduire une voiture** - 开车
-> &nbsp;- **société** [sɔsjete] - 公司 - **une société de services** - 服务型公司
-> &nbsp;- **conférence** [kɔ̃ferɑ̃s] - 会议；讲座 - **donner une conférence** - 作讲座
->
-> **常见短语**
-> &nbsp;- **à votre arrivée** - 在您抵达时 - **être présent à votre arrivée** - 在您到达时出席
-> &nbsp;- **palais des congrès** - 会展中心/会议中心 - **se rendre au palais des congrès** - 前往会展中心
-> &nbsp;- **une voiture de notre société** - 我们公司的一辆车 - **utiliser une voiture de notre société** - 使用公司配车
->
 
 发件人：BALY信息技术公司 收件人：Lefort先生 主题：里昂会议之春 先生， 我们公司的一辆车将在您抵达机场（F门）时接您，送您前往会议宫。 此致， Deor女士
 
@@ -354,29 +255,16 @@ D. En taxi
 ---
 </div><span class="q-end" data-qid="T10Q5"></span>
 
+
 <div class="question" data-qid="T10Q7">
 
 ## Question 8/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Adèle**, <br>N'**oublie** pas l'**anniversaire** de Raphaël ! On pourrait partir vers 19h et aller **ensemble** chez lui où **est-ce qu'**on **se retrouve**? **Si tu ne peux pas** venir **finalement**, Appelle-moi ! <br/>Bonne journée, <br/>**Camille**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Camille écrit ce message à Adèle ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Adèle**, <br>N'oublie pas l'anniversaire de Raphaël ! On pourrait partir vers 19h et aller ensemble chez lui où est-ce qu'on se retrouve? Si tu ne peux pas venir finalement, Appelle-moi ! <br/>Bonne journée, <br/>**Camille**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Camille écrit ce message à Adèle ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T10 $\boxed{Q7}$ Pourquoi est-ce que Camille écrit ce message à Adèle ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **anniversaire** [anivɛrsɛr] - 中文释义 - **fêter un anniversaire** - 庆祝生日。
-> &nbsp;- **ensemble** [ɑ̃sɑ̃bl] - 中文释义 - **travailler ensemble** - 一起工作。
-> &nbsp;- **finalement** [finalmɑ̃] - 中文释义 - **décider finalement** - 最终决定。
->
-> **常见短语**
-> &nbsp;- **oublier de** - 忘记做某事 - **n'oublie pas de m'appeler** - 别忘了给我打电话。
-> &nbsp;- **est-ce que** - (疑问句标志) 是否 - **est-ce que tu es prêt ?** - 你准备好了吗？
-> &nbsp;- **se retrouver** - 见面/集合 - **on se retrouve devant la gare** - 我们在火车站前集合。
-> &nbsp;- **si tu ne peux pas** - 如果你不行/不能... - **si tu ne peux pas venir** - 如果你不能来。
->
 
 阿黛尔， 别忘了拉斐尔的生日！我们可以19点左右出发，一起去他家：我们在哪里见面？如果你最后不能来了，打电话告诉我！ 祝你有个美好的一天， 卡米尔
 
@@ -403,29 +291,16 @@ D. Pour inviter son amie à dîner
 ---
 </div><span class="q-end" data-qid="T10Q7"></span>
 
+
 <div class="question" data-qid="T10Q8">
 
 ## Question 9/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers étudiants**, <br/>Nous **avons le plaisir de** vous **informe** que notre centre vous **offre** moins 10% **sur le prix de** ses cours de français. Vous pouvez **bénéficier** de cette **offre** spéciale pour un stage d'une ou **plusieurs semaines** de juin à septembre. Vous trouverez le **calendrier** et le programme des **formations** sur notre site: www.coursdefrançais.org <br/>Cordialement, <br/>**La responsable des cours**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Dans ce message, que propose-t-on aux étudiants ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers étudiants**, <br/>Nous avons le plaisir de vous informe que notre centre vous offre moins 10% sur le prix de ses cours de français. Vous pouvez bénéficier de cette offre spéciale pour un stage d'une ou plusieurs semaines de juin à septembre. Vous trouverez le calendrier et le programme des formations sur notre site: www.coursdefrançais.org <br/>Cordialement, <br/>**La responsable des cours** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Dans ce message, que propose-t-on aux étudiants ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T10 $\boxed{Q8}$ Dans ce message, que propose-t-on aux étudiants ?</span>**
-
-> **✨ TCF 考点笔记**
-> **核心词汇**
-> &nbsp;- **informer** [ɛ̃fɔrme] - 通知，告知 - **informer qn de qch** - 通知某人某事。
-> &nbsp;- **bénéficier** [benefisje] - 享受，受益 - **bénéficier d'une remise** - 享受折扣。
-> &nbsp;- **offre** [ɔfr] - 优惠，提议 - **une offre spéciale** - 特别优惠。
-> &nbsp;- **formation** [fɔrmasjɔ̃] - 培训，课程 - **suivre une formation** - 参加培训。
-> &nbsp;- **calendrier** [kalɑ̃drije] - 日程表，时间表 - **fixer le calendrier** - 确定时间表。
->
-> **常见短语**
-> &nbsp;- **avoir le plaisir de** - 很高兴... - **avoir le plaisir de faire qch** - 很高兴做某事。
-> &nbsp;- **sur le prix de** - 在...的价格基础上 - **une réduction sur le prix de** - 原价基础上的折扣。
-> &nbsp;- **plusieurs semaines** - 几周，数周 - **pendant plusieurs semaines** - 持续数周。
->
 
 亲爱的学生们， 我们很高兴通知您，我们中心的法语课程价格将享受10%的折扣。 您可以在6月至9月期间选择1周或多周的课程，享受此次特别优惠。 您可以在我们的网站（www.coursdefrançais.org）查看培训的日历和课程安排。 此致， 课程负责人
 
@@ -452,31 +327,16 @@ C. Une promotion spéciale pour un voyage
 ---
 </div><span class="q-end" data-qid="T10Q8"></span>
 
+
 <div class="question" data-qid="T10Q9">
 
 ## Question 10/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">L'Union européenne va **offrir** une « **carte jeune** » aux étudiants du **continent** qui **ont vingt ans** cette année. **Pendant** un mois maximum, les jeunes pourront **prendre le train** **gratuitement** pour **visiter** **plus de** quinze pays.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est proposé aux jeunes Européens ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">L'Union européenne va offrir une « carte jeune » aux étudiants du continent qui ont vingt ans cette année. Pendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est proposé aux jeunes Européens ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T10 $\boxed{Q9}$ Qu'est-ce qui est proposé aux jeunes Européens ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **offrir** [ɔfrir] - 提供，赠送 - **offrir un cadeau à quelqu'un** - 送某人一件礼物
-> &nbsp;- **continent** [kɔ̃tinɑ̃] - 大陆，洲 - **sur le continent européen** - 在欧洲大陆上
-> &nbsp;- **pendant** [pɑ̃dɑ̃] - 在……期间 - **pendant les vacances** - 在假期期间
-> &nbsp;- **gratuitement** [gratuitmɑ̃] - 免费地 - **distribuer gratuitement** - 免费分发
-> &nbsp;- **visiter** [vizite] - 参观，游览 - **visiter un musée** - 参观博物馆
->
-> **常见短语**
-> &nbsp;- **carte jeune** - 青年卡 - **une carte jeune de réduction** - 一张青年优惠卡
-> &nbsp;- **avoir vingt ans** - 二十岁 - **avoir vingt ans cette année** - 今年二十岁
-> &nbsp;- **prendre le train** - 乘坐火车 - **prendre le train pour Paris** - 坐火车去巴黎
-> &nbsp;- **plus de** - 超过，多于 - **plus de quinze personnes** - 超过十五人
->
 
 欧盟将向今年满20岁的大陆学生提供一张“青年卡”。 在最长一个月内，年轻人可以免费乘坐火车游览超过15个国家。
 
@@ -503,30 +363,16 @@ D. Un semestre d'études
 ---
 </div><span class="q-end" data-qid="T10Q9"></span>
 
+
 <div class="question" data-qid="T11Q6">
 
 ## Question 11/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Sophie**, <br>**Viens me chercher** au **stade** à 16, **après** mon **match** de foot. J'ai **fini** mes **devoirs**, **on peut** aller au **cinéma**. <br><br>**Marc**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que fait Marc jusqu'à 16h?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Sophie**, <br>Viens me chercher au stade à 16, après mon match de foot. J'ai fini mes devoirs, on peut aller au cinéma. <br><br>**Marc** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que fait Marc jusqu'à 16h?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T11 $\boxed{Q6}$ Que fait Marc jusqu'à 16h?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **stade** [stad] - 体育场 - **au stade** - 在体育场
-> &nbsp;- **match** [matʃ] - 比赛 - **match de foot** - 足球赛
-> &nbsp;- **finir** [finir] - 完成 - **finir ses devoirs** - 做完作业
-> &nbsp;- **devoir** [dǝvwar] - 作业 - **faire ses devoirs** - 做作业
-> &nbsp;- **cinéma** [sinema] - 电影院 - **aller au cinéma** - 去看电影
->
-> **常见短语**
-> &nbsp;- **venir chercher** - 来接某人 - **viens me chercher** - 来接我
-> &nbsp;- **après** - 在...之后 - **après le match** - 比赛之后
-> &nbsp;- **on peut** - 我们可以 - **on peut aller** - 我们可以去
->
 
 索菲， 16点到体育场来接我吧，足球比赛结束后。我已经做完了作业，我们可以去看电影。 马克
 
@@ -553,30 +399,16 @@ D. Il regarde un film.
 ---
 </div><span class="q-end" data-qid="T11Q6"></span>
 
+
 <div class="question" data-qid="T11Q7">
 
 ## Question 12/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Félicitation** ! <br/>**C'est bientôt votre** <br/>**anniversaire** ! <br/>**Venez vite** **retirer** votre surprise dans notre **boutique**. <br/>**À très bientôt**. <br/>**Votre coiffeur Michel**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que fait Michel dans cette carte ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Félicitation** ! <br/>**C'est bientôt votre** <br/>**anniversaire** ! <br/>Venez vite retirer votre surprise dans notre boutique. <br/>À très bientôt. <br/>**Votre coiffeur Michel** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que fait Michel dans cette carte ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T11 $\boxed{Q7}$ Que fait Michel dans cette carte ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **félicitation** [felisitasjɔ̃] - 祝贺 - **toutes mes félicitations** - 衷心祝贺。
-> &nbsp;- **anniversaire** [aniversεr] - 生日 - **joyeux anniversaire** - 生日快乐。
-> &nbsp;- **retirer** [rətire] - 领取，提取 - **retirer un colis** - 取包裹。
-> &nbsp;- **boutique** [butik] - 商店，精品店 - **faire les boutiques** - 逛街。
-> &nbsp;- **coiffeur** [kwafœr] - 理发师 - **aller chez le coiffeur** - 去理发店。
->
-> **常见短语**
-> &nbsp;- **c'est bientôt** - 很快就是 - **c'est bientôt Noël** - 圣诞节快到了。
-> &nbsp;- **venez vite** - 快点来 - **venez vite découvrir** - 快来探索。
-> &nbsp;- **à très bientôt** - 很快见 - **merci et à très bientôt** - 谢谢，再见。
->
 
 恭喜！您的生日快到了！请尽快到我们的店里领取惊喜礼物。 很快见到您。 您的理发师Michel
 
@@ -603,30 +435,16 @@ C. Il invite à un dîner.
 ---
 </div><span class="q-end" data-qid="T11Q7"></span>
 
+
 <div class="question" data-qid="T11Q8">
 
 ## Question 13/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Madame Charnet, <br>Je vous **prie de** **bien vouloir** vous **présenter** aux lieu, date et heure **indiqués** ci-dessous. <br/>Merci de vous **munir** de cette **convocation** et d'une **pièce d'identité** qui vous seront demandées au début de l'**épreuve**. <br/><br/>**Lycée Balzac**, <br/>**5, boulevard Heurteloup**, <br/>**37 000 Tours**. <br/><br/>Certificat de langue française <br/>Salle 301. <br/>Lundi 25 mai à 8h 30. <br/>Durée 1h 30. <br/><br/>Mme Soubrov <br/>Recteur de l'académie orléans-Tours.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi madame Charnet est-elle convoquée ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Madame Charnet, <br>Je vous prie de bien vouloir vous présenter aux lieu, date et heure indiqués ci-dessous. <br/>Merci de vous munir de cette convocation et d'une pièce d'identité qui vous seront demandées au début de l'épreuve. <br/><br/>**Lycée Balzac**, <br/>**5, boulevard Heurteloup**, <br/>**37 000 Tours**. <br/><br/>Certificat de langue française <br/>Salle 301. <br/>Lundi 25 mai à 8h 30. <br/>Durée 1h 30. <br/><br/>Mme Soubrov <br/>Recteur de l'académie orléans-Tours.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi madame Charnet est-elle convoquée ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T11 $\boxed{Q8}$ Pourquoi madame Charnet est-elle convoquée ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **indiquer** [ɛ̃dike] - 标明/指出 - **comme indiqué** - 如所标示的那样。
-> &nbsp;- **munir** [mynir] - 装备/持有 - **se munir de** - 准备好/随身携带。
-> &nbsp;- **convocation** [kɔ̃vɔkasjɔ̃] - 召集通知/准考证 - **envoyer une convocation** - 发出通知。
-> &nbsp;- **épreuve** [eprøv] - 考试/测试 - **épreuve écrite** - 笔试。
->
-> **常见短语**
-> &nbsp;- **prier de** - 恳请/请 - **je vous prie de** - 请您...（用于正式函件）。
-> &nbsp;- **bien vouloir** - 烦请/劳驾 - **veuillez bien vouloir** - 烦请协助。
-> &nbsp;- **se présenter** - 出席/报到 - **se présenter à l'examen** - 参加考试。
-> &nbsp;- **pièce d'identité** - 身份证件 - **présenter une pièce d'identité** - 出示身份证件。
->
 
 Charnet女士， 请您按照以下时间、地点和日期参加。 请携带此通知书和一份身份证明，它们将在测试开始时被要求出示。 巴尔扎克高中，5号Heurteloup大道，邮编37000，图尔。 法语证书测试 301教室 5月25日（星期一）上午8:30，持续1小时30分钟。
 
@@ -653,29 +471,16 @@ D. Pour s'inscrire à des cours.
 ---
 </div><span class="q-end" data-qid="T11Q8"></span>
 
+
 <div class="question" data-qid="T11Q9">
 
 ## Question 14/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**De: René Duroc** <br>**À: Louise Armand** <br/>**Objet M. Lambera** <br/>Message: <br/>Salut Louise ! <br/><br/>J'ai bien reçu ton **mot** **pas de problème**. On pourra **vérifier** ensemble le **dossier** de M. Lambera avant ton **rendez-vous** avec le **directeur**. On **en reparler**a à midi à la cantine. <br/><br/>Cordialement, <br/>René Duroc.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que René Duroc écrit à Louise?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**De: René Duroc** <br>**À: Louise Armand** <br/>**Objet M. Lambera** <br/>Message: <br/>Salut Louise ! <br/><br/>J'ai bien reçu ton mot pas de problème. On pourra vérifier ensemble le dossier de M. Lambera avant ton rendez-vous avec le directeur. On en reparlera à midi à la cantine. <br/><br/>Cordialement, <br/>René Duroc.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que René Duroc écrit à Louise?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T11 $\boxed{Q9}$ Pourquoi est-ce que René Duroc écrit à Louise?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **mot** [mo] - 留言、便条 - **laisser un mot** - 留个便条
-> &nbsp;- **vérifier** [ve.ri.fje] - 检查、核实 - **vérifier une information** - 核实信息
-> &nbsp;- **dossier** [do.sje] - 档案、卷宗 - **étudier un dossier** - 研究一份档案
-> &nbsp;- **directeur** [di.rek.tœr] - 经理、负责人 - **le directeur adjoint** - 副经理
->
-> **常见短语**
-> &nbsp;- **pas de problème** - 没问题 - **Il n'y a pas de problème** - 没有问题
-> &nbsp;- **rendez-vous** - 预约、约会 - **prendre rendez-vous** - 预约
-> &nbsp;- **en reparler** - 再谈论某事 - **en reparler plus tard** - 晚点再谈
->
 
 发件人：René Duroc 收件人：Louise Armand 主题：Lambera先生 消息： 你好，Louise！ 我已经收到你的便条，没问题。我们可以在你与校长会面之前一起核查Lambera先生的档案。中午我们在食堂再谈。
 
@@ -702,30 +507,16 @@ D. Il organise un entretien.
 ---
 </div><span class="q-end" data-qid="T11Q9"></span>
 
+
 <div class="question" data-qid="T11Q10">
 
 ## Question 15/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Monsieur Belveau, <br/>Vous **quittez** l'appartement que vous **louez** dans notre **résidence** universitaire **samedi prochain**. <br/>Pouvez-vous **passer** samedi après-midi **à** mon bureau pour **rendre** votre clé et **signer** un document. <br/>Cordialement. <br/><br/>Mars Drevet <br/>**Agent immobilier**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Monsieur Belveau reçoit-il ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Monsieur Belveau, <br/>Vous quittez l'appartement que vous louez dans notre résidence universitaire samedi prochain. <br/>Pouvez-vous passer samedi après-midi à mon bureau pour rendre votre clé et signer un document. <br/>Cordialement. <br/><br/>Mars Drevet <br/>Agent immobilier</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Monsieur Belveau reçoit-il ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T11 $\boxed{Q10}$ Pourquoi Monsieur Belveau reçoit-il ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **quitter** [kite] - 离开 - **quitter un logement** - 搬出住所
-> &nbsp;- **louer** [lue] - 租用/出租 - **louer un appartement** - 租一套公寓
-> &nbsp;- **résidence** [rezidɑ̃s] - 住宅/住所 - **résidence universitaire** - 大学宿舍
-> &nbsp;- **rendre** [rɑ̃dr] - 归还 - **rendre les clés** - 退还钥匙
-> &nbsp;- **signer** [siɲe] - 签署 - **signer un contrat** - 签合同
->
-> **常见短语**
-> &nbsp;- **samedi prochain** - 下周六 - **partir samedi prochain** - 下周六出发
-> &nbsp;- **passer à** - 顺便去某处 - **passer au bureau** - 去办公室一下
-> &nbsp;- **agent immobilier** - 房地产经纪人 - **contacter un agent immobilier** - 联系房产中介
->
 
 Beleveu先生， 您将在下周六搬出您在我们大学宿舍租住的公寓。 请您周六下午来我的办公室归还钥匙并签署一份文件。 此致，敬礼。 Mars Drevet 房产经纪人
 
@@ -752,29 +543,16 @@ D. Il s'inscrit à l'université.
 ---
 </div><span class="q-end" data-qid="T11Q10"></span>
 
+
 <div class="question" data-qid="T12Q7">
 
 ## Question 16/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À l'attention des élèves de 5e B** <br/>Le **cours** de mathématiques **aura** **exceptionnellement** **lieu** à 15 heures **ce jour**, dans la salle **habituelle**. <br/>Merci de votre **compréhension**. <br/>Le professeur, <br/>M. Valmont</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi M. Valmont a-t-il écrit ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À l'attention des élèves de 5e B** <br/>Le cours de mathématiques aura exceptionnellement lieu à 15 heures ce jour, dans la salle habituelle. <br/>Merci de votre compréhension. <br/>Le professeur, <br/>M. Valmont</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi M. Valmont a-t-il écrit ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T12 $\boxed{Q7}$ Pourquoi M. Valmont a-t-il écrit ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **cours** [kur] - 课程 - **donner un cours** - 授课
-> &nbsp;- **exceptionnellement** [εksεpsjɔnεlmɑ̃] - 例外地 - **travailler exceptionnellement** - 特别地工作
-> &nbsp;- **habituel** [abitɥεl] - 通常的，习惯的 - **comme d'habitude** - 像往常一样
-> &nbsp;- **compréhension** [kɔ̃preɑ̃sjɔ̃] - 理解 - **faire preuve de compréhension** - 表现出理解
->
-> **常见短语**
-> &nbsp;- **à l'attention de** - 供...审阅/（信函）致... - **à l'attention du directeur** - 致经理
-> &nbsp;- **avoir lieu** - 发生，举行 - **avoir lieu comme prévu** - 按计划举行
-> &nbsp;- **ce jour** - 今日 - **à compter de ce jour** - 从今日起
->
 
 通知五年级 B 班的学生： 今天的数学课将在下午 3 点例外地在原教室进行。感谢您的理解。 老师， 瓦尔蒙特先生
 
@@ -801,30 +579,16 @@ D. Pour remercier les élèves de 5e B.
 ---
 </div><span class="q-end" data-qid="T12Q7"></span>
 
+
 <div class="question" data-qid="T12Q8">
 
 ## Question 17/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Vous voulez rire**? <br/>Découvrez Mimiquette et Théophilou, des **personnages** de **bande dessinée** que tous les petits **adorent** parce qu'ils sont **gais**, aiment **inventer** des jeux et **mettent** souvent leurs parents **en colère**: comme tous les enfants!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Comment sont les personnages de Mimiquette et Théophilou ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Vous voulez rire**? <br/>Découvrez Mimiquette et Théophilou, des personnages de bande dessinée que tous les petits adorent parce qu'ils sont gais, aiment inventer des jeux et mettent souvent leurs parents en colère: comme tous les enfants!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Comment sont les personnages de Mimiquette et Théophilou ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T12 $\boxed{Q8}$ Comment sont les personnages de Mimiquette et Théophilou ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **personnage** [pɛrsɔnaʒ] - 角色 - **personnage principal** - 主角
-> &nbsp;- **adorer** [adɔre] - 喜爱 - **adorer les voyages** - 热爱旅行
-> &nbsp;- **gai** [ge] - 快乐的 - **avoir un air gai** - 神情愉快
-> &nbsp;- **inventer** [ɛ̃vɑ̃te] - 发明，创造 - **inventer une histoire** - 编故事
-> &nbsp;- **colère** [kɔlɛr] - 愤怒 - **se mettre en colère** - 发脾气
->
-> **常见短语**
-> &nbsp;- **vouloir rire** - 想开玩笑 - **Tu veux rire ?** - 你在开玩笑吗？
-> &nbsp;- **bande dessinée** - 漫画/连环画 - **album de bande dessinée** - 漫画册
-> &nbsp;- **mettre en colère** - 使...生气 - **mettre qn en colère** - 惹某人生气
->
 
 你想笑吗？ 来认识Mimiquette和Théophilou，这两个漫画角色深受孩子们喜爱，因为他们活泼开朗，喜欢发明游戏，并且经常让父母生气：就像所有的孩子一样！
 
@@ -851,30 +615,16 @@ C. Courageux.
 ---
 </div><span class="q-end" data-qid="T12Q8"></span>
 
+
 <div class="question" data-qid="T12Q9">
 
 ## Question 18/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**ATTENTION** <br/>**Date limite** des **demandes de congés** pour les vacances d'été : les **faire parvenir** à Mme Létourneau, **bureau du personnel**, 2e étage, avant le 20 avril, **dernier délai**. <br>Le **Bureau du personnel**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**ATTENTION** <br/>Date limite des demandes de congés pour les vacances d'été : les faire parvenir à Mme Létourneau, bureau du personnel, 2e étage, avant le 20 avril, dernier délai. <br>Le Bureau du personnel. </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T12 $\boxed{Q9}$ À qui s'adresse ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **congé** [kɔ̃ʒe] - 假期，休假 - **prendre des congés** - 请假
-> &nbsp;- **parvenir** [parvənir] - 寄达，传到 - **faire parvenir** - 递交，寄送
-> &nbsp;- **délai** [delɛ] - 期限，截止时间 - **dans les plus brefs délais** - 尽快
-> &nbsp;- **personnel** [pɛrsɔnɛl] - 全体人员，员工 - **bureau du personnel** - 人事处
->
-> **常见短语**
-> &nbsp;- **date limite** - 截止日期 - **fixer une date limite** - 设定截止日期
-> &nbsp;- **demande de congés** - 请假申请 - **déposer une demande de congés** - 提交请假申请
-> &nbsp;- **faire parvenir** - 寄送，传达 - **faire parvenir un dossier** - 寄送一份档案
-> &nbsp;- **bureau du personnel** - 人事处 - **contacter le bureau du personnel** - 联系人事处
->
 
 注意 暑假请假的截止日期：请在4月20日之前将申请交给二楼人事处的Létourneau女士，逾期不候。 人事处
 
@@ -901,30 +651,16 @@ C. À des élèves.
 ---
 </div><span class="q-end" data-qid="T12Q9"></span>
 
+
 <div class="question" data-qid="T13Q5">
 
 ## Question 19/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour Sophie**, <br/>Je ne pourrais pas **venir à** notre **soirée** cinéma. Ma fille est **malade**, je dois **rester à la maison**. **Si tu veux**, Kevin est **disponible**. Je peux lui **donner** ma **place**. <br/><br/>**Martine**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Martine envoie un message à Sophie?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour Sophie**, <br/>Je ne pourrais pas venir à notre soirée cinéma. Ma fille est malade, je dois rester à la maison. Si tu veux, Kevin est disponible. Je peux lui donner ma place. <br/><br/>**Martine** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Martine envoie un message à Sophie?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T13 $\boxed{Q5}$ Pourquoi est-ce que Martine envoie un message à Sophie?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **malade** [malad] - 生病的 - **tomber malade** - 生病
-> &nbsp;- **soirée** [sware] - 晚会/傍晚 - **passer une soirée** - 度过一个夜晚
-> &nbsp;- **disponible** [disponibl] - 有空的 - **être disponible** - 有空/可支配
-> &nbsp;- **donner** [done] - 给/交付 - **donner un coup de main** - 帮个忙
-> &nbsp;- **place** [plas] - 位置/票 - **prendre sa place** - 就座/买票
->
-> **常见短语**
-> &nbsp;- **venir à** - 参加/来到 - **venir à une fête** - 参加派对
-> &nbsp;- **rester à la maison** - 待在家里 - **rester à la maison pour se reposer** - 待在家里休息
-> &nbsp;- **si tu veux** - 如果你想/如果你愿意 - **on part si tu veux** - 如果你想我们就出发
->
 
 你好，索菲， 我不能来参加我们的电影之夜了。我的女儿生病了，我必须待在家里。如果你愿意，凯文可以来。我可以把我的位置让给他。 玛蒂娜
 
@@ -951,31 +687,16 @@ D. Pour lui proposer de sortir.
 ---
 </div><span class="q-end" data-qid="T13Q5"></span>
 
+
 <div class="question" data-qid="T13Q8">
 
 ## Question 20/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">« La **passion** de Gauguin », **voici le titre** d'un **documentaire** sur le **peintre** français. Vous pouvez le regarder **demain soir** **à la télévision**. Pour les vrais passionnés, l'**exposition** « Gauguin en Océanie » Commencera **lundi prochain** au Musée d'Art moderne.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle cette annonce?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">« La passion de Gauguin », voici le titre d'un documentaire sur le peintre français. Vous pouvez le regarder demain soir à la télévision. Pour les vrais passionnés, l'exposition « Gauguin en Océanie » Commencera lundi prochain au Musée d'Art moderne.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle cette annonce?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T13 $\boxed{Q8}$ De quoi parle cette annonce?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **passion** [pasjɔ̃] - 激情，热爱 - **avoir une passion pour** - 对...有热忱
-> &nbsp;- **peintre** [pɛ̃tr] - 画家 - **peintre paysagiste** - 风景画家
-> &nbsp;- **documentaire** [dɔkymɑ̃tɛr] - 纪录片 - **film documentaire** - 纪录电影
-> &nbsp;- **exposition** [ɛkspozisjɔ̃] - 展览 - **faire une exposition** - 举办展览
-> &nbsp;- **prochain** [prɔʃɛ̃] - 下一个的 - **la semaine prochaine** - 下周
->
-> **常见短语**
-> &nbsp;- **voici le titre** - 这是标题 - **voici le titre du livre** - 这是书的标题
-> &nbsp;- **demain soir** - 明天晚上 - **libre demain soir** - 明晚有空
-> &nbsp;- **à la télévision** - 在电视上 - **regarder un match à la télévision** - 在电视上看比赛
-> &nbsp;- **lundi prochain** - 下周一 - **rendez-vous lundi prochain** - 下周一见
->
 
 《高更的激情》，这是关于这位法国画家的纪录片标题。您可以明晚在电视上观看。对于真正的爱好者，“高更在大洋洲”的展览将于下周一在现代艺术博物馆开始。
 
@@ -1002,31 +723,16 @@ C. Des derniers jours d'une exposition.
 ---
 </div><span class="q-end" data-qid="T13Q8"></span>
 
+
 <div class="question" data-qid="T13Q10">
 
 ## Question 21/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Rendez-vous** samedi pour un repas de **quartier** devant notre **immeuble**. Apportez vos chaises (il y aura des tables **sur place**). **À boire** et un **plat** **salé** ou **sucré**. Mireille et Pierre (3ème étage à gauche) organisent l'événement et peuvent **répondre à** vos questions.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est organisé ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Rendez-vous samedi pour un repas de quartier devant notre immeuble. Apportez vos chaises (il y aura des tables sur place). À boire et un plat salé ou sucré. Mireille et Pierre (3ème étage à gauche) organisent l'événement et peuvent répondre à vos questions.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est organisé ?</span></span> |
 |---|
 
 **<span class="fr-question-in-content">📑T13 $\boxed{Q10}$ Qu'est-ce qui est organisé ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **quartier** [kartje] - 街区，社区 - **repas de quartier** - 社区聚餐
-> &nbsp;- **immeuble** [imœbl] - 公寓大楼 - **devant l'immeuble** - 在大楼前
-> &nbsp;- **plat** [pla] - 菜肴，一盘菜 - **un plat principal** - 一道主菜
-> &nbsp;- **salé** [sale] - 咸的 - **un plat salé** - 一道咸味菜
-> &nbsp;- **sucré** [sykre] - 甜的 - **une boisson sucrée** - 一款甜味饮料
->
-> **常见短语**
-> &nbsp;- **rendez-vous** - 约会，集合 - **prendre rendez-vous** - 预约
-> &nbsp;- **sur place** - 在现场，原地 - **consommer sur place** - 现场食用/堂食
-> &nbsp;- **à boire** - 喝的东西 - **proposer à boire** - 提供饮品
-> &nbsp;- **répondre à** - 回答，响应 - **répondre à une question** - 回答问题
->
 
 周六在我们公寓前举办邻里聚餐活动。请带上椅子（现场会有桌子），饮品和一道咸的或甜的菜。Mireille和Pierre（左侧三楼）正在组织此活动，并可回答您的问题。
 
@@ -1053,30 +759,16 @@ D. Une visite d'appartement.
 ---
 </div><span class="q-end" data-qid="T13Q10"></span>
 
+
 <div class="question" data-qid="T14Q9">
 
 ## Question 22/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**L**a France est le pays d'Europe où **il y a** le plus d'animaux **par habitant**. Chien, chat, poisson, cheval, ou même **serpent**, les Français **adorent** **s'occuper d'eux**, les **nourries**, les sortir et vivre **à leurs côtés**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprend-on sur les Français et les animaux ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**L**a France est le pays d'Europe où il y a le plus d'animaux par habitant. Chien, chat, poisson, cheval, ou même serpent, les Français adorent s'occuper d'eux, les nourries, les sortir et vivre à leurs côtés.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprend-on sur les Français et les animaux ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T14 $\boxed{Q9}$ Qu'apprend-on sur les Français et les animaux ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **habitant** [abitã] - 居民 - **habitant de la ville** - 城市居民
-> &nbsp;- **serpent** [sɛrpã] - 蛇 - **un serpent venimeux** - 一条毒蛇
-> &nbsp;- **adorer** [adɔre] - 喜爱，热爱 - **adorer les animaux** - 喜爱动物
-> &nbsp;- **nourrir** [nurir] - 喂养，养育 - **se nourrir de fruits** - 以水果为食
->
-> **常见短语**
-> &nbsp;- **il y a** - 有 - **il y a du soleil** - 天气晴朗
-> &nbsp;- **par habitant** - 人均 - **le PIB par habitant** - 人均国内生产总值
-> &nbsp;- **s'occuper de** - 照看，负责 - **s'occuper des enfants** - 照顾孩子
-> &nbsp;- **à leurs côtés** - 在他们身边 - **être toujours à ses côtés** - 始终在他身边
->
 
 法国是欧洲每人拥有宠物最多的国家。 无论是狗、猫、鱼、马，甚至是蛇，法国人都喜欢照顾它们、喂养它们、带它们外出，或与它们一起生活。
 
@@ -1103,31 +795,16 @@ D. Ils vont les voir dans des zoos.
 ---
 </div><span class="q-end" data-qid="T14Q9"></span>
 
+
 <div class="question" data-qid="T15Q5">
 
 ## Question 23/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Prière de ne pas toucher à la photocopieuse** <br/>Le **réparateur** arrive demain **à la première heure**. **En attendant**, donnez vos documents à ma **secrétaire** qui les photocopies **au bureau de** la **comptable**. <br/>Merci, <br/>Le directeur.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui va faire les photocopies pendant que la photocopieuse est en réparation?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Prière de ne pas toucher à la photocopieuse** <br/>Le réparateur arrive demain à la première heure. En attendant, donnez vos documents à ma secrétaire qui les photocopies au bureau de la comptable. <br/>Merci, <br/>Le directeur. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui va faire les photocopies pendant que la photocopieuse est en réparation?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T15 $\boxed{Q5}$ Qui va faire les photocopies pendant que la photocopieuse est en réparation?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **réparateur** [reparater] - 修理人员 - **réparateur agréé** - 指定维修人员
-> &nbsp;- **secrétaire** [sekreter] - 秘书 - **secrétaire de direction** - 行政秘书
-> &nbsp;- **comptable** [kõtabl] - 会计 - **expert-comptable** - 注册会计师
-> &nbsp;- **photocopieuse** [fotokopijez] - 复印机 - **réparer la photocopieuse** - 修理复印机
-> &nbsp;- **toucher** [tuʃer] - 碰，触碰 - **toucher à quelque chose** - 碰某物
->
-> **常见短语**
-> &nbsp;- **prière de** - 请（用于告示或委婉命令） - **prière de ne pas déranger** - 请勿打扰
-> &nbsp;- **à la première heure** - 一大早，第一时间 - **arriver à la première heure** - 一大早赶到
-> &nbsp;- **en attendant** - 在此期间，与此同时 - **en attendant la suite** - 在等待后续期间
-> &nbsp;- **au bureau de** - 在...的办公室 - **se rendre au bureau de** - 前往某人的办公室
->
 
 请勿使用复印机。 维修人员将于明早到达。 在此之前，请将您的文件交给我的秘书，她会在财务办公室复印。 谢谢。 主管
 
@@ -1154,31 +831,16 @@ D. Le réparateur.
 ---
 </div><span class="q-end" data-qid="T15Q5"></span>
 
+
 <div class="question" data-qid="T15Q8">
 
 ## Question 24/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour**. <br/>Est-ce que vous pouvez dire à vos enfants qu'**il est interdit de** jouer avec l'**ascenseur** ? <br/>Il est souvent en **panne**, car ils **s'amusent avec** les **boutons**. Je suis **obligé de** monter et de descendre les 5 **étages** **à pied**. <br/>Merci de votre **compréhension**.<br>M. Déroulède/5e gauche</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi M. Déroulède est-il mécontent?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour**. <br/>Est-ce que vous pouvez dire à vos enfants qu'il est interdit de jouer avec l'ascenseur ? <br/>Il est souvent en panne, car ils s'amusent avec les boutons. Je suis obligé de monter et de descendre les 5 étages à pied. <br/>Merci de votre compréhension.<br>M. Déroulède/5e gauche </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi M. Déroulède est-il mécontent?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T15 $\boxed{Q8}$ Pourquoi M. Déroulède est-il mécontent?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **ascenseur** [asɑ̃sœr] - 电梯 - **prendre l'ascenseur** - 乘电梯
-> &nbsp;- **panne** [pan] - 故障 - **être en panne** - 坏了，出故障
-> &nbsp;- **bouton** [butɔ̃] - 按钮 - **appuyer sur le bouton** - 按下按钮
-> &nbsp;- **étage** [etaʒ] - 楼层 - **monter les étages** - 上楼层
-> &nbsp;- **compréhension** [kɔ̃preɑ̃sjɔ̃] - 理解 - **merci de votre compréhension** - 感谢您的理解
->
-> **常见短语**
-> &nbsp;- **il est interdit de** - 禁止做某事 - **il est interdit de fumer** - 禁止吸烟
-> &nbsp;- **s'amuser avec** - 玩耍/以此为乐 - **s'amuser avec ses amis** - 和朋友们玩
-> &nbsp;- **être obligé de** - 必须/不得不做某事 - **être obligé de partir** - 必须离开
-> &nbsp;- **à pied** - 步行 - **aller au travail à pied** - 走路去上班
->
 
 早上好。您能否告诉您的孩子不要在电梯里玩耍？电梯经常出故障，因为他们在按按钮。我不得不走楼梯上下 5 层。谢谢您的理解。
 
@@ -1205,30 +867,16 @@ D. Son logement est au dernier étage.
 ---
 </div><span class="q-end" data-qid="T15Q8"></span>
 
+
 <div class="question" data-qid="T16Q6">
 
 ## Question 25/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">1 **PLACE**<br/> **FILM**: LES 3 FRÈRES <br/>**SÉANCE** : 20h 30 <br/>**TARIF** **ÉTUDIANT**<br>6.00€</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Où peut-on vous donner ce ticket?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">1 PLACE<br/> FILM: LES 3 FRÈRES <br/>SÉANCE : 20h 30 <br/>TARIF ÉTUDIANT<br>6.00€ </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Où peut-on vous donner ce ticket?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T16 $\boxed{Q6}$ Où peut-on vous donner ce ticket?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **place** [plas] - 票，座位 - **prendre une place** - 买票
-> &nbsp;- **film** [film] - 电影 - **film d'horreur** - 恐怖片
-> &nbsp;- **séance** [seãs] - (电影、会议等的) 场次 - **séance de cinéma** - 电影场次
-> &nbsp;- **tarif** [tarif] - 票价，资费 - **tarif réduit** - 优惠票价
-> &nbsp;- **étudiant** [etydjã] - 学生 - **carte d'étudiant** - 学生证
->
-> **常见短语**
-> &nbsp;- **tarif étudiant** - 学生票价 - **appliquer le tarif étudiant** - 采用学生票价
-> &nbsp;- **place de cinéma** - 电影票 - **réserver une place de cinéma** - 预订一张电影票
-> &nbsp;- **séance de nuit** - 夜场 - **assister à une séance de nuit** - 观看夜场电影
->
 
 1张票 电影：《三兄弟》 场次：20点30分 学生票价：6.00欧元
 
@@ -1255,30 +903,16 @@ D. Au guichet d'un théâtre.
 ---
 </div><span class="q-end" data-qid="T16Q6"></span>
 
+
 <div class="question" data-qid="T16Q7">
 
 ## Question 26/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Chers parents, <br/>Les **élèves** de l'école du Centre sont **heureux de** vous **inviter à** voir la **pièce** <br/>« **Vive les vacances** » <br/>qu'ils ont **écrite** et qu'ils **joueront** pour vous <br/>le vendredi 9 mars <br/>à 19 heures.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on propose aux parents?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Chers parents, <br/>Les élèves de l'école du Centre sont heureux de vous inviter à voir la pièce <br/>« Vive les vacances » <br/>qu'ils ont écrite et qu'ils joueront pour vous <br/>le vendredi 9 mars <br/>à 19 heures.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on propose aux parents?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T16 $\boxed{Q7}$ Qu'est-ce qu'on propose aux parents?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **élève** [elev] - 学生 - **un élève brillant** - 一位优秀的学生
-> &nbsp;- **inviter** [ɛ̃vite] - 邀请 - **inviter des amis** - 邀请朋友
-> &nbsp;- **pièce** [pjɛs] - 戏剧，剧本 - **une pièce de théâtre** - 一出话剧
-> &nbsp;- **écrire** [ekrir] - 写，创作 - **écrire une lettre** - 写一封信
-> &nbsp;- **jouer** [ʒue] - 表演，演出 - **jouer un rôle** - 扮演角色
->
-> **常见短语**
-> &nbsp;- **être heureux de** - 很高兴做某事 - **être heureux de vous aider** - 很乐意帮助您
-> &nbsp;- **inviter à** - 邀请（去做某事） - **inviter à dîner** - 邀请吃晚饭
-> &nbsp;- **vive les vacances** - 假期万岁 - **vive les vacances d'été** - 暑假万岁
->
 
 亲爱的家长们， 中心学校的学生们很高兴邀请您观看他们编写并表演的剧目《假期万岁》。演出时间为 3 月 9 日星期五晚上 7 点。
 
@@ -1305,31 +939,16 @@ D. De visiter une classe.
 ---
 </div><span class="q-end" data-qid="T16Q7"></span>
 
+
 <div class="question" data-qid="T16Q8">
 
 ## Question 27/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers professeurs**. Chers **étudiants**. **Venez rencontrer** les **nouveaux** **étudiants** de la Semaine ! Ce mardi, de 8h 30 à 10h 30. **Rendez-vous** salle « Les Mimosas ». J. Lebon, **directrice** **École de langues** ABC.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Madame Lebon écrit-elle cette annonce?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Chers professeurs. <br/>Chers étudiants. <br/><br/>Venez rencontrer les nouveaux étudiants de la Semaine ! <br/>Ce mardi, de 8h 30 à 10h 30. <br/>Rendez-vous salle « Les Mimosas ». <br/><br/>J. Lebon, directrice <br/>École de langues ABC.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Madame Lebon écrit-elle cette annonce?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T16 $\boxed{Q8}$ Pourquoi Madame Lebon écrit-elle cette annonce?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **étudiant** [etydjɑ̃] - 学生 - **étudiant étranger** - 外国留学生
-> &nbsp;- **rencontrer** [rɑ̃kɔ̃tre] - 遇见，会面 - **rencontrer quelqu'un** - 遇见某人
-> &nbsp;- **nouveau** [nuvo] - 新的 - **nouveau produit** - 新产品
-> &nbsp;- **directrice** [dirɛktris] - 女负责人，女校长 - **directrice générale** - 总经理
-> &nbsp;- **langue** [lɑ̃g] - 语言 - **langue vivante** - 现代语言
->
-> **常见短语**
-> &nbsp;- **chers professeurs** - 亲爱的老师们 - **chers parents** - 亲爱的家长们
-> &nbsp;- **venez rencontrer** - 来见见 - **venez participer** - 来参加
-> &nbsp;- **rendez-vous** - 集合地点，约会 - **donner rendez-vous** - 约定时间地点
-> &nbsp;- **école de langues** - 语言学校 - **école de commerce** - 商学院
->
 
 尊敬的老师们，亲爱的学生们 欢迎参加本周新生见面会！ 时间：本周二，上午 8:30 至 10:30。 地点：Les Mimosas 教室。 J. Lebon，校长 ABC语言学校
 
@@ -1356,30 +975,16 @@ D. Pour proposer une sortie.
 ---
 </div><span class="q-end" data-qid="T16Q8"></span>
 
+
 <div class="question" data-qid="T17Q5">
 
 ## Question 28/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salon gastronomique le 17 mars**. <br/>Venez **à la rencontre de**s **agriculteur**s, producteurs et chefs de votre région ! Vous pourrez **discuter avec** eux et goûter leurs **délicieux** **produit**s : <br/>pommes, fromages, beurre, miel, etc.! <br/>**Participez au** concours de la meilleure **recette**!</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on peut faire dans ce salon?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salon gastronomique le 17 mars**. <br/>Venez à la rencontre des agriculteurs, producteurs et chefs de votre région ! Vous pourrez discuter avec eux et goûter leurs délicieux produits : <br/>pommes, fromages, beurre, miel, etc.! <br/>Participez au concours de la meilleure recette! </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on peut faire dans ce salon?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q5}$ Qu'est-ce qu'on peut faire dans ce salon?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **gastronomique** [ɡastronomik] - 美食的 - **un repas gastronomique** - 一顿美食大餐
-> &nbsp;- **agriculteur** [agrikyltœr] - 农民 - **travailler comme agriculteur** - 从事农业工作
-> &nbsp;- **délicieux** [delisjø] - 美味的 - **un plat délicieux** - 一道美味佳肴
-> &nbsp;- **produit** [prɔdyi] - 产品 - **un produit local** - 一种当地特产
-> &nbsp;- **recette** [rəsɛt] - 食谱 - **une recette traditionnelle** - 一份传统食谱
->
-> **常见短语**
-> &nbsp;- **à la rencontre de** - 去结识/迎接某人 - **aller à la rencontre des gens** - 去结交人们
-> &nbsp;- **discuter avec** - 与...交谈 - **discuter avec le public** - 与观众交谈
-> &nbsp;- **participer à** - 参加 - **participer à un concours** - 参加一项比赛
->
 
 3月17日美食展 来和本地农民、生产者以及大厨们见面吧！你可以和他们交流，还可以品尝他们的美味产品：苹果、奶酪、黄油、蜂蜜等等！还可以参加最佳食谱比赛！
 
@@ -1406,31 +1011,16 @@ D. Visiter une ferme française.
 ---
 </div><span class="q-end" data-qid="T17Q5"></span>
 
+
 <div class="question" data-qid="T17Q6">
 
 ## Question 29/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Éric** ! <br>J'ai **fini** les cours et je suis **maintenant** à Montpellier. Je suis serveuse dans un restaurant **depuis une semaine**. C'est **fatigant**, mais j'**apprends** beaucoup ! Je serai à Paris **à la fin des** **vacances d'été** pour te voir avec les **copains**. <br>**Camile**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Camille explique ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Éric** ! <br>J'ai fini les cours et je suis maintenant à Montpellier. Je suis serveuse dans un restaurant depuis une semaine. C'est fatigant, mais j'apprends beaucoup ! Je serai à Paris à la fin des vacances d'été pour te voir avec les copains. <br>**Camile**. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Camille explique ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q6}$ Qu'est-ce que Camille explique ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **finir** [finir] - 完成，结束 - **finir par faire** - 最终做某事。
-> &nbsp;- **maintenant** [mɛ̃tnɑ̃] - 现在 - **dès maintenant** - 从现在起。
-> &nbsp;- **fatigant** [fatiɡɑ̃] - 累人的 - **un travail fatigant** - 一份累人的工作。
-> &nbsp;- **apprendre** [aprandr] - 学习，学会 - **apprendre à faire** - 学习做某事。
-> &nbsp;- **vacances** [vakɑ̃s] - 假期 - **être en vacances** - 在度假中。
-> &nbsp;- **copain** [kopɛ̃] - 伙伴，朋友 - **entre copains** - 朋友之间。
->
-> **常见短语**
-> &nbsp;- **depuis une semaine** - 一周以来 - **depuis longtemps** - 很长时间以来。
-> &nbsp;- **à la fin de** - 在...末尾 - **à la fin du mois** - 在月底。
-> &nbsp;- **vacances d'été** - 暑假 - **pendant les vacances d'été** - 在暑假期间。
->
 
 你好，埃里克！ 我已经结束了课程，现在在蒙彼利埃。我在一家餐馆做服务员已经一周了。这份工作很累，但我学到了很多！暑假结束时，我会去巴黎见你和朋友们。 卡米尔
 
@@ -1457,30 +1047,16 @@ C. Elle suit des cours à l'université.
 ---
 </div><span class="q-end" data-qid="T17Q6"></span>
 
+
 <div class="question" data-qid="T17Q7">
 
 ## Question 30/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**JE N'AI PLUS DE VOITURE... J'AI CITIZ**. <br>Des voitures **en libre-service** 24h/ 24, pour 1 heure, 1 jour ou plus. <br>Un service accessible **à partir de** 18 ans. **Essence** et **assurance** **comprises**, sans **abonnement**. <br><br>**Permis** B **obligatoire**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose Citiz?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**JE N'AI PLUS DE VOITURE... J'AI CITIZ**. <br>Des voitures en libre-service 24h/ 24, pour 1 heure, 1 jour ou plus. <br>Un service accessible à partir de 18 ans. Essence et assurance comprises, sans abonnement. <br><br>Permis B obligatoire.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose Citiz?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q7}$ Que propose Citiz?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **essence** [esɑ̃s] - 汽油 - **faire le plein d'essence** - 加满汽油
-> &nbsp;- **assurance** [asyrɑ̃s] - 保险 - **une assurance automobile** - 汽车保险
-> &nbsp;- **abonnement** [abɔnmɑ̃] - 订阅，订购，月费 - **prendre un abonnement** - 办理订阅/月卡
-> &nbsp;- **permis** [pεrmi] - 执照，许可证 - **le permis de conduire** - 驾照
-> &nbsp;- **obligatoire** [ɔbligatwar] - 强制的，必须的 - **le port du masque obligatoire** - 强制佩戴口罩
->
-> **常见短语**
-> &nbsp;- **en libre-service** - 自助式的，共享的 - **un vélo en libre-service** - 共享单车
-> &nbsp;- **à partir de** - 从...开始，从...起 - **à partir de demain** - 从明天起
-> &nbsp;- **compris, comprise** - 包含在内的 - **service compris** - 包含服务费
->
 
 我不再有车了……我有 Citiz。 Citiz 提供24小时随租随用的车辆服务，无论是1小时、1天或更长时间。 该服务向18岁及以上的人开放，包含油费和保险，无需订阅。 需要持有B类驾照。
 
@@ -1507,30 +1083,16 @@ C. De voyager plus rapidement.
 ---
 </div><span class="q-end" data-qid="T17Q7"></span>
 
+
 <div class="question" data-qid="T17Q8">
 
 ## Question 31/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Je ne **connaissais** pas www.lamode.com, mais **sur un forum**, j'ai lu des **avis** positifs. Alors, je suis allé sur le site et j'ai trouvé une jolie robe **pas** **chère** **du tout**. Je l'ai **commandée** et je la portais **5 jours après**. Je suis **ravie** !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'explique cette personne?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Je ne connaissais pas www.lamode.com, mais sur un forum, j'ai lu des avis positifs. Alors, je suis allé sur le site et j'ai trouvé une jolie robe pas chère du tout. Je l'ai commandée et je la portais 5 jours après. Je suis ravie !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'explique cette personne?</span></span> |
 |---|
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q8}$ Qu'explique cette personne?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **connaître** [kɔnɛtr] - 知道；认识 - **connaître bien le sujet** - 很了解这个话题
-> &nbsp;- **avis** [avi] - 意见；评价 - **donner son avis** - 发表意见
-> &nbsp;- **cher** [ʃɛr] - 昂贵的 - **chercher moins cher** - 寻找更便宜的
-> &nbsp;- **commander** [kɔmɑ̃de] - 订购 - **commander en ligne** - 网上订购
-> &nbsp;- **ravi** [ravi] - 非常高兴的 - **être ravi de faire qch** - 很乐意做某事
->
-> **常见短语**
-> &nbsp;- **sur un forum** - 在论坛上 - **poster un message sur un forum** - 在论坛发帖
-> &nbsp;- **pas... du tout** - 一点也不 - **ne pas aimer du tout** - 一点也不喜欢
-> &nbsp;- **5 jours après** - 五天后 - **quelques jours après** - 几天后
->
 
 我之前不知道www.lamode.com，但在一个论坛上，我看到了一些好评。 于是，我访问了这个网站，找到了一件非常便宜的漂亮裙子。我订购了它，5天后穿上了。我很满意！
 
@@ -1557,30 +1119,16 @@ D. Quand elle a échangé un vêtement soldé ?
 ---
 </div><span class="q-end" data-qid="T17Q8"></span>
 
+
 <div class="question" data-qid="T17Q9">
 
 ## Question 32/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">De : jean.roussel@epicesexotiques.com <br>À: georges.rouault@epicesexotiques.com <br><br>Georges, je reste à Montélimar une semaine **de plus** **parce que** les **ventes** sur les **marchés** sont très bonnes. Est-ce que tu peux **rencontrer** les gens des **magasins** Biotopia **à ma place**? Appelle-moi si tu as **besoin**. <br>**Jean**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va faire Jean Roussel?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">De : jean.roussel@epicesexotiques.com <br>À: georges.rouault@epicesexotiques.com <br><br>Georges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes. Est-ce que tu peux rencontrer les gens des magasins Biotopia à ma place? Appelle-moi si tu as besoin. <br>**Jean** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va faire Jean Roussel?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q9}$ Que va faire Jean Roussel?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **vente** [vɑ̃t] - 销售 - **point de vente** - 销售点
-> &nbsp;- **marché** [marʃe] - 市场 - **être sur le marché** - 在市场上/上市
-> &nbsp;- **rencontrer** [rɑ̃kɔ̃tre] - 会见/遇见 - **rencontrer un client** - 会见客户
-> &nbsp;- **magasin** [magazɛ̃] - 商店 - **grand magasin** - 百货商店
->
-> **常见短语**
-> &nbsp;- **de plus** - 更多/再 - **une semaine de plus** - 多出一周
-> &nbsp;- **parce que** - 因为 - **parce que c'est nécessaire** - 因为这是必要的
-> &nbsp;- **à ma place** - 代替我 - **se mettre à ma place** - 设身处地为我着想
-> &nbsp;- **avoir besoin** - 需要 - **avoir besoin d'aide** - 需要帮助
->
 
 发件人：Jean.Roussel@epicesexotiques.com 收件人：georges.Rouault@epicesexotiques.com Georges，我会在蒙特利马尔再待一周，因为市场上的销售情况非常好。你能代替我去和Biotopia商店的人见面吗？如果需要，请打电话给我。 Jean
 
@@ -1607,31 +1155,16 @@ D. Téléphoner à Biotopia.
 ---
 </div><span class="q-end" data-qid="T17Q9"></span>
 
+
 <div class="question" data-qid="T17Q10">
 
 ## Question 33/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Rendez-vous à Londres!** <br>15% de **réduction** **sur** nos **vols** <br/>Air France Paris-Londres en juillet! <br/>**Consultez** notre site <br/>(**Offre** **valable** **pour** un départ aéroport Charles de Gaulle)</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose cette publicité ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Rendez-vous à Londres!** <br>15% de réduction sur nos vols <br/>Air France Paris-Londres en juillet! <br/>Consultez notre site <br/>(Offre valable pour un départ aéroport Charles de Gaulle)</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose cette publicité ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T17 $\boxed{Q10}$ Que propose cette publicité ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **réduction** [redyksjɔ̃] - 折扣 - **réduction de prix** - 降价
-> &nbsp;- **vol** [vɔl] - 航班 - **vol direct** - 直飞航班
-> &nbsp;- **consulter** [kɔ̃sylte] - 查询 - **consulter le site** - 查询网站
-> &nbsp;- **offre** [ɔfr] - 优惠 - **offre spéciale** - 特别优惠
-> &nbsp;- **valable** [valabl] - 有效的 - **valable un mois** - 一个月内有效
-> &nbsp;- **rendez-vous** [rɑ̃devu] - 约会/约定 - **prendre rendez-vous** - 预约
->
-> **常见短语**
-> &nbsp;- **rendez-vous à** - 约定在... - **rendez-vous à la gare** - 车站见
-> &nbsp;- **réduction sur** - ...的折扣 - **réduction sur les billets** - 门票折扣
-> &nbsp;- **valable pour** - 适用于... - **valable pour un départ** - 适用于出发
->
 
 前往伦敦！ 七月期间，法国航空巴黎-伦敦航班可享 15% 折扣！ 请访问我们的网站。 （优惠适用于戴高乐机场出发的航班）
 
@@ -1658,30 +1191,16 @@ D. Un voyage en train.
 ---
 </div><span class="q-end" data-qid="T17Q10"></span>
 
+
 <div class="question" data-qid="T18Q5">
 
 ## Question 34/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">SAMEDI 29 JUIN, <br/>VENEZ COURIR 10KM <br/>POUR **AIDER** L'**ASSOCIATION** <br/>« **TOUT ENSEMBLE** POUR LA PAIX ». <br/>**RENDEZ-VOUS A** 10H, AU PARC DE VINCENNES. <br/>**AMBIANCE** SYMPATHIQUE ET REPAS <br/>**OFFERT** POUR LES **SPORTIFS**, <br/>**VENEZ NOMBREUX** !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**SAMEDI 29 JUIN, <br/>VENEZ COURIR 10KM <br/>POUR AIDER L'ASSOCIATION <br/>« TOUT ENSEMBLE POUR LA PAIX ». <br/>RENDEZ-VOUS A 10H, AU PARC DE VINCENNES. <br/>AMBIANCE SYMPATHIQUE ET REPAS <br/>OFFERT POUR LES SPORTIFS, <br/>VENEZ NOMBREUX !**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T18 $\boxed{Q5}$ Qu'est-ce que cette annonce propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **aider** [ede] - 帮助 - **aider quelqu'un à faire quelque chose** - 帮助某人做某事。
-> &nbsp;- **association** [asɔsjasiɔ̃] - 协会 - **association à but non lucratif** - 非营利协会。
-> &nbsp;- **ambiance** [ɑ̃bjɑ̃s] - 气氛 - **une ambiance chaleureuse** - 热烈的气氛。
-> &nbsp;- **offert** [ɔfɛr] - 提供的/赠送的 - **repas offert** - 免费提供的餐食。
-> &nbsp;- **sportif** [spɔrtif] - 运动员/运动的 - **esprit sportif** - 运动精神。
->
-> **常见短语**
-> &nbsp;- **rendez-vous à** - 在...集合/约在... - **rendez-vous à la gare** - 在火车站集合。
-> &nbsp;- **venez nombreux** - 欢迎大家踊跃参加 - **venez nombreux à la fête** - 欢迎大家踊跃参加派对。
-> &nbsp;- **tout ensemble** - 全体一起 - **travailler tout ensemble** - 全体一起工作。
->
 
 6月29日星期六 参加10公里跑步活动 为“和平同心”协会筹集资金。 上午10点在万森纳公园集合。活动气氛轻松愉快 为运动员提供免费餐食。欢迎踊跃参加！
 
@@ -1708,30 +1227,16 @@ C. De distribuer des repas gratuits.
 ---
 </div><span class="q-end" data-qid="T18Q5"></span>
 
+
 <div class="question" data-qid="T18Q6">
 
 ## Question 35/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">De: cannelle@lilo.com <br>À: Elke@mail.com <br>**Salut Elke**, <br/>C'est bientôt la fête de nos 20 ans de **mariage** Beaucoup d'**invités** **viendront avec** leurs **enfants**. Comme tu adores les petits, pourrais-tu **t'occuper d'**eux en **journée** ? Quand ils **seront couchés**, nous pourrons danser tous **ensemble** ! <br>Merci, bisous. <br/>**Cannelle**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande Cannelle à son amie?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">De: cannelle@lilo.com <br>À: Elke@mail.com <br>**Salut Elke**, <br/>C'est bientôt la fête de nos 20 ans de mariage Beaucoup d'invités viendront avec leurs enfants. Comme tu adores les petits, pourrais-tu t'occuper d'eux en journée ? Quand ils seront couchés, nous pourrons danser tous ensemble ! <br>Merci, bisous. <br/>**Cannelle** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande Cannelle à son amie?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T18 $\boxed{Q6}$ Que demande Cannelle à son amie?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **invité** [ɛ̃vite] - 客人 - **un invité d'honneur** - 贵宾
-> &nbsp;- **mariage** [marjaʒ] - 婚姻；婚礼 - **un anniversaire de mariage** - 结婚周年纪念
-> &nbsp;- **enfant** [ɑ̃fɑ̃] - 孩子 - **avoir des enfants** - 有孩子
-> &nbsp;- **journée** [ʒurne] - 白天；一整天 - **pendant la journée** - 在白天期间
-> &nbsp;- **ensemble** [ɑ̃sɑ̃bl] - 一起 - **vivre ensemble** - 生活在一起
->
-> **常见短语**
-> &nbsp;- **s'occuper de** - 照顾；负责 - **s'occuper des bagages** - 看管行李
-> &nbsp;- **venir avec** - 带着...来 - **venir avec un cadeau** - 带着礼物来
-> &nbsp;- **être couché** - 睡觉；躺下 - **être déjà couché** - 已经睡下了
->
 
 寄件人：Cannelle 收件人：Elke 你好，Elke， 我们即将庆祝 20 周年结婚纪念日！会有许多客人带着孩子来。既然你愿意帮忙，下午能否帮忙照顾孩子？等他们睡着了，我们就可以一起跳舞了！谢谢，亲亲。 Cannelle
 
@@ -1758,31 +1263,16 @@ D. De préparer des danses.
 ---
 </div><span class="q-end" data-qid="T18Q6"></span>
 
+
 <div class="question" data-qid="T18Q8">
 
 ## Question 36/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Madame Chanmont, <br>Vous avez **participé à** notre **concours** et vous avez **gagné** un **séjour** d'une semaine **tout compris** (transport, **hébergement**, restauration) pour deux personnes en Italie ! **Prenez contact** par **courriel** avec notre **service clientèle** pour avoir toutes les informations. <br/><br/>Le service commercial.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit-faire madame Chanmont?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Madame Chanmont, <br>Vous avez participé à notre concours et vous avez gagné un séjour d'une semaine tout compris (transport, hébergement, restauration) pour deux personnes en Italie ! Prenez contact par courriel avec notre service clientèle pour avoir toutes les informations. <br/><br/>Le service commercial. </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit-faire madame Chanmont?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T18 $\boxed{Q8}$ Que doit-faire madame Chanmont?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **concours** [kɔ̃kur] - 比赛，竞赛 - **passer un concours** - 参加考试/竞赛
-> &nbsp;- **gagner** [ɡaɲe] - 赢得，获得 - **gagner un prix** - 获奖
-> &nbsp;- **séjour** [seʒur] - 逗留，停留 - **séjour linguistique** - 游学/语言实践
-> &nbsp;- **hébergement** [ebɛrʒəmɑ̃] - 住宿 - **frais d'hébergement** - 住宿费
-> &nbsp;- **courriel** [kurjɛl] - 电子邮件 - **envoyer un courriel** - 发送电子邮件
->
-> **常见短语**
-> &nbsp;- **participer à** - 参加 - **participer à une réunion** - 参加会议
-> &nbsp;- **tout compris** - 全包的，包括一切的 - **formule tout compris** - 全包套餐
-> &nbsp;- **prendre contact** - 取得联系 - **prendre contact par téléphone** - 通过电话联系
-> &nbsp;- **service clientèle** - 客户服务 - **contacter le service clientèle** - 联系客服部门
->
 
 尊敬的 Chanmont 女士 您参加了我们的比赛，并赢得了为期一周的双人意大利全包行程（包括交通、住宿和餐饮）！ 请通过电子邮件联系我们的客户服务，以获取所有相关信息。 商业服务部
 
@@ -1809,31 +1299,16 @@ D. S'inscrire à un jeu.
 ---
 </div><span class="q-end" data-qid="T18Q8"></span>
 
+
 <div class="question" data-qid="T18Q9">
 
 ## Question 37/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous avez une **expérience** dans l'**éducation** ? <br/>Vous avez du **temps libre**, et vous **avez envie d'**aider des élèves **en difficulté** ? <br/>Offrez vos services de **soutien scolaire** dans notre **association** de **quartier** ! <br/>Écrivez-nous à avotreservice@mandarine.fr</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous avez une expérience dans l'éducation ? <br/>Vous avez du temps libre, et vous avez envie d'aider des élèves en difficulté ? <br/>Offrez vos services de soutien scolaire dans notre association de quartier ! <br/>Écrivez-nous à avotreservice@mandarine.fr </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T18 $\boxed{Q9}$ Qu'est-ce que cette annonce propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **expérience** [ɛksperjɑ̃s] - 经验 - **expérience professionnelle** - 工作经验
-> &nbsp;- **éducation** [edykasjɔ̃] - 教育 - **système d'éducation** - 教育体系
-> &nbsp;- **soutien** [sutjɛ̃] - 支持/辅导 - **apporter un soutien** - 提供支持
-> &nbsp;- **association** [asɔsjasjɔ̃] - 协会/社团 - **association caritative** - 慈善协会
-> &nbsp;- **quartier** [kartje] - 街区/社区 - **fête de quartier** - 社区邻里节
->
-> **常见短语**
-> &nbsp;- **temps libre** - 空闲时间 - **pendant mon temps libre** - 在我的空闲时间
-> &nbsp;- **avoir envie de** - 想要/渴望 - **avoir envie de voyager** - 想要去旅行
-> &nbsp;- **en difficulté** - 处于困境/有困难 - **être en difficulté financière** - 陷入经济困难
-> &nbsp;- **soutien scolaire** - 课业辅导 - **faire du soutien scolaire** - 从事课外辅导
->
 
 您有教育经验吗？ 您有空闲时间并想帮助有困难的学生吗？ 欢迎加入我们社区的辅导协会，提供课业辅导服务！ 请通过电子邮件联系我们：avotreservice@mandarine.fr
 
@@ -1860,32 +1335,16 @@ D. De suivre des formations.
 ---
 </div><span class="q-end" data-qid="T18Q9"></span>
 
+
 <div class="question" data-qid="T19Q6">
 
 ## Question 38/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Vous avez peur en avion ?** <br>Vous n'êtes pas le seul ! Les **statistiques** montrent qu'un **quart** des **passagers** sont **inquiets** quand ils **prennent l'avion** ! L'avion n'est pas un **jeu** ! Des **stages** peuvent vous **aider à** montrer dans un avion sans **avoir peur** ! Pour **en savoir plus**, contactez **Airplus** au 09 48 36 22 11.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose la société AIRPLUS ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Vous avez peur en avion ?** <br>Vous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion ! L'avion n'est pas un jeu ! Des stages peuvent vous aider à montrer dans un avion sans avoir peur ! Pour en savoir plus, contactez **Airplus** au 09 48 36 22 11. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose la société AIRPLUS ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T19 $\boxed{Q6}$ Que propose la société AIRPLUS ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **statistique** [statistik] - 统计 - **les statistiques montrent** - 统计显示
-> &nbsp;- **quart** [kar] - 四分之一 - **un quart de** - ...的四分之一
-> &nbsp;- **passager** [pasaʒe] - 乘客 - **un passager** - 一名乘客
-> &nbsp;- **inquiet** [ɛ̃kje] - 担心的 - **être inquiet** - 感到担心
-> &nbsp;- **stage** [staʒ] - 培训/实习 - **suivre un stage** - 参加培训
-> &nbsp;- **jeu** [ʒø] - 游戏/儿戏 - **ce n'est pas un jeu** - 这不是儿戏
->
-> **常见短语**
-> &nbsp;- **avoir peur** - 害怕 - **avoir peur de** - 害怕某物
-> &nbsp;- **prendre l'avion** - 乘飞机 - **prendre l'avion** - 乘坐飞机
-> &nbsp;- **aider à** - 帮助...做... - **aider à faire quelque chose** - 帮助做某事
-> &nbsp;- **en savoir plus** - 了解更多 - **pour en savoir plus** - 为了解更多信息
->
 
 您害怕坐飞机吗？ 您不是唯一一个！数据显示，四分之一的乘客在搭乘飞机时感到紧张！ 飞行并不是闹着玩的！一些课程可以帮助您克服恐惧，安心乘坐飞机！ 想了解更多，请联系 Airplus：09 48 36 22 11。
 
@@ -1912,32 +1371,16 @@ D. Des statistiques.
 ---
 </div><span class="q-end" data-qid="T19Q6"></span>
 
+
 <div class="question" data-qid="T19Q7">
 
 ## Question 39/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Devenez reporter** pour le **mensuel** de notre ville ! <br>**Envoyez-nous** votre article sur les **thèmes** suivants : **vie du quartier**, sport, cuisine, poésie...S'il est **sélectionné**, il sera **publié** **le mois prochain**. Notre contact: publications@nanterre.fr</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui a écrit cette proposition?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Devenez reporter pour le mensuel de notre ville ! <br>Envoyez-nous votre article sur les thèmes suivants : vie du quartier, sport, cuisine, poésie...S'il est sélectionné, il sera publié le mois prochain. Notre contact: publications@nanterre.fr </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui a écrit cette proposition?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T19 $\boxed{Q7}$ Qui a écrit cette proposition?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **reporter** [rəpɔrtɛr] - 记者 - **un reporter de guerre** - 战地记者
-> &nbsp;- **mensuel** [mɑ̃syɛl] - 月刊；每月的 - **un abonnement mensuel** - 月订阅费
-> &nbsp;- **thème** [tɛm] - 主题 - **sur le thème de** - 以...为主题
-> &nbsp;- **quartier** [kartje] - 街区 - **un quartier résidentiel** - 住宅区
-> &nbsp;- **sélectionner** [selɛksjɔne] - 选拔；挑选 - **être sélectionné pour** - 被选入...
-> &nbsp;- **publier** [pyblije] - 出版；发表 - **publier un article** - 发表文章
->
-> **常见短语**
-> &nbsp;- **devenez reporter** - 成为记者 - **vouloir devenez reporter** - 想要成为记者
-> &nbsp;- **envoyez-nous** - 发送给我们 - **envoyez-nous votre CV** - 发送您的简历给我们
-> &nbsp;- **vie du quartier** - 社区生活 - **participer à la vie du quartier** - 参与社区生活
-> &nbsp;- **le mois prochain** - 下个月 - **rendez-vous le mois prochain** - 下个月见
->
 
 成为我们城市月刊的记者吧！ 将您的文章发送给我们，主题包括：社区生活、体育、美食、诗歌…… 如果文章被选中，它将于下个月刊登。 联系我们：publications@nanterre.fr
 
@@ -1964,29 +1407,16 @@ D. Une école.
 ---
 </div><span class="q-end" data-qid="T19Q7"></span>
 
+
 <div class="question" data-qid="T19Q8">
 
 ## Question 40/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Monsieur Giannorsi, <br>Nous vous **informons que** votre **commande** est arrivée à la poste. <br/>Vous pouvez venir la **retirer** du lundi au vendredi, de 8h à 18h. **N'oubliez pas de** prendre votre **pièce** d'**identité**. <br/>Nous vous **remercions pour** votre **commande** chez Culture et Compagnie !</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que M. Giannorsi doit faire?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Monsieur Giannorsi, <br>Nous vous informons que votre commande est arrivée à la poste. <br/>Vous pouvez venir la retirer du lundi au vendredi, de 8h à 18h. N'oubliez pas de prendre votre pièce d'identité. <br/>Nous vous remercions pour votre commande chez Culture et Compagnie ! </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que M. Giannorsi doit faire?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T19 $\boxed{Q8}$ Qu'est-ce que M. Giannorsi doit faire?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **commande** [kɔmɑ̃d] - 订单 - **passer une commande** - 下订单
-> &nbsp;- **retirer** [rətire] - 取回，领取 - **retirer un colis** - 取包裹
-> &nbsp;- **pièce** [pjɛs] - 证件，房间 - **pièce d'identité** - 身份证件
-> &nbsp;- **identité** [idɑ̃tite] - 身份 - **carte d'identité** - 身份证
->
-> **常见短语**
-> &nbsp;- **informer que** - 告知某事 - **informer qn que...** - 通知某人某事
-> &nbsp;- **oublier de** - 忘记做某事 - **n'oubliez pas de...** - 别忘了做某事
-> &nbsp;- **remercier pour** - 为某事而感谢 - **remercier qn pour son aide** - 为某人的帮助表示感谢
->
 
 Giannorsi先生， 我们通知您，您的订单已到达邮局。 您可以在周一至周五，上午8点到下午6点之间取件。请不要忘记带上您的身份证明。 感谢您在Culture et Compagnie的购物！
 
@@ -2013,31 +1443,16 @@ D. Réserver son article.
 ---
 </div><span class="q-end" data-qid="T19Q8"></span>
 
+
 <div class="question" data-qid="T20Q7">
 
 ## Question 41/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Un cinéma historique en centre-ville, c'est exceptionnel !** La famille **propriétaire** de ce monument **n'a pas changé** depuis son **ouverture** en 1911, dans ses sept salles vous trouverez des films internationaux et des **événements** **de qualité** **chaque semaine**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on apprend sur ce cinéma?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Un cinéma historique en centre-ville, c'est exceptionnel !** La famille propriétaire de ce monument n'a pas changé depuis son ouverture en 1911, dans ses sept salles vous trouverez des films internationaux et des événements de qualité chaque semaine.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on apprend sur ce cinéma?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T20 $\boxed{Q7}$ Qu'est-ce qu'on apprend sur ce cinéma?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **historique** [istɔrik] - 历史性的 - **monument historique** - 历史遗迹
-> &nbsp;- **exceptionnel** [ɛksɛpsjɔnɛl] - 卓越的，非凡的 - **un talent exceptionnel** - 出众的才华
-> &nbsp;- **propriétaire** [prɔprijɛtɛr] - 所有人，业主 - **copropriétaire** - 共同所有人
-> &nbsp;- **ouverture** [uvɛrtyr] - 开启，开业 - **horaires d'ouverture** - 营业时间
-> &nbsp;- **événement** [evenmɑ̃] - 事件，活动 - **organiser un événement** - 组织活动
->
-> **常见短语**
-> &nbsp;- **en centre-ville** - 在市中心 - **habiter en centre-ville** - 住在市中心
-> &nbsp;- **n'a pas changé** - 没有改变 - **rien n'a changé** - 什么也没变
-> &nbsp;- **de quality** - 高质量的 - **service de qualité** - 优质服务
-> &nbsp;- **chaque semaine** - 每周 - **réunion chaque semaine** - 每周会议
->
 
 市中心的一家历史悠久的电影院，真是特别！这座地标性建筑自1911年开放以来，一直由同一个家族拥有。在这里的七个放映厅中，每周都有国际影片和高质量的活动。
 
@@ -2064,29 +1479,16 @@ D. Ses films sont en noir et blanc.
 ---
 </div><span class="q-end" data-qid="T20Q7"></span>
 
+
 <div class="question" data-qid="T20Q9">
 
 ## Question 42/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Le saviez-vous** ? <br>Les Galeries Lafayette sont aujourd'hui le site **le plus visité** à Paris après le musée du Louvre ! Vous pouvez y trouver des **vêtements** **à la mode**, des **objets** pour la maison **ou encore** des **articles** de cuisine.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on apprend sur ce grand magasin ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Le saviez-vous** ? <br>Les Galeries Lafayette sont aujourd'hui le site le plus visité à Paris après le musée du Louvre ! Vous pouvez y trouver des vêtements à la mode, des objets pour la maison ou encore des articles de cuisine. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on apprend sur ce grand magasin ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T20 $\boxed{Q9}$ Qu'est-ce qu'on apprend sur ce grand magasin ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **vêtement** [vεtmɑ̃] - 衣服，服装 - **un vêtement de marque** - 名牌服装
-> &nbsp;- **objet** [ɔbʒε] - 物品，物体 - **un objet de décoration** - 装饰品
-> &nbsp;- **article** [artikl] - 商品，物品 - **un article de luxe** - 奢侈品
-> &nbsp;- **visiter** [vizite] - 参观，访问 - **visiter un musée** - 参观博物馆
->
-> **常见短语**
-> &nbsp;- **le plus visité** - 最常被参观的 - **le monument le plus visité** - 最常被参观的纪念碑
-> &nbsp;- **à la mode** - 流行，时髦 - **être à la mode** - 流行，时髦
-> &nbsp;- **ou encore** - 甚至，或者，还有 - **des fruits ou encore des légumes** - 水果还有蔬菜
->
 
 您知道吗？ 拉法叶百货如今是巴黎仅次于卢浮宫的最受欢迎景点！您可以在那里找到时尚服装、家居用品或厨房用具。
 
@@ -2113,30 +1515,16 @@ D. On y donne des cours de cuisine.
 ---
 </div><span class="q-end" data-qid="T20Q9"></span>
 
+
 <div class="question" data-qid="T2Q5">
 
 ## Question 43/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**François**, <br>**Pouvons**-**nous** **nous** **rencontrer** **dans** **ton** **bureau** **demain** **matin**? <br/>**Ariane**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Ariane écrit-elle ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**François**, <br>Pouvons-nous nous rencontrer dans ton bureau demain matin? <br/>**Ariane**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Ariane écrit-elle ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q5}$ Pourquoi Ariane écrit-elle ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **pouvoir** [puvwar] - 能，可以 - **pouvoir faire quelque chose** - 能够做某事
-> &nbsp;- **rencontrer** [rɑ̃kɔ̃tre] - 遇见，会面 - **rencontrer quelqu'un** - 遇见某人
-> &nbsp;- **bureau** [byro] - 办公室，办公桌 - **au bureau** - 在办公室
-> &nbsp;- **demain** [dəmɛ̃] - 明天 - **à demain** - 明天见
-> &nbsp;- **matin** [matɛ̃] - 早上，上午 - **tous les matins** - 每天早晨
->
-> **常见短语**
-> &nbsp;- **se rencontrer** - 见面，会面 - **se rencontrer par hasard** - 偶然遇见
-> &nbsp;- **demain matin** - 明天上午 - **à demain matin** - 明天早上见
-> &nbsp;- **dans ton bureau** - 在你的办公室里 - **travailler dans ton bureau** - 在你的办公室工作
->
 
 “Françoise，我们可以明天早上在你的办公室见面吗？ Ariane。”
 
@@ -2163,30 +1551,16 @@ D. Elle veut visiter une entreprise
 ---
 </div><span class="q-end" data-qid="T2Q5"></span>
 
+
 <div class="question" data-qid="T2Q6">
 
 ## Question 44/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le forum de paris **s'adresse** aux jeunes de **moins de** trente ans, avec ou sans **diplôme**. Des milliers d'offres sont **disponibles** dans **près de** 300 **métiers**. Chaque année, **un grand nombre de** jeunes signent un **contrat** de travail du Salon.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi le Forum de Paris est-il utile aux jeunes?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le forum de paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme. Des milliers d'offres sont disponibles dans près de 300 métiers. Chaque année, un grand nombre de jeunes signent un contrat de travail du Salon. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi le Forum de Paris est-il utile aux jeunes?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q6}$ </span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **diplôme** [diplom] - 证书，文凭 - **un diplôme universitaire** - 大学文凭
-> &nbsp;- **disponible** [dispɔnibl] - 可获得的，有空的 - **être disponible** - 有空，可用
-> &nbsp;- **métier** [metje] - 职业，行业 - **apprendre un métier** - 学习一门手艺
-> &nbsp;- **contrat** [kɔ̃tra] - 合同 - **signer un contrat** - 签订合同
->
-> **常见短语**
-> &nbsp;- **s'adresser à** - 面向，针对 - **s'adresser aux étudiants** - 面向学生
-> &nbsp;- **moins de** - 少于，不到 - **moins de dix euros** - 少于10欧元
-> &nbsp;- **près de** - 接近，将近 - **près de deux cents** - 接近两百
-> &nbsp;- **un grand nombre de** - 许多，大量 - **un grand nombre de personnes** - 许多人
->
 
 巴黎论坛面向30岁以下的年轻人，无论是否有文凭。论坛上提供数千个职位，涵盖近300个职业领域。每年，许多年轻人在论坛上签订了工作合同。
 
@@ -2213,29 +1587,16 @@ D. Il leur propose des logements étudiants
 ---
 </div><span class="q-end" data-qid="T2Q6"></span>
 
+
 <div class="question" data-qid="T2Q7">
 
 ## Question 45/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Jardin de la Fontaine** <br>**Ouverture-Fermeture** <br>**Du** **1er** septembre **au** 31 mars **7h30**-18h30  <br/>**Du** **1er** avril **au** 30 juin **7h30**-20h30  <br/>**Du** **1er** juillet **au** 31 aout 7h00-22h30</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quand peut-on se promener dans le parc après 18h30 ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Jardin de la Fontaine** <br>**Ouverture-Fermeture** <br>Du 1er septembre au 31 mars 7h30-18h30  <br/>Du 1er avril au 30 juin 7h30-20h30  <br/>Du 1er juillet au 31 aout 7h00-22h30 </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quand peut-on se promener dans le parc après 18h30 ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q7}$ Quand peut-on se promener dans le parc après 18h30 ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **jardin** [ʒardɛ̃] - 花园 - **jardin public** - 公共花园
-> &nbsp;- **fontaine** [fɔ̃tɛn] - 喷泉 - **fontaine municipale** - 市立喷泉
-> &nbsp;- **ouverture** [uvɛrtyr] - 开放，开启 - **horaires d'ouverture** - 开放时间
-> &nbsp;- **fermeture** [fɛrmətyr] - 关闭，结束 - **fermeture annuelle** - 年度闭园
->
-> **常见短语**
-> &nbsp;- **du ... au ...** - 从...到... - **du lundi au vendredi** - 从周一到周五
-> &nbsp;- **1er** - (日期)一号 - **le 1er janvier** - 一月一号
-> &nbsp;- **7h30** - 七点半 - **il est 7h30** - 现在是七点半
->
 
 喷泉花园 开放 – 关闭时间 9月1日至3月31日：7:30 – 18:30 4月1日至6月30日：7:30 – 20:30 7月1日至8月31日：7:00 – 22:30
 
@@ -2262,30 +1623,16 @@ D. En mars
 ---
 </div><span class="q-end" data-qid="T2Q7"></span>
 
+
 <div class="question" data-qid="T2Q8">
 
 ## Question 46/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**1kg de pommes <br>Salade <br/>Mouchoirs en papier**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Où trouve-t-on ces produits ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**1kg de pommes <br>Salade <br/>Mouchoirs en papier** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Où trouve-t-on ces produits ?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q8}$ Où trouve-t-on ces produits ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **pomme** [pɔm] - 苹果 - **pomme de terre** - 土豆
-> &nbsp;- **salade** [salad] - 生菜，沙拉 - **salade composée** - 混合沙拉
-> &nbsp;- **mouchoir** [muʃwar] - 手帕，纸巾 - **mouchoir en tissu** - 布手帕
-> &nbsp;- **papier** [papje] - 纸 - **feuille de papier** - 一张纸
-> &nbsp;- **kilo** [kilo] - 公斤 - **un kilo de sucre** - 一公斤糖
->
-> **常见短语**
-> &nbsp;- **un kilo de** - 一公斤的 - **un kilo de pommes** - 一公斤苹果
-> &nbsp;- **mouchoir en papier** - 纸巾 - **un paquet de mouchoirs en papier** - 一包纸巾
-> &nbsp;- **en papier** - 纸质的 - **sac en papier** - 纸袋
->
 
 1 公斤苹果 沙拉 纸巾
 
@@ -2312,30 +1659,16 @@ D. Dans une poissonnerie
 ---
 </div><span class="q-end" data-qid="T2Q8"></span>
 
+
 <div class="question" data-qid="T2Q9">
 
 ## Question 47/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour Ahmed**, <br>Ce message pour te **rappeler** la réunion de lundi. Nous **commanderons** des **paniers-repas** pour le midi, car la séance peut durer longtemps: les dossiers à **traiter** sont nombreux. Peux-tu en **informer** les personnes des services **concernés**? **Merci d'avance**. <br/><br/>**À lundi**. <br/>**Ayoub**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande Ayoub à Ahmed?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Bonjour Ahmed**, <br>Ce message pour te rappeler la réunion de lundi. Nous commanderons des paniers-repas pour le midi, car la séance peut durer longtemps: les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés? Merci d'avance. <br/><br/>**À lundi**. <br/>**Ayoub**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande Ayoub à Ahmed?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q9}$ Que demande Ayoub à Ahmed?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **rappeler** [rapəle] - 提醒 - **rappeler qch à qn** - 提醒某人某事
-> &nbsp;- **commander** [kɔmɑ̃de] - 订购 - **commander un repas** - 订餐
-> &nbsp;- **traiter** [trɛte] - 处理 - **traiter un dossier** - 处理文件/案卷
-> &nbsp;- **informer** [ɛ̃fɔrme] - 通知 - **informer qn de qch** - 通知某人某事
-> &nbsp;- **concerner** [kɔ̃sɛrne] - 涉及 - **les services concernés** - 相关部门
->
-> **常见短语**
-> &nbsp;- **panier-repas** - 盒饭/便当 - **commander des paniers-repas** - 订购便当
-> &nbsp;- **merci d'avance** - 预先感谢 - **merci d'avance pour votre aide** - 预先感谢您的帮助
-> &nbsp;- **à lundi** - 周一见 - **à lundi prochain** - 下周一见
->
 
 你好，阿赫迈德： 写这条消息是为了提醒你周一的会议。 我们会订午餐盒，因为会议可能会持续很久：需要处理的文件很多。你能否通知相关部门的人？ 提前感谢你。周一见！ 皮埃尔
 
@@ -2362,29 +1695,16 @@ C. De consulter les documents
 ---
 </div><span class="q-end" data-qid="T2Q9"></span>
 
+
 <div class="question" data-qid="T2Q10">
 
 ## Question 48/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame, Monsieur**, <br/>**En raison de** **travaux** rue Paul Vaillant, l'**accès** à la piscine municipale **se fera** coté boulevard Camélinat, du 15 au 26 mars **inclus**. **Veuillez nous excuser pour** la **gêne** occasionnée. <br/>Le service municipal.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information est donnée au sujet de la piscine ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame, Monsieur**, <br/>En raison de travaux rue Paul Vaillant, l'accès à la piscine municipale se fera coté boulevard Camélinat, du 15 au 26 mars inclus. Veuillez nous excuser pour la gêne occasionnée. <br/>Le service municipal. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information est donnée au sujet de la piscine ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T2 $\boxed{Q10}$ Quelle information est donnée au sujet de la piscine ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **travaux** [travo] - 工程，施工 - **travaux de rénovation** - 翻修工程
-> &nbsp;- **accès** [aksɛ] - 进入，通道 - **accès interdit** - 禁止进入
-> &nbsp;- **inclus** [ɛ̃kly] - 包括在内的 - **taxes incluses** - 含税
-> &nbsp;- **gêne** [ʒɛn] - 麻烦，不便 - **sans gêne** - 毫无顾忌
->
-> **常见短语**
-> &nbsp;- **en raison de** - 由于，因为 - **en raison de la grève** - 因为罢工
-> &nbsp;- **se faire** - 进行，被办理 - **l'inscription se fera en ligne** - 报名将在网上进行
-> &nbsp;- **veuillez nous excuser pour** - 请原谅我们... - **veuillez nous excuser pour ce désagrément** - 请原谅由此带来的不便
->
 
 女士/先生们 由于Paul Vaillant路施工，从3月15日至25日，市政游泳池的入口将改为Camélinat大道一侧。 对于带来的不便，我们深表歉意。 市政服务部
 
@@ -2411,31 +1731,16 @@ D. Le service municipal réparera les lieux.
 ---
 </div><span class="q-end" data-qid="T2Q10"></span>
 
+
 <div class="question" data-qid="T21Q9">
 
 ## Question 49/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le **soin** **d'origine naturelle** « Nuit Sommeil » **est étudié pour** les peaux **fragiles**. Il **corrige** les **signes de fatigue** et réveille votre **visage**. Votre peau est parfaite, même **en plein hiver**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que "Nuit Sommeil " ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le soin d'origine naturelle « Nuit Sommeil » est étudié pour les peaux fragiles. Il corrige les signes de fatigue et réveille votre visage. Votre peau est parfaite, même en plein hiver. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que "Nuit Sommeil " ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T21 $\boxed{Q9}$ Qu'est-ce que "Nuit Sommeil " ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **soin** [swɛ̃] - 护理，保养 - **soins du visage** - 面部护理
-> &nbsp;- **fragile** [fraʒil] - 脆弱的，易损的 - **santé fragile** - 脆弱的健康状况
-> &nbsp;- **corriger** [kɔriʒe] - 纠正，改善 - **corriger un défaut** - 纠正缺点
-> &nbsp;- **visage** [vizaʒ] - 脸，面部 - **visage souriant** - 微笑的面孔
-> &nbsp;- **hiver** [ivɛr] - 冬天，冬季 - **sports d'hiver** - 冬季运动
->
-> **常见短语**
-> &nbsp;- **d'origine naturelle** - 天然来源的 - **ingrédients d'origine naturelle** - 天然来源的成分
-> &nbsp;- **être étudié pour** - 专为...设计/研究 - **un programme étudié pour les débutants** - 专为初学者设计的方案
-> &nbsp;- **signe de fatigue** - 疲劳迹象 - **montrer des signes de fatigue** - 表现出疲倦迹象
-> &nbsp;- **en plein hiver** - 在隆冬/深冬 - **fleurir en plein hiver** - 在隆冬时节开花
->
 
 “夜晚睡眠”这款天然护理产品专为敏感肌肤设计。它可以消除疲劳的迹象，让你的面容焕发光彩。即使在寒冬，你的肌肤也完美无瑕。
 
@@ -2462,30 +1767,16 @@ C. Une boisson pour dormir.
 ---
 </div><span class="q-end" data-qid="T21Q9"></span>
 
+
 <div class="question" data-qid="T22Q5">
 
 ## Question 50/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Résidence Bellevue** <br/>**Rue de l'Océan 25013 Mer Sur l'Isle** <br/>**Facture** N°13 <br/>Entreprise Jolifleur Bruxelles <br/><hr></hr>**Désignation**                           **Quantité**                                   Prix <br>**Nuit**                                               **3**                                  250,00 euros <br>+ **petit-déj**<br><hr></hr>**Parking sécurisé**                                                                   **gratuit** <br></span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit payer l'entreprise Jolifeur ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Résidence Bellevue** <br/>**Rue de l'Océan 25013 Mer Sur l'Isle** <br/>Facture N°13 <br/>Entreprise Jolifleur Bruxelles <br/><hr></hr>Désignation                           Quantité                                   Prix <br>**Nuit**                                               **3**                                  250,00 euros <br>+ petit-déj<br><hr></hr>Parking sécurisé                                                                   gratuit <br></span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit payer l'entreprise Jolifeur ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T22 $\boxed{Q5}$ Que doit payer l'entreprise Jolifeur ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **facture** [faktyr] - 发票 - **établir une facture** - 开具发票
-> &nbsp;- **désignation** [deziɲasjɔ̃] - 品名/明细 - **désignation des marchandises** - 商品名称
-> &nbsp;- **quantité** [kɑ̃tite] - 数量 - **en grande quantité** - 大量地
-> &nbsp;- **nuit** [nɥi] - 夜/间 (酒店计费单位) - **passer la nuit** - 过夜
-> &nbsp;- **gratuit** [gratɥi] - 免费的 - **service gratuit** - 免费服务
->
-> **常见短语**
-> &nbsp;- **petit-déj** - 早餐 (petit-déjeuner的缩写) - **prendre le petit-déj** - 吃早餐
-> &nbsp;- **parking sécurisé** - 安全停车场 - **disposer d'un parking sécurisé** - 拥有安全停车场
-> &nbsp;- **résidence** - 住宅/住所 - **résidence de vacances** - 度假居所
->
 
 贝尔维尤住宿酒店 海洋路，25013，岛上的海上城市 发票编号：13 布鲁塞尔乔伊尔弗勒公司 夜间住宿 (1)：250欧元 早餐：免费 安全停车：免费
 
@@ -2512,31 +1803,16 @@ D. Une location de voiture.
 ---
 </div><span class="q-end" data-qid="T22Q5"></span>
 
+
 <div class="question" data-qid="T22Q10">
 
 ## Question 51/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**L**a **commune** de Saint-Brieuc **participe au** **concours** Europan sur le thème « De la gare à la mer ». <br>De jeunes architectes ont imaginé la ville **de demain**, avec de nouveaux **espaces publics**, un meilleur **partage** de l'espace entre **piétons**, vélos et véhicules. Les gagnants présenteront leur **projet** aux **habitants** qui choisirent le plus intéressant.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est le but du concours Europan ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**L**a commune de Saint-Brieuc participe au concours Europan sur le thème « De la gare à la mer ». <br>De jeunes architectes ont imaginé la ville de demain, avec de nouveaux espaces publics, un meilleur partage de l'espace entre piétons, vélos et véhicules. Les gagnants présenteront leur projet aux habitants qui choisirent le plus intéressant.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est le but du concours Europan ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T22 $\boxed{Q10}$ Quel est le but du concours Europan ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **commune** [kɔmyn] - 市政当局，市镇 - **commune rurale** - 农村社区
-> &nbsp;- **concours** [kɔ̃kur] - 竞赛，考试 - **passer un concours** - 参加考试
-> &nbsp;- **partage** [partaʒ] - 分享，划分 - **partage des tâches** - 任务分担
-> &nbsp;- **piéton** [pjetɔ̃] - 行人 - **zone piétonne** - 步行区
-> &nbsp;- **habitant** [abitɑ̃] - 居民 - **les habitants locaux** - 当地居民
-> &nbsp;- **projet** [prɔʒɛ] - 项目，计划 - **monter un projet** - 筹备一个项目
->
-> **常见短语**
-> &nbsp;- **participer à** - 参加 - **participer à une réunion** - 参加会议
-> &nbsp;- **de demain** - 未来的 - **la ville de demain** - 未来的城市
-> &nbsp;- **espace public** - 公共空间 - **aménagement de l'espace public** - 公共空间规划
->
 
 圣布里厄市参与了主题为“从火车站到大海”的Europan竞赛。 年轻的建筑师们设计了未来的城市，包括新的公共空间，以及在行人、自行车和车辆之间更好的空间分配。获胜者将向居民展示他们的项目，由居民选出最有趣的方案。
 
@@ -2563,31 +1839,16 @@ D. Prévoir de nouveaux moyens de transport.
 ---
 </div><span class="q-end" data-qid="T22Q10"></span>
 
+
 <div class="question" data-qid="T23Q5">
 
 ## Question 52/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**FÊTE DE LA MUSIQUE** <br>**A PARIS LE 21 JUIN** <br>**Billet** **unique**, 2,5 €, **utilisable** **sans limite** <br>**du** 21 juin **à 20 heures** **au** 22 juin à 7 **heures**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Ce billet est utilisable...</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**FÊTE DE LA MUSIQUE** <br>**A PARIS LE 21 JUIN** <br>Billet unique, 2,5 €, utilisable sans limite <br>du 21 juin à 20 heures au 22 juin à 7 heures.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Ce billet est utilisable...</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T23 $\boxed{Q5}$ Ce billet est utilisable...</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **fête** [fɛt] - 节日/庆祝 - **faire la fête** - 庆祝/狂欢
-> &nbsp;- **billet** [bijɛ] - 票/车票 - **billet aller-retour** - 往返票
-> &nbsp;- **unique** [ynik] - 唯一的/独特的 - **sens unique** - 单行道
-> &nbsp;- **utilisable** [ytilizabl] - 可使用的 - **utilisable immédiatement** - 立即可以使用
-> &nbsp;- **heure** [œr] - 小时/时间 - **à l'heure** - 准时
->
-> **常见短语**
-> &nbsp;- **à paris** - 在巴黎 - **habiter à paris** - 住在巴黎
-> &nbsp;- **sans limite** - 无限制地 - **consommer sans limite** - 无限制地消费
-> &nbsp;- **du... au...** - 从...到... - **du lundi au vendredi** - 从周一到周五
-> &nbsp;- **à 20 heures** - 在20点 - **commencer à 20 heures** - 20点开始
->
 
 巴黎音乐节，6月21日 单一票价：2.5欧元，可无限使用，使用时间为6月21日20点至6月22日7点。
 
@@ -2614,30 +1875,16 @@ D. Un mois.
 ---
 </div><span class="q-end" data-qid="T23Q5"></span>
 
+
 <div class="question" data-qid="T23Q6">
 
 ## Question 53/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Fred**, <br/>Je ne pourrai pas **venir** **comme prévu**, mais cela sera **une prochaine fois**... J'ai beaucoup de travail **en ce moment**. Peut-être **dans quinze jours** ? J'aurai du temps **libre** ! <br/>À bientôt ! <br/>**Paul**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprend-t-on sur Paul?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Fred**, <br/>Je ne pourrai pas venir comme prévu, mais cela sera une prochaine fois... J'ai beaucoup de travail en ce moment. Peut-être dans quinze jours ? J'aurai du temps libre ! <br/>À bientôt ! <br/>**Paul**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprend-t-on sur Paul?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T23 $\boxed{Q6}$ Qu'apprend-t-on sur Paul?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **venir** [vəni[r]] - 来 - **venir de faire** - 刚做完某事。
-> &nbsp;- **prévu** [p[r]evy] - 预先安排的 - **comme prévu** - 如约/按照计划。
-> &nbsp;- **moment** [mɔmɑ̃] - 时刻/瞬间 - **en ce moment** - 此刻/目前。
-> &nbsp;- **libre** [lib[r]] - 空闲的/自由的 - **temps libre** - 空闲时间。
->
-> **常见短语**
-> &nbsp;- **comme prévu** - 如约/正如所料 - **arriver comme prévu** - 准时到达。
-> &nbsp;- **en ce moment** - 目前/此刻 - **être très occupé en ce moment** - 最近很忙。
-> &nbsp;- **une prochaine fois** - 下次 - **remettre à une prochaine fois** - 推迟到下一次。
-> &nbsp;- **dans quinze jours** - 两周后/半个月后 - **se voir dans quinze jours** - 两周后见。
->
 
 Fred， 我无法按计划来，但下次一定可以……我现在工作非常繁忙。也许15天后？到时候我会有空！ 再见！ Paul
 
@@ -2664,31 +1911,16 @@ D. Il veut venir plus tôt.
 ---
 </div><span class="q-end" data-qid="T23Q6"></span>
 
+
 <div class="question" data-qid="T23Q7">
 
 ## Question 54/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Chers tous, <br>Demain, c'est la journée sans voiture, alors **faites un geste** pour la **nature** et venez donc au **bureau** **à pied**, **à vélo**, en rollers, **en bus**, en tram, à cheval...! <br/>Paul, Services **généreux**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse Paul?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Chers tous, <br>Demain, c'est la journée sans voiture, alors faites un geste pour la nature et venez donc au bureau à pied, à vélo, en rollers, en bus, en tram, à cheval...! <br/>Paul, Services généreux </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse Paul?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T23 $\boxed{Q7}$ À qui s'adresse Paul?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **geste** [ʒɛst] - 举动，动作 - **faire un geste** - 采取行动
-> &nbsp;- **nature** [natyr] - 大自然 - **protéger la nature** - 保护自然
-> &nbsp;- **bureau** [byro] - 办公室 - **travailler au bureau** - 在办公室工作
-> &nbsp;- **vélo** [velo] - 自行车 - **faire du vélo** - 骑自行车
-> &nbsp;- **généreux** [ʒenerø] - 慷慨的，大方的 - **donateur généreux** - 慷慨的捐赠者
->
-> **常见短语**
-> &nbsp;- **faire un geste** - 做出努力/采取行动 - **faire un geste pour la planète** - 为地球做出一点贡献
-> &nbsp;- **à pied** - 步行 - **aller au travail à pied** - 走路去上班
-> &nbsp;- **à vélo** - 骑自行车 - **se déplacer à vélo** - 骑自行车出行
-> &nbsp;- **en bus** - 乘公共汽车 - **monter en bus** - 上公共汽车
->
 
 大家好， 明天是无车日，为了保护自然，请步行、骑自行车、滑旱冰、乘坐公交车、有轨电车或骑马上班！ Paul，慷慨服务
 
@@ -2715,30 +1947,16 @@ D. À ses voisins.
 ---
 </div><span class="q-end" data-qid="T23Q7"></span>
 
+
 <div class="question" data-qid="T23Q8">
 
 ## Question 55/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**France 2 - soirée** <br/>**20.00 Journal télévisé** <br/>**20.40 Météo** <br/>**20.55 Mission estivale** <br/>Jeu. Première **émission** de l'été, avec un coureur automobile, un pilote moto, un **animateur** de télévision. L'équipe jouera **au profit de** une **association** qui aide au développement des villages fleuris historiques. <br/>**22.35 Plus d'humour** <br/>Ce magazine divertissant **rend compte de** la création humoristique actuelle, passée et future, dans tous les domaines (cinéma, télévision, publicité, édition, etc.).<br/>**0.40 Journal de la nuit** <br/></span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 D'après ce programme de télévision, quand peut-on regarder les informations?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**France 2 - soirée** <br/>**20.00 Journal télévisé** <br/>**20.40 Météo** <br/>**20.55 Mission estivale** <br/>Jeu. Première émission de l'été, avec un coureur automobile, un pilote moto, un animateur de télévision. L'équipe jouera au profit d'une association qui aide au développement des villages fleuris historiques. <br/>**22.35 Plus d'humour** <br/>Ce magazine divertissant rend compte de la création humoristique actuelle, passée et future, dans tous les domaines (cinéma, télévision, publicité, édition, etc.).<br>**0.40 Journal de la nuit** <br/></span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 D'après ce programme de télévision, quand peut-on regarder les informations?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T23 $\boxed{Q8}$ D'après ce programme de télévision, quand peut-on regarder les informations?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **estival** [ɛstival] - 夏天的/夏季的 - **mission estivale** - 夏季任务
-> &nbsp;- **émission** [emisjɔ̃] - 节目/播放 - **émission en direct** - 直播节目
-> &nbsp;- **animateur** [animatœr] - 主持人 - **animateur de télévision** - 电视节目主持人
-> &nbsp;- **association** [asɔsjasiɔ̃] - 协会/社团 - **association caritative** - 慈善协会
-> &nbsp;- **humour** [ymur] - 幽默 - **sens de l'humour** - 幽默感
->
-> **常见短语**
-> &nbsp;- **journal télévisé** - 电视新闻 - **regarder le journal télévisé** - 看电视新闻
-> &nbsp;- **au profit de** - 为了……的利益/捐助…… - **collecter des fonds au profit de** - 为……募集资金
-> &nbsp;- **rend compte de** - 报道/描述/说明 - **rendre compte d'un événement** - 报道一个事件
->
 
 法国2台 – 晚间节目 20:00 新闻 20:40 天气预报 20:55 夏日任务 游戏。夏季首期节目，与一名赛车手、一名摩托车手和一名电视主持人共同参与。节目收益将用于支持帮助历史花村发展的协会。 22:35 更多幽默 这是一档娱乐节目，回顾并报道当前、过去及未来的幽默创作，涵盖电影、电视、广告、出版等领域。 0:40 午夜新闻
 
@@ -2765,31 +1983,16 @@ D. Quatre fois dans la soirée.
 ---
 </div><span class="q-end" data-qid="T23Q8"></span>
 
+
 <div class="question" data-qid="T23Q10">
 
 ## Question 56/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Information importante** <br/>**À cause de** l'**augmentation** du **nombre de** **vols**. de **téléphones portables**, vous ne pouvez plus les utiliser **à l'intérieur du** lycée. <br>Merci de votre **compréhension**. <br/>Le **directeur** de l'**établissement**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que dit ce texte sur l'utilisation des téléphones portables ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Information importante** <br/>À cause de l'augmentation du nombre de vols. de téléphones portables, vous ne pouvez plus les utiliser à l'intérieur du lycée. <br>Merci de votre compréhension. <br/>Le directeur de l'établissement. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que dit ce texte sur l'utilisation des téléphones portables ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T23 $\boxed{Q10}$ Que dit ce texte sur l'utilisation des téléphones portables ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **augmentation** [og.mɑ̃.ta.sjɔ̃] - 增加 - **augmentation de la population** - 人口增长
-> &nbsp;- **vol** [vɔl] - 偷窃 - **victime d'un vol** - 偷窃受害者
-> &nbsp;- **compréhension** [kɔ̃.pre.ɑ̃.sjɔ̃] - 理解 - **faire preuve de compréhension** - 表现出体谅
-> &nbsp;- **directeur** [di.rɛk.tœr] - 主任/负责人 - **le directeur de l'école** - 校长
-> &nbsp;- **établissement** [e.ta.bli.smɑ̃] - 机构/单位 - **un établissement scolaire** - 教育机构
->
-> **常见短语**
-> &nbsp;- **à cause de** - 因为/由于 - **à cause du mauvais temps** - 因为天气不好
-> &nbsp;- **le nombre de** - ……的数量 - **le nombre d'étudiants** - 学生人数
-> &nbsp;- **téléphone portable** - 手机 - **éteindre son téléphone portable** - 关掉手机
-> &nbsp;- **à l'intérieur de** - 在……内部 - **à l'intérieur du bâtiment** - 在建筑物内部
->
 
 重要通知 由于手机被盗事件增加，您不能再在学校内使用手机。感谢您的理解。 校方负责人
 
@@ -2816,30 +2019,16 @@ D. Elle est limitée.
 ---
 </div><span class="q-end" data-qid="T23Q10"></span>
 
+
 <div class="question" data-qid="T24Q6">
 
 ## Question 57/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">ASSOCIATION **En route pour l'école** <br>Pour 92 euros, **aidez** des enfants à aller à l'école ! Pour beaucoup **d'entre eux**, le collège est très **loin** ils **se lèvent** très tôt et **rentrent** tard. Avec : une bicyclette, ils pourraient y aller plus facilement. Faites un **don** à notre association pour leur **offrir** eine bicyclette !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette association voudrait faire ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">ASSOCIATION **En route pour l'école** <br>Pour 92 euros, aidez des enfants à aller à l'école ! Pour beaucoup d'entre eux, le collège est très loin ils se lèvent très tôt et rentrent tard. Avec : une bicyclette, ils pourraient y aller plus facilement. Faites un don à notre association pour leur offrir une bicyclette !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette association voudrait faire ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T24 $\boxed{Q6}$ Qu'est-ce que cette association voudrait faire ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **aider** [ede] - 帮助 - **aider qn à faire qch** - 帮助某人做某事
-> &nbsp;- **don** [dɔ̃] - 捐赠 - **faire un don** - 进行捐赠
-> &nbsp;- **offrir** [ofri r] - 赠送 - **offrir qch à qn** - 赠送某人某物
-> &nbsp;- **loin** [lwɛ̃] - 远的 - **être loin de** - 离……很远
->
-> **常见短语**
-> &nbsp;- **en route pour** - 在去……的途中 - **en route pour le travail** - 在上班路上
-> &nbsp;- **se lever** - 起床 - **se lever tôt** - 早起
-> &nbsp;- **d'entre eux** - 他们中的 - **beaucoup d'entre eux** - 他们中的许多人
-> &nbsp;- **rentrer** - 回来/回家 - **rentrer à la maison** - 回家
->
 
 协会 助学行动 只需92欧元，帮助孩子们上学！对很多孩子来说，学校非常远：他们必须起得很早，回家很晚。有了自行车，他们就可以更容易地到达学校。向我们的协会捐款，帮助他们获得一辆自行车！
 
@@ -2866,29 +2055,16 @@ D. Réparer de vieilles bicyclettes.
 ---
 </div><span class="q-end" data-qid="T24Q6"></span>
 
+
 <div class="question" data-qid="T24Q7">
 
 ## Question 58/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers locataires**, <br/>La société « Ville propre » nous demande de **faire** plus **attention** **quand on** jette nos **déchets**. Il faut **séparer** le plastique et le carton et les mettre dans les **poubelles** jaunes. Vous pouvez jeter **les autres** **déchets** dans les **poubelles** grises. <br/>Merci, <br/>**Votre gardien**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que le concierge écrit aux locataires?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers locataires**, <br/>La société « Ville propre » nous demande de faire plus attention quand on jette nos déchets. Il faut séparer le plastique et le carton et les mettre dans les poubelles jaunes. Vous pouvez jeter les autres déchets dans les poubelles grises. <br/>Merci, <br/>**Votre gardien**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que le concierge écrit aux locataires?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T24 $\boxed{Q7}$ Pourquoi est-ce que le concierge écrit aux locataires?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **locataire** [lɔkatɛr] - 租客 - **un nouveau locataire** - 一位新房客
-> &nbsp;- **déchet** [deʃɛ] - 垃圾，废弃物 - **le tri des déchets** - 垃圾分类
-> &nbsp;- **poubelle** [pubɛl] - 垃圾桶 - **jeter à la poubelle** - 扔进垃圾桶
-> &nbsp;- **séparer** [separe] - 分离，分开 - **séparer A de B** - 把A与B分开
->
-> **常见短语**
-> &nbsp;- **faire attention** - 注意 - **faire attention à sa santé** - 注意身体健康
-> &nbsp;- **quand on** - 当...的时候 - **quand on est fatigué** - 当疲劳的时候
-> &nbsp;- **les autres** - 其他的 - **les autres personnes** - 其他人
->
 
 亲爱的住户们， “洁净城市”公司要求我们在扔垃圾时更加注意。请将塑料和纸板分开，扔进黄色垃圾桶。其他垃圾可以扔进灰色垃圾桶。 谢谢， 您的管理员
 
@@ -2915,32 +2091,16 @@ C. Pour présenter l'entreprise de tri des poubelles.
 ---
 </div><span class="q-end" data-qid="T24Q7"></span>
 
+
 <div class="question" data-qid="T24Q8">
 
 ## Question 59/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Votre **bibliothèque** vous **invite à** venir écouter une **sélection** de CD **à l'occasion du** **festival** de musique. <br/>« **Le printemps du Jazz** » <br/>qui commence **le mois prochain** **dans tout le** **département**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose la bibliothèque ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Votre bibliothèque vous invite à venir écouter une sélection de CD à l'occasion du festival de musique. <br/>« **Le printemps du Jazz** » <br/>qui commence le mois prochain dans tout le département. </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose la bibliothèque ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T24 $\boxed{Q8}$ Que propose la bibliothèque ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **bibliothèque** [biblijotɛk] - 中文释义：图书馆 - **s'inscrire à la bibliothèque** - 中文解释：在图书馆登记/注册。
-> &nbsp;- **sélection** [selɛksjɔ̃] - 中文释义：精选，选集 - **une sélection de** - 中文解释：一系列精选的...。
-> &nbsp;- **occasion** [ɔkazjɔ̃] - 中文释义：机会，场合 - **profiter de l'occasion** - 中文解释：借此机会。
-> &nbsp;- **festival** [fɛstival] - 中文释义：音乐节，节庆 - **un festival de cinéma** - 中文解释：电影节。
-> &nbsp;- **prochain** [prɔʃɛ̃] - 中文释义：下一个的 - **la semaine prochaine** - 中文解释：下周。
-> &nbsp;- **département** [departəmɑ̃] - 中文释义：省，（行政）部门 - **conseil départemental** - 中文解释：省议会。
->
-> **常见短语**
-> &nbsp;- **inviter à** - 中文释义：邀请做某事 - **inviter à dîner** - 中文解释：邀请吃晚饭。
-> &nbsp;- **à l'occasion de** - 中文释义：值...之际 - **à l'occasion de son anniversaire** - 中文解释：在他生日之际。
-> &nbsp;- **le mois prochain** - 中文释义：下个月 - **partir le mois prochain** - 中文解释：下个月出发。
-> &nbsp;- **dans tout le** - 中文释义：在整个...之中 - **dans tout le pays** - 中文解释：在全国各地。
->
 
 您的图书馆邀请您在“春天爵士音乐节”活动期间，来聆听精选的CD。该音乐节将于下个月在整个地区展开。
 
@@ -2967,29 +2127,16 @@ C. De participer à une discussion sur le jazz.
 ---
 </div><span class="q-end" data-qid="T24Q8"></span>
 
+
 <div class="question" data-qid="T25Q5">
 
 ## Question 60/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Les silences du Général** <br/>**Découvrez** les **secrets** de la vie du général de Gaulle sur Politike, la chaîne de **la vie politique** française, vendredi à 20 h. Un documentaire **étonnant**, **suivi de** la **diffusion** du film L'Armée des ombres **réalisé par** Jean-Pierre Melville.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel média va donner des informations sur le général de Gaulle ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Les silences du Général** <br/>Découvrez les secrets de la vie du général de Gaulle sur Politike, la chaîne de la vie politique française, vendredi à 20 h. Un documentaire étonnant, suivi de la diffusion du film L'Armée des ombres réalisé par Jean-Pierre Melville.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel média va donner des informations sur le général de Gaulle ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T25 $\boxed{Q5}$ Quel média va donner des informations sur le général de Gaulle ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **découvrir** [dekuvrir] - 发现，揭开 - **découvrir un secret** - 发现秘密
-> &nbsp;- **secret** [səkrɛ] - 秘密 - **garder le secret** - 保守秘密
-> &nbsp;- **étonnant** [etɔnã] - 令人惊讶的 - **un résultat étonnant** - 令人惊讶的结果
-> &nbsp;- **diffusion** [difyzjɔ̃] - 播放，传播 - **la diffusion d'un film** - 电影的放映
->
-> **常见短语**
-> &nbsp;- **la vie politique** - 政治生活 - **s'intéresser à la vie politique** - 对政治生活感兴趣
-> &nbsp;- **suivi de** - 随后是，接着是 - **un reportage suivi d'un débat** - 报道之后接着是辩论
-> &nbsp;- **réalisé par** - 由...导演/制作 - **un film réalisé par lui** - 由他导演的一部电影
->
 
 将军的沉默 在 Politix 频道了解戴高乐将军的生活秘密，这是一个关于法国政治生活的频道，周五晚8点播出。一部未公开的纪录片，将配合由 Jean-Pierre Melville 执导的电影《影子军队》的放映推出。
 
@@ -3016,30 +2163,16 @@ C. La radio.
 ---
 </div><span class="q-end" data-qid="T25Q5"></span>
 
+
 <div class="question" data-qid="T27Q6">
 
 ## Question 61/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chère Corinne**, <br/>**À partir de** la semaine **prochain**e, le **magasin** Zoreilles n'ouvrira plus le samedi matin. <br/>C'est **dommage**. **Par contre**, il ouvrira le vendredi **jusqu'à** 22 heures. <br/>C'est **parfait** pour nous ! Est-ce que tu veux y **faire un tour** avec moi vendredi **prochain**? <br/><br/>Nathalie.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que veut faire Nathalie avec Corinne ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chère Corinne**, <br/>À partir de la semaine prochaine, le magasin Zoreilles n'ouvrira plus le samedi matin. <br/>C'est dommage. Par contre, il ouvrira le vendredi jusqu'à 22 heures. <br/>C'est parfait pour nous ! Est-ce que tu veux y faire un tour avec moi vendredi prochain? <br/><br/>Nathalie.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que veut faire Nathalie avec Corinne ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T27 $\boxed{Q6}$ Que veut faire Nathalie avec Corinne ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **magasin** [ma.ga.zɛ̃] - 商店 - **faire les magasins** - 逛街/购物
-> &nbsp;- **dommage** [dɔ.maʒ] - 遗憾，可惜 - **quel dommage** - 真遗憾
-> &nbsp;- **parfait** [pa.r.fɛ] - 完美的，极好的 - **être parfait pour** - 对...来说很完美
-> &nbsp;- **prochain** [prɔ.ʃɛ̃] - 下一个的 - **la semaine prochaine** - 下周
->
-> **常见短语**
-> &nbsp;- **à partir de** - 从...开始 - **à partir de demain** - 从明天起
-> &nbsp;- **par contre** - 相反地，然而 - **par contre, il est gentil** - 相比之下，他很友善
-> &nbsp;- **jusqu'à** - 直到 - **jusqu'à midi** - 直到中午
-> &nbsp;- **faire un tour** - 逛一逛，转一转 - **faire un tour en ville** - 在城里转转
->
 
 亲爱的 Corinne， 从下周开始，Zoreilles 商店不再于周六上午营业。 真是遗憾。不过，它会在周五营业到晚上10点。 这对我们来说很棒！你愿意下周五和我一起去逛逛吗？ Natalie
 
@@ -3066,31 +2199,16 @@ D. Voir une exposition de bijoux.
 ---
 </div><span class="q-end" data-qid="T27Q6"></span>
 
+
 <div class="question" data-qid="T27Q8">
 
 ## Question 62/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour la **fête de fin d'année**, les enfants du **club de théâtre** vous **offrent** un **spectacle musical** **extraordinaire** et très drôle ! <br>**Participez à la fête** : venez avec des gâteaux, des **boissons** et votre bonne **humeur** !</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peuvent apporter les parents?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour la fête de fin d'année, les enfants du club de théâtre vous offrent un spectacle musical extraordinaire et très drôle ! <br>**Participez à la fête** : venez avec des  gâteaux, des boissons  et votre bonne  humeur ! </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peuvent apporter les parents?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T27 $\boxed{Q8}$ Que peuvent apporter les parents?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **offrir** [ofrir] - 提供，赠送 - **offrir un cadeau** - 赠送礼物
-> &nbsp;- **spectacle** [spɛktakl] - 表演，演出 - **assister à un spectacle** - 观看演出
-> &nbsp;- **extraordinaire** [ɛkstravrdinɛr] - 非凡的，特别的 - **un talent extraordinaire** - 非凡的才华
-> &nbsp;- **boisson** [bwasɔ̃] - 饮料 - **une boisson fraîche** - 一种清凉饮料
-> &nbsp;- **humeur** [ymœr] - 心情，情绪 - **être de bonne humeur** - 心情好
->
-> **常见短语**
-> &nbsp;- **fête de fin d'année** - 年终庆祝活动 - **organiser une fête de fin d'année** - 组织年终派对
-> &nbsp;- **club de théâtre** - 戏剧社团 - **s'inscrire au club de théâtre** - 报名戏剧社
-> &nbsp;- **spectacle musical** - 音乐演出 - **un spectacle musical pour enfants** - 一场儿童音乐演出
-> &nbsp;- **participer à** - 参加 - **participer à une réunion** - 参加会议
->
 
 为了庆祝学年结束，戏剧俱乐部的孩子们为您献上精彩的音乐表演！ 参与庆祝活动： 请带上蛋糕、饮料和您的好心情！
 
@@ -3117,29 +2235,16 @@ D. Des jeux.
 ---
 </div><span class="q-end" data-qid="T27Q8"></span>
 
+
 <div class="question" data-qid="T29Q5">
 
 ## Question 63/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Alex**, <br>Pourrais-tu **m'emmener** à la **fête** de Lina demain soir? Ma voiture est **en panne** et c'est moi qui ai son **cadeau d'anniversaire**. <br>**À demain** <br/>**Elsa**,</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Alex ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Alex**, <br>Pourrais-tu m'emmener à la fête de Lina demain soir? Ma voiture est en panne et c'est moi qui ai son cadeau d'anniversaire. <br>À demain <br/>**Elsa**,</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Alex ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T29 $\boxed{Q5}$ Que doit faire Alex ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **emmener** [ɑ̃mne] - 带去，送去 - **emmener quelqu'un** - 带某人去
-> &nbsp;- **fête** [fɛt] - 聚会，节日 - **faire la fête** - 举行派对，庆祝
-> &nbsp;- **cadeau** [kado] - 礼物 - **offrir un cadeau** - 送一份礼物
-> &nbsp;- **anniversaire** [anivɛrsɛr] - 生日 - **joyeux anniversaire** - 生日快乐
->
-> **常见短语**
-> &nbsp;- **en panne** - 故障，坏了 - **être en panne de voiture** - 汽车出故障了
-> &nbsp;- **cadeau d'anniversaire** - 生日礼物 - **un cadeau d'anniversaire pour Lina** - 给琳娜的生日礼物
-> &nbsp;- **à demain** - 明天见 - **à demain soir** - 明天晚上见
->
 
 嗨，Alex 你能明天晚上带我去Lina的聚会吗？我的车坏了，而她的生日礼物在我这里。 明天见 Elsa。
 
@@ -3166,30 +2271,16 @@ D. Réparer une voiture.
 ---
 </div><span class="q-end" data-qid="T29Q5"></span>
 
+
 <div class="question" data-qid="T29Q6">
 
 ## Question 64/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Monsieur**, <br/>**Veuillez** nous **retourner** се dossier **complété** et signé. Nous vous **informerons de** notre **décision** **par courrier** **avant la fin** du mois. <br/>**Merci de votre compréhension**. <br/>Les services de **préfecture**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire cette personne ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Monsieur**, <br/>Veuillez nous retourner се dossier complété et signé. Nous vous informerons de notre décision par courrier avant la fin du mois. <br/>**Merci de votre compréhension**. <br/>Les services de préfecture.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire cette personne ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T29 $\boxed{Q6}$ Que doit faire cette personne ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **retourner** [rəturne] - 寄回，归还 - **retourner un dossier** - 寄回一份档案
-> &nbsp;- **compléter** [kɔ̃plete] - 填写，补充完整 - **compléter un formulaire** - 填写表格
-> &nbsp;- **décision** [desizjɔ̃] - 决定 - **prendre une décision** - 做出决定
-> &nbsp;- **préfecture** [prefektyr] - 省政府，警察局 - **la préfecture de police** - 警察总局
->
-> **常见短语**
-> &nbsp;- **veuillez** - 请（vouloir的肯定命令式，后接动词原形） - **veuillez patienter** - 请稍候
-> &nbsp;- **informer de** - 通知某事 - **informer quelqu'un de quelque chose** - 通知某人某事
-> &nbsp;- **par courrier** - 通过邮寄 - **envoyer par courrier** - 通过邮寄发送
-> &nbsp;- **avant la fin de** - 在...结束之前 - **avant la fin du mois** - 在月底之前
->
 
 先生： 请将此文件填写并签名后寄回。我们将在本月月底之前通过邮件告知您我们的决定。 感谢您的理解。 大区行政服务部门。
 
@@ -3216,32 +2307,16 @@ D. Téléphoner à la préfecture.
 ---
 </div><span class="q-end" data-qid="T29Q6"></span>
 
+
 <div class="question" data-qid="T3Q5">
 
 ## Question 65/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Une **société de production** RECHERCHE Pour **faire de la FIGURATION** dans un film **sur le thème** parents/enfants, de jeunes mères **confrontées à** l'**éducation** de leurs enfants</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que recherche la société de production?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Une société de production RECHERCHE Pour faire de la FIGURATION dans un film sur le thème parents/enfants, de jeunes mères confrontées à l'éducation de leurs enfants</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que recherche la société de production?</span></span> |
 |---|
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q5}$ Que recherche la société de production?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **société** [sɔsjete] - 公司，社会 - **société de production** - 制作公司
-> &nbsp;- **production** [prɔdyksjɔ̃] - 制作，生产 - **maison de production** - 出品公司
-> &nbsp;- **figuration** [figyrasjɔ̃] - 兼职演员，群众演员 - **faire de la figuration** - 充当群众演员
-> &nbsp;- **thème** [tɛm] - 主题 - **sur le thème de** - 以...为主题
-> &nbsp;- **éducation** [edykasjɔ̃] - 教育，教养 - **le système d'éducation** - 教育体系
-> &nbsp;- **confronter** [kɔ̃frɔ̃te] - 使面临，使对质 - **être confronté à** - 面对，面临
->
-> **常见短语**
-> &nbsp;- **société de production** - 制作公司 - **travailler dans une société de production** - 在一家制作公司工作
-> &nbsp;- **faire de la figuration** - 充当群众演员/跑龙套 - **faire de la figuration dans un film** - 在电影中担任群众演员
-> &nbsp;- **sur le thème** - 以...为主题 - **une conférence sur le thème de l'emploi** - 一场以就业为主题的讲座
-> &nbsp;- **confronté à** - 面临...，面对... - **être confronté à des difficultés** - 面临困难
->
 
 一家制片公司正在寻找临时演员，出演一部以父母/孩子为主题的电影，重点是年轻母亲如何应对孩子的教育问题。
 
@@ -3268,31 +2343,16 @@ D. Des parents avec leurs enfants
 ---
 </div><span class="q-end" data-qid="T3Q5"></span>
 
+
 <div class="question" data-qid="T3Q6">
 
 ## Question 66/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À Héloïse** <br/>Héloïse, quand tu viendras chez moi, **pense à** prendre des **vêtements** chauds. À la **montagne**, en **hiver**, **il fait** très **froid** ! Je t'ai envoyé les **horaires** du bus **par SMS**. Appelle-moi ce soir quand tu rentres du **travail**. **Vivement** les vacances ! <br/>Bises <br/>**Sam**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Héloïse ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À Héloïse** <br/>Héloïse, quand tu viendras chez moi, pense à prendre des vêtements chauds. À la montagne, en hiver, il fait très froid ! Je t'ai envoyé les horaires du bus par SMS. Appelle-moi ce soir quand tu rentres du travail. Vivement les vacances ! <br/>Bises <br/>**Sam**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Héloïse ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q6}$ Que doit faire Héloïse ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **vêtement** [vεtmɑ̃] - 衣服，服装 - **vêtements chauds** - 保暖衣物。
-> &nbsp;- **montagne** [mɔ̃taɲ] - 山，山区 - **à la montagne** - 在山里。
-> &nbsp;- **hiver** [ivεr] - 冬天，冬季 - **en hiver** - 在冬季。
-> &nbsp;- **horaire** [orεr] - 时刻表 - **horaires du bus** - 公交时刻表。
-> &nbsp;- **travail** [travaj] - 工作 - **rentrer du travail** - 下班回家。
->
-> **常见短语**
-> &nbsp;- **penser à** - 记得，想到 - **pense à prendre** - 记得带上。
-> &nbsp;- **il fait froid** - 天气冷 - **il fait très froid** - 天气非常冷。
-> &nbsp;- **par SMS** - 通过短信 - **envoyer par SMS** - 通过短信发送。
-> &nbsp;- **vivement** - 渴望，快点到来吧 - **vivement les vacances** - 快点放假吧。
->
 
 致 Héloïse， Héloïse，当你来我家的时候，记得带上保暖的衣服。 冬天在山上非常冷！ 我已经通过短信把公交车时刻表发给你了。 今晚下班后给我打电话。 期待假期！ 亲吻， Sam
 
@@ -3319,31 +2379,16 @@ D. Trouver une location de vacances
 ---
 </div><span class="q-end" data-qid="T3Q6"></span>
 
+
 <div class="question" data-qid="T3Q7">
 
 ## Question 67/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Samira**, <br/>La **fête** du cinéma **commence** **samedi prochain**, **ça t'intéresse** ? Viens chez moi **après le travail** vendredi, on **choisira** ce qu'on ira voir samedi ou dimanche. **Réponds-moi vite**! <br/><br/>Lali</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que veut faire Lali?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Samira**, <br/>La fête du cinéma commence samedi prochain, ça t'intéresse ? Viens chez moi après le travail vendredi, on choisira ce qu'on ira voir samedi ou dimanche. Réponds-moi vite! <br/><br/>Lali</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que veut faire Lali?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q7}$ Que veut faire Lali?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **fête** [fɛt] - 节日/庆祝活动 - **faire la fête** - 庆祝/聚会狂欢
-> &nbsp;- **commencer** [kɔmɑ̃se] - 开始 - **commencer par** - 从...开始
-> &nbsp;- **travail** [travaj] - 工作 - **chercher du travail** - 寻找工作
-> &nbsp;- **choisir** [ʃwazir] - 选择 - **choisir de faire** - 选择做某事
-> &nbsp;- **répondre** [repɔ̃dr] - 回答/回复 - **répondre au téléphone** - 接电话
->
-> **常见短语**
-> &nbsp;- **ça t'intéresse** - 你感兴趣吗 - **si ça t'intéresse** - 如果你感兴趣的话
-> &nbsp;- **samedi prochain** - 下周六 - **à samedi prochain** - 下周六见
-> &nbsp;- **après le travail** - 下班后 - **rentrer après le travail** - 下班后回家
-> &nbsp;- **réponds-moi vite** - 尽快回复我 - **réponds-moi vite par SMS** - 尽快通过短信回复我
->
 
 你好，Samira， 电影节下周六开始，你感兴趣吗？星期五下班后来我家，我们一起选择周六或周日看什么电影。快回复我！ 拉莉
 
@@ -3370,30 +2415,16 @@ C. Partir en Week-end
 ---
 </div><span class="q-end" data-qid="T3Q7"></span>
 
+
 <div class="question" data-qid="T3Q8">
 
 ## Question 68/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**ÉCOLE FERRANDI** <br/>Les parents peuvent **venir chercher** leurs enfants. après les **cours** du matin et du soir **sauf si** les enfants mangent à l'école ou s'ils font des **activités** **après la classe**. <br/>Tous les enfants doivent avoir **quitté** l'école à 18h <br/>**P.Guignoux**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle le directeur ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**ÉCOLE FERRANDI** <br/>Les parents peuvent venir chercher leurs enfants. après les cours du matin et du soir sauf si les enfants mangent à l'école ou s'ils font des activités après la classe. <br/>Tous les enfants doivent avoir quitté l'école à 18h <br/>**P.Guignoux**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle le directeur ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q8}$ De quoi parle le directeur ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **chercher** [ʃɛrʃe] - 寻找；接（某人） - **venir chercher** - 来接某人
-> &nbsp;- **sauf** [sof] - 除了 - **sauf si** - 除非
-> &nbsp;- **quitter** [kite] - 离开 - **quitter l'école** - 离校
-> &nbsp;- **activité** [aktivite] - 活动 - **faire des activités** - 做活动
-> &nbsp;- **cours** [kur] - 课程 - **pendant le cours** - 在课上
->
-> **常见短语**
-> &nbsp;- **venir chercher** - 来接某人 - **venir chercher les enfants** - 来接孩子
-> &nbsp;- **sauf si** - 除非 - **sauf si nécessaire** - 除非必要
-> &nbsp;- **après la classe** - 放学后 - **jouer après la classe** - 放学后玩耍
->
 
 FERRANDI 学校 家长可以在上午课程结束后或晚上课程结束后接孩子，但如果孩子在学校吃饭或参加课后活动，则另当别论。 所有孩子必须在晚上6点之前离开学校。 P. Guignoux 校长
 
@@ -3420,29 +2451,16 @@ D. Du temps de repos
 ---
 </div><span class="q-end" data-qid="T3Q8"></span>
 
+
 <div class="question" data-qid="T3Q9">
 
 ## Question 69/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Que puis-je dire de ce documentaire, moi qui pleure **depuis tant d'années** sur le **manque** de **saveur** de ce que le mange? Je me **rappelle du** bon goût des pêches et des abricots ! Je comprends mieux la majorité des **agriculteurs** : ils ne mangeraient pas ce qu'ils vendent, c'est fou! J'ai apprécié d'avoir **le point de vue** des différentes personnes concernées : **agriculteurs**, **consommateurs**, enseignants, cuisiniers</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est le thème du documentaire?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Que puis-je dire de ce documentaire, moi qui pleure depuis tant d'années sur le manque de saveur de ce que le mange? Je me rappelle du bon goût des pêches et des abricots ! Je comprends mieux la majorité des agriculteurs : ils ne mangeraient pas ce qu'ils vendent, c'est fou! J'ai apprécié d'avoir le point de vue des différentes personnes concernées : agriculteurs, consommateurs, enseignants, cuisiniers</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est le thème du documentaire?</span></span> |
 |---|
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q9}$ Quel est le thème du documentaire?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **saveur** [savœr] - 滋味，风味 - **plein de saveur** - 充满风味
-> &nbsp;- **agriculteur** [agrikyltœr] - 农民，农业工作者 - **un jeune agriculteur** - 一位年轻农民
-> &nbsp;- **consommateur** [kɔ̃sɔmatœr] - 消费者 - **le comportement du consommateur** - 消费者行为
-> &nbsp;- **manque** [mɑ̃k] - 缺乏，缺少 - **le manque de temps** - 缺乏时间
->
-> **常见短语**
-> &nbsp;- **depuis tant d'années** - 这么多年以来 - **attendre depuis tant d'années** - 等待了这么多年
-> &nbsp;- **se rappelle de** - 回忆起，记得 - **se rappelle de ce jour** - 记得那一天
-> &nbsp;- **le point de vue** - 观点，视角 - **donner son point de vue** - 给出其观点
->
 
 我该如何评价这部纪录片呢？我这么多年一直在为吃到的食物缺乏味道而感到遗憾。 我想起了桃子和杏子的美味！我更了解大部分农民了：他们自己都不吃他们卖的东西，真是不可思议！我很欣赏能从相关人员的不同视角来理解问题翻译：农民、消费者、教师、厨师。
 
@@ -3469,30 +2487,16 @@ D. Le commerce
 ---
 </div><span class="q-end" data-qid="T3Q9"></span>
 
+
 <div class="question" data-qid="T3Q10">
 
 ## Question 70/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Partagez** vos **prises de vue** (portraits, **paysages**, etc.) Qui montrent que l'Europe **fait partie de** votre vie. Participez au **concours** « Europe en images » <br/>**À Gagner**: Un **séjour** à Bruxelles ou un **atelier** cuisine.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce concours?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Partagez vos prises de vue (portraits, paysages, etc.) Qui montrent que l'Europe fait partie de votre vie. Participez au concours « Europe en images » <br/>**À Gagner**: Un séjour à Bruxelles ou un atelier cuisine.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce concours?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T3 $\boxed{Q10}$ Que propose ce concours?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **partager** [pa[r]taʒe] - 分享 - **partager son expérience** - 分享经验
-> &nbsp;- **paysage** [peizaʒ] - 风景，景色 - **admirer le paysage** - 欣赏风景
-> &nbsp;- **concours** [kɔ̃ku[r]] - 比赛，竞赛 - **passer un concours** - 参加考试/竞赛
-> &nbsp;- **séjour** [seʒu[r]] - 逗留，停留 - **faire un court séjour** - 短暂逗留
-> &nbsp;- **atelier** [atəlje] - 工作室，研讨班 - **atelier de cuisine** - 厨艺工作坊
->
-> **常见短语**
-> &nbsp;- **prise de vue** - 拍摄，镜头 - **faire des prises de vue** - 进行拍摄
-> &nbsp;- **faire partie de** - 属于，是...的一部分 - **faire partie du groupe** - 是该小组的一员
-> &nbsp;- **à gagner** - 供赢取，奖品为 - **un lot à gagner** - 一份待赢取的奖品
->
 
 你喜欢意大利菜、跳弗拉门戈舞，还是学习瑞典语？ 分享你的照片（肖像、风景等），展示欧洲是你生活的一部分。 参加“影像中的欧洲”比赛。 赢取：布鲁塞尔之旅或烹饪课程。
 
@@ -3519,30 +2523,16 @@ D. De découvrir une langue
 ---
 </div><span class="q-end" data-qid="T3Q10"></span>
 
+
 <div class="question" data-qid="T31Q7">
 
 ## Question 71/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Bonjour, <br/>Votre **colis** vous **attend** dans votre magasin **pendant sept jours**. Allez à l'**accueil** où vous présenterez ce **courriel**. Si vous n'**avez** pas **le temps de** passer, vous pouvez demander un **envoi** **à domicile** sur www.envoyez-moi.com <br/>**Merci pour votre confiance**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information donne ce me sage?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Bonjour, <br/>Votre colis vous attend dans votre magasin pendant sept jours. Allez à l'accueil où vous présenterez ce courriel. Si vous n'avez pas le temps de passer, vous pouvez demander un envoi à domicile sur www.envoyez-moi.com <br/>**Merci pour votre confiance**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information donne ce me sage?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T31 $\boxed{Q7}$ Quelle information donne ce me sage?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **colis** [kɔli] - 包裹 - **envoyer un colis** - 寄包裹
-> &nbsp;- **accueil** [akœj] - 接待处/服务台 - **à l'accueil** - 在前台/接待处
-> &nbsp;- **courriel** [kurjɛl] - 电子邮件 - **consulter ses courriels** - 查收邮件
-> &nbsp;- **envoi** [ɑ̃vwa] - 寄送/发送 - **frais d'envoi** - 邮寄费用
->
-> **常见短语**
-> &nbsp;- **attendre** - 等待 - **attendre le bus** - 等公交车
-> &nbsp;- **pendant sept jours** - 持续七天 - **pendant les vacances** - 假期期间
-> &nbsp;- **avoir le temps de** - 有时间做某事 - **avoir le temps de réfléchir** - 有时间思考
-> &nbsp;- **à domicile** - 在家/送货上门 - **livraison à domicile** - 送货上门
->
 
 您好， 您的包裹将在商店中等待七天。请到接待处出示此电子邮件。如果您没有时间前往，可以在www.envoyez-moi.com申请送货上门服务。 感谢您的信任。
 
@@ -3569,31 +2559,16 @@ D. La livraison est en retard.
 ---
 </div><span class="q-end" data-qid="T31Q7"></span>
 
+
 <div class="question" data-qid="T31Q8">
 
 ## Question 72/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Lucie**, <br/>Je t'**écris de** l'**île** d'Yeu où je **passe** une semaine **formidable**: plage, mer, soleil et surtout **beaucoup de** **calme** et de **repos**. J'**espère que** tu vas bien, **à bientôt**. <br/><br/>**Je t'embrasse**,<br>Agathe.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Agathe écrit-elle? </span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Salut Lucie**, <br/>Je t'écris de l'île d'Yeu où je passe une semaine formidable: plage, mer, soleil et surtout beaucoup de calme et de repos. J'espère que tu vas bien, à bientôt. <br/><br/>**Je t'embrasse**,<br>Agathe.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi Agathe écrit-elle? </span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T31 $\boxed{Q8}$ Pourquoi Agathe écrit-elle? </span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **île** [il] - 岛屿 - **une île déserte** - 荒岛
-> &nbsp;- **passer** [pase] - 度过 - **passer des vacances** - 度假
-> &nbsp;- **formidable** [fɔrmidabl] - 极好的，了不起的 - **un voyage formidable** - 一段极好的旅行
-> &nbsp;- **calme** [kalm] - 安静，平静 - **garder le calme** - 保持冷静
-> &nbsp;- **repos** [rəpo] - 休息 - **avoir besoin de repos** - 需要休息
->
-> **常见短语**
-> &nbsp;- **écrire de** - 从...写信/发信息 - **écrire de Paris** - 从巴黎写信
-> &nbsp;- **beaucoup de** - 许多，很多 - **beaucoup de monde** - 很多人
-> &nbsp;- **espérer que** - 希望... - **j'espère que tu viendras** - 我希望你能来
-> &nbsp;- **à bientôt** - 再见，待会儿见 - **à bientôt, mon ami** - 朋友，回头见
->
 
 你好，Lucie， 我从耶岛给你写信，在这里我度过了美好的一周：海滩、大海、阳光，尤其是安静与休息。我希望你一切都好，回见。 亲吻， 阿加特
 
@@ -3620,31 +2595,16 @@ D. Pour remercier son amie.
 ---
 </div><span class="q-end" data-qid="T31Q8"></span>
 
+
 <div class="question" data-qid="T32Q6">
 
 ## Question 73/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Moulin du Lac** <br/>**Cadre exceptionnel** <br/>**Location de salles** de 35 à 400 personnes <br/>**Services personnalisés** pour mariages, <br/>**baptêmes** et séminaires.<br>**66 81 25 24** MOULIN DU LAC <br>30170 VALATOUGES</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peut-on faire au Moulin du Lac ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Moulin du Lac** <br/>Cadre exceptionnel <br/>Location de salles de 35 à 400 personnes <br/>Services personnalisés pour mariages, <br/>baptêmes et séminaires.<br>**66 81 25 24** MOULIN DU LAC <br>30170 VALATOUGES </span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peut-on faire au Moulin du Lac ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T32 $\boxed{Q6}$ Que peut-on faire au Moulin du Lac ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **cadre** [kad r] - 背景，环境，框架 - **cadre de travail** - 工作环境
-> &nbsp;- **exceptionnel** [ɛksɛpsjɔnɛl] - 杰出的，例外的 - **un prix exceptionnel** - 特惠价格
-> &nbsp;- **location** [lɔkasjɔ̃] - 租用，租赁 - **location de longue durée** - 长期租赁
-> &nbsp;- **salle** [sal] - 大厅，房间 - **salle de conférence** - 会议厅
-> &nbsp;- **service** [sɛrvis] - 服务 - **service après-vente** - 售后服务
-> &nbsp;- **baptême** [batɛm] - 洗礼 - **baptême de l'air** - 初次飞行
->
-> **常见短语**
-> &nbsp;- **cadre exceptionnel** - 极佳的环境 - **profiter d'un cadre exceptionnel** - 享受绝佳的环境
-> &nbsp;- **location de salles** - 场地租赁 - **une agence de location de salles** - 一家场地租赁公司
-> &nbsp;- **services personnalisés** - 个性化服务 - **proposer des services personnalisés** - 提供个性化服务
->
 
 Moulin du Lac 绝佳环境 可供35到400人租用的场地 为婚礼、洗礼和研讨会提供个性化服务。 联系电话：04 66 81 25 24 地址：MOULIN DU LAC，30170 VALATOUGES
 
@@ -3671,30 +2631,16 @@ D. Visiter un monument
 ---
 </div><span class="q-end" data-qid="T32Q6"></span>
 
+
 <div class="question" data-qid="T33Q10">
 
 ## Question 74/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">À: **slira@perso.fr** <br>Objet : **Formation à l'informatique** <br/>**Mademoiselle Brun**, <br/>Nous avons bien **enregistré** votre **dossier** **en ligne**. Pour votre participation à notre prochain **stage de formation**, nous vous attendons donc le **12 octobre à 9 heures**. **Nous vous rappelons que** la présentation de vos **diplômes** est **obligatoire**. <br/>**Cordialement**, <br/>Muriel Simonet</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire mademoiselle Brun?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">À: **slira@perso.fr** <br>Objet : **Formation à l'informatique** <br/>**Mademoiselle Brun**, <br/>Nous avons bien enregistré votre dossier en ligne. Pour votre participation à notre prochain stage de formation, nous vous attendons donc le **12 octobre à 9 heures**. Nous vous rappelons que la présentation de vos diplômes est obligatoire. <br/>**Cordialement**, <br/>Muriel Simonet</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire mademoiselle Brun?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T33 $\boxed{Q10}$ Que doit faire mademoiselle Brun?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **enregistrer** [ɑ̃rəʒistre] - 登记，记录 - **enregistrer un bagage** - 托运行李
-> &nbsp;- **dossier** [dosje] - 档案，材料 - **constituer un dossier** - 准备材料
-> &nbsp;- **formation** [fɔrmasjɔ̃] - 培训，教育 - **suivre une formation** - 参加培训
-> &nbsp;- **diplôme** [diploːm] - 毕业证书，文凭 - **obtenir un diplôme** - 获得文凭
-> &nbsp;- **obligatoire** [ɔbliɡatwar] - 强制性的，必须的 - **l'assurance obligatoire** - 强制保险
->
-> **常见短语**
-> &nbsp;- **en ligne** - 在线地，联网地 - **consulter son compte en ligne** - 在线查账户
-> &nbsp;- **stage de formation** - 培训实习/课程 - **faire un stage de formation** - 参加培训实习
-> &nbsp;- **nous vous rappelons que** - 我们提醒您... - **nous vous rappelons que le délai expire demain** - 我们提醒您截止日期是明天
->
 
 收件人：slira@perso.fr 主题：信息技术培训 布伦小姐： 我们已成功在线登记您的资料。为参加我们下一次的培训课程，请于10月12日早上9点到场。我们提醒您，携带您的学历证明是必须的。 此致， 缪丽尔·西蒙内
 
@@ -3721,30 +2667,16 @@ D. Réserver un ordinateur.
 ---
 </div><span class="q-end" data-qid="T33Q10"></span>
 
+
 <div class="question" data-qid="T34Q5">
 
 ## Question 75/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Sophie et ses **parents** sont très **heureux de** vous **annoncer** la **naissance** d'Adrien, le **7 mai** **dernier**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui écrit ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Sophie et ses parents sont très heureux de vous annoncer la naissance d'Adrien, le **7 mai** dernier.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qui écrit ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T34 $\boxed{Q5}$ Qui écrit ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **parents** [parɑ̃] - 父母 - **les grands-parents** - 祖父母
-> &nbsp;- **heureux** [œrø] - 高兴的 - **être heureux de faire** - 很高兴做某事
-> &nbsp;- **annoncer** [anɔ̃se] - 宣布 - **annoncer une nouvelle** - 宣布一个消息
-> &nbsp;- **naissance** [nεsɑ̃s] - 出生 - **date de naissance** - 出生日期
-> &nbsp;- **dernier** [dεrnje] - 上一个的 - **le mois dernier** - 上个月
->
-> **常见短语**
-> &nbsp;- **être heureux de** - 很高兴... - **être heureux de vous rencontrer** - 很高兴见到您
-> &nbsp;- **annoncer la naissance** - 宣布出生 - **annoncer la naissance d'un fils** - 宣布一个儿子的出生
-> &nbsp;- **le ... dernier** - 上个... - **le samedi dernier** - 上周六
->
 
 Sophie 和她的父母 非常高兴 地向您宣布 Adrien 于 5 月 7 日出生。
 
@@ -3771,31 +2703,16 @@ D. Les voisins d'Adrien.
 ---
 </div><span class="q-end" data-qid="T34Q5"></span>
 
+
 <div class="question" data-qid="T34Q6">
 
 ## Question 76/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Couleurs d'automne** <br>Vous avez des idées pour **proposer** des plats **originaux** en **choisissant** des **produits de saison**, une décoration et des couleurs qui **rappellent** l'automne. **Inscrivez-vous** au Parcours des chefs en **remplissant le formulaire** **joint**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est organisé ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Couleurs d'automne** <br>Vous avez des idées pour proposer des plats originaux en choisissant des produits de saison, une décoration et des couleurs qui rappellent l'automne. Inscrivez-vous au Parcours des chefs en remplissant le formulaire joint. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est organisé ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T34 $\boxed{Q6}$ Qu'est-ce qui est organisé ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **proposer** [prɔpɔze] - 提议，提供 - **proposer une solution** - 提出一个解决方案
-> &nbsp;- **original** [ɔriʒinal] - 新颖的，独特的 - **une idée originale** - 一个新颖的主意
-> &nbsp;- **choisir** [ʃwazir] - 选择 - **choisir un cadeau** - 挑选礼物
-> &nbsp;- **rappeler** [rapəle] - 使想起，提醒 - **rappeler un souvenir** - 唤起一段回忆
-> &nbsp;- **remplir** [rɑ̃plir] - 填写，填满 - **remplir un questionnaire** - 填写一份问卷
-> &nbsp;- **joint** [ʒwɛ̃] - 随附的，连接的 - **le document joint** - 随附的文件
->
-> **常见短语**
-> &nbsp;- **produit de saison** - 时令产品 - **acheter des produits de saison** - 购买时令产品
-> &nbsp;- **s'inscrire à** - 报名参加 - **s'inscrire à un concours** - 报名参加一项竞赛
-> &nbsp;- **remplir le formulaire** - 填写表格 - **remplir le formulaire d'inscription** - 填写报名表
->
 
 秋季色彩 您是否有创意，想要用时令食材、装饰和秋季色彩来制作独特的菜肴？ 请填写附件表格，报名参加 "Parcours des chefs"（厨师之旅）。
 
@@ -3822,31 +2739,16 @@ D. Une course en forêt
 ---
 </div><span class="q-end" data-qid="T34Q6"></span>
 
+
 <div class="question" data-qid="T35Q8">
 
 ## Question 77/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**PREMIER FESTIVAL « TOUT EN MUSIQUE » DE Strasbourg** <br/>Une **compétition** de danse **traditionnelle** est **organisée par**la **mairie** de notre belle ville... Nous **invitons** les personnes **intéressées à** aller au centre culturel pour les **inscriptions**. Les **gagnants** **partiront** une semaine **à** Berlin.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette affiche propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**PREMIER FESTIVAL « TOUT EN MUSIQUE » DE Strasbourg** <br/>Une compétition de danse traditionnelle est organisée parla mairie de notre belle ville... Nous invitons les personnes intéressées à aller au centre culturel pour les inscriptions. Les gagnants partiront une semaine à Berlin.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette affiche propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T35 $\boxed{Q8}$ Qu'est-ce que cette affiche propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **compétition** [kɔ̃petisjɔ̃] - 竞赛 - **compétition sportive** - 体育比赛
-> &nbsp;- **traditionnelle** [tradisjɔnɛl] - 传统的 - **musique traditionnelle** - 传统音乐
-> &nbsp;- **mairie** [mɛri] - 市政府 - **aller à la mairie** - 去市政府
-> &nbsp;- **inscription** [ɛ̃skripsjɔ̃] - 报名，注册 - **frais d'inscription** - 报名费
-> &nbsp;- **gagnant** [gaɲã] - 获胜者 - **déclarer le gagnant** - 宣布获胜者
->
-> **常见短语**
-> &nbsp;- **organisée par** - 由...组织 - **une fête organisée par l'école** - 由学校组织的派对
-> &nbsp;- **inviter à** - 邀请/号召做某事 - **inviter le public à venir** - 邀请公众前来
-> &nbsp;- **intéressées à** - 对...感兴趣的 - **être intéressé à apprendre** - 对学习感兴趣
-> &nbsp;- **partir à** - 前往某地 - **partir à l'étranger** - 出国
->
 
 首届“音乐之韵”斯特拉斯堡节 市政府举办了一场传统舞蹈比赛，欢迎有兴趣的人前往文化中心报名。 获胜者将获得为期一周的柏林之旅！
 
@@ -3873,29 +2775,16 @@ D. Une formation à la musique
 ---
 </div><span class="q-end" data-qid="T35Q8"></span>
 
+
 <div class="question" data-qid="T35Q10">
 
 ## Question 78/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">$\boxed{\textbf{Nouveau Message}}$ <br/>**Bonjour Alice**, <br/>Votre **facture** d'électricité du mois de novembre est **disponible** sur Internet. Pour vous **connecter à** votre compte, **consulter** et **régler** votre **facture**, utilisez votre **numéro de client** et le **mot de passe** reçu par message téléphonique. <br/>Cordialement. <br/>**L'entreprise Electrica**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que ce message propose à Alice ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;"> $\boxed{\textbf{Nouveau Message}}$ <br/>**Bonjour Alice**, <br/>Votre facture d'électricité du mois de novembre est disponible sur Internet. Pour vous connecter à votre compte, consulter et régler votre facture, utilisez votre numéro de client et le mot de passe reçu par message téléphonique. <br/>Cordialement. <br/>**L'entreprise Electrica**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que ce message propose à Alice ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T35 $\boxed{Q10}$ Qu'est-ce que ce message propose à Alice ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **facture** [faktyr] - 账单 - **régler une facture** - 支付账单
-> &nbsp;- **disponible** [disponibl] - 可用的/可获得的 - **être disponible sur** - 在...上可以查到
-> &nbsp;- **consulter** [kɔ̃sylte] - 查阅/查询 - **consulter ses messages** - 查看信息
-> &nbsp;- **régler** [regle] - 支付/结算 - **régler par carte** - 用银行卡支付
->
-> **常见短语**
-> &nbsp;- **se connecter à** - 登录/连接到 - **se connecter à son espace client** - 登录个人客户空间
-> &nbsp;- **mot de passe** - 密码 - **saisir son mot de passe** - 输入密码
-> &nbsp;- **numéro de client** - 客户编号 - **indiquer son numéro de client** - 注明客户编号
->
 
 新消息 你好 Alice， 您 11 月份的电费账单 已在网上可用。 请使用您的客户编号和短信收到的密码登录您的账户，查看并支付账单。 此致敬礼， Electrica 公司
 
@@ -3922,30 +2811,16 @@ D. Une réponse à une réclamation
 ---
 </div><span class="q-end" data-qid="T35Q10"></span>
 
+
 <div class="question" data-qid="T36Q8">
 
 ## Question 79/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous **avez envie** d'une **expérience** de vacances **différente** ? Vous ne voulez pas **dépenser d'argent**? C'est facile partez vivre chez une autre famille pour un week-end ou un été. L'autre famille **habitera** chez vous ! Pour plus d'informations, **rendez-vous sur** www.faitescommechezvous.fr.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que ce site propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous avez envie d'une expérience de vacances différente ? Vous ne voulez pas dépenser d'argent? C'est facile partez vivre chez une autre famille pour un week-end ou un été. L'autre famille habitera chez vous ! Pour plus d'informations, rendez-vous sur www.faitescommechezvous.fr. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que ce site propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T36 $\boxed{Q8}$ Qu'est-ce que ce site propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **envie** [ɑ̃vi] - 欲望，想要 - **avoir envie de** - 想要做某事
-> &nbsp;- **expérience** [ɛksperjɑ̃s] - 经历，经验 - **tenter une expérience** - 尝试一次体验
-> &nbsp;- **différente** [dife**r**ɑ̃t] - 不同的 - **être différent de** - 与...不同
-> &nbsp;- **dépenser** [depɑ̃se] - 花费，花（钱） - **dépenser une fortune** - 花了一大笔钱
-> &nbsp;- **habiter** [abite] - 居住 - **habiter à l'étranger** - 住在国外
->
-> **常见短语**
-> &nbsp;- **avoir envie de** - 想要，渴望 - **avoir envie de voyager** - 想要旅行
-> &nbsp;- **dépenser d'argent** - 花钱 - **ne pas vouloir dépenser d'argent** - 不想花钱
-> &nbsp;- **rendez-vous sur** - 请前往（某地/某网址） - **rendez-vous sur le site** - 请访问网站
->
 
 您想要一次不同的度假体验吗？ 您不想花钱？ 很简单：和另一户家庭交换住房，可以是一个周末或整个夏天。 而另一家人将住进您的家！ 更多信息，请访问：www.faitescommechezvous.fr。
 
@@ -3972,29 +2847,16 @@ D. Des visites d'appartements.
 ---
 </div><span class="q-end" data-qid="T36Q8"></span>
 
+
 <div class="question" data-qid="T36Q10">
 
 ## Question 80/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Quand vous cuisinez, **prévoyez** de grandes **quantités** et préparez ainsi plusieurs repas **en une fois**, c'est plus **économique**. Pour ne pas manger le même plat **deux fois de suite**, **congelez**-en **une partie** pour un autre jour.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cet article explique ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Quand vous cuisinez, prévoyez de grandes quantités et préparez ainsi plusieurs repas en une fois, c'est plus économique. Pour ne pas manger le même plat deux fois de suite, congelez-en une partie pour un autre jour. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cet article explique ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T36 $\boxed{Q10}$ Qu'est-ce que cet article explique ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **prévoir** [prevwa[r]] - 预见，计划 - **prévoir de faire quelque chose** - 计划做某事
-> &nbsp;- **quantité** [kɑ̃tite] - 数量 - **en grande quantité** - 大量地
-> &nbsp;- **économique** [ekonɔmik] - 经济的，省钱的 - **une solution économique** - 一个省钱的方案
-> &nbsp;- **congeler** [kɔ̃ʒle] - 冷冻 - **congeler des aliments** - 冷冻食物
->
-> **常见短语**
-> &nbsp;- **en une fois** - 一次性地 - **payer en une fois** - 一次性付款
-> &nbsp;- **deux fois de suite** - 连续两次 - **gagner deux fois de suite** - 连续赢两次
-> &nbsp;- **une partie** - 一部分 - **une grande partie de** - 很大一部分
->
 
 当您做饭时，提前准备大份量的食材，一次性做多顿饭，这样更经济。 如果不想连续两天吃同一道菜，可以把一部分冷冻，留到另一天食用。
 
@@ -4021,30 +2883,16 @@ D. Comment réaliser des plats originaux.
 ---
 </div><span class="q-end" data-qid="T36Q10"></span>
 
+
 <div class="question" data-qid="T37Q10">
 
 ## Question 81/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame**, <br>**Suite à** votre **appel téléphonique**, je **informe** que nous pourrons nous **rencontrer** mardi prochain **afin de** parler des problèmes **scolaires** de Guillaume. J'aurai les informations **concernant** les autres **matières**. <br/>**Cordialement**, <br/><br/>**Madame Fernand**, <br/>**Professeur principal**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle est l'information contenue dans la lettre du professeur ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Madame**, <br>Suite à votre appel téléphonique, je vous informe que nous pourrons nous rencontrer mardi prochain afin de parler des problèmes scolaires de Guillaume. J'aurai les informations concernant les autres matières. <br/>**Cordialement**, <br/><br/>**Madame Fernand**, <br/>**Professeur principal**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle est l'information contenue dans la lettre du professeur ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T37 $\boxed{Q10}$ Quelle est l'information contenue dans la lettre du professeur ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **informer** [ɛ̃fɔrme] - 通知，告知 - **informer quelqu'un de quelque chose** - 通知某人某事
-> &nbsp;- **rencontrer** [rɑ̃kɔ̃tre] - 会面，碰见 - **rencontrer un problème** - 遇到问题
-> &nbsp;- **matière** [matjɛr] - 学科，科目 - **matière principale** - 主科
-> &nbsp;- **scolaire** [skɔlɛr] - 学校的，学业的 - **résultat scolaire** - 学业成绩
->
-> **常见短语**
-> &nbsp;- **suite à** - 在...之后，由于 - **suite à votre demande** - 根据您的要求
-> &nbsp;- **appel téléphonique** - 电话呼叫 - **passer un appel téléphonique** - 拨打一个电话
-> &nbsp;- **afin de** - 为了 - **afin de réussir** - 为了成功
-> &nbsp;- **concernant** - 关于 - **des informations concernant...** - 关于...的信息
->
 
 女士， 关于您的电话咨询，我通知您，我们可以在下周二见面，以讨论 Guillaume 的学业问题。 届时，我会准备好关于其他学科的信息。 此致敬礼， 班主任 Fernand 女士
 
@@ -4071,30 +2919,16 @@ D. L'explication d'une punition donnée.
 ---
 </div><span class="q-end" data-qid="T37Q10"></span>
 
+
 <div class="question" data-qid="T38Q6">
 
 ## Question 82/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le 21 mars **prochain**, l'**événement** Goût de France sera **organisé** **dans** des restaurants **du monde entier**. 2000 chefs **préparent un dîner** avec les meilleures **spécialités** de la **cuisine** française. <br>**Choisissez vite votre table sur**: http://france.fr/fr/gout-france-good-france</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est proposé aux lecteurs de cette annonce?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le 21 mars prochain, l'événement Goût de France sera organisé dans des restaurants du monde entier. 2000 chefs préparent un dîner avec les meilleures spécialités de la cuisine française. <br>**Choisissez vite votre table sur**: http://france.fr/fr/gout-france-good-france</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est proposé aux lecteurs de cette annonce?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T38 $\boxed{Q6}$ Qu'est-ce qui est proposé aux lecteurs de cette annonce?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **prochain** [prɔʃɛ̃] - 下一个的 - **le mois prochain** - 下个月
-> &nbsp;- **événement** [evenmɑ̃] - 活动，事件 - **un événement important** - 一个重大活动
-> &nbsp;- **organiser** [ɔrganize] - 组织，举办 - **organiser une réunion** - 组织一场会议
-> &nbsp;- **spécialité** [spesjalite] - 特产，特色菜 - **une spécialité régionale** - 地方特色
-> &nbsp;- **cuisine** [kɥizin] - 烹饪，厨房 - **la cuisine française** - 法国菜/法式烹饪
->
-> **常见短语**
-> &nbsp;- **du monde entier** - 全世界的 - **des étudiants du monde entier** - 来自全世界的学生
-> &nbsp;- **préparer un dîner** - 准备晚宴 - **préparer un dîner pour ses amis** - 为朋友们准备晚餐
-> &nbsp;- **être organisé dans** - 在...被举办 - **l'exposition sera organisée dans le musée** - 展览将在博物馆内举办
->
 
 3 月 21 日，Goût de France 美食节将在全球各地的餐厅举办！ 2000 位大厨将为您准备一顿包含法国最佳特色美食的晚宴。 立即在以下网站预订您的餐桌： http://france.fr/fr/gout-france-good-france
 
@@ -4121,30 +2955,16 @@ D. De recevoir des recettes typiques.
 ---
 </div><span class="q-end" data-qid="T38Q6"></span>
 
+
 <div class="question" data-qid="T38Q7">
 
 ## Question 83/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Je **propose** un 3 pièces en **colocation** **à partir du** 1er septembre. **Proche de** la gare Montparnasse, **chauffage** au gaz, un salon et 2 chambres. Je recherche une personne **sérieuse**, de préférence en **école de commerce** pour préparer les **examen**s ensemble. **Si vous êtes intéressé(e), appelez Rémi au 01.56.84.92.37**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse cette annonce?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Je propose un 3 pièces en colocation à partir du 1er septembre. Proche de la gare Montparnasse, chauffage au gaz, un salon et 2 chambres. Je recherche une personne sérieuse, de préférence en école de commerce pour préparer les examens ensemble. **Si vous êtes intéressé(e), appelez Rémi au 01.56.84.92.37**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui s'adresse cette annonce?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T38 $\boxed{Q7}$ À qui s'adresse cette annonce?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **proposer** [p r o p o z e] - 提议/提供 - **proposer une offre** - 提供一个报价
-> &nbsp;- **colocation** [k o l o k a s j õ] - 合租 - **vivre en colocation** - 住在合租房里
-> &nbsp;- **chauffage** [ʃ o f a ʒ] - 暖气/供暖 - **chauffage collectif** - 集体供暖
-> &nbsp;- **sérieux** [s e r j ø] - 认真的/可靠的 - **un travail sérieux** - 一份认真的工作
-> &nbsp;- **examen** [e g z a m ɛ̃] - 考试 - **réussir un examen** - 通过考试
->
-> **常见短语**
-> &nbsp;- **à partir de** - 从...开始 - **à partir de demain** - 从明天开始
-> &nbsp;- **proche de** - 靠近/距离...近 - **proche des commerces** - 靠近商店
-> &nbsp;- **école de commerce** - 商学院 - **étudier en école de commerce** - 在商学院学习
->
 
 我提供一套三居室合租房，9 月 1 日起可入住。 靠近蒙帕纳斯火车站（Gare Montparnasse），燃气供暖，包含一个客厅和两间卧室。 我正在寻找一位可靠的合租者，最好是商学院的学生，以便一起备考。 如果您感兴趣，请联系 Rémi，电话 01.56.84.92.37。
 
@@ -4171,30 +2991,16 @@ D. À un propriétaire.
 ---
 </div><span class="q-end" data-qid="T38Q7"></span>
 
+
 <div class="question" data-qid="T4Q5">
 
 ## Question 84/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À bord du** Tip Top, le plus grand **bateau** du bassin d'Arcachon, laissez-vous guider pour 2h30 de promenade **au gré des** vents et des courants marins. <br>Départ de la jetée Thiers tous les jours en juillet et aout, **en fonction des** horaires de la **marée**. **Renseignez-vous** la **veille**. Prix 25 euros par personne. 28 passagers maximums par **croisière**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce document ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">À bord du Tip Top, le plus grand bateau du bassin d'Arcachon, laissez-vous guider pour 2h30 de promenade au gré des vents et des courants marins. <br>Départ de la jetée Thiers tous les jours en juillet et aout, en fonction des horaires de la marée. Renseignez-vous la veille. Prix 25 euros par personne. 28 passagers maximums par croisière. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce document ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T4 $\boxed{Q5}$ Que propose ce document ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **bateau** [bato] - 船，舰 - **bateau à moteur** - 汽艇
-> &nbsp;- **marée** [mare] - 潮汐 - **marée basse** - 退潮，低潮
-> &nbsp;- **veille** [vεj] - 前一天 - **la veille au soir** - 前一天晚上
-> &nbsp;- **croisière** [krwazjεr] - 巡航，游船旅行 - **partir en croisière** - 参加游船旅行
->
-> **常见短语**
-> &nbsp;- **à bord de** - 在（船、车、飞机）上 - **bienvenue à bord** - 欢迎登船
-> &nbsp;- **au gré de** - 随...，任凭... - **au gré du vent** - 随风漂泊
-> &nbsp;- **en fonction de** - 根据...，取决于... - **en fonction de l'âge** - 根据年龄
-> &nbsp;- **se renseigner** - 打听，询问 - **se renseigner sur place** - 当场咨询
->
 
 登上 Tip Top 号，这艘阿卡雄海湾最大的船只，跟随海风与洋流体验 2小时30分钟的海上巡游。 从 Thiers 码头出发，每天于7月和8月运行，具体时间根据潮汐时间安排，请提前一天咨询。 价格：每人25欧元，每次巡游最多接待28名乘客。
 
@@ -4221,29 +3027,16 @@ D. La visite de la part Arcachon
 ---
 </div><span class="q-end" data-qid="T4Q5"></span>
 
+
 <div class="question" data-qid="T4Q6">
 
 ## Question 85/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le centre de Branféré **a ouvert ses portes** au **printemps** **dernier** dans un parc de Bretagne. Des classes du primaire y sont invitées. Les élèves y **apprennent**, **pendant quelques jours**, **à** connaitre et **respecter** la **nature**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprenant sur le centre de Branfere?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le centre de Branféré a ouvert ses portes au printemps dernier dans un parc de Bretagne. Des classes du primaire y sont invitées. Les élèves y apprennent, pendant quelques jours, à connaitre et respecter la nature.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'apprenant sur le centre de Branfere?</span></span> |
 |---|
 
 **<span class="fr-question-in-content">📑T4 $\boxed{Q6}$ Qu'apprenant sur le centre de Branfere?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **printemps** [p r ɛ̃ t ɑ̃] - 春天 - **au printemps** - 在春天
-> &nbsp;- **dernier** [d ɛ r n j e] - 上一个的，最后的 - **l'an dernier** - 去年
-> &nbsp;- **respecter** [r ɛ s p ɛ k t e] - 尊重，遵守 - **respecter l'environnement** - 保护环境
-> &nbsp;- **nature** [n a t y r] - 大自然 - **en pleine nature** - 在大自然中
->
-> **常见短语**
-> &nbsp;- **ouvrir ses portes** - 开放，开门营业 - **ouvrir ses portes au public** - 向公众开放
-> &nbsp;- **apprendre à** - 学习做某事 - **apprendre à conduire** - 学习开车
-> &nbsp;- **pendant quelques jours** - 在几天的过程中 - **travailler pendant quelques jours** - 工作几天
->
 
 布兰费雷中心去年春天在布列塔尼的一个公园内开放。小学班级被邀请到此地。学生们在这里度过几天，学习了解和尊重自然。
 
@@ -4270,30 +3063,16 @@ C. Il est réservé aux écoles de Bretagne
 ---
 </div><span class="q-end" data-qid="T4Q6"></span>
 
+
 <div class="question" data-qid="T4Q7">
 
 ## Question 86/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Cher Monsieur Damier**, <br>Nous **avons le plaisir de** vous annoncer que vous êtes l'heureux **gagnant** de notre grand jeu de l'été. Vous pouvez **dès maintenant** **venir chercher** votre **prix** dons votre **magasin** **préféré** où nos **soldes** d'automne ont déjà commencé ! <br>**Bien cordialement**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va recevoir monsieur Damier?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Cher Monsieur Damier**, <br>Nous avons le plaisir de vous annoncer que vous êtes l'heureux gagnant de notre grand jeu de l'été. Vous pouvez dès maintenant venir chercher votre prix dons votre magasin préféré où nos soldes d'automne ont déjà commencé ! <br>**Bien cordialement** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va recevoir monsieur Damier?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T4 $\boxed{Q7}$ Que va recevoir monsieur Damier?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **gagnant** [ga.ɲã] - 获胜者 - **heureux gagnant** - 幸运的获胜者
-> &nbsp;- **prix** [pri] - 奖品/奖金 - **remporter un prix** - 赢得奖项
-> &nbsp;- **magasin** [ma.ga.zẽ] - 商店 - **faire les magasins** - 逛商店
-> &nbsp;- **solde** [sɔld] - 打折/削价销售 - **en solde** - 正在打折
-> &nbsp;- **préféré** [pre.fe.re] - 最喜爱的 - **mon livre préféré** - 我最喜欢的书
->
-> **常见短语**
-> &nbsp;- **avoir le plaisir de** - 很荣幸/很高兴做某事 - **avoir le plaisir de vous informer** - 很荣幸地通知您
-> &nbsp;- **dès maintenant** - 从现在起/立即 - **disponible dès maintenant** - 现已有售
-> &nbsp;- **venir chercher** - 来取/来拿 - **venir chercher son colis** - 来取包裹
->
 
 尊敬的达米耶先生， 我们很高兴地通知您，您是我们夏季大型游戏的幸运获奖者。 您现在可以前往您最喜欢的商店领取您的奖品，我们的秋季促销已经开始！ 此致， 索朗热·拉菲特（客户关系部）。
 
@@ -4320,30 +3099,16 @@ D. Une lettre
 ---
 </div><span class="q-end" data-qid="T4Q7"></span>
 
+
 <div class="question" data-qid="T4Q8">
 
 ## Question 87/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**GRAND JEU JARDIMARCHÉ** <br>Vous pensez avoir le plus jardin ? <br/>**Envoyer une photo** à grandjeu@jardimarche.com. <br/>Trois **gagnants** **recevront** **un chèque de** 500 euros **valable**. **dans tous nos** **magasins**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose Jardimarché ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**GRAND JEU JARDIMARCHÉ** <br>Vous pensez avoir le plus jardin ? <br/>Envoyer une photo à grandjeu@jardimarche.com. <br/>Trois gagnants recevront un chèque de 500 euros valable. dans tous nos magasins. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose Jardimarché ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T4 $\boxed{Q8}$ Que propose Jardimarché ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **jeu** [ʒø] - 游戏/比赛 - **un jeu-concours** - 有奖竞赛
-> &nbsp;- **gagnant** [ɡaɲɑ̃] - 获胜者 - **le gagnant du concours** - 比赛获胜者
-> &nbsp;- **recevoir** [rəsəvwar] - 收到 - **recevoir un cadeau** - 收到礼物
-> &nbsp;- **valable** [valabl] - 有效的 - **un bon d'achat valable** - 有效的代金券
-> &nbsp;- **magasin** [maɡazɛ̃] - 商店 - **faire les magasins** - 逛商场
->
-> **常见短语**
-> &nbsp;- **envoyer une photo** - 发送照片 - **envoyer une photo par courriel** - 通过邮件发送照片
-> &nbsp;- **un chèque de** - ...金额的支票 - **un chèque de 500 euros** - 一张500欧元的支票
-> &nbsp;- **dans tous nos** - 在我们所有的... - **dans tous nos points de vente** - 在我们所有的销售点
->
 
 Jardimarché大型比赛 您认为自己拥有最美的花园吗？将照片发送至 grandjeu@jardimarche.com。三名获胜者将获得价值500欧元的支票，可在我们所有门店使用。
 
@@ -4370,31 +3135,16 @@ D. De recevoir des outils gratuits
 ---
 </div><span class="q-end" data-qid="T4Q8"></span>
 
+
 <div class="question" data-qid="T4Q10">
 
 ## Question 88/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers parents**, <br>Je **profite d'**une **étape** **en ville** pour vous **envoyer** un courriel. La **randonnée** **se passe** bien, nous marchons beaucoup avec les moniteurs. C'est **fatigant**, mais la région est **magnifique**. <br/>Bisous, **à bientôt**. <br/>**Karim**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Karim écrit à ses parents?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers parents**, <br>Je profite d'une étape en ville pour vous envoyer un courriel. La randonnée se passe bien, nous marchons beaucoup avec les moniteurs. C'est fatigant, mais la région est magnifique. <br/>Bisous, à bientôt. <br/>**Karim**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Pourquoi est-ce que Karim écrit à ses parents?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T4 $\boxed{Q10}$ Pourquoi est-ce que Karim écrit à ses parents?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **étape** [etap] - 阶段；停靠点 - **une étape importante** - 一个重要的阶段
-> &nbsp;- **envoyer** [ɑ̃vwaje] - 发送 - **envoyer un message** - 发送一条消息
-> &nbsp;- **randonnée** [rɑ̃dɔne] - 徒步旅行 - **faire de la randonnée** - 去徒步旅行
-> &nbsp;- **fatigant** [fatiɡɑ̃] - 累人的 - **un travail fatigant** - 一份累人的工作
-> &nbsp;- **magnifique** [maɲifik] - 壮丽的；极好的 - **un paysage magnifique** - 壮丽的风景
->
-> **常见短语**
-> &nbsp;- **profiter de** - 利用；享受 - **profiter du soleil** - 享受阳光
-> &nbsp;- **en ville** - 在城里 - **aller en ville** - 进城
-> &nbsp;- **se passer** - 发生；（进展）得... - **tout se passe bien** - 一切进展顺利
-> &nbsp;- **à bientôt** - 再见；待会见 - **dire à bientôt** - 说再见
->
 
 亲爱的爸爸妈妈， 我趁着在城里停留的机会，给你们发了一封邮件。 徒步旅行一切顺利，我们和教练们一起走了很多路。 虽然很累，但这里的风景非常美丽。 亲吻你们，很快再见！ Karim
 
@@ -4421,32 +3171,16 @@ C. Pour prendre des nouvelles
 ---
 </div><span class="q-end" data-qid="T4Q10"></span>
 
+
 <div class="question" data-qid="T40Q7">
 
 ## Question 89/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous parlez arabe, chinois, espagnol, etc.? <br>**Participez** au pique-nique international et faites **connaissance** **avec** des étudiants **du monde entier** ! <br>Préparez **quelque chose** à manger, les **boissons** sont **offertes** ! <br>**Rendez-vous au Jardin des Plantes, en face de l'université, le 25 mai**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous parlez arabe, chinois, espagnol, etc.? <br>Participez au pique-nique international et faites connaissance avec des étudiants du monde entier ! <br>Préparez quelque chose à manger, les boissons sont offertes ! <br>**Rendez-vous au Jardin des Plantes, en face de l'université, le 25 mai**. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T40 $\boxed{Q7}$ Qu'est-ce que cette annonce propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **participer** [partisipe] - 参加 - **participer à** - 参加某事
-> &nbsp;- **connaissance** [kɔnɛsɑ̃s] - 了解/认识 - **faire la connaissance de** - 结识某人
-> &nbsp;- **entier** [ɑ̃tje] - 整个的/全部的 - **le monde entier** - 全世界
-> &nbsp;- **boisson** [bwasɔ̃] - 饮料 - **une boisson fraîche** - 一瓶冷饮
-> &nbsp;- **offrir** [ofrir] - 提供/赠送 - **être offert** - 赠送/免费提供
->
-> **常见短语**
-> &nbsp;- **faire connaissance avec** - 结识/与...相识 - **faire connaissance avec de nouveaux amis** - 结识新朋友
-> &nbsp;- **du monde entier** - 全世界的/来自全球的 - **des touristes du monde entier** - 来自全球的游客
-> &nbsp;- **quelque chose** - 某事/某物 - **quelque chose à manger** - 一些吃的东西
-> &nbsp;- **en face de** - 在...对面 - **en face de la gare** - 在火车站对面
-> &nbsp;- **rendez-vous** - 会面/约定时间地点 - **prendre rendez-vous** - 预约
->
 
 你说阿拉伯语、中文、西班牙语等语言吗？ 来参加国际野餐吧，认识来自世界各地的学生！ 请准备一些吃的，饮料免费提供！ 5月25日，大学对面的植物园见！
 
@@ -4473,30 +3207,16 @@ D. De prendre des cours de langue.
 ---
 </div><span class="q-end" data-qid="T40Q7"></span>
 
+
 <div class="question" data-qid="T42Q6">
 
 ## Question 90/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**À cause de** la **grève** de certains **conducteurs** de métro parisien, seul **un** train **sur trois** **circule** ce matin. La **circulation** de la ligne 9 va **redevenir** normale **dans la soirée**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est annoncé aux voyageurs?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">À cause de la grève de certains conducteurs de métro parisien, seul un train sur trois circule ce matin. La circulation de la ligne 9 va redevenir normale dans la soirée.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qui est annoncé aux voyageurs?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T42 $\boxed{Q6}$ Qu'est-ce qui est annoncé aux voyageurs?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **grève** [g r ɛ v] - 罢工 - **faire la grève** - 进行罢工
-> &nbsp;- **conducteur** [k ɔ̃ d y k t œ r] - 司机 - **conducteur de métro** - 地铁司机
-> &nbsp;- **circuler** [s i r k y l e] - 运行，循环 - **circuler librement** - 自由流通
-> &nbsp;- **circulation** [s i r k y l a s j ɔ̃] - 交通，发行 - **interrompre la circulation** - 中断交通
-> &nbsp;- **redevenir** [r ə d ə v n i r] - 重新变得 - **redevenir calme** - 恢复平静
->
-> **常见短语**
-> &nbsp;- **à cause de** - 由于，因为 - **à cause de la pluie** - 因为下雨
-> &nbsp;- **un sur trois** - 每三个中有一个 - **un candidat sur trois** - 每三个候选人中有一个
-> &nbsp;- **dans la soirée** - 在傍晚，在晚上 - **travailler dans la soirée** - 在晚上工作
->
 
 由于部分巴黎地铁司机罢工，今天早上每三班车只有一班在运行。 9号线的运行将在今晚恢复正常。
 
@@ -4523,31 +3243,16 @@ D. La fermeture du métro pour travaux.
 ---
 </div><span class="q-end" data-qid="T42Q6"></span>
 
+
 <div class="question" data-qid="T42Q10">
 
 ## Question 91/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**LA BIBLIOTHÈQUE DE BREST** <br>Organise un **concours** de poésie sur le **thème** : <br/>«**Au cœur de**s arts ». <br/>Envoyez votre **production** fora**format papier**. <br/>Les **prix** seront **remis** le 21 juin à la médiathèque avant de **partager un repas** breton. <br/>D'après agendaculturel.fr</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que faut-il faire pour participer à cet événement?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**LA BIBLIOTHÈQUE DE BREST** <br>Organise un concours de poésie sur le thème : <br/>«Au cœur des arts ». <br/>Envoyez votre production foraformat papier. <br/>Les prix seront remis le 21 juin à la médiathèque avant de partager ensemble un repas breton. <br/>D'après agendaculturel.fr</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que faut-il faire pour participer à cet événement?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T42 $\boxed{Q10}$ Que faut-il faire pour participer à cet événement?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **concours** [kɔ̃kur] - 比赛，竞赛 - **concours de poésie** - 诗歌比赛
-> &nbsp;- **thème** [tεm] - 主题 - **sur le thème de** - 以...为主题
-> &nbsp;- **production** [prɔdyksjɔ̃] - 作品，成果 - **production écrite** - 书面表达/作品
-> &nbsp;- **prix** [pri] - 奖项，价格 - **remporter un prix** - 赢得奖项
-> &nbsp;- **remis** [rəmi] - 被交付，被颁发 - **être remis à quelqu'un** - 被颁发给某人
-> &nbsp;- **partager** [partaʒe] - 分享，共用 - **partager un repas** - 聚餐/分享餐食
->
-> **常见短语**
-> &nbsp;- **au cœur de** - 在...中心/核心 - **au cœur de la ville** - 在市中心
-> &nbsp;- **format papier** - 纸质版/纸质格式 - **envoyer au format papier** - 以纸质版形式发送
-> &nbsp;- **partager un repas** - 共同进餐/聚餐 - **partager un repas breton** - 品尝布列塔尼特色餐
->
 
 布雷斯特图书馆 组织一场以“艺术的核心”为主题的诗歌比赛。 请将你的作品以纸质版形式寄送。 奖项将于6月21日在多媒体图书馆颁发，之后大家将一起分享一顿布列塔尼餐。 摘自 agendaculturel.fr
 
@@ -4574,29 +3279,16 @@ D. Réaliser un dessin.
 ---
 </div><span class="q-end" data-qid="T42Q10"></span>
 
+
 <div class="question" data-qid="T44Q8">
 
 ## Question 92/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour connaînte le **programme** des **loisirs** organisés dans votre ville, **allez sur** www- ma-mairie.com et **identifités-vous**. <br>Ensuite, vous pourrer acheter des tickets de tickets de cinèma, **réserver** de places de concerts, vous vous **inscrire** à la biblottéque et trouver des activités pour **tous âges**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on peut faire sur ce site Internet?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour connaînte le programme des loisirs organisés dans votre ville, allez sur www- ma-mairie.com et identifités-vous. <br>Ensuite, vous pourrer acheter des tickets de tickets de cinèma, réserver de places de concerts, vous vous inscrire à la biblottéque et trouver des activités pour tous âges.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce qu'on peut faire sur ce site Internet?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T44 $\boxed{Q8}$ Qu'est-ce qu'on peut faire sur ce site Internet?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **programme** [prɔgram] - 计划，节目单，大纲 - **programme des activités** - 活动日程
-> &nbsp;- **loisir** [lwazir] - 休闲，消遣 - **activités de loisir** - 休闲活动
-> &nbsp;- **réserver** [rezerve] - 预订 - **réserver une place** - 预订座位/位置
-> &nbsp;- **inscrire** [ε̃skrir] - 注册，登记 - **s'inscrire à la bibliothèque** - 办理图书馆注册
->
-> **常见短语**
-> &nbsp;- **allez sur** - 访问（网站），去到 - **allez sur le site officiel** - 访问官方网站
-> &nbsp;- **s'identifier** - 身份验证，登录 - **s'identifier avec un mot de passe** - 用密码登录
-> &nbsp;- **tous âges** - 所有年龄段，老少皆宜 - **pour tous âges** - 适合所有年龄段
->
 
 为了了解你所在城市组织的休闲活动安排，请登录 www.ma-mairie.com 并进行身份验证。 之后，你可以购买电影票、预订音乐会座位、注册图书馆，并找到适合所有年龄段的活动。
 
@@ -4623,28 +3315,16 @@ C. Prendre contact avec les services de la mairie.
 ---
 </div><span class="q-end" data-qid="T44Q8"></span>
 
+
 <div class="question" data-qid="T5Q5">
 
 ## Question 93/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Antoine, **S'il te plait**, **viens** **dans mon bureau** **après la réunion**. <br>Merci <br>**Ludovic**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Antoine ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Antoine, S'il te plait, viens dans mon bureau après la réunion. <br>Merci <br>**Ludovic** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que doit faire Antoine ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q5}$ Que doit faire Antoine ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **bureau** [byro] - 办公室 - **travailler au bureau** - 在办公室工作
-> &nbsp;- **réunion** [reynjɔ̃] - 会议 - **organiser une réunion** - 组织一场会议
-> &nbsp;- **venir** [vənir] - 来 - **venir de loin** - 从远方来
->
-> **常见短语**
-> &nbsp;- **s'il te plaît** - 请 - **dis-moi la vérité, s'il te plaît** - 请告诉我真相
-> &nbsp;- **dans mon bureau** - 在我办公室里 - **entrer dans mon bureau** - 进入我办公室
-> &nbsp;- **après la réunion** - 会议后 - **discuter après la réunion** - 会后讨论
->
 
 Antoine， 请在会议结束后到我的办公室来。 谢谢， Ludovic
 
@@ -4671,30 +3351,16 @@ D. Téléphoner à Ludovic
 ---
 </div><span class="q-end" data-qid="T5Q5"></span>
 
+
 <div class="question" data-qid="T5Q6">
 
 ## Question 94/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers parents**, <br>La fête **annuelle** de notre école **se déroulera** cette année le samedi 12 juin. Pour que cette journée soit **réussie**, nous **faisons** une fois encore **appel à** votre participation. Nous avons besoin d'adultes pour **animer** les stands et **surveiller** les jeux. **Faites-nous part de** vos **disponibilités**. <br>**La directrice**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande la directrice l'école ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers parents**, <br>La fête annuelle de notre école se déroulera cette année le samedi 12 juin. Pour que cette journée soit réussie, nous faisons une fois encore appel à votre participation. Nous avons besoin d'adultes pour animer les stands et surveiller les jeux. Faites-nous part de vos disponibilités. <br>**La directrice** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que demande la directrice l'école ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q6}$ Que demande la directrice l'école ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **annuel** [anɥεl] - 每年的 - **rapport annuel** - 年度报告
-> &nbsp;- **réussi** [reysi] - 成功的 - **un examen réussi** - 顺利通过的考试
-> &nbsp;- **animer** [anime] - 组织、主持 - **animer un atelier** - 组织工作坊
-> &nbsp;- **surveiller** [syrveje] - 监视、照看 - **surveiller les élèves** - 照看学生
-> &nbsp;- **disponibilité** [disponibilite] - 空余时间 - **donner ses disponibilités** - 告知空余时间
->
-> **常见短语**
-> &nbsp;- **se dérouler** - 进行、发生 - **la fête se déroule** - 活动正在进行
-> &nbsp;- **faire appel à** - 求助于、呼吁 - **faire appel à des bénévoles** - 寻求志愿者
-> &nbsp;- **faire part de** - 通知、告知 - **faire part de sa décision** - 告知其决定
->
 
 亲爱的家长们， 今年学校年度庆典将于**6 月 12 日（星期六）**举行。 为了让这一天顺利进行， 我们再次向您寻求帮助。 我们需要成人志愿者来管理摊位和监督游戏活动。 请告诉我们您的可用时间。 敬礼， 校长
 
@@ -4721,30 +3387,16 @@ C. Des idées
 ---
 </div><span class="q-end" data-qid="T5Q6"></span>
 
+
 <div class="question" data-qid="T5Q7">
 
 ## Question 95/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">L'**association** des Bretons vous **offre** une « **Soirée musicale** irlandaise », vendredi 10 novembre à 20h 30. **À la fin** du **spectacle**, une **vente de boissons** sera organisée et vous pourrez **goûter** des **spécialités** d'Irlande.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que propose cette association?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">L'association des Bretons vous offre une « Soirée musicale irlandaise », vendredi 10 novembre à 20h 30. À la fin du spectacle, une vente de boissons sera organisée et vous pourrez goûter des spécialités d'Irlande.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que propose cette association?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q7}$ Qu'est-ce que propose cette association?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **association** [asɔsjasiɔ̃] - 协会 - **association à but non lucratif** - 非营利组织
-> &nbsp;- **offrir** [ɔfrir] - 提供，赠送 - **offrir un cadeau** - 送礼物
-> &nbsp;- **spectacle** [spɛktakl] - 演出，表演 - **assister à un spectacle** - 观看演出
-> &nbsp;- **goûter** [guter] - 品尝 - **goûter à un plat** - 尝一道菜
-> &nbsp;- **spécialité** [spesjalite] - 特产，特色 - **spécialité culinaire** - 烹饪特色/美食
->
-> **常见短语**
-> &nbsp;- **soirée musicale** - 音乐晚会 - **organiser une soirée musicale** - 举办一场音乐晚会
-> &nbsp;- **à la fin de** - 在……结束时 - **à la fin du mois** - 在月底
-> &nbsp;- **vente de boissons** - 饮料售卖 - **une licence de vente de boissons** - 饮料销售执照
->
 
 布列塔尼协会（L'association des Bretons） 为您提供一场 “爱尔兰音乐之夜”， 时间：11 月 10 日（星期五）20:30。 演出结束后， 还将组织饮品销售， 并且您可以品尝爱尔兰特色美食。
 
@@ -4771,32 +3423,16 @@ D. Un voyage à l'étranger
 ---
 </div><span class="q-end" data-qid="T5Q7"></span>
 
+
 <div class="question" data-qid="T5Q8">
 
 ## Question 96/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**La cuisine de jean-Emile ** <br>Jean-Émile Nodier, **chef** **depuis 10 ans**, **propose**: **DES COURS DE CUISINE** **À DOMICILE** pour une à quatre personnes. <br>**Apprenez à** **cuisiner** des **recettes** **de qualité**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**La cuisine de jean-Emile ** <br>Jean-Émile Nodier, chef depuis 10 ans, propose: DES COURS DE CUISINE À DOMICILE pour une à quatre personnes. <br>Apprenez à cuisiner des recettes de qualité </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette annonce propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q8}$ Qu'est-ce que cette annonce propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **cuisine** [kyizin] - 烹饪/厨房 - **faire la cuisine** - 做饭
-> &nbsp;- **chef** [ʃɛf] - 厨师/首领 - **chef de cuisine** - 主厨
-> &nbsp;- **proposer** [propoze] - 提议/提供 - **proposer un service** - 提供服务
-> &nbsp;- **cuisiner** [kyizine] - 烹饪/做菜 - **apprendre à cuisiner** - 学习做菜
-> &nbsp;- **recette** [rəsɛt] - 食谱/配方 - **suivre une recette** - 按照食谱做
-> &nbsp;- **qualité** [kalite] - 质量/品质 - **de qualité** - 高质量的
->
-> **常见短语**
-> &nbsp;- **depuis 10 ans** - 十年以来 - **depuis longtemps** - 很长时间以来
-> &nbsp;- **cours de cuisine** - 烹饪课 - **suivre un cours de cuisine** - 上烹饪课
-> &nbsp;- **à domicile** - 在家/上门 - **livraison à domicile** - 送货上门
-> &nbsp;- **apprendre à** - 学习做... - **apprendre à nager** - 学习游泳
->
 
 让-埃米尔的厨房 让-埃米尔·诺迪耶，拥有10年经验的大厨，提供 私人厨艺课程 适合1至4人 学习制作高质量菜品的技巧。 详情请访问：[网站链接]
 
@@ -4823,31 +3459,16 @@ D. De trouver de bonnes recettes sur internet
 ---
 </div><span class="q-end" data-qid="T5Q8"></span>
 
+
 <div class="question" data-qid="T5Q9">
 
 ## Question 97/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Objet : réunion de service** <br>Notre prochaine **réunion de service** **aura lieu** mercredi 12 octobre à 13h en salle 3. Nous **discuterons** **des** nouveaux **produits** Et **de** l'**organisation** de la fête pour le **départ à la retraite** de Mme Fournival <br>**E. Frachon**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va-t-il se passer le mercredi 12?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Objet : réunion de service** <br>Notre prochaine réunion de service aura lieu mercredi 12 octobre à 13h en salle 3. Nous discuterons des nouveaux produits Et de l'organisation de la fête pour le départ à la retraite de Mme Fournival <br>**E. Frachon**. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que va-t-il se passer le mercredi 12?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q9}$ Que va-t-il se passer le mercredi 12?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **réunion** [reynjɔ̃] - 会议 - **réunion de service** - 部门会议
-> &nbsp;- **produit** [prɔdyi] - 产品 - **nouveaux produits** - 新产品
-> &nbsp;- **organisation** [ɔrganizasjɔ̃] - 组织，筹办 - **organisation de la fête** - 聚会筹办
-> &nbsp;- **départ** [depar] - 出发，离职 - **départ à la retraite** - 退休
-> &nbsp;- **retraite** [rətrɛt] - 退休 - **prendre sa retraite** - 退休
->
-> **常见短语**
-> &nbsp;- **avoir lieu** - 发生，举行 - **la réunion aura lieu à 10h** - 会议将在10点举行
-> &nbsp;- **discuter de** - 讨论 - **discuter d'un projet** - 讨论一个项目
-> &nbsp;- **réunion de service** - 部门会议 - **assister à une réunion de service** - 参加部门会议
-> &nbsp;- **départ à la retraite** - 退休 - **fêter un départ à la retraite** - 庆祝退休
->
 
 主题：部门会议 我们的下一次部门会议将于10 月 12 日（星期三）13:00在3 号会议室举行。 我们将讨论： 新产品， 以及为 Mme Fournival 的退休欢送会做准备。 E. Frachon
 
@@ -4874,31 +3495,16 @@ D. Mme Fournival va arriver dans la société
 ---
 </div><span class="q-end" data-qid="T5Q9"></span>
 
+
 <div class="question" data-qid="T5Q10">
 
 ## Question 98/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers collègues**, <br>Nous vous **informons que** la **réunion parents-professeurs** des classes de seconde **prévue** pour ce samedi est **reportée au** **samedi prochain** à midi. Votre présence est **obligatoire**. <br/><br/>**La direction du lycée**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui est adressé ce message?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Chers collègues**, <br>Nous vous informons que la réunion parents-professeurs des classes de seconde prévue pour ce samedi est reportée au samedi prochain à midi. Votre présence est obligatoire. <br/><br/>**La direction du lycée**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui est adressé ce message?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T5 $\boxed{Q10}$ À qui est adressé ce message?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **réunion** [reynjɔ̃] - 会议 - **réunion de travail** - 工作会议
-> &nbsp;- **prévoir** [prevwar] - 预定，计划 - **être prévu pour** - 预定于...
-> &nbsp;- **reporter** [rəpɔrte] - 推迟，延期 - **reporter une date** - 推迟日期
-> &nbsp;- **obligatoire** [ɔbligatwar] - 强制性的，必须的 - **présence obligatoire** - 必须出席
-> &nbsp;- **direction** [dirɛksjɔ̃] - 管理层，领导层 - **direction générale** - 总经理部
->
-> **常见短语**
-> &nbsp;- **informer que** - 通知... - **informer que le vol est annulé** - 通知航班已取消
-> &nbsp;- **réunion parents-professeurs** - 家长会 - **assister à une réunion parents-professeurs** - 参加家长会
-> &nbsp;- **être reporté au** - 被推迟到... - **le match est reporté au lendemain** - 比赛被推迟到第二天
-> &nbsp;- **samedi prochain** - 下周六 - **se voir samedi prochain** - 下周六见
->
 
 亲爱的同事们， 我们通知您，原定于本周六的二年级家长-教师会议推迟到下周六中午。您的出席是必须的。 高中管理处
 
@@ -4925,29 +3531,16 @@ C. Aux parents
 ---
 </div><span class="q-end" data-qid="T5Q10"></span>
 
+
 <div class="question" data-qid="T6Q5">
 
 ## Question 99/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Examen** **de** **biologie** <br/>**Juin** **à** **15h30** **en** **salle** 454</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information manque au sujet de cet examen?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Examen de biologie <br/>Juin à 15h30 en salle 454</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quelle information manque au sujet de cet examen?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q5}$ Quelle information manque au sujet de cet examen?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **examen** [ɛgzamɛ̃] - 中文释义 - 考试 - **passer un examen** - 参加考试。
-> &nbsp;- **biologie** [bjɔlɔʒi] - 中文释义 - 生物学 - **laboratoire de biologie** - 生物实验室。
-> &nbsp;- **juin** [ʒɥɛ̃] - 中文释义 - 六月 - **au mois de juin** - 在六月份。
-> &nbsp;- **salle** [sal] - 中文释义 - 房间，教室 - **salle d'examen** - 考场。
->
-> **常见短语**
-> &nbsp;- **examen de** - 中文释义 - ……的考试 - **examen de français** - 法语考试。
-> &nbsp;- **à 15h30** - 中文释义 - 在15点30分 - **le rendez-vous est à 15h30** - 约会在15点30分。
-> &nbsp;- **en salle** - 中文释义 - 在……号教室 - **examen en salle 202** - 在202教室考试。
->
 
 生物考试 六月下午3点30分，454教室。
 
@@ -4974,29 +3567,16 @@ D. L'heure
 ---
 </div><span class="q-end" data-qid="T6Q5"></span>
 
+
 <div class="question" data-qid="T6Q6">
 
 ## Question 100/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Stéphane**, <br/>Tu peux **apporter** le dessert jeudi soir? Claude **s'occupe de**s entrées, Dominique des boissons et moi du plat **principal**. En **invités-surprise**, d'autres copains de notre **terminale** S3. C'est super de **se retrouver** tous, dix ans après le **lycée**. <br/><br/>**Maryse**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Maryse organise?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Stéphane**, <br/>Tu peux apporter le dessert jeudi soir? Claude s'occupe des entrées, Dominique des boissons et moi du plat principal. En invités-surprise, d'autres copains de notre terminale S3. C'est super de se retrouver tous, dix ans après le lycée. <br/><br/>**Maryse**</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que Maryse organise?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q6}$ Qu'est-ce que Maryse organise?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **apporter** [apɔrte] - 带来，携带 - **apporter un cadeau** - 带礼物
-> &nbsp;- **principal** [p r ɛ̃sipal] - 主要的 - **le plat principal** - 主菜
-> &nbsp;- **terminale** [t ɛ r minal] - 高三班级 - **en classe de terminale** - 在高三年级
-> &nbsp;- **lycée** [lise] - 高中 - **finir le lycée** - 高中毕业
->
-> **常见短语**
-> &nbsp;- **s'occuper de** - 负责，处理 - **s'occuper du projet** - 负责项目
-> &nbsp;- **invité-surprise** - 惊喜嘉宾，不速之客 - **accueillir un invité-surprise** - 迎接惊喜嘉宾
-> &nbsp;- **se retrouver** - 重聚，再次见面 - **se retrouver après des années** - 多年后重聚
->
 
 斯蒂芬， 你周四晚上能带甜点吗？ 克洛德负责准备开胃菜，多米尼克负责饮料，而我负责主菜。 作为惊喜嘉宾，我们还邀请了一些高中 S3 班的老同学。 高中毕业 10 年后，能再次相聚真是太棒了！ ——玛丽丝
 
@@ -5023,29 +3603,16 @@ D. Une fête de fin d'année scolaire
 ---
 </div><span class="q-end" data-qid="T6Q6"></span>
 
+
 <div class="question" data-qid="T6Q7">
 
 ## Question 101/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Anne **gérante** de Somya, nouvelle **boutique** **spécialisée dans** la **décoration**, vous **attend pour** vous **proposer de** **nombreux** produits et livres spécialisées</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle l'annonce?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Anne gérante de Somya, nouvelle boutique spécialisée dans la décoration, vous attend pour vous proposer de nombreux produits et livres spécialisées </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 De quoi parle l'annonce?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q7}$ De quoi parle l'annonce?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **gérant** [ʒerɑ̃] - 经理，负责人 - **gérant de société** - 公司负责人
-> &nbsp;- **boutique** [butik] - 商店，精品店 - **boutique en ligne** - 网店
-> &nbsp;- **décoration** [dekɔrasjɔ̃] - 装饰，装潢 - **décoration d'intérieur** - 室内装饰
-> &nbsp;- **nombreux** [nɔ̃brø] - 许多的，众多的 - **de nombreux avantages** - 许多优势
->
-> **常见短语**
-> &nbsp;- **spécialisé dans** - 专门从事...的，在...领域专业的 - **être spécialisé dans le luxe** - 专门从事奢侈品行业
-> &nbsp;- **attendre pour** - 等待做某事 - **attendre pour obtenir** - 等待获得
-> &nbsp;- **proposer de** - 提供... / 建议... - **proposer de nouveaux services** - 提供新服务
->
 
 Anne 是 Somya 的经理，这是一家新开的专门从事家居装饰的商店。她在店里等着您，向您推荐各种装饰产品和专业书籍。
 
@@ -5072,29 +3639,16 @@ C. De la transformation d'un magasin
 ---
 </div><span class="q-end" data-qid="T6Q7"></span>
 
+
 <div class="question" data-qid="T6Q8">
 
 ## Question 102/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Lundi 20 juin** <br>Mme Rico sera **absente** de son **bureau** exceptionnellement aujourd'hui, lundi. 8 Pour **avoir un rendez-vous**, vous pourrez la **contacter** demain **à partir de** 14 heures. **Merci de** votre **compréhension**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quand madame Rico sera-t-elle disponible?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Lundi 20 juin** <br>Mme Rico sera absente de son bureau exceptionnellement aujourd'hui, lundi. 8 Pour avoir un rendez-vous, vous pourrez la contacter demain à partir de 14 heures. Merci de votre compréhension. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quand madame Rico sera-t-elle disponible?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q8}$ Quand madame Rico sera-t-elle disponible?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **absente** [absɑ̃t] - 缺席的 - **être absente de** - 缺席...
-> &nbsp;- **bureau** [byro] - 办公室 - **au bureau** - 在办公室
-> &nbsp;- **contacter** [kɔ̃takte] - 联系 - **contacter le service client** - 联系客服
-> &nbsp;- **compréhension** [kɔ̃preɑ̃sjɔ̃] - 理解 - **manque de compréhension** - 缺乏理解
->
-> **常见短语**
-> &nbsp;- **avoir un rendez-vous** - 有个预约 - **fixer un rendez-vous** - 约定时间
-> &nbsp;- **à partir de** - 从...开始 - **à partir de demain** - 从明天开始
-> &nbsp;- **merci de** - 感谢 - **merci de votre attention** - 感谢您的关注
->
 
 6月20日星期一 Rico女士今天（星期一）因特殊原因不在办公室。 若要预约，请从明天下午2点开始联系她。 感谢您的理解。
 
@@ -5121,31 +3675,16 @@ D. Vendredi matin
 ---
 </div><span class="q-end" data-qid="T6Q8"></span>
 
+
 <div class="question" data-qid="T6Q9">
 
 ## Question 103/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Cher confrère**, <br>**Ci-joint** notre catalogue de **boissons** pour cette année. **En espérant que** vous pourrez **satisfaire** votre **clientèle**, nous vous remercions pour vos futurs **achats**. Avec nos **salutations les plus cordiales**. <br>**Entreprise Labayle et Chandon**.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est l'objet de ce courrier?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Cher confrère**, <br>Ci-joint notre catalogue de boissons pour cette année. En espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats. Avec nos salutations les plus cordiales. <br>**Entreprise Labayle et Chandon**. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Quel est l'objet de ce courrier?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q9}$ Quel est l'objet de ce courrier?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **confrère** [kɔ̃frɛr] - 同行，同事 - **cher confrère** - 亲爱的同行（商务信函常用抬头）
-> &nbsp;- **boisson** [bwasɔ̃] - 饮料 - **carte des boissons** - 酒水单
-> &nbsp;- **clientèle** [klijɑ̃tɛl] - 顾客，客户（总称） - **fidéliser la clientèle** - 留住客户
-> &nbsp;- **achat** [aʃa] - 购买 - **pouvoir d'achat** - 购买力
-> &nbsp;- **cordial** [kɔrdjal] - 热诚的，诚挚的 - **un accueil cordial** - 诚挚的欢迎
->
-> **常见短语**
-> &nbsp;- **ci-joint** - 随信附上 - **le document ci-joint** - 随附的文件
-> &nbsp;- **en espérant que** - 希望... - **en espérant que vous allez bien** - 希望您一切都好
-> &nbsp;- **satisfaire sa clientèle** - 满足客户 - **moyens pour satisfaire sa clientèle** - 满足客户的方法
-> &nbsp;- **salutations les plus cordiales** - 最诚挚的问候 - **recevoir ses salutations les plus cordiales** - 接受某人最诚挚的问候
->
 
 亲爱的同事 随函附上我们今年的饮料目录。希望您能满意，并对您今后的采购表示感谢。 谨致最诚挚的问候、 Labayle et Chandon公司
 
@@ -5172,30 +3711,16 @@ D. Proposer une dégustation de produits
 ---
 </div><span class="q-end" data-qid="T6Q9"></span>
 
+
 <div class="question" data-qid="T6Q10">
 
 ## Question 104/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Noël Approche** ! <br>Pour que vos **colis** arrivent **avant les fêtes**, nous vous **proposons** de les **transporter** **en mode express**. **Renseignez-vous auprès de** nos conseillers ou **rendez-vous** directamente au **guichet**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À quoi sert ce service?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Noël Approche** ! <br>Pour que vos colis arrivent avant les fêtes, nous vous proposons de les transporter en mode express. Renseignez-vous auprès de nos conseillers ou rendez-vous directement au guichet.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À quoi sert ce service?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T6 $\boxed{Q10}$ À quoi sert ce service?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **colis** [kɔli] - 包裹 - **envoyer un colis** - 寄包裹
-> &nbsp;- **proposer** [propoze] - 建议/提供 - **proposer une solution** - 提供解决方案
-> &nbsp;- **transporter** [trãspɔrte] - 运输 - **transporter des bagages** - 运输行李
-> &nbsp;- **guichet** [giʃɛ] - 窗口/柜台 - **retirer un billet au guichet** - 在窗口取票
->
-> **常见短语**
-> &nbsp;- **avant les fêtes** - 节日之前 - **les achats avant les fêtes** - 节前购物
-> &nbsp;- **en mode express** - 以快递模式 - **un envoi en mode express** - 快递发送
-> &nbsp;- **se renseigner auprès de** - 向...咨询 - **se renseigner auprès du personnel** - 向工作人员咨询
-> &nbsp;- **se rendre** - 前往 - **se rendre à l'adresse indiquée** - 前往指定地址
->
 
 圣诞节快到了！为了确保您的包裹能在节日前送达，我们为您提供快递运输服务。请咨询我们的客服或直接前往柜台办理。
 
@@ -5222,31 +3747,16 @@ D. À réserver des billets
 ---
 </div><span class="q-end" data-qid="T6Q10"></span>
 
+
 <div class="question" data-qid="T7Q6">
 
 ## Question 105/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le restaurant « L'Esquinade » a **réussi son pari** : **Introduire** l'atmosphère espagnole dans ses plats. Si vous voulez **gouter à** l'Espagne **contemporaine** pour votre **pause déjeuner** cet **endroit** est pour vous ! Tapas, cœurs de canard, jambon serrano et foie gras s'y rencontrent dans une **ambiance chaleureuse**, nous faisant voyager entre le sud-ouest de la France et l'Espagne.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce restaurant?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Le restaurant « L'Esquinade » a réussi son pari : Introduire l'atmosphère espagnole dans ses plats. Si vous voulez gouter à l'Espagne contemporaine pour votre pause déjeuner cet endroit est pour vous ! Tapas, cœurs de canard, jambon serrano et foie gras s'y rencontrent dans une ambiance chaleureuse, nous faisant voyager entre le sud-ouest de la France et l'Espagne.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose ce restaurant?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T7 $\boxed{Q6}$ Que propose ce restaurant?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **pari** [pa.ri] - 挑战，赌注 - **relever un pari** - 接受挑战
-> &nbsp;- **introduire** [ɛ̃.t r o.dɥi r] - 引入，采用 - **introduire un changement** - 引入改变
-> &nbsp;- **contemporaine** [kɔ̃.tɑ̃.p o.r ɛn] - 当代的 - **art contemporain** - 当代艺术
-> &nbsp;- **endroit** [ɑ̃.d r wa] - 地方，地点 - **un endroit calme** - 一个安静的地方
-> &nbsp;- **ambiance** [ɑ̃.bjɑ̃s] - 氛围，气氛 - **ambiance de fête** - 节日气氛
->
-> **常见短语**
-> &nbsp;- **réussir son pari** - 挑战成功 - **réussir son pari risqué** - 成功完成冒险的挑战
-> &nbsp;- **gouter à** - 品尝，体验 - **gouter à la cuisine locale** - 品尝当地美食
-> &nbsp;- **pause déjeuner** - 午休时间 - **pendant la pause déjeuner** - 在午饭休息期间
-> &nbsp;- **ambiance chaleureuse** - 温馨的氛围 - **créer une ambiance chaleureuse** - 营造温馨氛围
->
 
 “L’Esquinade” 餐厅实现了它的目标：将西班牙氛围融入菜肴。如果你想在午餐时间品尝现代西班牙的味道，这里就是你的最佳选择！餐厅提供西班牙小吃、鸭心、塞拉诺火腿和鹅肝，营造出温暖的氛围，让我们仿佛穿越于法国西南部与西班牙之间。
 
@@ -5273,30 +3783,16 @@ C. De gagner un voyage à la fin du repas
 ---
 </div><span class="q-end" data-qid="T7Q6"></span>
 
+
 <div class="question" data-qid="T7Q8">
 
 ## Question 106/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour **fêter** la **retraite** de Jean-Louis après 15 ans dans l'**entreprise**, nous vous **proposons de** nous **retrouver** **autour d'un verre** à 18 heures en salle 6.</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que célèbre-t-on ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Pour fêter la retraite de Jean-Louis après 15 ans dans l'entreprise, nous vous proposons de nous retrouver autour d'un verre à 18 heures en salle 6. </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que célèbre-t-on ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T7 $\boxed{Q8}$ Que célèbre-t-on ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **fêter** [fete] - 庆祝 - **fêter un anniversaire** - 庆祝生日
-> &nbsp;- **retraite** [rətrεt] - 退休 - **prendre sa retraite** - 退休
-> &nbsp;- **entreprise** [ɑ̃trəpriz] - 企业，公司 - **chef d'entreprise** - 企业负责人
-> &nbsp;- **proposer** [prɔpoze] - 提议 - **proposer une solution** - 提出解决方案
-> &nbsp;- **retrouver** [rətruve] - 找到，（在约定地点）会合 - **se retrouver** - 碰头
->
-> **常见短语**
-> &nbsp;- **proposer de** - 提议做某事 - **proposer de partir** - 提议出发
-> &nbsp;- **se retrouver** - 见面，集合 - **se retrouver à la gare** - 在火车站见
-> &nbsp;- **autour d'un verre** - 喝一杯，聚一聚 - **discuter autour d'un verre** - 边喝边聊
->
 
 为了庆祝 Jean-Louis 退休（他在公司工作了 15 年）， 我们邀请大家 18 点在 6 号会议室共饮一杯。
 
@@ -5323,30 +3819,16 @@ D. Les résultats de l'équipe
 ---
 </div><span class="q-end" data-qid="T7Q8"></span>
 
+
 <div class="question" data-qid="T7Q9">
 
 ## Question 107/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Studio Céline** <br>L'école de danse « Studio Céline » **ouvre ses portes** au **public** le 16 septembre. <br>C'EST **GRATUIT**: venez **essayer** nos cours **toute la journée**. **Au programme**: salsa, tango, danse moderne et un **goûter** (boissons et gâteaux)!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette école de danse propose?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Studio Céline** <br>L'école de danse « Studio Céline » ouvre ses portes au public le 16 septembre. <br>C'EST GRATUIT: venez essayer nos cours toute la journée. Au programme: salsa, tango, danse moderne et un goûter (boissons et gâteaux)!</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'est-ce que cette école de danse propose?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T7 $\boxed{Q9}$ Qu'est-ce que cette école de danse propose?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **ouvrir** [uvrir] - 打开，开办 - **ouvrir un compte** - 开立账户
-> &nbsp;- **public** [pyblik] - 公众，观众 - **au grand public** - 向大众
-> &nbsp;- **gratuit** [gratɥi] - 免费的 - **entrée gratuite** - 免费入场
-> &nbsp;- **essayer** [eseje] - 尝试，试验 - **essayer un vêtement** - 试衣服
-> &nbsp;- **goûter** [gute] - 下午茶，点心 - **prendre le goûter** - 吃点心
->
-> **常见短语**
-> &nbsp;- **ouvrir ses portes** - 开门，对外开放 - **le musée ouvre ses portes** - 博物馆对外开放
-> &nbsp;- **toute la journée** - 整天，一整天 - **travailler toute la journée** - 工作一整天
-> &nbsp;- **au programme** - 在计划中，在日程上 - **qu'est-ce qu'il y a au programme ?** - 节目单上有什么？
->
 
 赛琳工作室 舞蹈学校“赛琳工作室”将于9月16日向公众开放。 **免费：**全天体验我们的课程。活动包括：萨尔萨舞、探戈、现代舞以及下午茶（饮品和点心）！
 
@@ -5373,29 +3855,16 @@ D. De voir un spectacle
 ---
 </div><span class="q-end" data-qid="T7Q9"></span>
 
+
 <div class="question" data-qid="T8Q5">
 
 ## Question 108/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Sophie**, <br>**Rendez-vous** **vers midi** **en face du** **cinéma** pour **choisir** un **bijou** pour Marie. <br/><br/>**Nadia**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que vont faire Sophie et Nadia à midi?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Sophie**, <br>Rendez-vous vers midi en face du cinéma pour choisir un bijou pour Marie. <br/><br/>**Nadia**.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que vont faire Sophie et Nadia à midi?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T8 $\boxed{Q5}$ Que vont faire Sophie et Nadia à midi?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **midi** [midi] - 中午 - **à midi** - 在中午
-> &nbsp;- **cinéma** [sinema] - 电影院 - **aller au cinéma** - 去看电影
-> &nbsp;- **choisir** [ʃwazir] - 选择 - **choisir de faire quelque chose** - 选择做某事
-> &nbsp;- **bijou** [biʒu] - 珠宝，首饰 - **un bijou en argent** - 一件银饰
->
-> **常见短语**
-> &nbsp;- **rendez-vous** - 约会，见面 - **prendre rendez-vous** - 预约/约时间
-> &nbsp;- **vers midi** - 中午左右 - **arriver vers midi** - 中午左右到达
-> &nbsp;- **en face de** - 在...对面 - **en face de la gare** - 在车站对面
->
 
 索菲， 中午在电影院对面见面，一起为玛丽挑选一件首饰。 ——娜迪娅
 
@@ -5422,29 +3891,16 @@ D. Rencontrer une amie
 ---
 </div><span class="q-end" data-qid="T8Q5"></span>
 
+
 <div class="question" data-qid="T8Q7">
 
 ## Question 109/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Monsieur et Madame Mroussi** <br/>Monsieur l'Ambassadeur de France **a le plaisir de** vous **inviter** à diner qu'il donnera en sa **résidence**, le jeudi 14 juillet à 20 heures **à l'occasion de** la fête nationale. **Tenue de soirée** **exigée**. <br>Réponse: sécrétariat-ambafrancea@gmail.com</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À quoi sont conviés Madame et Monsieur Mroussi?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Monsieur et Madame Mroussi** <br/>Monsieur l'Ambassadeur de France a le plaisir de vous inviter à diner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 heures à l'occasion de la fête nationale. Tenue de soirée exigée. <br>Réponse: sécrétariat-ambafrancea@gmail.com </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À quoi sont conviés Madame et Monsieur Mroussi?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T8 $\boxed{Q7}$ À quoi sont conviés Madame et Monsieur Mroussi?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **ambassadeur** [ɑ̃basadœr] - 大使 - **Monsieur l'Ambassadeur** - 大使阁下
-> &nbsp;- **inviter** [ɛ̃vite] - 邀请 - **inviter quelqu'un à dîner** - 邀请某人吃晚饭
-> &nbsp;- **résidence** [rezidɑ̃s] - 官邸，住所 - **résidence officielle** - 官方居所
-> &nbsp;- **exiger** [ɛɡziʒe] - 要求，强制 - **exiger le respect** - 要求尊重
->
-> **常见短语**
-> &nbsp;- **avoir le plaisir de** - 很荣幸/很高兴做某事 - **avoir le plaisir de vous informer** - 很高兴通知您
-> &nbsp;- **à l'occasion de** - 值此...之际 - **à l'occasion du nouvel an** - 在新年之际
-> &nbsp;- **tenue de soirée** - 晚礼服，正装 - **porter une tenue de soirée** - 穿晚装
->
 
 Mroussi 夫人和先生， 法国大使很高兴邀请您参加于7月14日（星期四）20点在其官邸举办的晚宴，以庆祝国庆节。 要求正装出席。 回复：secretariat-amb-france@gmail.com
 
@@ -5471,31 +3927,16 @@ D. À une soirée dansante
 ---
 </div><span class="q-end" data-qid="T8Q7"></span>
 
+
 <div class="question" data-qid="T8Q8">
 
 ## Question 110/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**GRANDE MARCHE POUR** <br/>**DÉFENDRE NOS EMPLOIS** <br/>**MARDI 12 JUIN** <br/>**VENEZ NOMBREUX** <br/>**DÉPART** PLACE DES NATIONS **DEVANT LE** CENTRE DES CONGRES **À** 10H. <br/>**ARRIVÉE PRÉVUE** VERS MIDI **DEVANT LA** MAISON DES <br/>**ENTREPRISES**. <br/>BOULEVARD DES PLATANES.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'annonce cette affiche?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**GRANDE MARCHE POUR** <br/>**DEFENDRE NOS EMPLOIS** <br/>**MARDI 12 JUIN** <br/>**VENEZ NOMBREUX** <br/>DÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRES À 10H. <br/>ARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES <br/>ENTREPRISES. <br/>BOULEVARD DES PLATANES.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Qu'annonce cette affiche?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T8 $\boxed{Q8}$ Qu'annonce cette affiche?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **marche** [marʃ] - 游行，步行 - **faire une marche** - 进行游行
-> &nbsp;- **défendre** [defɑ̃dr] - 捍卫，保护 - **défendre ses intérêts** - 捍卫自身利益
-> &nbsp;- **emploi** [ɑ̃plwa] - 职位，工作 - **chercher un emploi** - 找工作
-> &nbsp;- **nombreux** [nɔ̃brø] - 许多的，众多的 - **être nombreux à** - 许多人（共同做某事）
-> &nbsp;- **entreprise** [ɑ̃trəpriz] - 企业，公司 - **chef d'entreprise** - 企业负责人
->
-> **常见短语**
-> &nbsp;- **venez nombreux** - 请踊跃参加 - **venez nombreux à la fête** - 请踊跃参加聚会
-> &nbsp;- **départ à** - 在...（时间）出发 - **départ à 10h** - 10点出发
-> &nbsp;- **arrivée prévue** - 预计到达 - **arrivée prévue demain** - 预计明天到达
-> &nbsp;- **devant le/la** - 在...之前（方位） - **devant la mairie** - 在市政厅前面
->
 
 保卫我们工作的游行活动 6月12日星期二 欢迎大家积极参加！ 出发地点：Nations 广场，会议中心门口，上午10点。 预计到达时间：中午12点，企业之家，Platanes 大道。
 
@@ -5522,31 +3963,16 @@ C. Une conférence sur le chômage
 ---
 </div><span class="q-end" data-qid="T8Q8"></span>
 
+
 <div class="question" data-qid="T8Q9">
 
 ## Question 111/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous **venez d'arriver** à Lyon pour **suivre des cours** à l'université, mais vous ne connaissez pas la **ville**? **Profitez des** **conseils** de Clémence, **lyonnaise**, qui vous donne ses **adresses** pour diner ou **faire la fête** le soir. <br>**Lesconseilsdeclémence-lyon.fr**</span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peut-on faire dans les endroits que propose Clémence ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">Vous venez d'arriver à Lyon pour suivre des cours à l'université, mais vous ne connaissez pas la ville? Profitez des conseils de Clémence, lyonnaise, qui vous donne ses adresses pour diner ou faire la fête le soir. <br>**Lesconseilsdeclémence-lyon.fr** </span><br/><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que peut-on faire dans les endroits que propose Clémence ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T8 $\boxed{Q9}$ Que peut-on faire dans les endroits que propose Clémence ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **conseil** [kɔ̃sɛj] - 建议，忠告 - **donner des conseils** - 给予建议
-> &nbsp;- **adresse** [adrɛs] - 地址，（推荐的）好去处 - **bonnes adresses** - 值得推荐的地方
-> &nbsp;- **lyonnais** [ljɔnɛ] - 里昂的，里昂人 - **la vie lyonnaise** - 里昂的生活
-> &nbsp;- **ville** [vil] - 城市 - **en ville** - 在城里
-> &nbsp;- **cours** [kur] - 课程 - **suivre un cours** - 上一门课
->
-> **常见短语**
-> &nbsp;- **venir de** - 刚刚（表示最近过去时） - **venir d'arriver** - 刚到达
-> &nbsp;- **suivre des cours** - 听课，上课 - **suivre des cours à l'université** - 在大学听课
-> &nbsp;- **profiter de** - 利用，享受 - **profiter des vacances** - 享受假期
-> &nbsp;- **faire la fête** - 聚会，狂欢 - **faire la fête le soir** - 晚上聚会
->
 
 您刚到里昂上大学课程，但您对这座城市不熟悉吗？利用克莱芒斯（里昂本地人）的建议，她为您提供了可以吃晚餐或晚上娱乐的地址。 Lesconseilsdeclemence-lyon.fr
 
@@ -5573,30 +3999,16 @@ D. Se promener
 ---
 </div><span class="q-end" data-qid="T8Q9"></span>
 
+
 <div class="question" data-qid="T9Q6">
 
 ## Question 112/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Nouveau** ! <br>Le **centre** culturel **met à la disposition de** ses élèves un service de **petites annonces** pour trouver un travail **temporaire** (**garde d'enfants**, **cours de langue**...).</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui ce service est-il utile ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Nouveau** ! <br>Le centre culturel met à la disposition de ses élèves un service de petites annonces pour trouver un travail temporaire (garde d'enfants, cours de langue...).</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 À qui ce service est-il utile ?</span></span> |
 | ------------------------------------------------------------ |
 
 **<span class="fr-question-in-content">📑T9 $\boxed{Q6}$ À qui ce service est-il utile ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **disposition** [dispɔzisjɔ̃] - 支配，处理 - **être à la disposition de** - 听候...调遣
-> &nbsp;- **temporaire** [tɑ̃pɔrɛr] - 临时的，暂时的 - **un travail temporaire** - 一份临时工作
-> &nbsp;- **annonce** [anɔ̃s] - 公告，通知 - **passer une annonce** - 刊登广告
-> &nbsp;- **centre** [sɑ̃tr] - 中心 - **centre-ville** - 市中心
->
-> **常见短语**
-> &nbsp;- **mettre à la disposition de** - 供...使用，交给...处理 - **mettre un véhicule à la disposition de l'équipe** - 供团队使用一辆车
-> &nbsp;- **petites annonces** - (报刊等的)分类广告，小广告 - **consulter les petites annonces** - 查看分类广告
-> &nbsp;- **garde d'enfants** - 照看孩子，看护儿童 - **un service de garde d'enfants** - 育儿服务
-> &nbsp;- **cours de langue** - 语言课程 - **s'inscrire à des cours de langue** - 报名参加语言课
->
 
 新消息！ 文化中心为其学生提供一项小广告服务，用于寻找临时工作（例如，照顾孩子、语言课程等）。
 
@@ -5623,29 +4035,16 @@ D. Aux professeurs
 ---
 </div><span class="q-end" data-qid="T9Q6"></span>
 
+
 <div class="question" data-qid="T9Q8">
 
 ## Question 113/113
 
 <div class="tcf-mini-player" style="width:100%;"><div style="display:flex;align-items:center;width:100%;"><select class="tcf-rate" style="font-size:11px;vertical-align:middle;"><option value="0.8">0.8x</option><option value="0.9">0.9x</option><option value="1.0" selected>1.0x</option><option value="1.1">1.1x</option><option value="1.2">1.2x</option></select><select class="tcf-voice" style="display:none;"><option value="fr-FR-Wavenet-B" selected>男声</option></select><span style="font-size:11px;vertical-align:middle;margin-left:5px;flex-shrink:0;">播放语音</span><button data-state="paused" style="cursor:pointer;background:none;border:none;vertical-align:middle;padding:0 2px;font-size:16px;flex-shrink:0;" onclick="const p=this.closest('.tcf-mini-player');const t=this.closest('.question').querySelector('.fr-Question').innerText;window.postMessage({type:'PLAY_TCF_GCP',text:t,rate:parseFloat(p.querySelector('.tcf-rate').value),voice:p.querySelector('.tcf-voice').value},'*');if(this.getAttribute('data-state')==='paused'){this.innerHTML='⏸️🔊';this.setAttribute('data-state','playing');}else{this.innerHTML='▶️🔊';this.setAttribute('data-state','paused');}">▶️🔊</button><input type="range" class="tcf-progress" value="0" step="0.1" style="flex-grow:1;height:4px;cursor:pointer;accent-color:#5d8a66;margin:0 10px;vertical-align:middle;"><span class="tcf-time" style="font-size:10px;font-family:monospace;color:#666;flex-shrink:0;margin-right:5px;">00:00</span></div></div>
-| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Tarif exceptionnel réservé aux lecteurs du direct Montpellier** <br>**Week-end du goût** ! <br/>Offrez-vous une nuit avec diner + petit-déjeuner pour 70 €. <br/>Important **lors de** votre **réservation**, utilisez le **code de promotion** « DIRECT » pour **bénéficier** de cette offre.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose cette publicité ?</span></span> |
+| <span class="fr-Question"><span class="fr-content" style="font-weight: normal !important; color: #333;">**Tarif exceptionnel réservé aux lecteurs du direct Montpellier** <br>**Week-end du goût** ! <br/>Offrez-vous une nuit avec diner + petit-déjeuner pour 70 €. <br/>Important lors de votre réservation, utilisez le code de promotion « DIRECT » pour bénéficier de cette offre.</span><br><span class="fr-ask" style="font-weight: bold; color: #000080;">📌 Que propose cette publicité ?</span></span> |
 | :----------------------------------------------------------: |
 
 **<span class="fr-question-in-content">📑T9 $\boxed{Q8}$ Que propose cette publicité ?</span>**
-
-> **✨ TCF 考点笔记**
->
-> **核心词汇**
-> &nbsp;- **tarif** [tarif] - 价格，费率 - **tarif réduit** - 优惠价
-> &nbsp;- **exceptionnel** [εksεpsjɔnεl] - 特别的，非凡的 - **offre exceptionnelle** - 特别优惠
-> &nbsp;- **réservation** [rezεrvasjɔ̃] - 预订 - **confirmer la réservation** - 确认预订
-> &nbsp;- **bénéficier** [benefisje] - 享受，获益 - **bénéficier d'une réduction** - 享受折扣
->
-> **常见短语**
-> &nbsp;- **réservé aux** - 仅限...，专供... - **réservé aux abonnés** - 仅限订阅者
-> &nbsp;- **lors de** - 在...期间，在...时 - **lors de l'inscription** - 注册时
-> &nbsp;- **code de promotion** - 促销代码，优惠码 - **utiliser un code de promotion** - 使用优惠码
->
 
 蒙彼利埃读者专属特别优惠 美食周末！ 仅需70欧元即可享受一晚住宿（含晚餐+早餐）。 重要：预订时使用促销代码 « DIRECT »，以享受此优惠。
 
