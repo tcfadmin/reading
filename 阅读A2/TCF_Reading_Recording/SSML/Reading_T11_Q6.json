@@ -1,9 +1,8 @@
 {
-  "text": "Sophie,\nViens Piens me chercher au stade à 16, après mon match de foot. J'ai fini mes devoirs, on peut aller au cinéma.\n\nMarc Que fait Marc jusqu'à 16h?",
+  "text": "Sophie,\nViens me chercher au stade à 16, après mon match de foot. J'ai fini mes devoirs, on peut aller au cinéma.\n\nMarc Que fait Marc jusqu'à 16h?",
   "words": [
     "Sophie,",
     "Viens",
-    "Piens",
     "me",
     "chercher",
     "au",
@@ -38,115 +37,111 @@
     },
     {
       "markName": "1",
-      "timeSeconds": 0.7302500009536743
+      "timeSeconds": 0.7398750185966492
     },
     {
       "markName": "2",
-      "timeSeconds": 1.0052499771118164
+      "timeSeconds": 0.9744166135787964
     },
     {
       "markName": "3",
-      "timeSeconds": 1.2502501010894775
+      "timeSeconds": 1.0844166278839111
     },
     {
       "markName": "4",
-      "timeSeconds": 1.3602501153945923
+      "timeSeconds": 1.5304163694381714
     },
     {
       "markName": "5",
-      "timeSeconds": 1.7956666946411133
+      "timeSeconds": 1.634041428565979
     },
     {
       "markName": "6",
-      "timeSeconds": 1.8856667280197144
+      "timeSeconds": 2.0074996948242188
     },
     {
       "markName": "7",
-      "timeSeconds": 2.2222917079925537
+      "timeSeconds": 2.0774996280670166
     },
     {
       "markName": "8",
-      "timeSeconds": 2.2972917556762695
+      "timeSeconds": 2.7024996280670166
     },
     {
       "markName": "9",
-      "timeSeconds": 2.8525004386901855
+      "timeSeconds": 2.9923746585845947
     },
     {
       "markName": "10",
-      "timeSeconds": 3.1277506351470947
+      "timeSeconds": 3.167499542236328
     },
     {
       "markName": "11",
-      "timeSeconds": 3.2827506065368652
+      "timeSeconds": 3.487499713897705
     },
     {
       "markName": "12",
-      "timeSeconds": 3.587167263031006
+      "timeSeconds": 3.587916612625122
     },
     {
       "markName": "13",
-      "timeSeconds": 3.687167167663574
+      "timeSeconds": 4.9061665534973145
     },
     {
       "markName": "14",
-      "timeSeconds": 4.8752923011779785
+      "timeSeconds": 5.061166763305664
     },
     {
       "markName": "15",
-      "timeSeconds": 5.030292510986328
+      "timeSeconds": 5.386250019073486
     },
     {
       "markName": "16",
-      "timeSeconds": 5.331375598907471
+      "timeSeconds": 5.526249885559082
     },
     {
       "markName": "17",
-      "timeSeconds": 5.461375713348389
+      "timeSeconds": 6.2876667976379395
     },
     {
       "markName": "18",
-      "timeSeconds": 6.22283411026001
+      "timeSeconds": 6.38266658782959
     },
     {
       "markName": "19",
-      "timeSeconds": 6.322834014892578
+      "timeSeconds": 6.535208702087402
     },
     {
       "markName": "20",
-      "timeSeconds": 6.453709125518799
+      "timeSeconds": 6.725208282470703
     },
     {
       "markName": "21",
-      "timeSeconds": 6.6687092781066895
+      "timeSeconds": 6.815208435058594
     },
     {
       "markName": "22",
-      "timeSeconds": 6.748709201812744
+      "timeSeconds": 7.774166584014893
     },
     {
       "markName": "23",
-      "timeSeconds": 7.665292263031006
+      "timeSeconds": 8.074166297912598
     },
     {
       "markName": "24",
-      "timeSeconds": 7.9452924728393555
+      "timeSeconds": 8.21108341217041
     },
     {
       "markName": "25",
-      "timeSeconds": 8.07954216003418
+      "timeSeconds": 8.381083488464355
     },
     {
       "markName": "26",
-      "timeSeconds": 8.244542121887207
+      "timeSeconds": 8.726208686828613
     },
     {
       "markName": "27",
-      "timeSeconds": 8.54554271697998
-    },
-    {
-      "markName": "28",
-      "timeSeconds": 8.870708465576172
+      "timeSeconds": 9.086333274841309
     }
   ]
 }
