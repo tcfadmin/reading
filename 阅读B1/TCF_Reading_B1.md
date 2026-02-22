@@ -26,10 +26,10 @@
 > &nbsp;- **informer** [ɛ̃fɔrme] - 通知，告知 - **informer le public** - 告知公众
 >
 > **常见短语**
-> &nbsp;- **faire connaître** - 使...为人所知
-> &nbsp;- **mettre une annonce** - 刊登广告
-> &nbsp;- **site Internet** - 网站
-> &nbsp;- **informer sur** - 告知关于...的信息
+> &nbsp;- **faire connaître** - 使...为人所知 - **faire connaître un produit** - 推广产品
+> &nbsp;- **mettre une annonce** - 刊登广告 - **mettre une annonce dans le journal** - 在报纸上刊登广告
+> &nbsp;- **site Internet** - 网站 - **consulter un site internet** - 查询网站
+> &nbsp;- **informer sur** - 告知关于...的信息 - **informer sur les tarifs** - 告知有关价格的信息
 >
 
 您想让您的企业被更多人知道吗？我们提供超低价格，在我们的网站上发布广告。将您的文案发送给我们，我们会联系您提供报价信息。
@@ -79,10 +79,10 @@ C. Une formation sur Internet
 > &nbsp;- **mobilier** [mɔbilje] - 家具 - **le mobilier de bureau** - 办公家具
 >
 > **常见短语**
-> &nbsp;- **afin de** - 为了
-> &nbsp;- **permettre à** - 允许，使能够
-> &nbsp;- **offrir un verre** - 请喝一杯
-> &nbsp;- **en fonction de** - 根据，取决于
+> &nbsp;- **afin de** - 为了 - **afin de réussir** - 为了成功
+> &nbsp;- **permettre à** - 允许，使能够 - **permettre à quelqu'un de faire** - 允许某人做某事
+> &nbsp;- **offrir un verre** - 请喝一杯 - **offrir un verre à un ami** - 请朋友喝一杯
+> &nbsp;- **en fonction de** - 根据，取决于 - **en fonction de la situation** - 根据情况
 >
 
 巴黎的风琴书店筹集了9000欧元，用于资助搬迁。这一意想不到的成果使书店得以扩展。 在开幕式上，书店为慷慨的捐赠者提供了一杯饮品。根据捐款金额，他们可以选择一本书，或者获得“黄金顾客”称号，其名字会刻在书店的家具上。
@@ -132,9 +132,9 @@ C. Pour ouvrir un salon de thé littéraire
 > &nbsp;- **rapidement** [rapidmã] - 快速地 - **agir rapidement** - 迅速行动
 >
 > **常见短语**
-> &nbsp;- **ne... pas** - 不/没有（否定结构）
-> &nbsp;- **pourriez-vous** - 您可以...吗（委婉请求语气）
-> &nbsp;- **s'il vous plaît** - 请
+> &nbsp;- **ne... pas** - 不/没有（否定结构） - **ne mange pas** - 不吃
+> &nbsp;- **pourriez-vous** - 您可以...吗（委婉请求语气） - **pourriez-vous m'aider** - 您可以帮我吗
+> &nbsp;- **s'il vous plaît** - 请 - **un café, s'il vous plaît** - 请给我一杯咖啡
 >
 
 尊敬的 Guilbert 女士， 我办公室的打印机无法使用。 我的会诊明天下午 14 点开始。 您能否尽快订购纸张和墨水？ 谢谢！ Philippe 医生
@@ -185,10 +185,10 @@ D. Noter un rendez-vous
 > &nbsp;- **occasionner** [ɔkazjɔne] - 引起/产生 - **occasionner des dégâts** - 造成损坏
 >
 > **常见短语**
-> &nbsp;- **sans nouvelle** - 没有消息
-> &nbsp;- **à cause d'** - 因为/由于
-> &nbsp;- **se rendre à** - 前往某地
-> &nbsp;- **frais occasionnés** - 产生的费用
+> &nbsp;- **sans nouvelle** - 没有消息 - **être sans nouvelle de lui** - 没有他的消息
+> &nbsp;- **à cause d'** - 因为/由于 - **à cause d'un retard** - 因为耽搁
+> &nbsp;- **se rendre à** - 前往某地 - **se rendre à un rendez-vous** - 前往赴约
+> &nbsp;- **frais occasionnés** - 产生的费用 - **rembourser les frais occasionnés** - 报销产生的费用
 >
 
 亲爱的Paul： 很抱歉一直没能和你联系。我本打算从非斯给你写信，但我们的旅行并没有按预期进行。 由于我们旅游线路中的技术问题，我们在丹吉尔多停留了三晚。 我们还取消了今天与卡萨布兰卡客户的预约，因为我们不得不前往马拉喀什处理因事故产生的费用。我们明天将返回巴黎。 此致， Mathilde
@@ -237,10 +237,10 @@ D. Tanger
 > &nbsp;- **condition** [kɔ̃disjɔ̃] - 条件，状况 - **être en bonne condition** - 身体状态良好
 >
 > **常见短语**
-> &nbsp;- **faire partager** - 让他人分享
-> &nbsp;- **ouvert à tous** - 向所有人开放
-> &nbsp;- **prendre part** - 参加，参与
-> &nbsp;- **sens de l'observation** - 观察力
+> &nbsp;- **faire partager** - 让他人分享 - **faire partager sa passion** - 分享某人的热情
+> &nbsp;- **ouvert à tous** - 向所有人开放 - **un événement ouvert à tous** - 对所有人开放的活动
+> &nbsp;- **prendre part** - 参加，参与 - **prendre part à une réunion** - 参加会议
+> &nbsp;- **sens de l'observation** - 观察力 - **avoir le sens de l'observation** - 具有观察力
 >
 
 Olivier Pollet，Escursia 公司的联合创始人，希望发展科学旅游。 科学旅游是一种让游客在旅行中探索和学习自然、动植物的方式， 通常包括徒步旅行或由专业科学向导带领的远足。 这些向导希望分享他们的知识，让游客在旅行中获得科学见解。 这种旅游适合所有人，并不需要良好的身体素质， 只需要一点好奇心和敏锐的观察力。
@@ -289,9 +289,9 @@ D. Il s'adresse à des spécialistes passionnés
 > &nbsp;- **riverain** [rivrɛ̃] - 邻近居民，沿岸居民 - **les riverains de l'aéroport** - 机场周边的居民
 >
 > **常见短语**
-> &nbsp;- **lancer une campagne** - 发起一场活动
-> &nbsp;- **afin de** - 为了
-> &nbsp;- **se refaire une santé** - 恢复健康
+> &nbsp;- **lancer une campagne** - 发起一场活动 - **lancer une campagne publicitaire** - 发起广告宣传活动
+> &nbsp;- **afin de** - 为了 - **afin de progresser** - 为了进步
+> &nbsp;- **se refaire une santé** - 恢复健康 - **partir à la montagne pour se refaire une santé** - 去山上调养身体
 >
 
 奥利机场（Orly）的护林员发起了一项捕捉机场野兔的行动， 并将它们迁移到法国南部，因为该地区的动植物在去年夏天的大火中遭到严重破坏。 因此，这些在飞机燃油环境中生长的野兔， 现在将在普罗旺斯的迷迭香和百里香丛中恢复健康。 有些当地居民甚至羡慕这些兔子能过上这样新的生活！
@@ -340,10 +340,10 @@ D. On les a soignés et relâchés
 > &nbsp;- **filière** [filjɛr] - 专业，学科门类 - **filière universitaire** - 大学专业
 >
 > **常见短语**
-> &nbsp;- **démontrés par les faits** - 被事实证明
-> &nbsp;- **du côté de** - 在...方面，关于...
-> &nbsp;- **ce qui est le cas** - 情况正是如此
-> &nbsp;- **la plupart de** - 大多数，大部分
+> &nbsp;- **démontrés par les faits** - 被事实证明 - **des résultats démontrés par les faits** - 被事实证明的结果
+> &nbsp;- **du côté de** - 在...方面，关于... - **du côté de la gare** - 在火车站那边
+> &nbsp;- **ce qui est le cas** - 情况正是如此 - **c'est souvent le cas** - 经常是这种情况
+> &nbsp;- **la plupart de** - 大多数，大部分 - **la plupart des gens** - 大多数人
 >
 
 选择瑞士进行部分或全部学业有很多优势，这些优势都通过事实得到了证明。包括生活质量、教育质量（尽管学费通常较高）、地理位置以及国家的国际开放性……至于缺点，值得注意的是，并非所有专业和课程都在瑞士开设，这在大多数小国家中都是如此。
@@ -393,11 +393,11 @@ C. Le prix des études est peu élevé
 > &nbsp;- **reconnaissance** [rəkɔnɛsãs] - 认可，承认 - **manque de reconnaissance** - 缺乏认可
 >
 > **常见短语**
-> &nbsp;- **en voie de** - 处于...过程中，趋于...
-> &nbsp;- **se tromper** - 搞错，犯错
-> &nbsp;- **au contraire** - 相反地
-> &nbsp;- **avoir tendance à** - 有...的趋势，倾向于
-> &nbsp;- **au profit de** - 有利于，为了...的利益
+> &nbsp;- **en voie de** - 处于...过程中，趋于... - **en voie de disparition** - 濒临灭绝
+> &nbsp;- **se tromper** - 搞错，犯错 - **se tromper de numéro** - 拨错电话号码
+> &nbsp;- **au contraire** - 相反地 - **dire le contraire** - 说反话
+> &nbsp;- **avoir tendance à** - 有...的趋势，倾向于 - **avoir tendance à oublier** - 容易忘记
+> &nbsp;- **au profit de** - 有利于，为了...的利益 - **agir au profit de la société** - 为了公司的利益而行动
 >
 
 人们曾认为秘书这个职业即将消失， 然而，过去 20 年里，秘书的数量反而翻了一番。 那些认为计算机会取代秘书的人错了。 相反，秘书的需求比以往任何时候都高。 传统的秘书工作正在减少，取而代之的是新的职责。 秘书们不再仅仅服务于某一个人，而是支持整个团队。 尽管她们的角色越来越重要，但仍然缺乏认可。
@@ -448,11 +448,11 @@ D. Les tâches sont limitées
 > &nbsp;- **voisin** [vwazɛ̃] - 邻居/邻近的 - **pays voisin** - 邻国
 >
 > **常见短语**
-> &nbsp;- **à la première place** - 位居第一/首位
-> &nbsp;- **être concerné par** - 与...有关/受...涉及
-> &nbsp;- **secteurs d'activité** - 活动领域/行业
-> &nbsp;- **faire face à** - 面对/直面
-> &nbsp;- **montée en puissance** - 崛起/实力提升
+> &nbsp;- **à la première place** - 位居第一/首位 - **arriver à la première place** - 获得第一名
+> &nbsp;- **être concerné par** - 与...有关/受...涉及 - **être concerné par la pollution** - 涉及污染问题
+> &nbsp;- **secteurs d'activité** - 活动领域/行业 - **les différents secteurs d'activité** - 不同的行业领域
+> &nbsp;- **faire face à** - 面对/直面 - **faire face à une crise** - 面对危机
+> &nbsp;- **montée en puissance** - 崛起/实力提升 - **la montée en puissance de l'entreprise** - 企业的崛起
 >
 
 英语在20世纪成为国际语言之首。几乎一半的人类使用这种语言，因为它在许多活动领域中几乎是必需的。然而，这种状况是有限的，英语将不得不面对未来几年其他语言的崛起。原因是新兴大国经济和工业的崛起，以及地区和邻国之间交流的发展。
@@ -502,10 +502,10 @@ D. Elle va provoquer la disparition de langues minoritaires
 > &nbsp;- **diner** [dine] - 晚餐 - **prendre le diner** - 吃晚餐
 >
 > **常见短语**
-> &nbsp;- **ce soir** - 今晚
-> &nbsp;- **rentrer tard** - 回家晚
-> &nbsp;- **peux-tu** - 你能...吗（用于非正式询问）
-> &nbsp;- **du pain** - 一些面包（du 为部分冠词）
+> &nbsp;- **ce soir** - 今晚 - **sortir ce soir** - 今晚出去
+> &nbsp;- **rentrer tard** - 回家晚 - **rentrer tard du travail** - 下班回家晚
+> &nbsp;- **peux-tu** - 你能...吗（用于非正式询问） - **peux-tu m'appeler** - 你能给我打电话吗
+> &nbsp;- **du pain** - 一些面包（du 为部分冠词） - **acheter du pain** - 买面包
 >
 
 Pierre， 今晚我会很晚回家。 你能帮忙买些面包和奶酪作为晚餐吗？ Anne
@@ -554,9 +554,9 @@ D. Se coucher tôt.
 > &nbsp;- **concentration** [kɔ̃sãtrasjɔ̃] - 专心，集中 - **manquer de concentration** - 缺乏注意力
 >
 > **常见短语**
-> &nbsp;- **avoir de la chance** - 运气好
-> &nbsp;- **en particulier** - 尤其，特别
-> &nbsp;- **répondre à** - 符合，适应，回答
+> &nbsp;- **avoir de la chance** - 运气好 - **avoir de la chance au jeu** - 在游戏或赌博中运气好
+> &nbsp;- **en particulier** - 尤其，特别 - **notamment en particulier** - 尤其特别是
+> &nbsp;- **répondre à** - 符合，适应，回答 - **répondre à un besoin** - 满足某种需求
 >
 
 德国的孩子们很幸运。近年来，从幼儿园到高中，他们的学校都更换了新椅子，这些椅子设计为圆润的形状，颜色鲜艳。这些椅子是为学生的需求设计的，反映了一种新的教学理念。以前，学生必须保持静止并听课；而如今，心理学家认为应该让学生，尤其是年幼的孩子，能够自由活动，因为运动有助于集中注意力，同时还能增强肌肉发育。
@@ -605,10 +605,10 @@ D. Pour rénover les salles de classe
 > &nbsp;- **consulter** [kɔ̃sylte] - 查阅/浏览 - **Consulter ses courriels** - 查收邮件
 >
 > **常见短语**
-> &nbsp;- **en moyenne** - 平均
-> &nbsp;- **à des fins** - 出于……目的
-> &nbsp;- **soit** - 即/也就是
-> &nbsp;- **tandis que** - 而/然而
+> &nbsp;- **en moyenne** - 平均 - **travailler 35 heures en moyenne** - 平均工作35小时
+> &nbsp;- **à des fins** - 出于……目的 - **à des fins commerciales** - 出于商业目的
+> &nbsp;- **soit** - 即/也就是 - **soit l'un soit l'autre** - 要么是这个，要么是那个
+> &nbsp;- **tandis que** - 而/然而 - **tandis que d'autres refusent** - 而其他人拒绝
 >
 
 根据一项研究，员工每天平均花一个半小时在办公室上网，其中仅30多分钟用于工作用途，而53分钟用于个人目的。研究将这种“生产力下降”量化为12.4%。具体来说，在工作中用于个人上网的时间每年会让企业损失26天，相当于一个月的工作时间！对比2010年至2011年访问量最多的网站类别，发现在线游戏网站的使用增加了5%，而在线视频增长了13%。
@@ -657,9 +657,9 @@ D. Leurs échanges perdent en efficacité
 > &nbsp;- **sentiment** [sɑ̃timɑ̃] - 感觉，意识 - **avoir le sentiment de** - 觉得...，有...的感觉
 >
 > **常见短语**
-> &nbsp;- **se rendre à** - 前往
-> &nbsp;- **plus d'un** - 超过一个，多于一个
-> &nbsp;- **sans que** - 在...不知情的情况下（后接虚拟式）
+> &nbsp;- **se rendre à** - 前往 - **se rendre à son bureau** - 去他的办公室
+> &nbsp;- **plus d'un** - 超过一个，多于一个 - **plus d'un élève a réussi** - 不止一个学生成功了
+> &nbsp;- **sans que** - 在...不知情的情况下（后接虚拟式） - **partir sans qu'on le sache** - 在没被发现的情况下离开
 >
 
 超过95%的法国儿童表示他们接受过家长的基本指导，以规范他们在互联网上的行为：例如，不单独与陌生人见面，不回复不认识的人的信息，不透露私人信息，比如姓名、地址或学校等。然而，实际上，超过一半的孩子认为他们可以在互联网上随心所欲，而不被父母发现。
@@ -708,10 +708,10 @@ C. Ils s'en servent avec prudence
 > &nbsp;- **envahir** [ɑ̃vair] - 侵占，充斥 - **être envahi par la publicité** - 被广告充斥
 >
 > **常见短语**
-> &nbsp;- **contribuer à** - 有助于，促成
-> &nbsp;- **se passer** - 发生
-> &nbsp;- **se servir de** - 使用，利用
-> &nbsp;- **aller plus loin** - 更进一步
+> &nbsp;- **contribuer à** - 有助于，促成 - **contribuer au développement** - 有助于发展
+> &nbsp;- **se passer** - 发生 - **ce qui se passe ici** - 这里发生的事情
+> &nbsp;- **se servir de** - 使用，利用 - **se servir de cet outil** - 使用这个工具
+> &nbsp;- **aller plus loin** - 更进一步 - **aller plus loin dans l'enquête** - 进一步调查
 >
 
 “艺术及其生产方式有助于提高人们对可持续发展的意识”，Waste Landscape 的创作者 Élise Morin 评论道，这是一部用旧CD制成的作品。 摄影师 Joachim Romain 补充道：“回收不仅仅发生在垃圾桶里，他的作品专注于宣传海报。‘垃圾无处不在，我们无法避免。既然如此，为什么不利用它们走得更远？向人们展示，有一天，这些环境问题会来到他们身边。’”
@@ -760,11 +760,11 @@ D. De tourner des publicités.
 > &nbsp;- **complexe** [kɔ̃plɛks] - 复杂的 - **problème complexe** - 复杂的问题
 >
 > **常见短语**
-> &nbsp;- **grandes surfaces** - 大型超市
-> &nbsp;- **en effet** - 事实上，的确
-> &nbsp;- **avoir besoin de** - 需要
-> &nbsp;- **en face de** - 在...面前，在...对面
-> &nbsp;- **au moment de** - 在...之时
+> &nbsp;- **grandes surfaces** - 大型超市 - **faire des achats en grandes surfaces** - 在大型超市购物
+> &nbsp;- **en effet** - 事实上，的确 - **c'est en effet vrai** - 事实的确如此
+> &nbsp;- **avoir besoin de** - 需要 - **avoir besoin de repos** - 需要休息
+> &nbsp;- **en face de** - 在...面前，在...对面 - **juste en face de la banque** - 就在银行对面
+> &nbsp;- **au moment de** - 在...之时 - **au moment de la signature** - 在签字的时候
 >
 
 在移动通信行业，商店是不可或缺的。尽管互联网的发展已经普及，70%的销售仍然在实体店进行。由于手机是一种技术产品，客户需要面对面交流，获得解释和安慰。这种支持让用户在购买时感到更有信心。
@@ -813,9 +813,9 @@ D. Ils ont la possibilité d'essayer les appareils
 > &nbsp;- **ponctualité** [pɔ̃ktyalite] - 准时/守时 - **manquer de ponctualité** - 不守时
 >
 > **常见短语**
-> &nbsp;- **la rentrée** - 开学/新学年开始
-> &nbsp;- **par rapport à** - 与...相比
-> &nbsp;- **résultats scolaires** - 学习成绩
+> &nbsp;- **la rentrée** - 开学/新学年开始 - **la rentrée scolaire de septembre** - 九月份的学校开学
+> &nbsp;- **par rapport à** - 与...相比 - **par rapport à l'année dernière** - 与去年相比
+> &nbsp;- **résultats scolaires** - 学习成绩 - **obtenir de bons résultats scolaires** - 取得优异的学习成绩
 >
 
 “上午上课，下午运动”的试验计划已在开学时启动，涉及120所高中、7000名学生。家长们表示，“孩子的健康与去年相比变化不大”。他们似乎胃口更好，而且“更多地与父母分享活动”。然而，这一计划并未对出勤率、专注力或学习成绩产生影响。
@@ -865,10 +865,10 @@ D. La réussite aux examens augmente.
 > &nbsp;- **soulager** [sulaʒe] - 减轻，抚慰 - **soulager la douleur** - 减轻痛苦
 >
 > **常见短语**
-> &nbsp;- **parler de tout et de rien** - 漫无目的地闲谈
-> &nbsp;- **n'avoir l'air de rien** - 看似不起眼/没什么大不了
-> &nbsp;- **établir le contact** - 建立联系
-> &nbsp;- **d'autre part** - 另一方面
+> &nbsp;- **parler de tout et de rien** - 漫无目的地闲谈 - **passer la soirée à parler de tout et de rien** - 一整晚都在闲聊
+> &nbsp;- **n'avoir l'air de rien** - 看似不起眼/没什么大不了 - **cela n'a l'air de rien mais c'est important** - 这看起来微不足道但很重要
+> &nbsp;- **établir le contact** - 建立联系 - **établir le contact avec les clients** - 与客户建立联系
+> &nbsp;- **d'autre part** - 另一方面 - **et d'autre part, il faut noter** - 另一方面，需要注意
 >
 
 “话痨”们，为你们的存在感到骄傲吧！ 根据心理学家的研究，这个可爱的“缺点”实际上并不是缺点。虽然偶尔会让伴侣感到烦恼，但闲聊可以释放压力，甚至与心理治疗一样有效！和邻桌聊天、和大楼管理员聊天、和发型师聊聊无关紧要的事情，比如天气、假期或者最新的时尚趋势，这些听起来微不足道，但却至关重要！这些交流让我们能够从日常生活中逃离，并与他人建立联系。此外，当谈话变得更加严肃时，表达我们的烦恼有助于我们相对化这些问题，这让我们感到宽慰。
@@ -919,10 +919,10 @@ D. Il rend les gens plus cultivés
 > &nbsp;- **météo** [meteo] - 天气预报 - **prévisions météo** - 天气预报
 >
 > **常见短语**
-> &nbsp;- **partir seul** - 独自出发
-> &nbsp;- **avec l'aide de** - 在...的帮助下
-> &nbsp;- **l'état de** - ...的状态
-> &nbsp;- **auprès de** - 向（某人/某部门）了解或咨询
+> &nbsp;- **partir seul** - 独自出发 - **décider de partir seul en voyage** - 决定独自去旅行
+> &nbsp;- **avec l'aide de** - 在...的帮助下 - **réussir avec l'aide de ses amis** - 在朋友的帮助下成功
+> &nbsp;- **l'état de** - ...的状态 - **l'état de santé du patient** - 病人的健康状况
+> &nbsp;- **auprès de** - 向（某人/某部门）了解或咨询 - **faire une demande auprès de la mairie** - 向市政厅提出申请
 >
 
 冬季山区安全提示： 避免独自出行。 查看天气预报。 在专业人士的帮助下规划您的路线。 咨询滑雪场的积雪状况服务。
@@ -972,10 +972,10 @@ D. À signaler les accès interdits.
 > &nbsp;- **animer** [anime] - 主持，引导 - **animer un atelier** - 主持工作坊
 >
 > **常见短语**
-> &nbsp;- **école de commerce** - 商业学院
-> &nbsp;- **rendez-vous** - 会面，约定，活动
-> &nbsp;- **se renseigner** - 打听，咨询，了解信息
-> &nbsp;- **secteur d'activité** - 行业领域，业务部门
+> &nbsp;- **école de commerce** - 商业学院 - **faire ses études en école de commerce** - 在商学院读书
+> &nbsp;- **rendez-vous** - 会面，约定，活动 - **prendre rendez-vous chez le médecin** - 预约医生
+> &nbsp;- **se renseigner** - 打听，咨询，了解信息 - **se renseigner sur les horaires** - 询问时间表
+> &nbsp;- **secteur d'activité** - 行业领域，业务部门 - **travailler dans le secteur d'activité tertiaire** - 在第三产业领域工作
 >
 
 上周，商学院组织了传统活动“青年未来”。与往年一样，此次活动的目标是促进招聘企业与学生之间的会面。学生们可以向招聘人员介绍自己，并提交感兴趣岗位的申请。同时，专业人士还举办了相关讲座。
@@ -1024,10 +1024,10 @@ D. Proposer de nouvelles formations.
 > &nbsp;- **diffuser** [difyze] - 传播，散布 - **diffuser l'information** - 传播信息
 >
 > **常见短语**
-> &nbsp;- **suivie de** - 随后是...
-> &nbsp;- **enfant du pays** - 当地人（土生土长的人）
-> &nbsp;- **entrée libre** - 自由入场
-> &nbsp;- **autour de vous** - 在你身边/周围
+> &nbsp;- **suivie de** - 随后是... - **une conférence suivie d'un débat** - 一个讲座后紧接着讨论
+> &nbsp;- **enfant du pays** - 当地人（土生土长的人） - **être un véritable enfant du pays** - 是个地道的当地人
+> &nbsp;- **entrée libre** - 自由入场 - **exposition avec entrée libre** - 免费入场的展览
+> &nbsp;- **autour de vous** - 在你身边/周围 - **regarder ce qui se passe autour de vous** - 观察你周围发生的事
 >
 
 活动： 我们协会将于3月21日（周一）20:30，在Vournes的Augustins文化中心举办一场公共演讲，随后进行关于金融危机的辩论。 主讲人为Étienne Borel先生，他是本地人，同时是巴黎第五大学的教授。他撰写了多本关于金融的书籍。本次活动免费入场。
@@ -1076,10 +1076,10 @@ C. C'est un membre de l'association.
 > &nbsp;- **cinéma** [sinema] - 电影/电影院 - **aller au cinéma** - 去看电影
 >
 > **常见短语**
-> &nbsp;- **lundi prochain** - 下周一
-> &nbsp;- **livre de jeunesse** - 青少年读物
-> &nbsp;- **au programme** - 在活动计划中
-> &nbsp;- **grand écran** - 大银幕
+> &nbsp;- **lundi prochain** - 下周一 - **rendez-vous lundi prochain** - 下周一见。
+> &nbsp;- **livre de jeunesse** - 青少年读物 - **un auteur de livre de jeunesse** - 一位青少年读物作家。
+> &nbsp;- **au programme** - 在活动计划中 - **qu'est-ce qu'il y a au programme ?** - 节目单上有什么内容？
+> &nbsp;- **grand écran** - 大银幕 - **le retour sur le grand écran** - 重返大银幕。
 >
 
 下周一，法国的书店将举办儿童图书之夜。活动包括儿童活动和甜品品尝，还可以在大屏幕上观看电影中的王子和公主。
@@ -1130,9 +1130,9 @@ D. Jouer dans un film.
 > &nbsp;- **automobiliste** [otomɔbilist] - 驾驶员 - **une association d'automobilistes** - 驾驶员协会
 >
 > **常见短语**
-> &nbsp;- **dans le cadre de** - 在...框架内/在...背景下
-> &nbsp;- **à son tour** - 轮到/随后
-> &nbsp;- **en temps réel** - 实时
+> &nbsp;- **dans le cadre de** - 在...框架内/在...背景下 - **dans le cadre de ses fonctions** - 在其职权范围内。
+> &nbsp;- **à son tour** - 轮到/随后 - **chacun à son tour** - 每个人依次轮流。
+> &nbsp;- **en temps réel** - 实时 - **suivre le colis en temps réel** - 实时追踪包裹。
 >
 
 在一个欧洲项目框架内，布列塔尼的国家12号公路部分路段将很快安装200个设备，这些设备可以检测交通问题（减速、堵塞、事故或路上有动物）。这些设备会将信息传输到中央控制系统，该系统再将数据实时发送到300辆测试车辆。目标：试验第一条智能道路，通过实时信息提高驾驶安全性。
@@ -1181,10 +1181,10 @@ C. Repérer les mauvais conducteurs.
 > &nbsp;- **souhaité** [swɛte] - 被希望的/要求的 - **expérience souhaitée** - 有相关经验者优先
 >
 > **常见短语**
-> &nbsp;- **logiciels de bureautique** - 办公软件
-> &nbsp;- **sens de l'organisation** - 组织协调能力
-> &nbsp;- **travail en équipe** - 团队协作
-> &nbsp;- **notions de** - ...的基础/入门知识
+> &nbsp;- **logiciels de bureautique** - 办公软件 - **maîtriser les logiciels de bureautique** - 精通办公软件。
+> &nbsp;- **sens de l'organisation** - 组织协调能力 - **avoir le sens de l'organisation** - 有组织能力。
+> &nbsp;- **travail en équipe** - 团队协作 - **le goût du travail en équipe** - 团队协作精神。
+> &nbsp;- **notions de** - ...的基础/入门知识 - **avoir des notions de français** - 有法语基础知识。
 >
 
 公司正在招聘一名会三种语言（法语、英语、西班牙语）的员工。 要求：熟练使用办公软件，电话沟通流利，拼写能力良好，具备撰写能力，懂得一些会计知识，有组织能力，团队合作精神，职位为会计部门的助理。
@@ -1233,10 +1233,10 @@ D. Vérifier les finances de l'entreprise.
 > &nbsp;- **épreuve** [eprœv] - 考试，考验 - **une épreuve écrite** - 笔试
 >
 > **常见短语**
-> &nbsp;- **peu ou prou** - 或多或少
-> &nbsp;- **sujet à** - 易于...的，受...支配的
-> &nbsp;- **à la fois** - 同时
-> &nbsp;- **n'est autre que** - 正是，不外乎是
+> &nbsp;- **peu ou prou** - 或多或少 - **c'est peu ou prou la même chose** - 差不多是同一回事。
+> &nbsp;- **sujet à** - 易于...的，受...支配的 - **être sujet à des erreurs** - 容易犯错。
+> &nbsp;- **à la fois** - 同时 - **il est drôle et intelligent à la fois** - 他既幽默又聪明。
+> &nbsp;- **n'est autre que** - 正是，不外乎是 - **ce n'est autre que mon frère** - 这不是别人，正是我哥哥。
 >
 
 我们或多或少都会感到紧张。紧张既是一种生理反应也是一种心理反应，是在没有预警的情况下突然出现的瘫痪状态。紧张只是我们渴望做好事情的结果，但它是可以克服的。没有必要服用一些效果不一的药物。只需要好好呼吸，想象理想的场景，并在考试前休息好即可。
@@ -1285,9 +1285,9 @@ D. Certainement pas. Il est insurmontable.
 > &nbsp;- **confiance** [kɔ̃fjãs] - 信任 - **faire confiance à** - 信任某人
 >
 > **常见短语**
-> &nbsp;- **prendre contact avec** - 与...联系
-> &nbsp;- **service clients** - 客户服务部门
-> &nbsp;- **remercier de** - 为...而感谢
+> &nbsp;- **prendre contact avec** - 与...联系 - **prendre contact avec le service commercial** - 与销售部门取得联系。
+> &nbsp;- **service clients** - 客户服务部门 - **contacter le service clients** - 联系客服。
+> &nbsp;- **remercier de** - 为...而感谢 - **remercier de votre aide** - 感谢您的帮助。
 >
 
 皮埃尔女士， 我们已收到您关于我们电话服务的资料请求。 我们的顾问将尽快通过您提供的电话号码与您联系。 感谢您的信任。 此致， PX 客户服务
@@ -1336,10 +1336,10 @@ D. Elle veut faire une réclamation.
 > &nbsp;- **garantie** [garɑ̃ti] - 担保 - **demander une garantie** - 要求提供担保
 >
 > **常见短语**
-> &nbsp;- **toutes charges comprises** - 包含所有物业水电费用
-> &nbsp;- **colocation** - 合租
-> &nbsp;- **proche de** - 靠近
-> &nbsp;- **tout confort** - 设施齐全/非常舒适
+> &nbsp;- **toutes charges comprises** - 包含所有物业水电费用 - **loyer de 500 euros toutes charges comprises** - 租金500欧全包。
+> &nbsp;- **colocation** - 合租 - **chercher une colocation** - 找合租房。
+> &nbsp;- **proche de** - 靠近 - **l'appartement est proche de la gare** - 公寓靠近火车站。
+> &nbsp;- **tout confort** - 设施齐全/非常舒适 - **un studio tout confort** - 设施齐全的一居室。
 >
 
 短期出租。巴黎附近65平方米公寓中的20平方米独立房间。全配家具（洗衣机、洗碗机、平板电视/DVD）。仅限暑期7月1日至8月31日合租。安静街区，交通便利（地铁、公交、RER）。总价550欧元（含水、电、暖、网费）。 需认真人士，并提供担保！ 联系朱莉，电话06 76 34 39 01。
@@ -1388,10 +1388,10 @@ D. Vendre son appartement près de Paris.
 > &nbsp;- **opportunité** [ɔpɔrtynite] - 机遇，机会 - **saisir une opportunité** - 抓住机遇
 >
 > **常见短语**
-> &nbsp;- **auprès de** - 在...（人群）中，在...（机构）旁
-> &nbsp;- **secteurs d'activités** - 业务部门，行业领域
-> &nbsp;- **donner lieu à** - 引起，导致
-> &nbsp;- **d'après** - 根据
+> &nbsp;- **auprès de** - 在...（人群）中，在...（机构）旁 - **s'informer auprès de la mairie** - 向市政厅咨询。
+> &nbsp;- **secteurs d'activités** - 业务部门，行业领域 - **différents secteurs d'activités** - 不同的活动领域。
+> &nbsp;- **donner lieu à** - 引起，导致 - **donner lieu à des discussions** - 引起讨论。
+> &nbsp;- **d'après** - 根据 - **d'après le journal** - 根据报纸。
 >
 
 “人工智能”一词通常会引发担忧。然而，一项对11个国家14,078名员工的研究表明，在多个行业（健康、交通、能源等）中，人工智能可能使投资此技术的企业员工数量平均增加10%。此外，它还可能引发模式的根本性变革，并为企业创造服务和打开新的机会。
@@ -1440,9 +1440,9 @@ D. Favoriser la recherche.
 > &nbsp;- **amuser** [amyze] - 使开心、逗乐 - **S'amuser** - 玩得开心
 >
 > **常见短语**
-> &nbsp;- **mode d'emploi** - 使用说明、指南
-> &nbsp;- **prêt à** - 准备好做某事
-> &nbsp;- **faire rire** - 逗笑、使人发笑
+> &nbsp;- **mode d'emploi** - 使用说明、指南 - **lire le mode d'emploi** - 阅读使用说明。
+> &nbsp;- **prêt à** - 准备好做某事 - **il est prêt à partir** - 他准备好出发了。
+> &nbsp;- **faire rire** - 逗笑、使人发笑 - **cela me fait rire** - 这让我觉得好笑。
 >
 
 《父母使用指南》 电视剧每周一到周五晚上8点40分 我们跟随主人公 Gaby 和 Isa 的日常生活，这对今天的中年夫妇正试图寻找成为好父母的指南！他们试图控制局面，甚至愿意给我们一些建议，但像所有父母一样，他们犯了许多错误……这些让我们开心并发笑，为我们带来无尽的乐趣！
@@ -1492,9 +1492,9 @@ D. Proposer des solutions à des situations de crise.
 > &nbsp;- **seulement** [sœlmɑ̃] - 仅仅/只有 - **seulement si** - 只有当...
 >
 > **常见短语**
-> &nbsp;- **un menu complet** - 一份完整的套餐
-> &nbsp;- **entre midi et 14h** - 在中午和14点之间
-> &nbsp;- **du lundi au vendredi** - 从周一到周五
+> &nbsp;- **un menu complet** - 一份完整的套餐 - **commander un menu complet** - 点一份完整的套餐。
+> &nbsp;- **entre midi et 14h** - 在中午和14点之间 - **le restaurant est ouvert entre midi et 14h** - 餐厅在12点到14点间营业。
+> &nbsp;- **du lundi au vendredi** - 从周一到周五 - **travailler du lundi au vendredi** - 周一至周五工作。
 >
 
 Chez Doris 餐厅 在 Chez Doris 餐厅，如果您在中午至下午两点之间点一份包含前菜、主菜和甜点的全套餐，咖啡免费提供（仅限周一至周五）。
@@ -1543,11 +1543,11 @@ C. Un repas bon marché.
 > &nbsp;- **décontractée** [dekɔ̃trakte] - 轻松的，随意的 - **une tenue décontractée** - 一身休闲装
 >
 > **常见短语**
-> &nbsp;- **vient de** - 刚刚（做完某事）
-> &nbsp;- **avant tout le monde** - 比所有人早/抢先
-> &nbsp;- **le grand écran** - 大银幕（电影）
-> &nbsp;- **en tant que** - 作为.../身份是...
-> &nbsp;- **s'est retrouvé** - 聚集/聚会/碰头
+> &nbsp;- **vient de** - 刚刚（做完某事） - **il vient de finir** - 他刚刚完成。
+> &nbsp;- **avant tout le monde** - 比所有人早/抢先 - **arriver avant tout le monde** - 比谁都到得早。
+> &nbsp;- **le grand écran** - 大银幕（电影） - **une star du grand écran** - 银幕巨星。
+> &nbsp;- **en tant que** - 作为.../身份是... - **en tant que professeur** - 作为一名老师。
+> &nbsp;- **s'est retrouvé** - 聚集/聚会/碰头 - **il s'est retrouvé seul** - 他最终发现自己孤身一人。
 >
 
 第21届电影节刚刚在阿尔卑斯山的乌埃兹落幕，这是法国唯一一个可以免费欣赏年度最佳喜剧电影并与大银幕明星一起滑雪的地方。在第21届电影节上，Franck Dubosc 以导演身份首次呈现了自己的影片。第二天，与往常一样，大家聚集在滑雪场或咖啡厅露台，享受运动和轻松的氛围。
@@ -1598,9 +1598,9 @@ D. Revoir de grands classiques.
 > &nbsp;- **maximum** [maksimɔm] - 最大量，最多 - **au maximum** - 最多，最大限度
 >
 > **常见短语**
-> &nbsp;- **en ligne** - 在线
-> &nbsp;- **permet de** - 允许，使得能够
-> &nbsp;- **type documentaire** - 文献类型
+> &nbsp;- **en ligne** - 在线 - **acheter en ligne** - 网上购物。
+> &nbsp;- **permet de** - 允许，使得能够 - **cela permet de gagner du temps** - 这使得节省时间成为可能。
+> &nbsp;- **type documentaire** - 文献类型 - **un programme de type documentaire** - 一个纪录片类型的节目。
 >
 
 知识问答窗口 里昂市立图书馆提供的一项免费在线服务。它允许用户发布任何类型的文档请求。图书管理员会在最多72小时内回复。
@@ -1650,9 +1650,9 @@ C. Ils proposent de nouveaux livres aux lecteurs.
 > &nbsp;- **œuvre** [œvr] - 作品 - **une œuvre d'art** - 艺术作品
 >
 > **常见短语**
-> &nbsp;- **en recherchant** - 通过搜寻
-> &nbsp;- **s'adresser à** - 向...咨询/与...交流
-> &nbsp;- **répondre à** - 回答...
+> &nbsp;- **en recherchant** - 通过搜寻 - **en recherchant des informations** - 通过寻找信息。
+> &nbsp;- **s'adresser à** - 向...咨询/与...交流 - **s'adresser au public** - 面向公众。
+> &nbsp;- **répondre à** - 回答... - **répondre à une question** - 回答一个问题。
 >
 
 导游翻译员在博物馆、城堡和公园工作。他通过研究文档准备参观，以更新自己的知识。他与场地负责人接洽以安排活动并获得授权。在参观期间，他解释地点或艺术品的历史并回答参与者的问题。
@@ -1702,10 +1702,10 @@ D. Une galerie.
 > &nbsp;- **accompagnement** [akɔ̃paɲəmã] - 陪同，指导 - **mesures d'accompagnement** - 配套措施
 >
 > **常见短语**
-> &nbsp;- **entrer dans** - 进入，养成
-> &nbsp;- **sauf peut-être** - 也许除了
-> &nbsp;- **être prêt à** - 准备好/愿意做某事
-> &nbsp;- **à la fois** - 同时
+> &nbsp;- **entrer dans** - 进入，养成 - **entrer dans les détails** - 进入细节/详谈。
+> &nbsp;- **sauf peut-être** - 也许除了 - **tout le monde est là, sauf peut-être Pierre** - 所有人都在，除了皮埃尔。
+> &nbsp;- **être prêt à** - 准备好/愿意做某事 - **être prêt à partir** - 准备好出发。
+> &nbsp;- **à la fois** - 同时 - **deux choses à la fois** - 同时两件事。
 >
 
 互联网已经融入消费习惯，几乎没有行业能避开这一趋势，或许除了医药领域。如今，四分之三的法国人表示他们尚未准备好在互联网上购买药品。因为药品不仅仅是一种简单的商品，进入药店的人不仅寻求药物，还寻求安全和健康的保证以及陪伴服务。
@@ -1754,9 +1754,9 @@ C. Leur paiement est sécurisé.
 > &nbsp;- **coûteux** [kutø] - 昂贵的 - **un projet coûteux** - 一个耗资巨大的项目
 >
 > **常见短语**
-> &nbsp;- **à lire de plus près** - 仔细阅读
-> &nbsp;- **gorgées de soleil** - 阳光充足的（多形容水果）
-> &nbsp;- **viennent s'associer à** - 与...结合/加入到...中
+> &nbsp;- **à lire de plus près** - 仔细阅读 - **un article à lire de plus près** - 一篇值得仔细阅读的文章。
+> &nbsp;- **gorgées de soleil** - 阳光充足的（多形容水果） - **des tomates gorgées de soleil** - 阳光充足的西红柿。
+> &nbsp;- **viennent s'associer à** - 与...结合/加入到...中 - **ces couleurs viennent s'associer au bleu** - 这些颜色与蓝色相搭配。
 >
 
 在有机水果饮料的瓶子上，一家制造商使用了一张美丽的菠萝和椰子的图像。仔细阅读后，您会发现“充满阳光的橙子和香蕉”与菠萝和椰子搭配在一起。这是一种巧妙的方式来解释菠萝和椰子仅占饮料中水果成分的30%，而其他果汁则更常见且成本更低。
@@ -1806,9 +1806,9 @@ C. Les annonces publicitaires.
 > &nbsp;- **apprenti** [aprãti] - 学徒，初学者 - **Apprenti botaniste** - 植物学学徒
 >
 > **常见短语**
-> &nbsp;- **informatiser les données** - 数字化数据
-> &nbsp;- **être invité à** - 被邀请做...，受邀...
-> &nbsp;- **après avoir ouvert** - 在打开...之后
+> &nbsp;- **informatiser les données** - 数字化数据 - **le projet vise à informatiser les données** - 该项目旨在实现数据信息化。
+> &nbsp;- **être invité à** - 被邀请做...，受邀... - **être invité à s'exprimer** - 被邀请表达观点。
+> &nbsp;- **après avoir ouvert** - 在打开...之后 - **après avoir ouvert la porte** - 在打开门之后。
 >
 
 研究人员最缺乏的资源是什么？时间。 “将自然历史博物馆植物标本馆的数据数字化需要研究人员花费500年”，自然历史博物馆的植物学家Marc Pignal解释道。因此，博物馆找到了一个替代方案：一个平台，邀请网民将植物标签上的信息录入系统。注册用户可以通过该平台查看标本馆页面的照片。
@@ -1857,9 +1857,9 @@ D. Proposer des cours de botanique.
 > &nbsp;- **magazines** [maɡazin] - 杂志 - **revues et magazines** - 期刊杂志
 >
 > **常见短语**
-> &nbsp;- **bienvenue à** - 欢迎来到
-> &nbsp;- **vous attend** - 等候您
-> &nbsp;- **journaux et magazines** - 报刊杂志
+> &nbsp;- **bienvenue à** - 欢迎来到 - **bienvenue à Paris** - 欢迎来到巴黎。
+> &nbsp;- **vous attend** - 等候您 - **le succès vous attend** - 成功在等着你。
+> &nbsp;- **journaux et magazines** - 报刊杂志 - **lire des journaux et magazines** - 阅读报刊杂志。
 >
 
 欢迎来到 公园酒店 我们的商店提供： 行李箱 香水 首饰 当地特产 报纸和杂志。
@@ -1908,10 +1908,10 @@ D. Des vêtements.
 > &nbsp;- **cassé** [kase] - 坏了的/破碎的 - **être cassé** - 坏掉了
 >
 > **常见短语**
-> &nbsp;- **au coin de** - 在...拐角处
-> &nbsp;- **le plus sympa** - 最棒的/最友好的
-> &nbsp;- **à la maison** - 在家
-> &nbsp;- **vers 19h** - 在19点左右
+> &nbsp;- **au coin de** - 在...拐角处 - **au coin de la rue** - 在街道拐角处。
+> &nbsp;- **le plus sympa** - 最棒的/最友好的 - **le quartier le plus sympa** - 最棒的街区。
+> &nbsp;- **à la maison** - 在家 - **rester à la maison** - 待在家里。
+> &nbsp;- **vers 19h** - 在19点左右 - **arriver vers 19h** - 19点左右到达。
 >
 
 Pierre， 我因紧急情况出去了。你可以在街角的咖啡馆等我，那是附近最好的地方。我会在19点左右回家。抱歉。 Dominique 附注：我的手机坏了！
@@ -1960,10 +1960,10 @@ C. Il est parti acheter un portable.
 > &nbsp;- **exposer** [ɛkspɔze] - 展出，陈列 - **exposer des œuvres d'art** - 展出艺术品
 >
 > **常见短语**
-> &nbsp;- **être originaire de** - 来自于...，原籍是...
-> &nbsp;- **à l'occasion de** - 在...之际，值此...之时
-> &nbsp;- **plus de la moitié** - 超过一半
-> &nbsp;- **chef-d'œuvre** - 杰作，名作
+> &nbsp;- **être originaire de** - 来自于...，原籍是... - **être originaire de Chine** - 原籍是中国。
+> &nbsp;- **à l'occasion de** - 在...之际，值此...之时 - **à l'occasion de son anniversaire** - 在他生日之际。
+> &nbsp;- **plus de la moitié** - 超过一半 - **plus de la moitié des étudiants** - 超过一半的学生。
+> &nbsp;- **chef-d'œuvre** - 杰作，名作 - **un chef-d'œuvre de la peinture** - 绘画杰作。
 >
 
 卢浮宫朗斯分馆于2012年12月在法国北部开幕，今年以特别活动庆祝其五周年。最初的目标是吸引与巴黎卢浮宫不同的观众群体。这一目标已经实现：65%的游客来自北部地区，18%是工人或雇员，并且超过一半的参观者表示他们很少去博物馆。为庆祝这一周年活动，将展出约四十件来自巴黎卢浮宫的新杰作。
@@ -2013,10 +2013,10 @@ D. Sa collection sera présentée à Paris.
 > &nbsp;- **mutation** [mytasjɔ̃] - 变化，转变 - **en pleine mutation** - 正在巨变中
 >
 > **常见短语**
-> &nbsp;- **à partir de** - 根据，从……起
-> &nbsp;- **prendre pour** - 把……当作
-> &nbsp;- **en pleine mutation** - 正处于巨变之中
-> &nbsp;- **jouer un rôle** - 发挥作用，扮演角色
+> &nbsp;- **à partir de** - 根据，从……起 - **à partir de demain** - 从明天起。
+> &nbsp;- **prendre pour** - 把……当作 - **me prendre pour un idiot** - 把我当傻瓜。
+> &nbsp;- **en pleine mutation** - 正处于巨变之中 - **une société en pleine mutation** - 一个正处于剧变中的社会。
+> &nbsp;- **jouer un rôle** - 发挥作用，扮演角色 - **jouer un rôle important** - 起重要作用。
 >
 
 在金沙萨的平民区，他用城市垃圾创作浮雕画。 有些人认为他是个疯子，有些人则视他为天才。拥有敏锐的眼睛、灵巧的双手、被小儿麻痹症畸形的双腿，Emmanuel Botatalala 被称为“垃圾部长”。这个头衔并非官方职务，而是他的艺术家名号。关于他的纪录片展示了一位艺术家及其视野在一个充满变化的首都中的作用。
@@ -2065,10 +2065,10 @@ D. De mesure écologique prise par une mairie.
 > &nbsp;- **accompagnement** [akɔ̃paɲəmã] - 伴随/配菜 - **servir d'accompagnement** - 作为配菜
 >
 > **常见短语**
-> &nbsp;- **études de marché** - 市场调查
-> &nbsp;- **dans les règles de l'art** - 按照专业规矩/完美地
-> &nbsp;- **en deux temps** - 分两个阶段/分两次
-> &nbsp;- **se disputer la paternité** - 争论（某事物的）起源/创始权
+> &nbsp;- **études de marché** - 市场调查 - **réaliser des études de marché** - 进行市场调研。
+> &nbsp;- **dans les règles de l'art** - 按照专业规矩/完美地 - **faire un travail dans les règles de l'art** - 规范地完成工作。
+> &nbsp;- **en deux temps** - 分两个阶段/分两次 - **une action en deux temps** - 分两个阶段的行动。
+> &nbsp;- **se disputer la paternité** - 争论（某事物的）起源/创始权 - **se disputer la paternité d'une invention** - 争夺一项发明的所有权。
 >
 
 最新的市场研究表明，炸薯条正强势回归。其人气经久不衰，但它们必须按照专业方式制作：要制作外酥里嫩的金黄薯条，需要分两步加热和油炸。 尽管比利时和法国争夺其发明权，但至今未找到确切的起源。随着汉堡的流行，炸薯条作为理想的配菜，广泛地在餐厅中消费。
@@ -2117,10 +2117,10 @@ D. Les raisons de leur popularité.
 > &nbsp;- **financer** [finãse] - 资助/出资 - **financer un projet** - 资助一个项目
 >
 > **常见短语**
-> &nbsp;- **s'offrir** - 购买/为自己购置
-> &nbsp;- **profiter de** - 享受/利用
-> &nbsp;- **être qualifié de** - 被称为/被定性为
-> &nbsp;- **à hauteur de** - 达……之多/总计为
+> &nbsp;- **s'offrir** - 购买/为自己购置 - **s'offrir un voyage** - 给自己买一次旅行
+> &nbsp;- **profiter de** - 享受/利用 - **profiter du soleil** - 享受阳光
+> &nbsp;- **être qualifié de** - 被称为/被定性为 - **être qualifié de génie** - 被称为天才
+> &nbsp;- **à hauteur de** - 达……之多/总计为 - **à hauteur de 500 euros** - 金额高达500欧元
 >
 
 伦敦市建造了一座象征奥运会的塔。这座城市雕塑为游客提供了餐厅，并可以从全景平台欣赏风景。 这座塔受到很多批评，曾被《泰晤士报》的记者称为“巨型回形针”或“巨大的乱涂乱画”。但最让人震惊的是这座纪念碑的造价：2100万欧元，其中1800万由私人集团资助，其余300万由伦敦市政府承担。
@@ -2169,11 +2169,11 @@ D. Sur le symbole qu'elle représente.
 > &nbsp;- **consommation** [kɔ̃sɔmasjɔ̃] - 消耗/消费 - **consommation d'eau** - 用水量
 >
 > **常见短语**
-> &nbsp;- **à partir de** - 从...起/利用...
-> &nbsp;- **pièces détachées** - 零部件/零配件
-> &nbsp;- **d'après** - 根据/依据
-> &nbsp;- **tremblement de terre** - 地震
-> &nbsp;- **dans le respect de** - 遵照/尊重...
+> &nbsp;- **à partir de** - 从...起/利用... - **à partir de demain** - 从明天开始
+> &nbsp;- **pièces détachées** - 零部件/零配件 - **vendre des pièces détachées** - 出售零部件
+> &nbsp;- **d'après** - 根据/依据 - **d'après les sondages** - 根据民意调查
+> &nbsp;- **tremblement de terre** - 地震 - **un fort tremblement de terre** - 一场强震
+> &nbsp;- **dans le respect de** - 遵照/尊重... - **dans le respect de l'environnement** - 在保护环境的前提下
 >
 
 快捷酒店——令人难以置信，但真实的五天十六小时。这是建造一座16层、50米高酒店所需的时间。 这座“艺术酒店”是由工厂制造的金属组件组装而成的。据建筑师称，这座建筑可以抵抗地震，并在设计上尊重环保（能源消耗、噪音等）。
@@ -2223,9 +2223,9 @@ D. Le coût des matériaux utilisés.
 > &nbsp;- **nécessaire** [nesesɛr] - 必要的 - **si nécessaire** - 如果有必要的话
 >
 > **常见短语**
-> &nbsp;- **avoir besoin de** - 需要
-> &nbsp;- **tous les jours** - 每天
-> &nbsp;- **24h sur 24** - 全天24小时/昼夜不停
+> &nbsp;- **avoir besoin de** - 需要 - **avoir besoin de temps** - 需要时间
+> &nbsp;- **tous les jours** - 每天 - **faire du sport tous les jours** - 每天做运动
+> &nbsp;- **24h sur 24** - 全天24小时/昼夜不停 - **ouvert 24h sur 24** - 24小时营业
 >
 
 您需要去马赛机场吗？停车费用太高？通过我们公司，您只需支付实际行驶的公里数。欢迎每天24小时随时联系我们。
@@ -2274,10 +2274,10 @@ C. Réserver un parking.
 > &nbsp;- **fonctionner** [fɔ̃ksjɔne] - 运行/运作 - **bien fonctionner** - 运作良好
 >
 > **常见短语**
-> &nbsp;- **il s'agit de** - 关于/涉及到
-> &nbsp;- **durée de vie** - 寿命/存续时间
-> &nbsp;- **ce n'est pas le cas** - 情况并非如此
-> &nbsp;- **autour d'un café** - 喝着咖啡/在咖啡里（引申为在轻松氛围中）
+> &nbsp;- **il s'agit de** - 关于/涉及到 - **il s'agit d'une erreur** - 这是一个错误
+> &nbsp;- **durée de vie** - 寿命/存续时间 - **la durée de vie du produit** - 产品的寿命
+> &nbsp;- **ce n'est pas le cas** - 情况并非如此 - **hélas ce n'est pas le cas** - 可惜事实并非如此
+> &nbsp;- **autour d'un café** - 喝着咖啡/在咖啡里（引申为在轻松氛围中） - **discuter autour d'un café** - 喝咖啡聊天
 >
 
 Delphine Peras 为我们的杂志调查了读书俱乐部，她发现寻找这些俱乐部很困难，因为它们通常是私人团体。她需要列出一些长期存在的俱乐部名单，因为许多俱乐部追随潮流，寿命很短。然而，像“Voix au chapitre”这样的俱乐部自1986年成立以来一直存在！这些俱乐部的活动形式通常很简单：围坐在咖啡桌旁，每位参与者发表对一本书的看法，然后大家一起讨论。
@@ -2327,10 +2327,10 @@ D. Les rencontres se faisaient de manière irrégulière.
 > &nbsp;- **dépense** [depɑ̃s] - 花费/开支 - **dépenses culturelles** - 文化支出
 >
 > **常见短语**
-> &nbsp;- **s'adresser à** - 面向/针对
-> &nbsp;- **famille d'accueil** - 寄宿家庭
-> &nbsp;- **pendant 6 mois** - 为期6个月
-> &nbsp;- **ouverture d'esprit** - 开放的心态
+> &nbsp;- **s'adresser à** - 面向/针对 - **s'adresser à l'accueil** - 去前台咨询
+> &nbsp;- **famille d'accueil** - 寄宿家庭 - **vivre en famille d'accueil** - 住在寄宿家庭
+> &nbsp;- **pendant 6 mois** - 为期6个月 - **travailler pendant 6 mois** - 工作六个月
+> &nbsp;- **ouverture d'esprit** - 开放的心态 - **avoir une grande ouverture d'esprit** - 思想非常开放
 >
 
 笛卡尔计划面向法国和德国的学生。法国学生在德国寄宿家庭生活6个月，接着接待德国学生在法国生活6个月。笛卡尔计划的学生在伙伴学校学习。 该计划的目标是加深学生对寄宿国语言和文化的了解，同时培养独立性、开阔的视野和包容性。 学生还可获得交通补助以及250欧元的文化支出补贴。
@@ -2379,10 +2379,10 @@ C. De proposer des circuits touristiques complets.
 > &nbsp;- **coordonnées** [kɔɔrdɔne] - 联系方式 - **laisser ses coordonnées** - 留下联系方式
 >
 > **常见短语**
-> &nbsp;- **en difficulté** - 处于困难中
-> &nbsp;- **à raison de** - 以...的频率/按...的比例
-> &nbsp;- **en liaison avec** - 与...联系/保持沟通
-> &nbsp;- **rejoignez notre équipe** - 加入我们的团队
+> &nbsp;- **en difficulté** - 处于困难中 - **être en difficulté scolaire** - 学习上有困难
+> &nbsp;- **à raison de** - 以...的频率/按...的比例 - **à raison de deux fois par jour** - 以每天两次的频率
+> &nbsp;- **en liaison avec** - 与...联系/保持沟通 - **en liaison avec le directeur** - 与经理取得联系
+> &nbsp;- **rejoignez notre équipe** - 加入我们的团队 - **rejoignez notre équipe dès maintenant** - 现在就加入我们的团队
 >
 
 “一对一”是位于布列斯特的一家协会，提供个性化的学业辅导服务。“一对一”是指由一位成年人每周义务辅导一名有困难的学生，辅导持续整个学年，并与学生的家庭和老师保持联系。该计划对市内所有学校的学生开放。
@@ -2433,10 +2433,10 @@ D. Un suivi psychologique gratuit.
 > &nbsp;- **concurrent** [kɔ̃kyrɑ̃] - 参赛者，竞争者 - **un concurrent de taille** - 一位强劲的竞争者
 >
 > **常见短语**
-> &nbsp;- **le plus âgé** - 最年长的
-> &nbsp;- **au début du** - 在...初期
-> &nbsp;- **avec peine** - 费力地，困难地
-> &nbsp;- **fauteuil roulant** - 轮椅
+> &nbsp;- **le plus âgé** - 最年长的 - **l'enfant le plus âgé** - 最年长的孩子
+> &nbsp;- **au début du** - 在...初期 - **au début du spectacle** - 演出开始时
+> &nbsp;- **avec peine** - 费力地，困难地 - **soulever avec peine** - 费力地举起
+> &nbsp;- **fauteuil roulant** - 轮椅 - **se déplacer en fauteuil roulant** - 坐轮椅移动
 >
 
 21世纪的助行车 现年88岁的Jacques Blosseville是第110届Lépine发明比赛中年龄最大的参赛者。他选择改造了助行车，这是一种21世纪初为儿童发明的无脚踏自行车。 “3年前，我开始行走困难。有人建议我使用手杖或轮椅，但我觉得不适合……助行车能让我不用承受体重的压力。”参赛者解释道。
@@ -2485,9 +2485,9 @@ D. Pour porter des objets lourds.
 > &nbsp;- **atteignable** [atɛɲabl] - 可达到的，可实现的 - **un objectif atteignable** - 一个可以实现的目标
 >
 > **常见短语**
-> &nbsp;- **au moins** - 至少
-> &nbsp;- **se contenter de** - 满足于，仅仅
-> &nbsp;- **d'ici à** - 到...为止，在...期间
+> &nbsp;- **au moins** - 至少 - **attendre au moins une heure** - 至少等一小时
+> &nbsp;- **se contenter de** - 满足于，仅仅 - **se contenter de peu** - 知足常乐
+> &nbsp;- **d'ici à** - 到...为止，在...期间 - **d'ici à la semaine prochaine** - 到下周为止
 >
 
 有机农业，每个人都想要，但法国农业却在冷落它。64%的法国人至少购买过一次有机产品。但由于某些生产不足，尤其是水果和蔬菜，有32%的标志性有机产品需要进口。法国的有机农业仅涉及100万公顷土地。虽然设定了雄心勃勃的目标，但农业部长仅计划在五年内将土地面积翻倍。全国有机农业联合会主席表示：“这些目标虽然不够宏伟，但至少是可以实现的。”
@@ -2535,10 +2535,10 @@ D. Simplifier la certification des produits biologiques.
 > &nbsp;- **possible** [pɔsibl] - 可能的 - **si cela est possible** - 如果可能的话
 >
 > **常见短语**
-> &nbsp;- **dire que** - 告诉/说...
-> &nbsp;- **rendre visite à** - 拜访（某人）
-> &nbsp;- **au mois de** - 在...月份
-> &nbsp;- **à cette occasion** - 借此机会
+> &nbsp;- **dire que** - 告诉/说... - **dire que c'est vrai** - 说那是真的
+> &nbsp;- **rendre visite à** - 拜访（某人） - **rendre visite à un ami** - 拜访一位朋友
+> &nbsp;- **au mois de** - 在...月份 - **au mois de juillet** - 在七月份
+> &nbsp;- **à cette occasion** - 借此机会 - **faire un discours à cette occasion** - 在此场合发表讲演
 >
 
 亲爱的Jacques： 写这封短笺是想告诉您，Natacha和我将在七月到图卢兹地区。 我们希望借此机会拜访您。请告诉我们是否方便。 非常诚挚的 Ahmed
@@ -2588,10 +2588,10 @@ D. Pour lui demander de l'accompagner en voyage.
 > &nbsp;- **coût** [ku] - 费用/成本 - **coût de la vie** - 生活成本
 >
 > **常见短语**
-> &nbsp;- **cours de natation** - 游泳课
-> &nbsp;- **vacances scolaires** - 学校假期
-> &nbsp;- **avoir besoin de** - 需要
-> &nbsp;- **nager librement** - 自由游泳
+> &nbsp;- **cours de natation** - 游泳课 - **prendre des cours de natation** - 上游泳课
+> &nbsp;- **vacances scolaires** - 学校假期 - **pendant les vacances scolaires** - 在学校假期期间
+> &nbsp;- **avoir besoin de** - 需要 - **avoir besoin de conseils** - 需要建议
+> &nbsp;- **nager librement** - 自由游泳 - **pouvoir nager librement** - 能够自由游泳
 >
 
 市内游泳池全年（除学校假期外）为儿童和成人提供多种游泳课程。无需预约。费用视活动而定，但通常包括游泳池和桑拿的入场费。课程结束后，您可以自由游泳。
@@ -2641,9 +2641,9 @@ D. Ils sont gratuits pour les enfants.
 > &nbsp;- **concierge** [kɔ̃sjɛrʒ] - 门房/传达员 - **le concierge de l'immeuble** - 大楼管理员
 >
 > **常见短语**
-> &nbsp;- **à cause de** - 因为/由于
-> &nbsp;- **à partir de** - 从...开始/自...以后
-> &nbsp;- **demander de** - 要求做某事
+> &nbsp;- **à cause de** - 因为/由于 - **à cause de la pluie** - 因为下雨
+> &nbsp;- **à partir de** - 从...开始/自...以后 - **à partir de demain** - 从明天开始
+> &nbsp;- **demander de** - 要求做某事 - **demander de faire attention** - 要求注意
 >
 
 勒热纳先生： 由于您在公寓里组织的聚会，我整晚无法入睡。 为了大家的舒适，我请求您在某个时间后保持安静。 管家：昆康波瓦夫人
@@ -2692,11 +2692,11 @@ D. Recevoir ses invités plus tôt.
 > &nbsp;- **commencer** [kɔmɑ̃se] - 开始 - **commencer à faire** - 开始做某事
 >
 > **常见短语**
-> &nbsp;- **ce soir** - 今晚
-> &nbsp;- **se retrouver** - 集合/见面
-> &nbsp;- **il y a** - 有
-> &nbsp;- **à côté** - 在旁边
-> &nbsp;- **tout près de** - 离...很近
+> &nbsp;- **ce soir** - 今晚 - **sortir ce soir** - 今晚出去
+> &nbsp;- **se retrouver** - 集合/见面 - **se retrouver au café** - 在咖啡馆见面
+> &nbsp;- **il y a** - 有 - **il y a deux jours** - 两天前
+> &nbsp;- **à côté** - 在旁边 - **juste à côté** - 就在旁边
+> &nbsp;- **tout près de** - 离...很近 - **tout près de la gare** - 离火车站很近
 >
 
 阿梅莉： 今晚的音乐会，我们19点30分在Daunou街的酒吧前见面。旁边有一家大餐厅，就在Odeon剧院附近。音乐会将在20点30分开始。 萨拉
@@ -2747,9 +2747,9 @@ D. Voir une pièce de théâtre.
 > &nbsp;- **bulletin** [byltɛ̃] - 单据/表格 - **bulletin de participation** - 参赛表
 >
 > **常见短语**
-> &nbsp;- **pendant tout l'été** - 整个夏天
-> &nbsp;- **en plein air** - 户外/露天
-> &nbsp;- **envoyer à** - 发送至/寄给
+> &nbsp;- **pendant tout l'été** - 整个夏天 - **travailler pendant tout l'été** - 整个夏天都在工作
+> &nbsp;- **en plein air** - 户外/露天 - **un concert en plein air** - 一场露天音乐会
+> &nbsp;- **envoyer à** - 发送至/寄给 - **envoyer un mail à Paul** - 给保罗发邮件
 >
 
 整个夏天，您的超市举办免费比赛，赢取数千件商品：书籍、儿童表演的门票、餐厅晚餐、户外活动的入场券。填写表格并发送至：special.etc@monsupermarche.com
@@ -2798,10 +2798,10 @@ D. Une fête.
 > &nbsp;- **recommandé** [rəkɔmãde] - 挂号的 - **lettre recommandée** - 挂号信
 >
 > **常见短语**
-> &nbsp;- **face à** - 面对
-> &nbsp;- **plus de** - 超过
-> &nbsp;- **en cours** - 正在进行中的
-> &nbsp;- **ressources humaines** - 人力资源
+> &nbsp;- **face à** - 面对 - **face à l'église** - 在教堂对面
+> &nbsp;- **plus de** - 超过 - **plus de trois personnes** - 超过三个人
+> &nbsp;- **en cours** - 正在进行中的 - **un projet en cours** - 一个进行中的项目
+> &nbsp;- **ressources humaines** - 人力资源 - **le directeur des ressources humaines** - 人力资源总监
 >
 
 由于汽车行业受到危机影响超过两年，我们遗憾地无法继续雇佣所有技术人员。 管理层决定仅续签80%的合同。对于被解雇的技术人员，程序将于6月1日开始，并在全年内逐步进行。相关人员将通过挂号信单独通知。 人力资源部
@@ -2850,10 +2850,10 @@ D. La suspension des contrats à durée déterminés.
 > &nbsp;- **mairie** [mɛri] - 市政府 - **le site de la mairie** - 市政府网站
 >
 > **常见短语**
-> &nbsp;- **ne... plus** - 不再
-> &nbsp;- **en plastique** - 塑料制的
-> &nbsp;- **se renseigner sur** - 了解/咨询关于...
-> &nbsp;- **à la poubelle** - 扔进垃圾桶
+> &nbsp;- **ne... plus** - 不再 - **je ne fume plus** - 我不再抽烟了
+> &nbsp;- **en plastique** - 塑料制的 - **une bouteille en plastique** - 一个塑料瓶
+> &nbsp;- **se renseigner sur** - 了解/咨询关于... - **se renseigner sur les tarifs** - 咨询价格
+> &nbsp;- **à la poubelle** - 扔进垃圾桶 - **jeter à la poubelle** - 扔到垃圾桶里
 >
 
 不要再将您的塑料瓶扔进垃圾桶， 把它们交给您的城市，城市将用它们来制造自行车！ 用一千万个瓶子可以制造一辆自行车！ 请访问您市政府的网站了解更多信息！
@@ -2902,11 +2902,11 @@ D. De travailler pour la mairie.
 > &nbsp;- **bienvenu** [bjɛ̃vəny] - 受欢迎的，被需要的 - **être le bienvenu** - 受欢迎，被需要
 >
 > **常见短语**
-> &nbsp;- **il y a** - ...之前
-> &nbsp;- **malgré** - 尽管
-> &nbsp;- **le plus rapidement possible** - 尽快
-> &nbsp;- **un geste commercial** - 商务补偿/优惠举措
-> &nbsp;- **sous la forme de** - 以...的形式
+> &nbsp;- **il y a** - ...之前 - **il y a une erreur** - 有一个错误
+> &nbsp;- **malgré** - 尽管 - **malgré le mauvais temps** - 尽管天气不好
+> &nbsp;- **le plus rapidement possible** - 尽快 - **répondre le plus rapidement possible** - 尽快回复
+> &nbsp;- **un geste commercial** - 商务补偿/优惠举措 - **faire un geste commercial** - 做出商业让步
+> &nbsp;- **sous la forme de** - 以...的形式 - **sous la forme d'un avoir** - 以代金券的形式
 >
 
 您好， 我在您网站“mamode.com”上订购了一件连衣裙（编号35100），距今已有两个月。本应于10月5日收到，但现在已经11月5日，尽管我多次提出投诉，但仍未收到。我请求尽快退款。如果能附带一些形式的礼物作为补偿，将不胜感激。谢谢。
@@ -2954,10 +2954,10 @@ D. Rendre le vêtement.
 > &nbsp;- **nécessiter** [nesesite] - 需要 - **nécessiter un soin** - 需要护理
 >
 > **常见短语**
-> &nbsp;- **la marche à suivre** - 采取的步骤，程序
-> &nbsp;- **il ne s'agit pas de** - 这不在于，这不是关于
-> &nbsp;- **faire un tri** - 筛选，进行分类
-> &nbsp;- **à partir de** - 根据，从...起
+> &nbsp;- **la marche à suivre** - 采取的步骤，程序 - **connaître la marche à suivre** - 了解操作步骤
+> &nbsp;- **il ne s'agit pas de** - 这不在于，这不是关于 - **il ne s'agit pas de cela** - 这不是指那件事
+> &nbsp;- **faire un tri** - 筛选，进行分类 - **faire un tri sélectif** - 进行垃圾分类
+> &nbsp;- **à partir de** - 根据，从...起 - **à partir de lundi** - 从周一起
 >
 
 头痛、胃痛、背痛、过敏……日常这些小毛病有多少次让你不得不看医生？一位巴黎神经外科医生设计了一款应用程序，可以通过一系列问题提供初步诊断，并建议用户采取的行动。“当然，这并不是为了取代全科医生或专科医生，”创作者解释道。“这个想法只是为了筛选出日常小病痛，这些可以由个人自行处理，而严重的疾病则需要看医生。”
@@ -3006,10 +3006,10 @@ C. De prendre rapidement rendez-vous.
 > &nbsp;- **gratuite** [gratɥit] - 免费的 - **entrée gratuite** - 免费入场
 >
 > **常见短语**
-> &nbsp;- **n'oubliez pas de** - 请别忘记
-> &nbsp;- **deux-pièces** - 两居室/两房一厅
-> &nbsp;- **avant le** - 在...日期之前
-
+> &nbsp;- **n'oubliez pas de** - 请别忘记 - **n'oubliez pas de signer** - 别忘了签名
+> &nbsp;- **deux-pièces** - 两居室/两房一厅 - **louer un deux-pièces** - 租一套两居室
+> &nbsp;- **avant le** - 在...日期之前 - **avant le 15 mai** - 在5月15日之前
+>
 学生专属 您找到住房了吗（单间、公寓、两室……）？别忘了投保。 特别促销，在9月30日前注册即可享受3个月的免费保险。
 
 **这则广告提供了什么？**
@@ -3056,11 +3056,11 @@ C. Une location moins chère.
 > &nbsp;- **caractère** [karaktɛr] - 性格，特色 - **avoir du caractère** - 很有特色/有个性
 >
 > **常见短语**
-> &nbsp;- **en tête de liste** - 居于首位
-> &nbsp;- **à la découverte de** - 去探索/发现
-> &nbsp;- **vieux Continent** - 旧大陆（指欧洲）
-> &nbsp;- **nouveau Monde** - 新大陆（指美洲）
-> &nbsp;- **tout juste** - 刚刚
+> &nbsp;- **en tête de liste** - 居于首位 - **être en tête de liste** - 排在名单首位
+> &nbsp;- **à la découverte de** - 去探索/发现 - **partir à la découverte de Paris** - 去探索巴黎
+> &nbsp;- **vieux Continent** - 旧大陆（指欧洲） - **voyager sur le vieux continent** - 在欧洲旅游
+> &nbsp;- **nouveau Monde** - 新大陆（指美洲） - **la conquête du nouveau monde** - 征服新大陆
+> &nbsp;- **tout juste** - 刚刚 - **arriver tout juste** - 刚刚到达
 >
 
 蒙特利尔，魁北克省最大的城市，被誉为法语世界城市的代表之一。 让我们一起探索这片融合了“旧大陆”（欧洲）和“新世界”（美洲）特质的地方！它被形容为美洲最具欧洲风情的城市，同时也是法语城市中最具美洲风格的地方。正是这种特质让初到此地的欧洲人感到惊讶。这座城市充满活力和独特性格。
@@ -3111,10 +3111,10 @@ D. On y entend des langues du monde entier.
 > &nbsp;- **besoin** [bəzwɛ̃] - 需要 - **avoir besoin de** - 需要
 >
 > **常见短语**
-> &nbsp;- **pendant l'été** - 在夏季期间
-> &nbsp;- **donner votre sang** - 献出您的血液/献血
-> &nbsp;- **devant la mairie** - 在市政府前面
-> &nbsp;- **avoir besoin de** - 需要
+> &nbsp;- **pendant l'été** - 在夏季期间 - **voyager pendant l'été** - 夏天旅游
+> &nbsp;- **donner votre sang** - 献出您的血液/献血 - **aller donner votre sang** - 去献血
+> &nbsp;- **devant la mairie** - 在市政府前面 - **se réunir devant la mairie** - 在市政厅前集会
+> &nbsp;- **avoir besoin de** - 需要 - **avoir besoin d'aide** - 需要帮助
 >
 
 拯救生命 夏季的每个星期六，您都可以为病人和伤者献血。 地点： 在市政厅前停放的一辆专业献血车上。 我们需要您！
@@ -3163,9 +3163,9 @@ D. De travailler l'été.
 > &nbsp;- **envoyer** [ɑ̃vwaje] - 发送 - **envoyer un message** - 发信息
 >
 > **常见短语**
-> &nbsp;- **entre ... et ...** - 在...与...之间
-> &nbsp;- **être intéressé(e)** - 对...感兴趣
-> &nbsp;- **envoyer votre CV** - 发送您的简历
+> &nbsp;- **entre ... et ...** - 在...与...之间 - **entre midi et deux** - 在中午十二点到两点之间。
+> &nbsp;- **être intéressé(e)** - 对...感兴趣 - **être intéressé(e) par l'offre** - 对这个提议感兴趣。
+> &nbsp;- **envoyer votre CV** - 发送您的简历 - **envoyer votre cv par mail** - 通过邮件发送您的简历。
 >
 
 我们正在寻找运动型演员 年龄在 18 到 45 岁之间。有歌手或舞者经验者优先。 拍摄将在利摩日进行。如果您有兴趣，请将简历发送至 casting@art.com。
@@ -3214,9 +3214,9 @@ D. Participer à une course.
 > &nbsp;- **pratiquer** [pratike] - 从事/实践 - **pratiquer une activité** - 从事一项活动
 >
 > **常见短语**
-> &nbsp;- **de plus en plus** - 越来越多
-> &nbsp;- **s'organiser pour** - 组织起来（为了...）
-> &nbsp;- **être prêt à** - 准备好/愿意做某事
+> &nbsp;- **de plus en plus** - 越来越多 - **de plus en plus de gens** - 越来越多的人。
+> &nbsp;- **s'organiser pour** - 组织起来（为了...） - **s'organiser pour le voyage** - 为旅行做准备。
+> &nbsp;- **être prêt à** - 准备好/愿意做某事 - **être prêt à tout** - 准备好做任何事。
 >
 
 如果我们搬到乡下生活呢？ 许多城市居民梦想拥有一所房子和一个菜园。 因此，越来越多的城市和地区开始组织活动，吸引这些有搬家计划的居民及其家人。 今天在巴黎举办了一场关于这一话题的展会。根据调查，30%的巴黎居民表示，如果可以从事自己喜欢的职业，他们会毫不犹豫地搬到乡下。
@@ -3265,10 +3265,10 @@ D. Se rapprocher du monde agricole.
 > &nbsp;- **métropole** [metropɔl] - 大都市 - **la métropole régionale** - 区域性大都市
 >
 > **常见短语**
-> &nbsp;- **a de quoi séduire** - 很有吸引力
-> &nbsp;- **boîte à idées** - 创意库，智囊团
-> &nbsp;- **vivre ensemble** - 共同生活，社会共融
-> &nbsp;- **pas étonnant que** - 难怪...，并不奇怪...
+> &nbsp;- **a de quoi séduire** - 很有吸引力 - **un paysage qui a de quoi séduire** - 景色宜人。
+> &nbsp;- **boîte à idées** - 创意库，智囊团 - **consulter la boîte à idées** - 查阅意见箱。
+> &nbsp;- **vivre ensemble** - 共同生活，社会共融 - **les règles du vivre ensemble** - 共同生活的规则。
+> &nbsp;- **pas étonnant que** - 难怪...，并不奇怪... - **pas étonnant qu'il pleuve** - 下雨并不奇怪。
 >
 
 南特市因其文化活力而颇具吸引力。自二十多年前开始复兴以来，表现出色。它重新焕发了冒险精神，带有一点疯狂和几分天真。这座布列塔尼公爵的城市充满创意，始终在探索新的共生生活方式。难怪它成为法国增长最快的大都市之一。
@@ -3317,10 +3317,10 @@ D. Son économie stable.
 > &nbsp;- **confronter** [kɔ̃frɔ̃te] - 使对质，对比 - **confronter les opinions** - 比较观点
 >
 > **常见短语**
-> &nbsp;- **donner le goût de** - 培养对...的兴趣
-> &nbsp;- **hors contexte** - 脱离语境
-> &nbsp;- **dénué de sens** - 毫无意义
-> &nbsp;- **l'occasion de** - ...的机会
+> &nbsp;- **donner le goût de** - 培养对...的兴趣 - **donner le goût de l'effort** - 培养努力的习惯。
+> &nbsp;- **hors contexte** - 脱离语境 - **interpréter hors contexte** - 脱离语境地解读。
+> &nbsp;- **dénué de sens** - 毫无意义 - **un propos dénué de sens** - 一番毫无意义的话。
+> &nbsp;- **l'occasion de** - ...的机会 - **l'occasion de se rencontrer** - 见面的机会。
 >
 
 教学 从小学阶段就使用Twitter，培养学生写作、阅读和拼写的兴趣。一位老师讲述道： “我在课堂上使用Twitter已有一年。学生的作品变得越来越有趣。通过Twitter，我可以以更具体的方式深化教学概念。 传统课堂活动显得很生硬、脱离实际，甚至毫无意义。为什么要学会写作？孩子们根本不去思考，因为他们的作业局限于作业本里，随后被锁进柜子或书包中。他们没有机会分享自己的作品，与他人对比，或者为自己的选择辩护。”
@@ -3369,10 +3369,10 @@ D. Ils sont attentifs après un moment de détente.
 > &nbsp;- **ralentir** [ralɑ̃tir] - 放慢/减慢 - **ralentir la croissance** - 减缓增长
 >
 > **常见短语**
-> &nbsp;- **n'en sont qu'à leurs débuts** - 才刚刚开始
-> &nbsp;- **quant à** - 至于/关于
-> &nbsp;- **à la fois** - 同时/一下子
-> &nbsp;- **par conséquent** - 因此/所以
+> &nbsp;- **n'en sont qu'à leurs débuts** - 才刚刚开始 - **ces technologies n'en sont qu'à leurs débuts** - 这些技术才刚刚起步。
+> &nbsp;- **quant à** - 至于/关于 - **quant à l'avenir** - 至于未来。
+> &nbsp;- **à la fois** - 同时/一下子 - **lire et écouter à la fois** - 同时阅读和倾听。
+> &nbsp;- **par conséquent** - 因此/所以 - **je pense, par conséquent je suis** - 我思故我在。
 >
 
 关于大脑和数字工具的研究还处于初期阶段。 虽然大脑在基因上保持不变，但它在文化上适应了时代的创新。 自从我们使用互联设备以来，我们对记忆的看法发生了变化。至于专注力，其功能受到以下三个因素的干扰： 同时尝试完成多项任务， 被大量信息轰炸， 经常被通知打断。 因此，学习能力、信息的吸收以及任务的衔接能力都变慢了。
@@ -3422,9 +3422,9 @@ C. Ils fluidifient les relations sociales.
 > &nbsp;- **intéressé** [ɛ̃terɛse] - 感兴趣的 - **être intéressé par** - 对...感兴趣
 >
 > **常见短语**
-> &nbsp;- **à 15 minutes de** - 距离...15分钟路程
-> &nbsp;- **par mois** - 每月
-> &nbsp;- **écrire à** - 给...写信/发邮件
+> &nbsp;- **à 15 minutes de** - 距离...15分钟路程 - **à 15 minutes de marche** - 步行15分钟的距离。
+> &nbsp;- **par mois** - 每月 - **une fois par mois** - 每月一次。
+> &nbsp;- **écrire à** - 给...写信/发邮件 - **écrire à son ami** - 给他的朋友写信。
 >
 
 我们住在距离马赛市中心15分钟的一栋大房子里。我们的孩子已经搬出去了，因此我们希望以每月150欧元的价格出租一间房间给一名学生。如果您有兴趣，请发送邮件至alouer@mailnet.com。
@@ -3473,9 +3473,9 @@ D. Une colocation entre étudiants.
 > &nbsp;- **responsable** [rɛspɔ̃sabl] - 负责人 - **être responsable de** - 对...负责
 >
 > **常见短语**
-> &nbsp;- **nous vous informons que** - 我们通知您...
-> &nbsp;- **sur notre site internet** - 在我们的官方网站上
-> &nbsp;- **remercier de** - 为某事而感谢
+> &nbsp;- **nous vous informons que** - 我们通知您... - **nous vous informons que le magasin ferme** - 我们通知您商店即将关门。
+> &nbsp;- **sur notre site internet** - 在我们的官方网站上 - **consulter sur notre site internet** - 在我们的网站上查阅。
+> &nbsp;- **remercier de** - 为某事而感谢 - **remercier de votre invitation** - 感谢您的邀请。
 >
 
 女士， 我们通知您可以在我们的网站上查看您的6月电话账单。 金额为25.90欧元。 感谢您的信任。 Télécombleu 商业负责人
@@ -3524,10 +3524,10 @@ C. Payer une commande.
 > &nbsp;- **compréhension** [kɔ̃preɑ̃sjɔ̃] - 理解、谅解 - **merci de votre compréhension** - 感谢您的配合
 >
 > **常见短语**
-> &nbsp;- **à cause de** - 因为、由于
-> &nbsp;- **plus d'informations** - 更多信息
-> &nbsp;- **se présenter** - 亲自前往、出席
-
+> &nbsp;- **à cause de** - 因为、由于 - **à cause du bruit** - 因为噪音。
+> &nbsp;- **plus d'informations** - 更多信息 - **obtenir plus d'informations** - 获得更多信息。
+> &nbsp;- **se présenter** - 亲自前往、出席 - **se présenter à l'accueil** - 到接待处报到。
+>
 旅客信息 25路公交车本周暂停运行，原因是道路维修。 地铁和电车正常运行。 如需更多信息，请前往服务台。
 
 **公告中提到的是什么？**
@@ -3574,9 +3574,9 @@ D. Une grève des transports.
 > &nbsp;- **charcuterie** [ʃarkytri] - 熟食，腌肉制品 - **le rayon charcuterie** - 熟食柜台
 >
 > **常见短语**
-> &nbsp;- **grâce à** - 多亏，由于
-> &nbsp;- **par exemple** - 例如
-> &nbsp;- **fait maison** - 自制的，家常的
+> &nbsp;- **grâce à** - 多亏，由于 - **grâce à votre aide** - 依靠您的帮助。
+> &nbsp;- **par exemple** - 例如 - **les langues, par exemple le français** - 语言，例如法语。
+> &nbsp;- **fait maison** - 自制的，家常的 - **une soupe fait maison** - 一碗自制的汤。
 >
 
 来探索上莱茵的美丽吧！Marie-Dominique 欢迎您入住她温馨的家庭，可选择一晚或两晚，价格实惠。 她会让您品尝这片地区的特色美食，例如奶酪或手工制作的熏肉。
@@ -3625,9 +3625,9 @@ D. D'un restaurant traditionnel.
 > &nbsp;- **limite** [limit] - 限度，极限 - **repousser ses limites** - 挑战自己的极限
 >
 > **常见短语**
-> &nbsp;- **arriver en tête** - 排名第一，位居首位
-> &nbsp;- **se faire une obligation** - 把...视为义务/责任
-> &nbsp;- **veiller à** - 注意，致力于，照看
+> &nbsp;- **arriver en tête** - 排名第一，位居首位 - **arriver en tête de la course** - 在比赛中领先。
+> &nbsp;- **se faire une obligation** - 把...视为义务/责任 - **se faire une obligation de venir** - 觉得务必要来。
+> &nbsp;- **veiller à** - 注意，致力于，照看 - **veiller à la qualité** - 确保质量。
 >
 
 体育活动在为12-16岁青少年提供的课外活动中占据主导地位。家长们觉得有一种社会责任，必须让孩子参加这些活动，以向他人表明他们是“好家长”，关注孩子的全面成长。通过这些活动，孩子们可以娱乐、锻炼身体，并接触个人或集体运动。这也是他们发现和接受自身局限的机会。
@@ -3676,10 +3676,10 @@ D. Les envies des adolescents.
 > &nbsp;- **renforcer** [rãfɔrse] - 加强，巩固 - **renforcer la confiance** - 增强信心
 >
 > **常见短语**
-> &nbsp;- **besoin de** - 需要
-> &nbsp;- **culture générale** - 常识，综合素养
-> &nbsp;- **faire la différence** - 脱颖而出，起决定性作用
-> &nbsp;- **tout comme** - 正如，就像
+> &nbsp;- **besoin de** - 需要 - **avoir besoin de repos** - 需要休息。
+> &nbsp;- **culture générale** - 常识，综合素养 - **tester sa culture générale** - 测试某人的常识储备。
+> &nbsp;- **faire la différence** - 脱颖而出，起决定性作用 - **faire la différence entre le bien et le mal** - 区分善恶。
+> &nbsp;- **tout comme** - 正如，就像 - **tout comme moi** - 就像我一样。
 >
 
 阅读小说不仅仅是一种消遣。大脑需要刺激才能保持其全部功能。研究表明，阅读甚至可以降低阿尔茨海默病的发病风险。 这一爱好还能缓解压力，因为阅读可以让您远离烦恼并放松身心。阅读往往也是一种愉快的入睡前活动。此外，阅读还能提升您的词汇量、拼写能力和整体文化素养：这些都是在职业生涯中脱颖而出的优势。它还能增强分析能力、记忆力、专注力以及识别他人情绪的能力。
@@ -3729,10 +3729,10 @@ D. Sa pratique exige des connaissances variées.
 > &nbsp;- **entraîner** [ɑ̃trɛne] - 训练/指导 - **entraîner des sportifs** - 训练运动员
 >
 > **常见短语**
-> &nbsp;- **association sportive** - 体育协会
-> &nbsp;- **vacances de printemps** - 春假
-> &nbsp;- **pendant les vacances** - 在假期期间
-> &nbsp;- **bon niveau** - 良好的水平/高水平
+> &nbsp;- **association sportive** - 体育协会 - **adhérer à une association sportive** - 加入一个体育协会。
+> &nbsp;- **vacances de printemps** - 春假 - **partir pendant les vacances de printemps** - 春假期间出发。
+> &nbsp;- **pendant les vacances** - 在假期期间 - **pendant les vacances d'été** - 在暑假期间。
+> &nbsp;- **bon niveau** - 良好的水平/高水平 - **avoir un bon niveau de français** - 法语水平良好。
 >
 
 我们的体育协会在春假期间组织了一个“儿童”培训营。我们正在寻找一名网球水平较高的辅导员来训练孩子们。
@@ -3781,10 +3781,10 @@ D. Une formation d'entraîneur.
 > &nbsp;- **diminuer** [diminɥe] - 减少/降低 - **diminuer le prix** - 降低价格
 >
 > **常见短语**
-> &nbsp;- **offre promotionnelle** - 促销优惠
-> &nbsp;- **au rayon frais** - 在生鲜区
-> &nbsp;- **avoir l'intention de** - 打算做某事
-> &nbsp;- **mieux vaut** - 最好/与其...不如...
+> &nbsp;- **offre promotionnelle** - 促销优惠 - **profiter d'une offre promotionnelle** - 享受优惠活动。
+> &nbsp;- **au rayon frais** - 在生鲜区 - **chercher du lait au rayon frais** - 在生鲜区找牛奶。
+> &nbsp;- **avoir l'intention de** - 打算做某事 - **avoir l'intention de voyager** - 打算去旅游。
+> &nbsp;- **mieux vaut** - 最好/与其...不如... - **mieux vaut prévenir que guérir** - 预防胜于治疗。
 >
 
 从今年年初开始，Devigne品牌加大了促销力度。在生鲜区，其所有知名品牌如Dania、Actovet均大幅降价。同样的趋势也适用于饮料类，例如“三件商品按两件的价格出售”。结果：今年，25%的销售额将来自这些促销活动。Devigne的老板Franck Ribaud因此决定延长这一策略。他表示，与其关闭工厂，不如降价。
@@ -3833,9 +3833,9 @@ D. Ouvrir d'autres magasins.
 > &nbsp;- **association** [asɔsjasjɔ̃] - 协会、社团 - **association caritative** - 慈善协会
 >
 > **常见短语**
-> &nbsp;- **du... au...** - 从...到...
-> &nbsp;- **à tous les âges** - 适合所有年龄层
-> &nbsp;- **s'occuper de** - 照顾、负责
+> &nbsp;- **du... au...** - 从...到... - **du lundi au vendredi** - 从周一到周五。
+> &nbsp;- **à tous les âges** - 适合所有年龄层 - **accessible à tous les âges** - 适合所有年龄段。
+> &nbsp;- **s'occuper de** - 照顾、负责 - **s'occuper de ses enfants** - 照顾自己的孩子。
 >
 
 从12月30日至1月15日，在“玩转各年龄”商店，单车和电子游戏产品享受五折优惠。每笔购买将捐赠2欧元给“更好地学习”，一个专注于6至15岁儿童的协会。
@@ -3883,10 +3883,10 @@ D. Une remise de 2 euros par article.
 > &nbsp;- **enfant** [ɑ̃fɑ̃] - 儿童 - **un menu enfant** - 一份儿童套餐
 >
 > **常见短语**
-> &nbsp;- **faire le tour de** - 环绕...一圈/游览
-> &nbsp;- **en plus petite** - 缩小版地/以缩小的形式
-> &nbsp;- **passer de ... à ...** - 从...移动/转换到...
-> &nbsp;- **à partir de** - 从...起/从...开始
+> &nbsp;- **faire le tour de** - 环绕...一圈/游览 - **faire le tour du monde** - 环球旅行。
+> &nbsp;- **en plus petite** - 缩小版地/以缩小的形式 - **une version en plus petite** - 一个更小的版本。
+> &nbsp;- **passer de ... à ...** - 从...移动/转换到... - **passer du rire aux larmes** - 从笑转为哭。
+> &nbsp;- **à partir de** - 从...起/从...开始 - **à partir de demain** - 从明天开始。
 >
 
 您想在一个下午游览法国吗？ 欢迎来到法国迷你公园！您将在这里看到来自法国各地的建筑物，比例缩小。您可以在几分钟内从埃菲尔铁塔“到达”圣米歇尔山。 票价：成人7欧元，6岁以上儿童5欧元。
@@ -3936,10 +3936,10 @@ D. Suivre des visites avec un guide.
 > &nbsp;- **repousser** [rəpuse] - 推迟，拒绝 - **repousser une demande** - 拒绝一项请求
 >
 > **常见短语**
-> &nbsp;- **en rapport avec** - 与...有关
-> &nbsp;- **pris en compte** - 被考虑在内，计入
-> &nbsp;- **quel que soit** - 无论，不管
-> &nbsp;- **raison de service** - 公务原因，工作原因
+> &nbsp;- **en rapport avec** - 与...有关 - **un travail en rapport avec l'art** - 与艺术相关的工作。
+> &nbsp;- **pris en compte** - 被考虑在内，计入 - **être pris en compte dans le calcul** - 在计算中被考虑进去。
+> &nbsp;- **quel que soit** - 无论，不管 - **quel que soit votre choix** - 无论你的选择是什么。
+> &nbsp;- **raison de service** - 公务原因，工作原因 - **absent pour raison de service** - 因公缺席。
 >
 
 找到合适的文凭 通过经验认证机制可以在三年相关活动后获得文凭。 所从事的活动必须与申请的文凭相关，志愿服务经历也被纳入考量。无论教育水平如何，经验都可以被认可，并有可能获得特殊假期以准备申请材料。但雇主可能因为服务原因推迟申请。
@@ -3989,9 +3989,9 @@ C. Un niveau d'études universitaires minimum.
 > &nbsp;- **adeptes** [adɛpt] - 信奉者，爱好者 - **un adepte de la nature** - 大自然的爱好者
 >
 > **常见短语**
-> &nbsp;- **jusqu'en** - 直到（用于年份前）
-> &nbsp;- **fait don de** - 捐赠
-> &nbsp;- **afin d'en faire** - 为了将其变成...
+> &nbsp;- **jusqu'en** - 直到（用于年份前） - **jusqu'en décembre** - 直到十二月。
+> &nbsp;- **fait don de** - 捐赠 - **faire don de son sang** - 献血。
+> &nbsp;- **afin d'en faire** - 为了将其变成... - **afin d'en faire un parc** - 为了将其建成公园。
 >
 
 这座房子于1709年由Montrgand家族购得并保留至1801年。Jules Cantini，这位在马赛建造了许多民用和宗教建筑的企业家，是其最后一任主人。1916年，他将他的收藏和房子捐赠给马赛市，以创建一座致力于他所处时代艺术的博物馆——现代主义艺术。其中展出了追随这一艺术运动的画家的作品。
@@ -4040,10 +4040,10 @@ D. Les plans de plusieurs églises marseillaises.
 > &nbsp;- **autonomie** [otɔnɔmi] - 自主/独立性 - **en toute autonomie** - 完全独立地
 >
 > **常见短语**
-> &nbsp;- **grâce au** - 凭借/多亏
-> &nbsp;- **centre de loisirs** - 休闲中心
-> &nbsp;- **année scolaire** - 学年
-> &nbsp;- **participer à** - 参加
+> &nbsp;- **grâce au** - 凭借/多亏 - **grâce au soutien de sa famille** - 多亏了家人的支持。
+> &nbsp;- **centre de loisirs** - 休闲中心 - **travailler dans un centre de loisirs** - 在休闲中心工作。
+> &nbsp;- **année scolaire** - 学年 - **pendant l'année scolaire** - 在学年期间。
+> &nbsp;- **participer à** - 参加 - **participer à une réunion** - 参加会议。
 >
 
 该地区决定通过环保项目“生态儿童”，提高孩子们对可持续发展的意识。这个项目与休闲中心合作开展。整个学年，孩子们将参与创意项目，比如举办关于节约用水的展览，学习如何在烹饪时减少浪费……以及在休闲中心进行一场“节水”活动！最终目标是让孩子们获得必要的知识和自主能力，成为合格的生态公民。
@@ -4092,10 +4092,10 @@ D. Sensibiliser leur entourage aux dangers de la pollution.
 > &nbsp;- **piscine** [pisin] - 游泳池 - **piscine couverte** - 室内游泳池。
 >
 > **常见短语**
-> &nbsp;- **passer vos vacances** - 度过您的假期。
-> &nbsp;- **au même moment** - 在同一时间。
-> &nbsp;- **il y a** - 有。
-> &nbsp;- **plus d'informations** - 更多信息。
+> &nbsp;- **passer vos vacances** - 度过您的假期。 - **passer vos vacances à la mer** - 在海边度过你们的假期。
+> &nbsp;- **au même moment** - 在同一时间。 - **arriver au même moment** - 同时到达。
+> &nbsp;- **il y a** - 有。 - **il y a deux jours** - 两天前。
+> &nbsp;- **plus d'informations** - 更多信息。 - **demander plus d'informations** - 询问更多信息。
 >
 
 您是一个巴黎家庭，想要在加拿大度假吗？ 7月来我们多伦多的家，我们会在同一时间去您法国的家！ 我们的房子很舒适。有四个卧室，一个花园和一个游泳池。如需更多信息，请通过以下地址联系我们：beaulieu.toronto@mail.ca。
@@ -4145,10 +4145,10 @@ D. La vendre.
 > &nbsp;- **bénéfice** [benefis] - 益处，好处 - **tirer bénéfice de** - 从...中获益
 >
 > **常见短语**
-> &nbsp;- **venir de** - 刚刚做某事
-> &nbsp;- **dans le cadre de** - 在...框架内/背景下
-> &nbsp;- **en apprendre plus sur** - 更多地了解/学习关于...
-> &nbsp;- **connu pour** - 以...而闻名/因...被熟知
+> &nbsp;- **venir de** - 刚刚做某事 - **venir de Paris** - 来自巴黎。
+> &nbsp;- **dans le cadre de** - 在...框架内/背景下 - **dans le cadre de son stage** - 在他实习的范围内。
+> &nbsp;- **en apprendre plus sur** - 更多地了解/学习关于... - **en apprendre plus sur l'histoire** - 了解更多关于历史。
+> &nbsp;- **connu pour** - 以...而闻名/因...被熟知 - **être connu pour son talent** - 以天赋闻名。
 >
 
 法国研究人员刚刚评估了一些室内植物净化家中空气的能力。 为了验证某些室内植物的“空气净化”作用，他们在名为Phytair的研究项目中进行了测试。这个研究项目启动于几年前，旨在进一步了解已知对室内空气有益的各种植物。
@@ -4198,11 +4198,11 @@ D. Multiplier leurs variétés.
 > &nbsp;- **inattentif** [inatɑ̃tif] - 疏忽的，不留神的 - **être inattentif à** - 对...不注意
 >
 > **常见短语**
-> &nbsp;- **tout en** - 一边...一边...（表示同时性）
-> &nbsp;- **fait suite à** - 继...之后 / 由于
-> &nbsp;- **en effet** - 的确 / 事实上
-> &nbsp;- **au lieu de** - 而不是 / 代替
-> &nbsp;- **être concentré sur** - 专注于...
+> &nbsp;- **tout en** - 一边...一边...（表示同时性） - **tout en lisant** - 一边读书一边。
+> &nbsp;- **fait suite à** - 继...之后 / 由于 - **faire suite à un courriel** - 回复一封邮件。
+> &nbsp;- **en effet** - 的确 / 事实上 - **c'est en effet possible** - 这确实是有可能的。
+> &nbsp;- **au lieu de** - 而不是 / 代替 - **au lieu de sortir** - 而不是出去。
+> &nbsp;- **être concentré sur** - 专注于... - **être concentré sur son travail** - 专注于工作。
 >
 
 在意大利撒丁岛，边看手机边过马路的行人可能会被罚款。这项措施是由于不注意的行人与车辆之间的事故数量增加而制定的。事实上，这些行人因为专注于他们的屏幕而没有注意到周围的环境，也听不到汽车的声音。
@@ -4251,9 +4251,9 @@ D. Du vote d'une nouvelle loi.
 > &nbsp;- **rembourser** [rãburse] - 退款、偿还 - **être remboursé** - 获得退款
 >
 > **常见短语**
-> &nbsp;- **carte cadeau** - 礼品卡
-> &nbsp;- **produits de beauté** - 美容产品
-> &nbsp;- **contre de l'argent** - 换取现金
+> &nbsp;- **carte cadeau** - 礼品卡 - **offrir une carte cadeau** - 赠送一张礼品卡。
+> &nbsp;- **produits de beauté** - 美容产品 - **vendre des produits de beauté** - 销售美容产品。
+> &nbsp;- **contre de l'argent** - 换取现金 - **échanger un objet contre de l'argent** - 拿物品换钱。
 >
 
 恭喜！ 您获得了一张价值50欧元的礼品卡。 您可以使用它购买我们所有的美容产品。 注意：此卡不能兑换现金或转让给他人。 如果丢失，将不予退款。
@@ -4303,10 +4303,10 @@ D. Retirer de l'argent à un distributeur.
 > &nbsp;- **tarif** [tarif] - 价格 - **tarif réduit** - 减价/折扣价
 >
 > **常见短语**
-> &nbsp;- **du ... au ...** - 从...到...
-> &nbsp;- **visiter le salon** - 参观展览会
-> &nbsp;- **sur place** - 现场/就地
-> &nbsp;- **moins de** - 少于/在...以下
+> &nbsp;- **du ... au ...** - 从...到... - **du lundi au vendredi** - 从周一到周五。
+> &nbsp;- **visiter le salon** - 参观展览会 - **visiter le salon de l'auto** - 参观车展。
+> &nbsp;- **sur place** - 现场/就地 - **manger sur place** - 在店里吃（堂食）。
+> &nbsp;- **moins de** - 少于/在...以下 - **moins de dix euros** - 少于十欧元。
 >
 
 6月4日至26日，来斯特拉斯堡参观农业博览会 为成人提供工作坊，为儿童提供与动物同行的机会。 现场有食物和饮品摊位。 针对团体和12岁以下儿童有特殊票价。 更多信息请访问 salon.agriculture-strasbourg.fr
@@ -4356,10 +4356,10 @@ C. De se promener dans une ferme.
 > &nbsp;- **langueur** [lãɡœr] - 沉闷/倦怠 - **avec langueur** - 没精打采地
 >
 > **常见短语**
-> &nbsp;- **pièce de théâtre** - 戏剧作品
-> &nbsp;- **en faire un succès** - 使其成功
-> &nbsp;- **mise en scène** - 舞台调度/导演
-> &nbsp;- **ombre au tableau** - 美中不足之处
+> &nbsp;- **pièce de théâtre** - 戏剧作品 - **jouer une pièce de théâtre** - 演一场戏。
+> &nbsp;- **en faire un succès** - 使其成功 - **tout pour en faire un succès** - 竭尽全力使其成功。
+> &nbsp;- **mise en scène** - 舞台调度/导演 - **la mise en scène est originale** - 舞台布置很新颖。
+> &nbsp;- **ombre au tableau** - 美中不足之处 - **la seule ombre au tableau** - 唯一的瑕疵。
 >
 
 《生日派对》，哈罗德·品特的戏剧作品。 梅格和她的丈夫经营着一家酒店，只有一位客人斯坦利。两位新客人的到来打破了斯坦利的平静…… 成功的所有要素都具备：细腻的写作、出色的演员、美丽的剧场、独特的舞台布景。然而存在一个缺陷：演出时间过长……
@@ -4408,10 +4408,10 @@ D. Le lieu du spectacle.
 > &nbsp;- **informations** [ɛ̃fɔrmasjɔ̃] - 信息 - **demander des informations** - 询问信息
 >
 > **常见短语**
-> &nbsp;- **centre d'été** - 夏令营 / 夏季中心
-> &nbsp;- **fait pour** - 专为...而设 / 适合...
-> &nbsp;- **à la journée** - 按天计算
-> &nbsp;- **prix réduits** - 减价 / 优惠价
+> &nbsp;- **centre d'été** - 夏令营 / 夏季中心 - **s'inscrire au centre d'été** - 报名夏季中心。
+> &nbsp;- **fait pour** - 专为...而设 / 适合... - **c'est fait pour vous** - 这是为您准备的/适合您的。
+> &nbsp;- **à la journée** - 按天计算 - **louer un vélo à la journée** - 按天租自行车。
+> &nbsp;- **prix réduits** - 减价 / 优惠价 - **profiter de prix réduits** - 享受折扣价。
 >
 
 您的孩子喜欢散步、跑步或游泳吗？为7到17岁儿童设立的夏季中心正适合他们！ 按天、按周或按月收费。巴黎居民可享优惠。访问我们的网站 Soleilpourtous.fr 了解更多信息。
@@ -4460,10 +4460,10 @@ D. Des visites de Paris.
 > &nbsp;- **échanger** [eʃɑ̃ʒe] - 交换 - **échanger A contre B** - 用A换B
 >
 > **常见短语**
-> &nbsp;- **l'an dernier** - 去年
-> &nbsp;- **prix du Climat** - 气候奖
-> &nbsp;- **banque écologique** - 生态银行
-> &nbsp;- **une certaine quantité de** - 一定数量的
+> &nbsp;- **l'an dernier** - 去年 - **voyager l'an dernier** - 去年旅行。
+> &nbsp;- **prix du Climat** - 气候奖 - **recevoir le prix du Climat** - 获得气候奖。
+> &nbsp;- **banque écologique** - 生态银行 - **ouvrir un compte dans une banque écologique** - 在生态银行开户。
+> &nbsp;- **une certaine quantité de** - 一定数量的 - **une certaine quantité de données** - 一定数量的数据。
 >
 
 一个令人惊讶的项目：José，13岁，去年获得了气候奖。他在自己的国家设想了一家生态银行。如果每个月一个孩子收集一定数量的垃圾（塑料、纸板……），就会给他一种可以兑换为真钱的货币。
@@ -4512,10 +4512,10 @@ D. Du problème créé par les déchets.
 > &nbsp;- **animateur** [animatør] - 活动主持人/领队 - **animateur de télévision** - 电视节目主持人
 >
 > **常见短语**
-> &nbsp;- **il y a** - 有/在...之前
-> &nbsp;- **temps de travail** - 工作时间
-> &nbsp;- **tout au long de** - 整个...期间
-> &nbsp;- **par exemple** - 例如
+> &nbsp;- **il y a** - 有/在...之前 - **il y a trois ans** - 三年以前。
+> &nbsp;- **temps de travail** - 工作时间 - **réduire le temps de travail** - 减少工作时间。
+> &nbsp;- **tout au long de** - 整个...期间 - **tout au long de l'année** - 整个一年。
+> &nbsp;- **par exemple** - 例如 - **les fruits, par exemple la pomme** - 水果，比如苹果。
 >
 
 法国人在度假的时间更短，但比20年前更频繁。 由于工作时间减少到每周35小时，法国人的周末时间更长。他们可以增加短途旅行的次数，而且是一年四季都可以。因此，旅游业的活动不再局限于冬季和夏季：比如度假俱乐部的活动策划者，现在从一月到十二月都有工作。
@@ -4565,10 +4565,10 @@ D. Ils sont saisonniers et occupés par des étudiants.
 > &nbsp;- **valable** [valabl] - 有效的 - **être valable dans** - 在...有效
 >
 > **常见短语**
-> &nbsp;- **titres de transport** - 乘车凭证/车票
-> &nbsp;- **bientôt** - 很快，不久
-> &nbsp;- **carte magnétique** - 磁卡
-> &nbsp;- **machines automatiques** - 自动售票机
+> &nbsp;- **titres de transport** - 乘车凭证/车票 - **acheter des titres de transport** - 购买车票。
+> &nbsp;- **bientôt** - 很快，不久 - **à bientôt** - 一会儿见。
+> &nbsp;- **carte magnétique** - 磁卡 - **utiliser une carte magnétique** - 使用磁卡。
+> &nbsp;- **machines automatiques** - 自动售票机 - **les machines automatiques de billets** - 自动售票机。
 >
 
 交通票（车票、卡片等）将很快由磁卡取代。旅客需要支付2欧元购买，并可在车站的售票窗口和自动售票机充值。该卡可用于地铁、公交和有轨电车。
@@ -4617,10 +4617,10 @@ C. Leur prix va encore augmenter.
 > &nbsp;- **vocal** [vɔkal] - 声音的 - **Commande vocale** - 语音指令
 >
 > **常见短语**
-> &nbsp;- **centre de Relations Client** - 客户关系中心
-> &nbsp;- **du lundi au vendredi** - 从周一到周五
-> &nbsp;- **7 jours sur 7** - 每周7天（一周无休）
-> &nbsp;- **24 heures sur 24** - 每天24小时（全天候）
+> &nbsp;- **centre de Relations Client** - 客户关系中心 - **contacter le centre de Relations Client** - 联系客服中心。
+> &nbsp;- **du lundi au vendredi** - 从周一到周五 - **ouvert du lundi au vendredi** - 周一至周五营业。
+> &nbsp;- **7 jours sur 7** - 每周7天（一周无休） - **disponible 7 jours sur 7** - 每周7天都在线。
+> &nbsp;- **24 heures sur 24** - 每天24小时（全天候） - **ouvert 24 heures sur 24** - 24小时营业。
 >
 
 客户服务中心的联系电话可在周一至周五上午8点到晚上10点、周六上午8点到晚上6点与顾问交流，也可以通过语音服务系统全天24小时获取信息。
@@ -4670,10 +4670,10 @@ D. Demander le service de relation avec la clientèle.
 > &nbsp;- **sincèrement** [sɛ̃sɛrmã] - 真诚地 - **espérer sincèrement** - 诚挚地希望
 >
 > **常见短语**
-> &nbsp;- **pour des raisons professionnelles** - 出于职业原因/因为工作原因
-> &nbsp;- **être de retour** - 回来
-> &nbsp;- **tu me manques** - 我想念你
-> &nbsp;- **je t'embrasse** - 吻你/亲爱的（亲友书信结尾用语）
+> &nbsp;- **pour des raisons professionnelles** - 出于职业原因/因为工作原因 - **voyager pour des raisons professionnelles** - 因公出差。
+> &nbsp;- **être de retour** - 回来 - **être de retour à la maison** - 回到家。
+> &nbsp;- **tu me manques** - 我想念你 - **tu me manques beaucoup** - 我非常想你。
+> &nbsp;- **je t'embrasse** - 吻你/亲爱的（亲友书信结尾用语） - **je t'embrasse affectueusement** - 亲切地拥抱你。
 >
 
 亲爱的Marie， 我写这封信是想告诉你，很遗憾我无法参加Théo的生日派对了。我真的很抱歉！由于工作原因，我要去日本，离你有成千上万公里！ 我会在三周后回国，希望到时候能和你、Théo见面。我们也可以邀请Fred。好想你。 抱歉， Pierre
@@ -4723,9 +4723,9 @@ D. Une lettre de vacances.
 > &nbsp;- **suspendre** [syspãdr] - 暂停/中断 - **suspendre les travaux** - 暂停工程
 >
 > **常见短语**
-> &nbsp;- **conformément à** - 根据/依照
-> &nbsp;- **en pièce jointe** - 在附件中
-> &nbsp;- **faire part de** - 告知/通知
+> &nbsp;- **conformément à** - 根据/依照 - **conformément à la loi** - 根据法律
+> &nbsp;- **en pièce jointe** - 在附件中 - **veuillez trouver le dossier en pièce jointe** - 请查收附件中的文件
+> &nbsp;- **faire part de** - 告知/通知 - **faire part de sa décision** - 宣布他的决定
 >
 
 主题：关于您场所的维护 尊敬的主管： 根据已获您批准的报价单（见附件），我们的团队将于6月20日进行贵公司主楼右翼的必要维护工作。 由于施工需要使用有风险的设备且可能产生噪音，为了保障人员的安全和舒适，建议在6月20日暂停相关楼层的工作。 提前感谢您对此事的反馈意见。 此致，敬礼 Jacques Legendre 维护服务负责人
@@ -4775,10 +4775,10 @@ D. De préciser la nature de l'intervention.
 > &nbsp;- **image** [imaʒ] - 图像/影像 - **professionnels de l'image** - 影像专业人士
 >
 > **常见短语**
-> &nbsp;- **festival de courts métrages** - 短片电影节
-> &nbsp;- **langue des signes** - 手语
-> &nbsp;- **films sous-titrés** - 带字幕的电影
-> &nbsp;- **film d'animation** - 动画片
+> &nbsp;- **festival de courts métrages** - 短片电影节 - **participer au festival de courts métrages** - 参加短片电影节
+> &nbsp;- **langue des signes** - 手语 - **communiquer en langue des signes** - 用手语交流
+> &nbsp;- **films sous-titrés** - 带字幕的电影 - **regarder des films sous-titrés en français** - 观看带有法文字幕的电影
+> &nbsp;- **film d'animation** - 动画片 - **réaliser un film d'animation** - 制作一部动画片
 >
 
 短片聋人电影节向所有人开放：配有手语翻译和字幕。 该短片电影节展示了由聋人导演创作的作品。所有类型的电影都被接纳：剧情片、纪录片、动画片……欢迎所有观众。 在为期三天的活动中，一个“交流”空间被创建，连接接纳年轻聋人的欧洲学校、聋人和非聋人观众，以及聋人青年与影像专业人士之间的互动。
@@ -4829,10 +4829,10 @@ D. Il programme des spectacles destinés à un jeune public sourd.
 > &nbsp;- **essayer** [esɛje] - 尝试 - **essayer de faire qch** - 尝试做某事
 >
 > **常见短语**
-> &nbsp;- **près de** - 在...附近
-> &nbsp;- **se faire des amis** - 交朋友
-> &nbsp;- **rendez-vous** - 约会/约定
-> &nbsp;- **c'est génial** - 太棒了
+> &nbsp;- **près de** - 在...附近 - **habiter près de la gare** - 住在火车站附近
+> &nbsp;- **se faire des amis** - 交朋友 - **se faire des amis à l'université** - 在大学里交朋友
+> &nbsp;- **rendez-vous** - 约会/约定 - **prendre rendez-vous avec le médecin** - 与医生预约
+> &nbsp;- **c'est génial** - 太棒了 - **c'est génial de te voir** - 见到你真是太棒了
 >
 
 亲爱的Andréa， 昨天我和社区里的单身人士一起吃午餐。中午12点半，我们在教堂附近的一家科西嘉餐厅见面。我们一共有7个人，吃得很好，笑得很开心。 这真是一个交朋友的好方法：你可以在MIAMI网站上注册，并查看你所在社区的约会提议。 你应该试试，真的很棒！ Léa
@@ -4882,10 +4882,10 @@ C. Un service municipal d'aide sociale aux jeunes célibataires.
 > &nbsp;- **conforme** [kɔ̃fɔrm] - 符合的 - **conforme au contrat** - 符合合同
 >
 > **常见短语**
-> &nbsp;- **chercher à** - 试图/努力做
-> &nbsp;- **dédié à** - 专门用于/献给
-> &nbsp;- **à terme** - 最终/到期
-> &nbsp;- **c'est-à-dire** - 也就是说/即
+> &nbsp;- **chercher à** - 试图/努力做 - **chercher à comprendre le problème** - 试图理解问题
+> &nbsp;- **dédié à** - 专门用于/献给 - **un espace dédié à la détente** - 一个专门用于放松的空间
+> &nbsp;- **à terme** - 最终/到期 - **aboutir à terme** - 最终达成
+> &nbsp;- **c'est-à-dire** - 也就是说/即 - **c'est-à-dire que...** - 也就是说...
 >
 
 我们很少询问孩子们喜欢吃什么。 “许多儿童食品由成年人测试”，《告诉我味道》项目的地区代表解释道。“但孩子们的意见对那些希望开发专为儿童设计产品的人来说非常重要。南特的农业食品学校因此展开了对孩子口味和食物感知的调查。目标是更细致地了解他们的饮食偏好。这项研究的结果应最终帮助设计既符合国家营养计划推荐、又符合孩子口味的健康食品。”
@@ -4935,10 +4935,10 @@ D. Permettre aux enfants de découvrir de nouveaux aliments.
 > &nbsp;- **étrange** [etrɑ̃ʒ] - 奇怪的，诡异的 - **un son étrange** - 一种奇怪的声音
 >
 > **常见短语**
-> &nbsp;- **ne jurer que par** - 唯...是从，唯独信赖...
-> &nbsp;- **le faire savoir** - 表达出来，让人知道
-> &nbsp;- **mettre à l'épreuve** - 考验，使受试炼
-> &nbsp;- **théâtre de** - ...的发生地，...的舞台
+> &nbsp;- **ne jurer que par** - 唯...是从，唯独信赖... - **ne jurer que par le bio** - 只信赖有机食品
+> &nbsp;- **le faire savoir** - 表达出来，让人知道 - **il faut le faire savoir à tous** - 必须让所有人都知道
+> &nbsp;- **mettre à l'épreuve** - 考验，使受试炼 - **mettre à l'épreuve sa patience** - 考验他的耐心
+> &nbsp;- **théâtre de** - ...的发生地，...的舞台 - **être le théâtre de grands changements** - 是重大变革的舞台
 >
 
 这部电影的情节设定在18世纪末的新英格兰。一个年轻的警探信奉科学和逻辑，并且总是抓住机会表达自己的观点。为了考验他，上级将他派到一个有荷兰农民的小村庄，那里发生了多起离奇的谋杀案。
@@ -4988,9 +4988,9 @@ D. Les expériences originales d'un scientifique anglais.
 > &nbsp;- **association** [asɔsjasjɔ̃] - 协会 - **faire partie d'une association** - 加入协会
 >
 > **常见短语**
-> &nbsp;- **type de transport** - 交通方式
-> &nbsp;- **parler de** - 谈论
-> &nbsp;- **il y a** - 有
+> &nbsp;- **type de transport** - 交通方式 - **choisir un type de transport durable** - 选择一种可持续的交通方式
+> &nbsp;- **parler de** - 谈论 - **parler de son projet** - 谈论他的项目
+> &nbsp;- **il y a** - 有 - **il y a beaucoup de monde** - 有很多人
 >
 
 在佩皮尼昂，自行车是一种非常实用的交通工具。“自行车之家”鼓励这种交通方式。他们开设了一个工作坊，人们可以在这里讨论自行车并免费维修。目前协会有800名成员。
@@ -5039,10 +5039,10 @@ D. Pour trouver des vélos bon marché.
 > &nbsp;- **animation** [animasjɔ̃] - 活动，娱乐项目 - **équipe d'animation** - 活动团队
 >
 > **常见短语**
-> &nbsp;- **fermer ses portes** - 闭幕，停业
-> &nbsp;- **à part** - 独特的，别具一格的
-> &nbsp;- **le pays du soleil levant** - 日出之国（指日本）
-> &nbsp;- **en lien avec** - 与...相关
+> &nbsp;- **fermer ses portes** - 闭幕，停业 - **le musée va fermer ses portes** - 博物馆将要关门
+> &nbsp;- **à part** - 独特的，别具一格的 - **à part cela** - 除了那个以外
+> &nbsp;- **le pays du soleil levant** - 日出之国（指日本） - **voyager au pays du soleil levant** - 去日本旅行
+> &nbsp;- **en lien avec** - 与...相关 - **en lien avec le sujet** - 与主题相关
 >
 
 南特国际博览会将于周日闭幕。这是一个不容错过的受欢迎活动。这场博览会有独特的氛围，融合了三个主要领域：家居、休闲和美食。今年，博览会带领参观者进入“旭日之国”，举办了一场精彩的日本传统文化展览，同时还有许多与亚洲国家相关的活动。
@@ -5091,9 +5091,9 @@ D. Elle s'est terminée dimanche dernier.
 > &nbsp;- **dématérialisation** [dematerjalizasjɔ̃] - 无纸化，数字化 - **la dématérialisation des services** - 服务数字化
 >
 > **常见短语**
-> &nbsp;- **se tourner** - 翻篇，翻转
-> &nbsp;- **s'émouvoir de** - 对...感到不安/触动
-> &nbsp;- **en feuilles** - 以纸张的形式
+> &nbsp;- **se tourner** - 翻篇，翻转 - **se tourner vers l'avenir** - 转向未来
+> &nbsp;- **s'émouvoir de** - 对...感到不安/触动 - **s'émouvoir de cette situation** - 对这种情况感到动容
+> &nbsp;- **en feuilles** - 以纸张的形式 - **thé en feuilles** - 叶片茶
 >
 
 一页新篇章，或者说对议员来说，不再需要翻纸页了。电子平板现在取代了厚厚的纸质文件。 自从今年6月推出以来，许多新议员对在文本审查过程中使用大量纸张感到震惊，修正案的文件几乎总是以纸质形式打印。每年大约使用52,000包纸，尽管过去五年来，通过部分工作电子化，这一数字已经大幅减少。
@@ -5142,10 +5142,10 @@ C. Pour étudier plus rapidement les amendements.
 > &nbsp;- **reçu** [rəsy] - 收据 - **accuser reçu** - 确认收到
 >
 > **常见短语**
-> &nbsp;- **en ligne** - 在线/网上
-> &nbsp;- **bureau de poste** - 邮局
-> &nbsp;- **carte d'identité** - 身份证
-> &nbsp;- **service client** - 客服/客户服务
+> &nbsp;- **en ligne** - 在线/网上 - **faire des achats en ligne** - 网上购物
+> &nbsp;- **bureau de poste** - 邮局 - **aller au bureau de poste** - 去邮局
+> &nbsp;- **carte d'identité** - 身份证 - **présenter sa carte d'identité** - 出示身份证
+> &nbsp;- **service client** - 客服/客户服务 - **contacter le service client** - 联系客服
 >
 
 亲爱的客户， 您的在线购买已确认。您可以在两到三天内前往邮局取回您的订单。请勿忘记携带您的身份证和收据。 感谢您选择我们的网站。 客户服务部
@@ -5194,10 +5194,10 @@ D. Une facture à payer.
 > &nbsp;- **dégradation** [degradasjɔ̃] - 损坏，破坏 - **dégradations humaines** - 人为损坏
 >
 > **常见短语**
-> &nbsp;- **porter intérêt à** - 对...感兴趣
-> &nbsp;- **garder une trace** - 留下痕迹/保留记录
-> &nbsp;- **finir par** - 最终/以...告终
-> &nbsp;- **destiné à** - 旨在/用于
+> &nbsp;- **porter intérêt à** - 对...感兴趣 - **porter intérêt à l'art moderne** - 对现代艺术感兴趣
+> &nbsp;- **garder une trace** - 留下痕迹/保留记录 - **garder une trace de ses dépenses** - 记录开支
+> &nbsp;- **finir par** - 最终/以...告终 - **finir par accepter** - 最终接受
+> &nbsp;- **destiné à** - 旨在/用于 - **un cadeau destiné à sa mère** - 送给他母亲的礼物
 >
 
 在城市艺术（也被称为街头艺术）发展的初期，即五十多年前，没有人真正关注这种短暂的艺术表现形式。这些涂鸦本来注定会消失，但随着时间推移，这种情况发生了改变：如今，人们甚至会切下墙壁以便将其拍卖并留下痕迹，因为在公共空间中保存城市艺术作品存在严重挑战。它们需要被保护免受时间、温度和人为破坏的影响。虽然可以用有机玻璃进行保护，但终有一天墙壁也可能会倒塌。
@@ -5246,9 +5246,9 @@ C. Leurs auteurs sont devenus célèbres.
 > &nbsp;- **étage** [etaʒ] - 楼层 - **monter les étages** - 上楼
 >
 > **常见短语**
-> &nbsp;- **pour la première fois** - 第一次
-> &nbsp;- **au dernier étage** - 在顶层
-> &nbsp;- **se terminer** - 结束
+> &nbsp;- **pour la première fois** - 第一次 - **voir ce film pour la première fois** - 第一次看这部电影
+> &nbsp;- **au dernier étage** - 在顶层 - **habiter au dernier étage** - 住在顶楼
+> &nbsp;- **se terminer** - 结束 - **la réunion va se terminer à midi** - 会议将在中午结束
 >
 
 塞萨尔雕塑展昨天结束了。观众首次得以欣赏到这位艺术家的一百多件作品，这些作品在蓬皮杜中心的宽敞空间里展出了三周。
@@ -5297,9 +5297,9 @@ D. L'entrée est gratuite.
 > &nbsp;- **partager** [partaʒe] - 分享 - **partager un repas** - 分享一顿饭
 >
 > **常见短语**
-> &nbsp;- **faire connaissance avec** - 与...相识/结识
-> &nbsp;- **donner rendez-vous** - 约见/约定时间地点
-> &nbsp;- **tennis de table** - 乒乓球
+> &nbsp;- **faire connaissance avec** - 与...相识/结识 - **faire connaissance avec de nouveaux collègues** - 结识新同事
+> &nbsp;- **donner rendez-vous** - 约见/约定时间地点 - **donner rendez-vous à quelqu'un devant le cinéma** - 约某人在电影院前见面
+> &nbsp;- **tennis de table** - 乒乓球 - **jouer au tennis de table** - 打乒乓球
 >
 
 5月21日星期日， 来与社区居民见面吧！！ “邻里聚会”协会邀请您中午见面。带上一道菜和一杯饮料，与大家一起分享！ 活动： 下午3点乒乓球活动，地点：胜利广场。
@@ -5349,10 +5349,10 @@ D. De visiter de nouveaux logements.
 > &nbsp;- **serviette** [sɛrvjɛt] - 毛巾/餐巾 - **serviette de bain** - 浴巾
 >
 > **常见短语**
-> &nbsp;- **pendant toutes les vacances** - 在整个假期期间
-> &nbsp;- **reste ouverte** - 保持开放
-> &nbsp;- **en famille** - 与家人一起
-> &nbsp;- **penser à** - 记得/想到
+> &nbsp;- **pendant toutes les vacances** - 在整个假期期间 - **partir en voyage pendant toutes les vacances** - 整个假期都去旅行
+> &nbsp;- **reste ouverte** - 保持开放 - **la bibliothèque reste ouverte le samedi** - 图书馆周六保持开放
+> &nbsp;- **en famille** - 与家人一起 - **fêter Noël en famille** - 与家人一起过圣诞节
+> &nbsp;- **penser à** - 记得/想到 - **penser à son avenir** - 考虑自己的未来
 >
 
 在整个假期，您的游泳池将保持开放。 全家相约在塔朗斯的游泳池。购买10次入场券，赠送一个泳帽。请记得带上毛巾。
@@ -5402,10 +5402,10 @@ D. Les heures d'ouverture.
 > &nbsp;- **fidélité** [fidelite] - 忠诚 - **carte de fidélité** - 会员卡
 >
 > **常见短语**
-> &nbsp;- **gagner du temps** - 节省时间/赢得时间
-> &nbsp;- **mode d'emploi** - 使用说明/操作指南
-> &nbsp;- **livraison à domicile** - 送货上门
-> &nbsp;- **en ligne** - 在线/在网上
+> &nbsp;- **gagner du temps** - 节省时间/赢得时间 - **prendre le TGV pour gagner du temps** - 乘坐高铁以节省时间
+> &nbsp;- **mode d'emploi** - 使用说明/操作指南 - **lire attentivement le mode d'emploi** - 仔细阅读使用说明
+> &nbsp;- **livraison à domicile** - 送货上门 - **commander une livraison à domicile** - 定购送货上门服务
+> &nbsp;- **en ligne** - 在线/在网上 - **faire des achats en ligne** - 网上购物
 >
 
 在 Monmagasin.com 上购物，为您的娱乐节省时间。 操作说明： 登录 www.monmagasin.com。 在网站提供的5000个商品中选择您需要的商品。 完成订单并累计每次购物的积分。 选择取货方式： 第二天送货上门（使用会员卡免运费）。 店内取货（根据提供的时间表选择时间并方便取货）。
@@ -5454,9 +5454,9 @@ D. Recevoir sans frais des produits d'essai.
 > &nbsp;- **inoubliable** [inublijabl] - 难以忘怀的 - **un voyage inoubliable** - 一次难忘的旅行
 >
 > **常见短语**
-> &nbsp;- **sort de l'ordinaire** - 不寻常/脱离平庸
-> &nbsp;- **maisons dans les arbres** - 树屋
-> &nbsp;- **tout est prévu** - 一切都已准备就绪
+> &nbsp;- **sort de l'ordinaire** - 不寻常/脱离平庸 - **un spectacle qui sort de l'ordinaire** - 一场不同寻常的演出
+> &nbsp;- **maisons dans les arbres** - 树屋 - **dormir dans des maisons dans les arbres** - 睡在树屋里
+> &nbsp;- **tout est prévu** - 一切都已准备就绪 - **ne vous inquiétez pas, tout est prévu** - 别担心，一切都安排好了
 >
 
 您想体验一次与众不同的经历吗？预订在我们树屋中住一晚吧！舒适的内部环境、冒险的感觉、伴随自然的声音醒来，一切都为您打造一个难忘的假期！
@@ -5504,11 +5504,11 @@ D. De passer une nuit sous la tente.
 > &nbsp;- **réflexion** [refleksjɔ̃] - 思考/反映 - **mener une réflexion** - 进行思考
 >
 > **常见短语**
-> &nbsp;- **à voix haute** - 大声地
-> &nbsp;- **se mettre à** - 开始做某事
-> &nbsp;- **se contenter de** - 仅仅/满足于
-> &nbsp;- **en même temps** - 同时
-> &nbsp;- **mettre à plat** - 理清/阐明
+> &nbsp;- **à voix haute** - 大声地 - **lire un texte à voix haute** - 大声朗读文章
+> &nbsp;- **se mettre à** - 开始做某事 - **se mettre à travailler sérieusement** - 开始认真工作
+> &nbsp;- **se contenter de** - 仅仅/满足于 - **se contenter de peu** - 知足常乐
+> &nbsp;- **en même temps** - 同时 - **parler tous en même temps** - 大家同时说话
+> &nbsp;- **mettre à plat** - 理清/阐明 - **mettre les problèmes à plat** - 把问题彻底说清楚
 >
 
 我们都有过在独处时自言自语的经历。但为什么我们会这样表达，而不是默默地在脑海中思考呢？心理学家 Sébastien Dupont 解释道：通过口头表达，需要选择合适的词语，按顺序表达事物，并理清我们的思路。
@@ -5557,9 +5557,9 @@ D. Pour prendre des décisions.
 > &nbsp;- **imprimante** [ɛ̃primãt] - 打印机 - **imprimante laser** - 激光打印机
 >
 > **常见短语**
-> &nbsp;- **à l'attention de** - 供……审阅，由……收（信函抬头）
-> &nbsp;- **préparer une commande** - 准备订单
-> &nbsp;- **papier d'imprimante** - 打印纸
+> &nbsp;- **à l'attention de** - 供……审阅，由……收（信函抬头） - **écrire une lettre à l'attention du directeur** - 给经理写一封信
+> &nbsp;- **préparer une commande** - 准备订单 - **préparer une commande pour un client** - 为客户准备订单
+> &nbsp;- **papier d'imprimante** - 打印纸 - **acheter une rame de papier d'imprimante** - 买一令打印纸
 >
 
 致所有部门： 我们正在为所有办公室准备一份订购单。请列出需要的物品清单：铅笔、钢笔、橡皮等。注意！打印纸的订购已经结束。
@@ -5608,11 +5608,11 @@ C. Demander de l'encre et du papier.
 > &nbsp;- **réservoir** [rezervwar] - 油箱，水库 - **le réservoir est vide** - 油箱空了
 >
 > **常见短语**
-> &nbsp;- **station-service** - 加油站
-> &nbsp;- **réseaux sociaux** - 社交网络
-> &nbsp;- **se passer le mot** - 互相传话，通气
-> &nbsp;- **bouche-à-oreille** - 口耳相传，口碑
-> &nbsp;- **file d'attente** - 排队，队列
+> &nbsp;- **station-service** - 加油站 - **s'arrêter à la station-service** - 在加油站停靠
+> &nbsp;- **réseaux sociaux** - 社交网络 - **passer du temps sur les réseaux sociaux** - 花时间在社交媒体上
+> &nbsp;- **se passer le mot** - 互相传话，通气 - **se passer le mot pour la surprise** - 为了惊喜互相打招呼
+> &nbsp;- **bouche-à-oreille** - 口耳相传，口碑 - **se faire connaître par le bouche-à-oreille** - 通过口碑出名
+> &nbsp;- **file d'attente** - 排队，队列 - **faire la file d'attente au guichet** - 在窗口排队
 >
 
 加油站没油了：社交网络可能造成的影响之一。 周六晚上，在Pontivy的一个加油站，油价从每升1.267欧元降至1欧元。这一降价是由于支付过程中出现的计算机问题导致的，油泵自动免费开放。短信口口相传，随后Facebook上的帖子也传播了这个消息。整夜，油泵前排起了长队。早晨，油罐已经空了。
@@ -5661,10 +5661,10 @@ D. Ils ont pu téléphoner gratuitement.
 > &nbsp;- **déchet** [deʃɛ] - 垃圾/废弃物 - **zéro déchet** - 零废弃
 >
 > **常见短语**
-> &nbsp;- **ouvert à tous** - 向所有人开放
-> &nbsp;- **du moment que** - 只要...就
-> &nbsp;- **en charge de** - 负责...
-> &nbsp;- **tendre vers** - 趋向于/致力于
+> &nbsp;- **ouvert à tous** - 向所有人开放 - **un concours gratuit et ouvert à tous** - 一个免费且向所有人开放的比赛
+> &nbsp;- **du moment que** - 只要...就 - **tout ira bien du moment que tu es là** - 只要你在，一切都会好
+> &nbsp;- **en charge de** - 负责... - **être en charge de ce projet** - 负责这个项目
+> &nbsp;- **tendre vers** - 趋向于/致力于 - **tendre vers un accord** - 趋向于达成协议
 >
 
 巴黎市政府发起了一项全球创新城市创意竞赛。无论是专业人士还是公民，只要项目中有建筑师参与，都可以参加。竞赛旨在通过创新设计出未来的巴黎。 负责城市规划的助理解释道：“与众不同的做法是以负责任的方式减少原材料的消耗，选择优质材料，趋向于零浪费，与公民共同建设城市，同时汲取他们提出的创意。”
@@ -5713,10 +5713,10 @@ D. De visiter des expositions dans des lieux insolites.
 > &nbsp;- **promenade** [prɔmənad] - 散步 - **faire une promenade** - 散步
 >
 > **常见短语**
-> &nbsp;- **s'occuper de** - 照顾，负责
-> &nbsp;- **il fait chaud** - 天气热
-> &nbsp;- **par exemple** - 例如
-> &nbsp;- **donner à boire** - 给（某人/动物）水喝
+> &nbsp;- **s'occuper de** - 照顾，负责 - **s'occuper de son petit frère** - 照顾弟弟
+> &nbsp;- **il fait chaud** - 天气热 - **il fait très chaud aujourd'hui** - 今天天气很热
+> &nbsp;- **par exemple** - 例如 - **donner un cas par exemple** - 举个例子
+> &nbsp;- **donner à boire** - 给（某人/动物）水喝 - **donner à boire aux animaux** - 给动物喂水
 >
 
 我照顾我的狗 狗和人类一样，不喜欢天气太热。因此，需要让它们保持清凉，比如给它们喝水或冲凉，并且更适合在早晨或晚上遛狗。
@@ -5765,9 +5765,9 @@ C. De les promener souvent.
 > &nbsp;- **hésiter** [ezite] - 犹豫 - **sans hésiter** - 毫不犹豫地
 >
 > **常见短语**
-> &nbsp;- **proposer de** - 提议做...
-> &nbsp;- **n'hésitez pas** - 别犹豫
-> &nbsp;- **bonne chance** - 祝你好运
+> &nbsp;- **proposer de** - 提议做... - **proposer de partir en vacances** - 提议去度假。
+> &nbsp;- **n'hésitez pas** - 别犹豫 - **n'hésitez pas à nous contacter** - 请别犹豫联系我们。
+> &nbsp;- **bonne chance** - 祝你好运 - **souhaiter bonne chance pour l'examen** - 祝愿考试顺利。
 >
 
 CuisineAZ.com 为您提供赢取便捷厨房用品的机会！ 快去我们的网站吧，这是免费的！祝您好运！
@@ -5815,11 +5815,11 @@ D. De remplir un formulaire.
 > &nbsp;- **indispensable** [ɛ̃dispɑ̃sabl] - 必不可少的 - **Indispensable à la vie** - 对生命至关重要
 >
 > **常见短语**
-> &nbsp;- **service des urgences** - 急诊室
-> &nbsp;- **sans conteste** - 毫无疑问地
-> &nbsp;- **sans cesse** - 不停地，接连不断地
-> &nbsp;- **parti pris** - 态度，立场，偏见
-> &nbsp;- **quel que soit** - 无论，不管
+> &nbsp;- **service des urgences** - 急诊室 - **aller au service des urgences** - 去急诊科。
+> &nbsp;- **sans conteste** - 毫无疑问地 - **être sans conteste le meilleur** - 无疑是最好的。
+> &nbsp;- **sans cesse** - 不停地，接连不断地 - **travailler sans cesse** - 不停地工作。
+> &nbsp;- **parti pris** - 态度，立场，偏见 - **avoir un parti pris sur ce sujet** - 对这个话题有偏见。
+> &nbsp;- **quel que soit** - 无论，不管 - **quel que soit votre âge** - 无论您的年龄是多少。
 >
 
 在医院急诊科，我们接待了许多焦虑不安的病人，他们经受了非常创伤性的事件。不论病人的状况如何，善意无疑是最好的回应方式。如果没有冷静且友善的态度，我将无法应对不断面对的压力和攻击。善意不仅是理想的回应方式，也是我们作为医生所必备的技能。
@@ -5870,11 +5870,11 @@ D. Savoir travailler en équipe restreinte.
 > &nbsp;- **profit** [prɔfi] - 利益、益处 - **tirer profit de** - 从...中获益
 >
 > **常见短语**
-> &nbsp;- **se destiner à** - 打算从事、旨在
-> &nbsp;- **de qualité** - 高质量的、优质的
-> &nbsp;- **s'inscrire dans** - 属于...范畴、列入
-> &nbsp;- **mis en place** - 实施、设立
-> &nbsp;- **tirer le meilleur profit de** - 从...中最大限度获益
+> &nbsp;- **se destiner à** - 打算从事、旨在 - **se destiner à une carrière médicale** - 准备从事医疗事业。
+> &nbsp;- **de qualité** - 高质量的、优质的 - **un service de qualité** - 高质量的服务。
+> &nbsp;- **s'inscrire dans** - 属于...范畴、列入 - **s'inscrire dans un projet global** - 被纳入一个全局计划。
+> &nbsp;- **mis en place** - 实施、设立 - **un nouveau système mis en place** - 一个新实施的系统。
+> &nbsp;- **tirer le meilleur profit de** - 从...中最大限度获益 - **tirer le meilleur profit de cette expérience** - 从这次经历中获益最大。
 >
 
 面向学生的成功职业规划论坛 这是什么？ 为有意进入职业领域的中学生提供高质量信息是保证适当职业规划的关键。论坛既帮助学生了解拟从事的职业，也为他们提供详细的领域知识。每年，四场论坛吸引约8000名学生参与。这些活动由地方委员会在教育行动领域的支持下举办。学生们在老师或职业顾问的指导下提前准备，以最大化利用与行业专家的见面机会。
@@ -5923,11 +5923,11 @@ D. De s'inscrire dans une école.
 > &nbsp;- **réparateur** [reparatœr] - 中文释义：修复的，消除疲劳的 - **Sommeil réparateur** - 中文解释：解乏的睡眠。
 >
 > **常见短语**
-> &nbsp;- **à quoi sert** - 中文释义：有什么用。
-> &nbsp;- **au moins** - 中文释义：至少。
-> &nbsp;- **permettre de** - 中文释义：使能够。
-> &nbsp;- **répondre à un besoin** - 中文释义：满足需求。
-> &nbsp;- **à signaler que** - 中文释义：值得注意的是。
+> &nbsp;- **à quoi sert** - 中文释义：有什么用。 - **à quoi sert cet outil** - 这个工具有什么用。
+> &nbsp;- **au moins** - 中文释义：至少。 - **arriver au moins dix minutes avant** - 至少提前十分钟到达。
+> &nbsp;- **permettre de** - 中文释义：使能够。 - **permettre de gagner du temps** - 能够节省时间。
+> &nbsp;- **répondre à un besoin** - 中文释义：满足需求。 - **répondre à un besoin de la clientèle** - 满足客户的需求。
+> &nbsp;- **à signaler que** - 中文释义：值得注意的是。 - **il est à signaler que le prix a changé** - 值得指出的是价格已经变动。
 >
 
 根据蒙特利尔 Hôtel-Dieu 医院的睡眠专家 Michel L. 博士的说法，“我们尚不完全清楚睡眠的确切功能”。但可以肯定的是，睡眠能够让大脑和身体以最佳方式运作：睡眠满足了身体和智力恢复的需求。需要指出的是，前半夜的睡眠效果更佳。
@@ -5977,10 +5977,10 @@ D. Dormir, c'est quoi ?
 > &nbsp;- **salarié** [salarje] - 雇员，薪减者 - **les droits des salariés** - 员工权利
 >
 > **常见短语**
-> &nbsp;- **il est question de** - 关于，涉及到
-> &nbsp;- **au lieu de** - 而不是，代替
-> &nbsp;- **à partir de** - 从……开始，自……起
-> &nbsp;- **reprise d'activité** - 恢复职业活动/重新工作
+> &nbsp;- **il est question de** - 关于，涉及到 - **il est question de changer de direction** - 涉及到更换方向。
+> &nbsp;- **au lieu de** - 而不是，代替 - **marcher au lieu de prendre le bus** - 步行而不是坐公交。
+> &nbsp;- **à partir de** - 从……开始，自……起 - **à partir de lundi prochain** - 从下周一开始。
+> &nbsp;- **reprise d'activité** - 恢复职业活动/重新工作 - **la reprise d'activité après les vacances** - 假期后的恢复工作。
 >
 
 父母假期 当前讨论的内容是改变父母假期的规则，这项补贴用于支持父母在孩子出生后至三岁期间中断工作。然而，一项研究表明，将该措施扩展至有两个孩子的家庭使得母亲的就业率大幅下降，而失业或不稳定工作的比例更高。改进的想法是将补贴金额翻倍，同时将期限从三年缩短为一年。另一个提议是，从第三个孩子开始，雇主被鼓励为员工提供明确条件的复职保障。
@@ -6029,10 +6029,10 @@ D. Restreindre le nombre de familles concernées.
 > &nbsp;- **conservatoire** [kɔ̃sɛrvatwar] - 音乐学院 - **étudier au conservatoire** - 在音乐学院学习
 >
 > **常见短语**
-> &nbsp;- **jouer d'un instrument** - 演奏乐器
-> &nbsp;- **rejoindre l'orchestre** - 加入管弦乐队
-> &nbsp;- **avoir lieu** - 发生/举行
-> &nbsp;- **entre... et...** - 在...和...之间
+> &nbsp;- **jouer d'un instrument** - 演奏乐器 - **apprendre à jouer d'un instrument** - 学习演奏一种乐器。
+> &nbsp;- **rejoindre l'orchestre** - 加入管弦乐队 - **inviter à rejoindre l'orchestre** - 邀请加入管弦乐队。
+> &nbsp;- **avoir lieu** - 发生/举行 - **la fête va avoir lieu ce soir** - 晚会将在今晚举行。
+> &nbsp;- **entre... et...** - 在...和...之间 - **entre huit heures et neuf heures** - 在八点到九点之间。
 >
 
 您在鲁昂市政厅工作，您是一名音乐家并且多年来一直演奏一种乐器吗？欢迎加入鲁昂市政厅员工乐团！ 排练将在九月（暑假结束后）恢复，时间为每周四中午12点至下午1点30分，地点为市音乐学院。
@@ -6082,10 +6082,10 @@ D. De visiter le conservatoire.
 > &nbsp;- **accueil** [akœj] - 接待处/前台 - **agent d'accueil** - 接待员
 >
 > **常见短语**
-> &nbsp;- **pendant la conférence** - 会议期间
-> &nbsp;- **sur la ville** - 关于这座城市的
-> &nbsp;- **plus d'informations** - 更多信息
-> &nbsp;- **à l'accueil** - 在接待处
+> &nbsp;- **pendant la conférence** - 会议期间 - **prendre des notes pendant la conférence** - 在会议期间做笔记。
+> &nbsp;- **sur la ville** - 关于这座城市的 - **une vue imprenable sur la ville** - 俯瞰城市的绝佳视野。
+> &nbsp;- **plus d'informations** - 更多信息 - **demander plus d'informations** - 索取更多信息。
+> &nbsp;- **à l'accueil** - 在接待处 - **se renseigner à l'accueil** - 在接待处咨询。
 >
 
 信息 在国际城市会议期间，您可以请求一位陪同人员：他将帮助您解决出行、研究、用餐等问题。 如需更多信息，请咨询接待处。
@@ -6135,11 +6135,11 @@ D. Le plan des transports publics.
 > &nbsp;- **prévenir** [prevnir] - 预防/通知 - **prévenir les maladies** - 预防疾病
 >
 > **常见短语**
-> &nbsp;- **à l'ombre** - 在阴凉处
-> &nbsp;- **coup de chance** - 碰巧/运气好
-> &nbsp;- **aux urgences** - 看急诊
-> &nbsp;- **en matière d'** - 在...方面
-> &nbsp;- **bon sens** - 常识/理智
+> &nbsp;- **à l'ombre** - 在阴凉处 - **se reposer à l'ombre d'un arbre** - 在树荫下休息。
+> &nbsp;- **coup de chance** - 碰巧/运气好 - **quel beau coup de chance** - 真是个好运气。
+> &nbsp;- **aux urgences** - 看急诊 - **être admis aux urgences** - 被送入急诊室。
+> &nbsp;- **en matière d'** - 在...方面 - **en matière d'éducation** - 在教育方面。
+> &nbsp;- **bon sens** - 常识/理智 - **faire preuve de bon sens** - 表现出常识。
 >
 
 啊！美好的夏天！在三十五度的阴凉下，孩子们在游泳后要求吃点心，幸运的是，一个卖甜甜圈的小贩出现在地平线上。结果：去了急诊，因为那些奶油甜甜圈在阳光下放了一整天。类似这样的故事在消费者协会中经常流传。 欺诈监管总局给出了鼓舞人心的总结：几乎所有的公共场所都进行了检查，欺诈行为有所减少。但在卫生方面，消费者的常识仍然应占主导地位，以避免任何事故。
@@ -6188,10 +6188,10 @@ D. L'inconscience des enfants imprudents.
 > &nbsp;- **garer** [gare] - 停车 - **garer sa voiture** - 停放车辆
 >
 > **常见短语**
-> &nbsp;- **rappeler que** - 提醒/再次告知
-> &nbsp;- **afin que** - 为了/以便
-> &nbsp;- **de l'autre côté de** - 在...的另一边
-> &nbsp;- **en aucun cas** - 在任何情况下都不/绝不
+> &nbsp;- **rappeler que** - 提醒/再次告知 - **rappeler que le port du masque est obligatoire** - 提醒口罩是必须佩戴的。
+> &nbsp;- **afin que** - 为了/以便 - **afin que tout soit prêt** - 为了让一切都准备就绪。
+> &nbsp;- **de l'autre côté de** - 在...的另一边 - **de l'autre côté de la rue** - 在马路的另一边。
+> &nbsp;- **en aucun cas** - 在任何情况下都不/绝不 - **en aucun cas je ne l'accepterai** - 我绝不会接受它。
 >
 
 致“紫丁香公寓”居民 公寓管理员提醒居民，Madame BERTRAND 的住所将于4月15日开始装修。 为了让施工人员可以更方便地工作，请将您的汽车停放在街对面设置的停车场内。在施工期间，绝对不要将车辆停在公寓入口处。 感谢您的理解。
@@ -6242,9 +6242,9 @@ D. Le déménagement d'une locataire.
 > &nbsp;- **personne** [pɛrsɔn] - 人 - **il y a 15 personnes** - 有15个人
 >
 > **常见短语**
-> &nbsp;- **c'est d'accord** - 同意/没问题
-> &nbsp;- **s'occuper de** - 负责/处理/照料
-> &nbsp;- **à partir de** - 从……开始
+> &nbsp;- **c'est d'accord** - 同意/没问题 - **si tu veux venir, c'est d'accord** - 如果你想来，没问题。
+> &nbsp;- **s'occuper de** - 负责/处理/照料 - **s'occuper de ses dossiers** - 处理他的卷宗。
+> &nbsp;- **à partir de** - 从……开始 - **à partir de maintenant** - 从现在起。
 >
 
 Martine， 好的，我们下周六可以在我家举办一个派对。会有15个人。很遗憾，Ali不能来，他去了山区。你能买点饮料吗？我负责甜点。19点左右来，其他人会从20点开始到达。谢谢，周六见。 Romuald
@@ -6293,10 +6293,10 @@ D. Animer la soirée.
 > &nbsp;- **sauvage** [sovaʒ] - 野生的，原始的 - **une côte sauvage** - 荒凉的海岸
 >
 > **常见短语**
-> &nbsp;- **partir en bateau** - 乘船出发
-> &nbsp;- **à l'instant même où** - 就在...的那一刻
-> &nbsp;- **poser le pied sur** - 踏上...，脚踩在...上
-> &nbsp;- **en contact avec** - 与...接触
+> &nbsp;- **partir en bateau** - 乘船出发 - **partir en bateau pour une croisière** - 乘船去巡游
+> &nbsp;- **à l'instant même où** - 就在...的那一刻 - **à l'instant même où il est entré** - 就在他进来的那一刻
+> &nbsp;- **poser le pied sur** - 踏上...，脚踩在...上 - **poser le pied sur le sol** - 踏上地面
+> &nbsp;- **en contact avec** - 与...接触 - **être en contact avec des clients** - 与客户保持联系
 >
 
 你认为带孩子坐船度假有点疯狂吗？Clément、Marine和他们6岁及2岁的两个女儿可以为你提供灵感。他们一家四口或与其他家庭一起，每年坚持一次巡游。“这种度假方式让你一踏上船就断开了与外界的联系，”Clément说。“这是一种与自然、大海、野生海岸和海豚保持紧密接触的生活方式，”Marine补充道。
@@ -6346,10 +6346,10 @@ D. De vivre au calme et de se retrouver en famille.
 > &nbsp;- **consommer** [kɔ̃sɔme] - 消费 - **biens de consommation** - 消费品
 >
 > **常见短语**
-> &nbsp;- **se tenir** - 举行
-> &nbsp;- **en la matière** - 在这方面/在该领域
-> &nbsp;- **l'année dernière** - 去年
-> &nbsp;- **plus... que...** - 比...更...
+> &nbsp;- **se tenir** - 举行 - **se tenir debout** - 站立着
+> &nbsp;- **en la matière** - 在这方面/在该领域 - **un expert en la matière** - 这方面的专家
+> &nbsp;- **l'année dernière** - 去年 - **je suis allé en France l'année dernière** - 我去年去了法国
+> &nbsp;- **plus... que...** - 比...更... - **plus grand que son frère** - 比他的兄弟更高
 >
 
 法国是举办有机葡萄展览会的地方。来自40个国家的600名专业人士参加，这是欧洲最重要的有机展览会。然而，虽然欧洲生产了全球88%的有机葡萄，但法国在这一领域并不是佼佼者！去年，有机农业仅占法国生产的4%……人们总是谈论有机产品，但消费得并不多。
@@ -6398,10 +6398,10 @@ D. La France parvient tout juste à répondre à sa demande nationale.
 > &nbsp;- **vider** [vide] - 倒空，排空 - **vider la poubelle** - 倒垃圾
 >
 > **常见短语**
-> &nbsp;- **tri des ordures** - 垃圾分类
-> &nbsp;- **ne... que** - 只有，仅仅
-> &nbsp;- **produits laitiers** - 乳制品
-> &nbsp;- **afin d'éviter** - 为了避免
+> &nbsp;- **tri des ordures** - 垃圾分类 - **faire le tri des ordures ménagères** - 进行生活垃圾分类
+> &nbsp;- **ne... que** - 只有，仅仅 - **il ne mange que des légumes** - 他只吃蔬菜
+> &nbsp;- **produits laitiers** - 乳制品 - **consommer des produits laitiers** - 食用乳制品
+> &nbsp;- **afin d'éviter** - 为了避免 - **afin d'éviter les malentendus** - 为了避免误解
 >
 
 提醒 为了有效进行垃圾分类，请仅将谷物包装盒或乳制品盒等小型纸盒扔进黄色垃圾桶。这些垃圾桶的盖子上有一个与纸盒大小相符的孔，且无法完全打开，以避免垃圾混杂。大型纸盒应与生活垃圾一起处理。
@@ -6450,9 +6450,9 @@ D. À leur quantité.
 > &nbsp;- **rentrée** [rɑ̃tre] - 开学 - **la rentrée de septembre** - 九月开学
 >
 > **常见短语**
-> &nbsp;- **selon le cas** - 视情况而定
-> &nbsp;- **domaine concerné** - 相关领域
-> &nbsp;- **sciences physiques** - 物理科学
+> &nbsp;- **selon le cas** - 视情况而定 - **agir selon le cas** - 视情况采取行动
+> &nbsp;- **domaine concerné** - 相关领域 - **travailler dans le domaine concerné** - 在相关领域工作
+> &nbsp;- **sciences physiques** - 物理科学 - **étudier les sciences physiques** - 学习物理科学
 >
 
 通过互联网寻找合作项目伙伴 如果您想为您的班级报名参加此项目，请直接与负责人联系或根据指示采取行动。 标题： 比较北半球和南半球的星座 负责人： Sandrine Grun 电子邮件地址： sandrine.grun@collegerenoir.fr 国家： 法国 涉及领域： 天文学/空间科学 描述： 一组学生在其物理科学老师的指导下，参与了天文学研讨会，他们希望比较北半球和南半球的星座并研究其历史。这些学生希望寻找一组位于南半球、会说法语的学生。他们希望从9月的开学开始学生间的合作项目，但教师间的合作可以提前开始。
@@ -6501,9 +6501,9 @@ D. Suivre un cours de rattrapage en sciences physiques.
 > &nbsp;- **décontracté** [dekɔ̃trakte] - 休闲的 - **style décontracté** - 休闲风格
 >
 > **常见短语**
-> &nbsp;- **la nouvelle année** - 新年
-> &nbsp;- **soyez là** - 请到场
-> &nbsp;- **entre amis** - 朋友之间
+> &nbsp;- **la nouvelle année** - 新年 - **fêter la nouvelle année** - 庆祝新年
+> &nbsp;- **soyez là** - 请到场 - **soyez là à huit heures** - 请在八点钟到那
+> &nbsp;- **entre amis** - 朋友之间 - **dîner entre amis** - 朋友间聚餐
 >
 
 亲爱的朋友们， 我们希望您能参加我们的晚会，一起庆祝新年。请于晚上 9 点前到达，穿着随意。我们都是朋友。 Céline 和 Redah
@@ -6553,10 +6553,10 @@ D. Pour un spectacle
 > &nbsp;- **payer** [pɛje] - 支付 - **payer par carte** - 用卡支付
 >
 > **常见短语**
-> &nbsp;- **participer au** - 参加...
-> &nbsp;- **rechercher des solutions** - 寻找解决方案
-> &nbsp;- **payer leur voyage** - 支付他们的旅行费用
-> &nbsp;- **apporter à** - 提供给... / 带给...
+> &nbsp;- **participer au** - 参加... - **participer au concours** - 参加比赛
+> &nbsp;- **rechercher des solutions** - 寻找解决方案 - **rechercher des solutions innovantes** - 寻求创新方案
+> &nbsp;- **payer leur voyage** - 支付他们的旅行费用 - **aider à payer leur voyage** - 资助他们的旅行
+> &nbsp;- **apporter à** - 提供给... / 带给... - **apporter une aide à quelqu'un** - 给某人提供帮助
 >
 
 Clément 和 Pierre 将参加在摩洛哥举办的 4L Trophy 汽车比赛。他们将为一所学校带去 40 公斤的物资和 10 公斤的食物。这两位朋友正在寻找资助来支付他们的旅行费用。您愿意帮助他们吗？
@@ -6605,10 +6605,10 @@ D. D'une voiture pour le transport
 > &nbsp;- **remettre** [rəmɛtr] - 交付，提交 - **remettre en main propre** - 亲手交给
 >
 > **常见短语**
-> &nbsp;- **au plus tard** - 最迟
-> &nbsp;- **demande de congés** - 请假申请
-> &nbsp;- **le plus tôt possible** - 尽快
-> &nbsp;- **ressources humaines** - 人力资源
+> &nbsp;- **au plus tard** - 最迟 - **envoyez le dossier lundi au plus tard** - 最迟周一寄出文件
+> &nbsp;- **demande de congés** - 请假申请 - **déposer une demande de congés** - 提交请假申请
+> &nbsp;- **le plus tôt possible** - 尽快 - **répondez-moi le plus tôt possible** - 请尽快回复我
+> &nbsp;- **ressources humaines** - 人力资源 - **directeur des ressources humaines** - 人力资源总监
 >
 
 亲爱的同事们， 请在最迟星期五中午之前提交您的休假申请表。我们提醒您，为了公司在夏季期间的良好运作，并确保满足所有员工的休假需求，这些表格必须填写完整，并尽早提交给您的负责人。 感谢您的合作，祝您一周愉快。 人力资源管理部门
@@ -6658,10 +6658,10 @@ D. De respecter les règles de sécurité
 > &nbsp;- **solliciter** [sɔlisite] - 请求/申请 - **solliciter un emploi** - 申请一份工作
 >
 > **常见短语**
-> &nbsp;- **protection de l'environnement** - 环境保护
-> &nbsp;- **boites aux lettres** - 信箱
-> &nbsp;- **il vaudrait mieux** - 最好/还是...为好
-> &nbsp;- **lorsqu'il s'agit de** - 当涉及...时/当关系到...时
+> &nbsp;- **protection de l'environnement** - 环境保护 - **sensibiliser à la protection de l'environnement** - 提高环保意识
+> &nbsp;- **boites aux lettres** - 信箱 - **mettre une lettre dans la boite aux lettres** - 把信放进信箱
+> &nbsp;- **il vaudrait mieux** - 最好/还是...为好 - **il vaudrait mieux partir maintenant** - 最好现在出发
+> &nbsp;- **lorsqu'il s'agit de** - 当涉及...时/当关系到...时 - **lorsqu'il s'agit de santé** - 当涉及到健康时
 >
 
 《L'internaute.fr》向您介绍环境保护问题。每年，大约有一百万吨未署名的邮件送达法国人的邮箱。这些邮件通常是超市广告或免费报纸。然而，减少不必要的纸张生产会更好。 最好的方法是在信箱上贴上“Stop Pub”贴纸，该贴纸可在生态部网站上免费获取。对于寄到您名下的广告邮件，您可以申请加入Robinson名单，以要求不再收到来自市场营销名单的邮件。
@@ -6711,10 +6711,10 @@ D. Vendre l'autocollant « Stop Pub » du ministère de l'Écologie
 > &nbsp;- **signaler** [siɲale] - 示意，预告 - **signaler un changement** - 示意一个变化
 >
 > **常见短语**
-> &nbsp;- **au-dessus de** - 在...上方
-> &nbsp;- **zones urbaines** - 城市区域
-> &nbsp;- **au-dessous** - 在下方
-> &nbsp;- **changement de direction** - 改变方向
+> &nbsp;- **au-dessus de** - 在...上方 - **survoler au-dessus de la ville** - 在城市上空飞行
+> &nbsp;- **zones urbaines** - 城市区域 - **vivre dans des zones urbaines** - 生活在城市地区
+> &nbsp;- **au-dessous** - 在下方 - **regarder au-dessous** - 向下看
+> &nbsp;- **changement de direction** - 改变方向 - **effectuer un changement de direction** - 进行方向调整
 >
 
 工程师们正在认真研究一种类似有轨电车隧道的巴士，它将在汽车车流的上方行驶，以缓解城市地区的交通拥堵。这辆交通工具将完全采用电力驱动，能够以60公里/小时的速度运载1200名乘客。 为了确保下方的汽车能够安全行驶，巴士底部将安装信号灯，以指示其行驶方向的变化。
@@ -6763,10 +6763,10 @@ D. Il sera très facile d'entretien et peu coûteux
 > &nbsp;- **habillé** [abije] - 穿着体面的 - **être bien habillé** - 穿得体面
 >
 > **常见短语**
-> &nbsp;- **trouver le juste équilibre** - 寻找恰到好处的平衡
-> &nbsp;- **vêtements de sport** - 运动服
-> &nbsp;- **en cours** - 在上课中
-> &nbsp;- **être du même avis** - 持相同意见
+> &nbsp;- **trouver le juste équilibre** - 寻找恰到好处的平衡 - **trouver le juste équilibre entre travail et vie privée** - 寻找工作与生活的平衡
+> &nbsp;- **vêtements de sport** - 运动服 - **porter des vêtements de sport** - 穿运动服
+> &nbsp;- **en cours** - 在上课中 - **le projet est en cours** - 项目正在进行中
+> &nbsp;- **être du même avis** - 持相同意见 - **je suis du même avis que vous** - 我和您的意见一致
 >
 
 在尊重与自由之间找到平衡并不容易。Charles-de-Gaulle中学的校长决定要求学生在课堂上不再穿运动服。运动服只限于体育课时穿着。校长认为：“这是关于尊重和整洁的问题。运动服不适合作为来学校的着装。”那些不同意的学生未被允许进入课堂。
@@ -6815,9 +6815,9 @@ D. Pour supprimer les différences sociales
 > &nbsp;- **hebdomadaire** [ɛbdɔmadɛr] - 每周的 - **un magazine hebdomadaire** - 周刊
 >
 > **常见短语**
-> &nbsp;- **être capable de** - 能够
-> &nbsp;- **au moins** - 至少
-> &nbsp;- **répartir en** - 分配为/划分为
+> &nbsp;- **être capable de** - 能够 - **être capable de réussir** - 能够成功
+> &nbsp;- **au moins** - 至少 - **au moins trois fois** - 至少三次
+> &nbsp;- **répartir en** - 分配为/划分为 - **répartir les tâches en groupes** - 把任务分成几组
 >
 
 跑完巴黎马拉松的42.195公里不是一件可以即兴完成的事情。这是一场需要定期训练，并且要能克服所有马拉松选手在32至37公里之间遇到的“疼痛墙”的比赛。 “如果希望顺利完成比赛，至少需要跑步训练一年，并且在最后几周内，每周进行三到四小时的训练，分成多次训练课程。” 一位马拉松训练营的组织者强调道。
@@ -6866,10 +6866,10 @@ D. Se donner de longues périodes de récupération
 > &nbsp;- **puiser** [pɥize] - 汲取，提取 - **puiser dans** - 从...中汲取/拿取
 >
 > **常见短语**
-> &nbsp;- **sortir du lot** - 脱颖而出，出类拔萃
-> &nbsp;- **au préalable** - 预先，事先
-> &nbsp;- **se démarquer** - 显露头角，区别于他人
-> &nbsp;- **savoir-être** - 行为素养，软技能
+> &nbsp;- **sortir du lot** - 脱颖而出，出类拔萃 - **sortir du lot par son talent** - 凭借才华脱颖而出
+> &nbsp;- **au préalable** - 预先，事先 - **s'informer au préalable** - 事先了解
+> &nbsp;- **se démarquer** - 显露头角，区别于他人 - **se démarquer des autres** - 使自己与众不同
+> &nbsp;- **savoir-être** - 行为素养，软技能 - **valoriser son savoir-être** - 展现自己的处世能力
 >
 
 为了找到具有高度发展潜力的杰出人才，一家招聘机构组织了不查看候选人档案的个人面试。面对案例研究、思想讨论或开放式问卷，候选人可以通过其行为能力或特殊才能脱颖而出。这些面试的目的不是设置陷阱，而是为了观察人才储备，以备未来选用。一位测试过此系统的管理者认为，这种招聘方式让人们处于“平等的地位”。
@@ -6918,10 +6918,10 @@ C. Laisser les candidats s'exprimer sans les interrompre
 > &nbsp;- **gratuitement** [gratɥitmɑ̃] - 免费地 - **offrir gratuitement** - 免费提供
 >
 > **常见短语**
-> &nbsp;- **villages Vacances** - 度假村
-> &nbsp;- **durant la journée** - 在白天期间
-> &nbsp;- **faire de la natation** - 游泳
-> &nbsp;- **faire du cheval** - 骑马
+> &nbsp;- **villages Vacances** - 度假村 - **séjourner dans des villages vacances** - 在度假村逗留
+> &nbsp;- **durant la journée** - 在白天期间 - **travailler durant la journée** - 在白天工作
+> &nbsp;- **faire de la natation** - 游泳 - **aimer faire de la natation** - 喜欢游泳
+> &nbsp;- **faire du cheval** - 骑马 - **faire du cheval en forêt** - 在森林里骑马
 >
 
 Sonia 在 www.village.vacances.fr 上的评论 这是我们第一次体验度假村（Villages Vacances）。我们发现这里提供完整的服务：（住宿、餐饮、活动和服务）。白天有为家长和孩子安排的活动。我们的小女儿Mathilde 免费学习了游泳和骑马！
@@ -6971,9 +6971,9 @@ D. D'organiser un spectacle
 > &nbsp;- **direction** [dirɛksjɔ̃] - 领导层/方向 - **sous la direction de** - 在...的指导下
 >
 > **常见短语**
-> &nbsp;- **journée Portes Ouvertes** - 开放日
-> &nbsp;- **samedi prochain** - 下周六
-> &nbsp;- **se tenir prêt à** - 准备好做某事
+> &nbsp;- **journée Portes Ouvertes** - 开放日 - **assister à une journée portes ouvertes** - 参加开放日活动
+> &nbsp;- **samedi prochain** - 下周六 - **se voir samedi prochain** - 下周六见面
+> &nbsp;- **se tenir prêt à** - 准备好做某事 - **se tenir prêt à partir** - 准备好出发
 >
 
 Jean Monnet学校将在下周六上午9点至下午4点举办“开放日”。所有学生家长都受邀参加。这是一个与老师和行政团队交流的机会，他们将准备好回答您的问题。
@@ -7023,10 +7023,10 @@ D. Répondre à un questionnaire sur tes cours
 > &nbsp;- **alimentation** [alimɑ̃tasjɔ̃] - 饮食 - **une alimentation saine** - 健康饮食
 >
 > **常见短语**
-> &nbsp;- **être bon pour** - 对...有益
-> &nbsp;- **d'après** - 根据
-> &nbsp;- **bénéficier de** - 从...中获益
-> &nbsp;- **empêcher de** - 阻止/妨碍...
+> &nbsp;- **être bon pour** - 对...有益 - **être bon pour la santé** - 对健康有益
+> &nbsp;- **d'après** - 根据 - **d'après le journal** - 根据报纸
+> &nbsp;- **bénéficier de** - 从...中获益 - **bénéficier d'une réduction** - 享受折扣
+> &nbsp;- **empêcher de** - 阻止/妨碍... - **empêcher de dormir** - 让人睡不着
 >
 
 众所周知，巧克力对血压有好处。科学家现在声称，“巧克力的消费可能是一种有效的防晒策略”。为此，无需将身体涂满可可：研究人员表示，每天食用三块巧克力即可享受巧克力的益处。这并不妨碍同时使用防晒霜和保持良好的饮食习惯。
@@ -7075,10 +7075,10 @@ D. De suivre un traitement de pilules au chocolat
 > &nbsp;- **enseignant** [ɑ̃sɛɲɑ̃] - 教师 - **Corps enseignant** - 教师队伍
 >
 > **常见短语**
-> &nbsp;- **à la naissance** - 出生时
-> &nbsp;- **se retrouver** - 重逢/再次相见
-> &nbsp;- **l'une de l'autre** - 彼此/互相
-> &nbsp;- **l'une et l'autre** - 双方/两者都
+> &nbsp;- **à la naissance** - 出生时 - **être aveugle à la naissance** - 出生时失明
+> &nbsp;- **se retrouver** - 重逢/再次相见 - **se retrouver après dix ans** - 十年后重逢
+> &nbsp;- **l'une de l'autre** - 彼此/互相 - **être dépendantes l'une de l'autre** - 彼此依赖
+> &nbsp;- **l'une et l'autre** - 双方/两者都 - **choisir l'une et l'autre** - 两者都选
 >
 
 这对印尼双胞胎在出生时被分别收养，29 年后在瑞典重逢。 她们住在相距 40 公里的地方，但彼此并不知情。 她们的养父母知道她们是亲生姐妹，但停止了寻找。 最终，其中一人在 Facebook 上发布了一条消息，促成了她们的相认。 巧合的是，她们都是教师！
@@ -7128,11 +7128,11 @@ D. Elles ont la même famille adoptive
 > &nbsp;- **diplôme** [diplom] - 文凭，学位 - **obtenir un diplôme** - 获得文凭
 >
 > **常见短语**
-> &nbsp;- **en poche** - 到手，拥有
-> &nbsp;- **à ce point** - 到这种程度
-> &nbsp;- **semé d'embûches** - 充满荆棘，困难重重
-> &nbsp;- **en vue** - 在望，看得见
-> &nbsp;- **se retrouver** - 处于（某种处境/状态）
+> &nbsp;- **en poche** - 到手，拥有 - **avoir son diplôme en poche** - 文凭到手
+> &nbsp;- **à ce point** - 到这种程度 - **être surpris à ce point** - 惊讶到这种程度
+> &nbsp;- **semé d'embûches** - 充满荆棘，困难重重 - **un chemin semé d'embûches** - 充满坎坷的道路
+> &nbsp;- **en vue** - 在望，看得见 - **un projet en vue** - 计划中的项目
+> &nbsp;- **se retrouver** - 处于（某种处境/状态） - **se retrouver seul** - 发现自己孤身一人
 >
 
 拥有商业硕士学位的我，没想到找到第一份工作竟然如此困难。然而……我当时想：“别担心，两三个月就会找到！”然而七个月过去了，依然一无所获。26岁的我依旧失业，还住在父母家。 Amandine并不是年轻人中的例外。如今，仅靠学历已不足以在法国确保稳定的工作，许多年轻人决定去国外找工作。
@@ -7181,10 +7181,10 @@ D. Le niveau trop faible des salaires proposés
 > &nbsp;- **décrocher** [dekrɔʃe] - 获得/摘下 - **décrocher une place** - 获得一个名次
 >
 > **常见短语**
-> &nbsp;- **en classe** - 在课堂上
-> &nbsp;- **faire ses devoirs** - 做功课
-> &nbsp;- **par semaine** - 每周
-> &nbsp;- **sur le podium** - 在领奖台上/名列前茅
+> &nbsp;- **en classe** - 在课堂上 - **être attentif en classe** - 在课堂上留心
+> &nbsp;- **faire ses devoirs** - 做功课 - **faire ses devoirs le soir** - 晚上做作业
+> &nbsp;- **par semaine** - 每周 - **deux fois par semaine** - 每周两次
+> &nbsp;- **sur le podium** - 在领奖台上/名列前茅 - **monter sur le podium** - 登上领奖台
 >
 
 应该支持还是反对家庭作业？ 一所学校给出了自己的答案：每周一下午 17 点到 18 点，学生可以回到教室，与老师和家长一起完成作业。 这样，教师、家长和学生之间可以建立交流。 校长还指出另一个好处：作业能够被很好地完成。 然而，作业也让学生的日程更加繁重。 法国小学生每周有四天，每天六小时的课程，他们在疲劳程度上排名第一。
@@ -7233,10 +7233,10 @@ D. D'inviter les parents à des visites régulières de l'établissement
 > &nbsp;- **adapté** [adapte] - 适合的，适配的 - **projet sportif adapté** - 适配的体育项目
 >
 > **常见短语**
-> &nbsp;- **permettre à** - 允许，使能够
-> &nbsp;- **accompagner** - 陪伴，协助
-> &nbsp;- **s'agir de** - 是，涉及到，关于
-> &nbsp;- **partir de** - 从...出发，基于
+> &nbsp;- **permettre à** - 允许，使能够 - **permettre à tout le monde d'entrer** - 允许所有人进入
+> &nbsp;- **accompagner** - 陪伴，协助 - **accompagner un ami** - 陪伴一个朋友
+> &nbsp;- **s'agir de** - 是，涉及到，关于 - **il s'agit de mon avenir** - 关系到我的前途
+> &nbsp;- **partir de** - 从...出发，基于 - **partir de zéro** - 从零开始
 >
 
 为了让所有人都能平等地参与体育运动，省级残疾人之家（maison départementale des personnes handicapées）提供帮助，支持残疾人实现他们的体育休闲计划。 该服务包括： 帮助选择适合的运动项目， 寻找可以接纳他们的俱乐部， 如果需要，还会协助他们与相关协会进行第一次联系。 他们的目标是根据个人的需求、兴趣和能力，共同制定合适的体育运动计划。
@@ -7286,10 +7286,10 @@ D. D'organiser les matches avec des sportifs handicapés
 > &nbsp;- **reproduire** [rəprɔdɥir] - 复制/重现 - **se reproduire** - 再次发生
 >
 > **常见短语**
-> &nbsp;- **au-delà de** - 超过/在...之外
-> &nbsp;- **fait l'objet de** - 是...的对象/受到（讨论等）
-> &nbsp;- **plus... plus...** - 越...就越...
-> &nbsp;- **d'une manière** - 以...的方式
+> &nbsp;- **au-delà de** - 超过/在...之外 - **au-delà de ses espérances** - 超出他的预期
+> &nbsp;- **fait l'objet de** - 是...的对象/受到（讨论等） - **faire l'objet d'une enquête** - 成为调查对象
+> &nbsp;- **plus... plus...** - 越...就越... - **plus on étudie, plus on apprend** - 越学习学到的越多
+> &nbsp;- **d'une manière** - 以...的方式 - **d'une manière générale** - 以一种普遍的方式
 >
 
 如何学习一门外语？ 是否存在一个关键年龄，一旦超过这个年龄，就再也无法达到母语者的水平？ 这个问题一直备受争议。 越年轻，对世界的好奇心越强，因此学习一门语言变得更容易。 但学习语言不仅仅是年龄因素，它还包含社交因素。 人们对待儿童的方式与对待青少年或成人的方式不同，这种独特的互动无法完全复制。
@@ -7339,10 +7339,10 @@ D. Leur obéissance
 > &nbsp;- **objectif** [ɔbʒɛktif] - 目标 - **atteindre un objectif** - 达成目标
 >
 > **常见短语**
-> &nbsp;- **se poser** - (问题等)产生，提出
-> &nbsp;- **au moment de** - 在……的时候
-> &nbsp;- **s'adapter à** - 适应……
-> &nbsp;- **en fonction de** - 根据，取决于
+> &nbsp;- **se poser** - (问题等)产生，提出 - **une question se pose** - 产生一个问题。
+> &nbsp;- **au moment de** - 在……的时候 - **au moment de partir** - 在出发的时候。
+> &nbsp;- **s'adapter à** - 适应…… - **s'adapter au changement** - 适应变化。
+> &nbsp;- **en fonction de** - 根据，取决于 - **en fonction des résultats** - 根据结果。
 >
 
 关于专业选择的问题至关重要，这在大学学习开始时是不可避免的。如何做出正确的选择？依据什么标准？哪种课程最适合学生的学术和心理特点？以及学生的能力？一本由《学生杂志》出版的书提供了一种循序渐进的方法，帮助学生根据兴趣和职业目标设计自己的学习计划。
@@ -7391,10 +7391,10 @@ D. Une sélection des meilleures universités
 > &nbsp;- **rappeler** [raple] - 再打电话/回电 - **rappeler pour confirmer** - 回电确认
 >
 > **常见短语**
-> &nbsp;- **suite à** - 在...之后/关于
-> &nbsp;- **conversation téléphonique** - 电话通话
-> &nbsp;- **carte d'identité** - 身份证
-> &nbsp;- **ressources humaines** - 人力资源
+> &nbsp;- **suite à** - 在...之后/关于 - **suite à votre demande** - 继您的要求之后。
+> &nbsp;- **conversation téléphonique** - 电话通话 - **avoir une conversation téléphonique** - 进行一次电话交谈。
+> &nbsp;- **carte d'identité** - 身份证 - **présenter sa carte d'identité** - 出示身份证。
+> &nbsp;- **ressources humaines** - 人力资源 - **le directeur des ressources humaines** - 人力资源主管。
 >
 
 Mansion 女士， 关于秘书职位的电话交流之后， 我们希望下周四上午 10:00 在公司办公室与您会面。 请您携带身份证复印件和毕业证书复印件。 请回电确认。 此致敬礼， Mathieu Leroux 人力资源部主任
@@ -7443,10 +7443,10 @@ C. Envoyer un curriculum vitae
 > &nbsp;- **parcours** [parkur] - 历程，履历 - **parcours professionnel** - 职业生涯
 >
 > **常见短语**
-> &nbsp;- **faire partie de** - 属于……的一部分/一员
-> &nbsp;- **se mettre en valeur** - 展现自己的优点，表现自己
-> &nbsp;- **le moment venu** - 到了时机，届时
-> &nbsp;- **à l'avance** - 提前，预先
+> &nbsp;- **faire partie de** - 属于……的一部分/一员 - **faire partie du groupe** - 是该小组的一员。
+> &nbsp;- **se mettre en valeur** - 展现自己的优点，表现自己 - **se mettre en valeur lors d'un entretien** - 在面试中展现自己。
+> &nbsp;- **le moment venu** - 到了时机，届时 - **agir le moment venu** - 到了时机再行动。
+> &nbsp;- **à l'avance** - 提前，预先 - **réserver à l'avance** - 提前预订。
 >
 
 您是有幸被选中并成功获得与雇主面试机会的人之一。 您拥有学历和经验，现在是时候展示自己，证明您是合适的候选人了！事实上，仅仅被选中您的简历（CV）还不够。在参加面试之前，您需要仔细考虑您要说的话，以免在面试时感到措手不及。您应该提前想好可能会被问到的所有关于您自己和您职业经历的问题。
@@ -7495,10 +7495,10 @@ D. D'insister sur sa formation universitaire.
 > &nbsp;- **soleil** [sɔlɛj] - 太阳，阳光 - **au soleil** - 在阳光下
 >
 > **常见短语**
-> &nbsp;- **quelques jours** - 几天
-> &nbsp;- **depuis dix ans** - 十年以来
-> &nbsp;- **tout va bien** - 一切都好
-> &nbsp;- **à bientôt** - 再见/回头见
+> &nbsp;- **quelques jours** - 几天 - **dans quelques jours** - 几天后。
+> &nbsp;- **depuis dix ans** - 十年以来 - **travailler ici depuis dix ans** - 在这工作十年了。
+> &nbsp;- **tout va bien** - 一切都好 - **espérer que tout va bien** - 希望一切都好。
+> &nbsp;- **à bientôt** - 再见/回头见 - **dire à bientôt** - 说再见。
 >
 
 亲爱的Lucie， 我在我姑姑家写信，我在这里待了几天。她是英国人，但已经在土伦生活了十年。这样我可以和她用英语交流。一切都很好。 我在阳光下散步。再见。 Hélène
@@ -7547,10 +7547,10 @@ D. Elle visite le Royaume-Uni.
 > &nbsp;- **entreprise** [ãtrəpriz] - 事业，项目 - **Une entreprise ambitieuse** - 一项雄心勃勃的事业
 >
 > **常见短语**
-> &nbsp;- **techniques du Moyen Âge** - 中世纪技术
-> &nbsp;- **métier manuel** - 手工职业
-> &nbsp;- **se joindre à** - 加入到...之中
-> &nbsp;- **vie moderne** - 现代生活
+> &nbsp;- **techniques du Moyen Âge** - 中世纪技术 - **utiliser des techniques du Moyen Âge** - 使用中世纪技术。
+> &nbsp;- **métier manuel** - 手工职业 - **apprendre un métier manuel** - 学习一门手艺。
+> &nbsp;- **se joindre à** - 加入到...之中 - **se joindre à la discussion** - 加入讨论。
+> &nbsp;- **vie moderne** - 现代生活 - **le stress de la vie moderne** - 现代生活的压力。
 >
 
 自1997年以来，一群热衷于此的人士专注于用中世纪的技术建造一座城堡。Guédelon工地已经成为著名景点，每年吸引30万名游客。谁是这座历史再现建筑的建造者？Hajera Mohammad为法国电台采访了这些工匠。在她的报道中，主角并不是城堡，而是那些建造城堡的人，他们分享了自己对从事手工职业的渴望。许多巴黎志愿者加入了这个项目，为此贡献几天时间，在这个一切都比现代生活节奏更慢的地方工作。
@@ -7599,10 +7599,10 @@ C. Le succès auprès du public.
 > &nbsp;- **médecin** [medsɛ̃] - 医生 - **voir un médecin** - 看医生
 >
 > **常见短语**
-> &nbsp;- **suivre les conseils** - 听从建议
-> &nbsp;- **changement de température** - 温度变化
-> &nbsp;- **garder au chaud** - 保暖
-> &nbsp;- **faire du sport** - 进行体育运动
+> &nbsp;- **suivre les conseils** - 听从建议 - **suivre les conseils du médecin** - 听从医生的建议。
+> &nbsp;- **changement de température** - 温度变化 - **prévoir un changement de température** - 预见温度变化。
+> &nbsp;- **garder au chaud** - 保暖 - **garder les plats au chaud** - 把菜保温。
+> &nbsp;- **faire du sport** - 进行体育运动 - **faire du sport régulièrement** - 定期运动。
 >
 
 咳嗽了吗？请遵循您的药剂师的建议。 咳嗽可能因您的环境而加重：污染、花粉、干燥空气、温度变化…… 为了保护自己：天气寒冷时保持喉咙温暖，经常通风房间，在纸巾包里放几片薄荷叶，并避免在污染严重或有烟雾的地方运动。如果咳嗽严重，请咨询医生。
@@ -7651,10 +7651,10 @@ C. De faire moins de sport
 > &nbsp;- **instrument** [ɛ̃strymɑ̃] - 乐器 - **jouer d'un instrument** - 演奏乐器
 >
 > **常见短语**
-> &nbsp;- **le week-end** - 周末
-> &nbsp;- **ouvrir ses portes** - 对外开放，开门
-> &nbsp;- **essayer de** - 尝试做某事
-> &nbsp;- **jouer de** - 演奏，弹奏（乐器）
+> &nbsp;- **le week-end** - 周末 - **partir pour le week-end** - 出去过周末。
+> &nbsp;- **ouvrir ses portes** - 对外开放，开门 - **le musée ouvre ses portes** - 博物馆对外开放。
+> &nbsp;- **essayer de** - 尝试做某事 - **essayer de comprendre** - 尝试理解。
+> &nbsp;- **jouer de** - 演奏，弹奏（乐器） - **jouer du piano** - 弹钢琴。
 >
 
 下个周末，音乐学校向城市及周边居民开放。 来见见我们的老师吧。 尝试弹吉他、吹小号、弹钢琴或演奏其他您喜欢的乐器！ 详情请致电 02 97 86 87 88。
@@ -7704,9 +7704,9 @@ D. Visiter une exposition
 > &nbsp;- **envoyer** [ɑ̃vwaje] - 发送 - **envoyer un courriel** - 发送电子邮件
 >
 > **常见短语**
-> &nbsp;- **comment est-ce que** - 如何/怎样
-> &nbsp;- **avec qui** - 和谁
-> &nbsp;- **avant le** - 在...之前
+> &nbsp;- **comment est-ce que** - 如何/怎样 - **comment est-ce que tu vas ?** - 你怎么样？
+> &nbsp;- **avec qui** - 和谁 - **avec qui tu parles ?** - 你和谁说话？
+> &nbsp;- **avant le** - 在...之前 - **avant le début du film** - 在电影开始前。
 >
 
 蒙特利尔网球协会博客 你喜欢网球并想分享你的热情吗？ 我们对你的故事感兴趣！你是如何开始的？你和谁一起打球？当你赢得比赛时，你的感受如何？ 请在6月15日之前将你的文章发送给我们。
@@ -7755,10 +7755,10 @@ C. Prendre rendez-vous pour des matchs
 > &nbsp;- **spéculation** [spekylasjɔ̃] - 投机 - **la spéculation immobilière** - 房地产投机
 >
 > **常见短语**
-> &nbsp;- **mettre à la disposition de** - 供...使用/归...支配
-> &nbsp;- **délivrer un permis** - 颁发许可证
-> &nbsp;- **faire pousser** - 种植/使生长
-> &nbsp;- **s'engager à** - 承诺做某事
+> &nbsp;- **mettre à la disposition de** - 供...使用/归...支配 - **mettre un véhicule à la disposition du personnel** - 供员工使用车辆。
+> &nbsp;- **délivrer un permis** - 颁发许可证 - **délivrer un permis de conduire** - 颁发驾照。
+> &nbsp;- **faire pousser** - 种植/使生长 - **faire pousser des légumes** - 种蔬菜。
+> &nbsp;- **s'engager à** - 承诺做某事 - **s'engager à respecter les délais** - 承诺遵守期限。
 >
 
 根据1970年代在纽约开展的试验，许多城市政府决定将越来越多的城市空间提供给居民。在某些城市，会向有意愿种植植物的居民发放绿化许可，允许他们在自己的社区内种植任何他们想种的植物，前提是必须使用本地物种和能够吸引蜜蜂的植物，同时不得使用杀虫剂或农药。其好处包括草坪绿化可以减少噪音、抑制房地产投机以及过度的水泥化建设。
@@ -7807,10 +7807,10 @@ D. De s'inscrire à des formations à l'agriculture
 > &nbsp;- **insurmontable** [ɛ̃syrmɔ̃tabl] - 不可逾越的 / 不能克服的 - **un obstacle insurmontable** - 一个无法逾越的障碍
 >
 > **常见短语**
-> &nbsp;- **se retrouver avec** - 最终处于 / 陷入...状态
-> &nbsp;- **en amont** - 事先 / 提前
-> &nbsp;- **quant à** - 至于 / 关于
-> &nbsp;- **chargé de** - 充满...的 / 负责...的
+> &nbsp;- **se retrouver avec** - 最终处于 / 陷入...状态 - **se retrouver avec des dettes** - 结果背了一身债。
+> &nbsp;- **en amont** - 事先 / 提前 - **préparer le projet en amont** - 事先准备项目。
+> &nbsp;- **quant à** - 至于 / 关于 - **quant à moi** - 至于我。
+> &nbsp;- **chargé de** - 充满...的 / 负责...的 - **être chargé de la mission** - 负责这项任务。
 >
 
 为了更好地享受假期，忘掉你的工作邮件。但是如何避免在假期结束时面对一堆未读邮件呢？出发前有必要提前做好准备：在你的邮箱中设置一条自动回复信息，注明你的缺席日期。这种简单的解决方案可以减少每天收到的邮件数量。 至于回到办公室后面对上百封邮件的焦虑，请记住，如果你度假充分休息，浏览等待你的上千封邮件也不会显得难以应对。
@@ -7859,9 +7859,9 @@ C. Le risque de surmenage dû à des horaires étendus
 > &nbsp;- **habitant** [abitã] - 居民 - **les habitants du lieu** - 当地居民
 >
 > **常见短语**
-> &nbsp;- **d'après** - 根据
-> &nbsp;- **grâce à** - 多亏，由于
-> &nbsp;- **se lier d'amitié avec** - 与...建立友谊
+> &nbsp;- **d'après** - 根据 - **d'après les sondages** - 根据民意调查。
+> &nbsp;- **grâce à** - 多亏，由于 - **grâce à votre aide** - 多亏您的帮助。
+> &nbsp;- **se lier d'amitié avec** - 与...建立友谊 - **se lier d'amitié avec un collègue** - 与一位同事结成朋友。
 >
 
 《复兴》⭐⭐⭐ 法国 2频道 马赛尔·帕尼奥（1937）根据让·吉奥诺的小说改编的电影。 一个被遗弃的村庄在一位女性的到来后重新焕发生机，这位女性与该村最后一名居民之一建立了友谊。
@@ -7910,10 +7910,10 @@ D. De l'amitié dans un lieu abandonné.
 > &nbsp;- **prochain** [prɔʃɛ̃] - 下一个的 - **la semaine prochaine** - 下周
 >
 > **常见短语**
-> &nbsp;- **se dérouler** - 进行/发生
-> &nbsp;- **souhaiter que** - 希望...（后接虚拟式）
-> &nbsp;- **remercier de** - 为...而感谢
-> &nbsp;- **avant les vacances** - 假期前
+> &nbsp;- **se dérouler** - 进行/发生 - **la réunion se déroule bien** - 会议进展顺利。
+> &nbsp;- **souhaiter que** - 希望...（后接虚拟式） - **souhaiter que tout aille bien** - 希望一切顺利。
+> &nbsp;- **remercier de** - 为...而感谢 - **remercier de votre compréhension** - 感谢您的理解。
+> &nbsp;- **avant les vacances** - 假期前 - **terminer le travail avant les vacances** - 在假期前完成工作。
 >
 
 亲爱的同事们： 下一届全国高中竞赛将于**3月9日（周二）至3月31日（周三）**举行。 我希望您在圣诞假期前提交您学生的报名名单。 感谢您的合作！ 此致敬礼， 校长
@@ -7963,10 +7963,10 @@ D. Aux enseignants qui surveilleront les épreuves.
 > &nbsp;- **évaluation** [evalyasjɔ̃] - 评估/考评 - **fiche d'évaluation** - 评估表
 >
 > **常见短语**
-> &nbsp;- **en avance** - 提前
-> &nbsp;- **si cela vous convient** - 如果这方便您的话
-> &nbsp;- **avoir lieu** - 发生/举行
-> &nbsp;- **le mois dernier** - 上个月
+> &nbsp;- **en avance** - 提前 - **arriver en avance** - 提前到达。
+> &nbsp;- **si cela vous convient** - 如果这方便您的话 - **lundi à 10h, si cela vous convient** - 周一10点，如果您方便的话。
+> &nbsp;- **avoir lieu** - 发生/举行 - **le concert aura lieu ce soir** - 音乐会将于今晚举行。
+> &nbsp;- **le mois dernier** - 上个月 - **avoir voyagé le mois dernier** - 上个月去旅行了。
 >
 
 你好，娜塔莉： 我已收到您的电话留言。我计划下周二提前到，并在10点之前到您的办公室，如果您方便的话，谈谈大卫的任务项目。 此外，我周三也会在您的办公室。我认为我们必须在下周末之前见面，因为我需要领取上个月实习评估的复印件。 此致， 埃莱娜。
@@ -8016,9 +8016,9 @@ C. Pour lui rendre compte du déroulement d'un stage.
 > &nbsp;- **polémique** [pɔlemik] - 争论，争议 - **déclencher une polémique** - 引起争议
 >
 > **常见短语**
-> &nbsp;- **à peine** - 刚刚，几乎不
-> &nbsp;- **mis en vente** - 上架销售，投入市场
-> &nbsp;- **compter sur** - 指望，依靠
+> &nbsp;- **à peine** - 刚刚，几乎不 - **à peine arrivé, il est reparti** - 他刚到就又走了。
+> &nbsp;- **mis en vente** - 上架销售，投入市场 - **un nouvel appartement mis en vente** - 一套新公寓挂牌出售。
+> &nbsp;- **compter sur** - 指望，依靠 - **compter sur ses amis** - 指望他的朋友。
 >
 
 本周三，巴黎和一半的省份开始打折促销。这个过早的日期让商家感到不满，因为他们被迫打折一些刚刚上架的衣服。尽管存在争议，商家还是接受了这种安排，因为他们依赖打折销售，这占全年纺织品销售额的10%。
@@ -8067,9 +8067,9 @@ D. Sont organisés uniquement à Paris.
 > &nbsp;- **accumulé** [akymyle] - 积累的 - **fatigue accumulée** - 累积的疲劳
 >
 > **常见短语**
-> &nbsp;- **se joindre à** - 加入，与...汇合
-> &nbsp;- **jours de congés** - 休假天数，假期
-> &nbsp;- **vie privée** - 私生活，隐私
+> &nbsp;- **se joindre à** - 加入，与...汇合 - **se joindre à nous pour le dîner** - 加入我们一起吃晚餐。
+> &nbsp;- **jours de congés** - 休假天数，假期 - **prendre quelques jours de congés** - 休几天假。
+> &nbsp;- **vie privée** - 私生活，隐私 - **respecter la vie privée** - 尊重私生活。
 >
 
 护士、面包师、出租车司机：这些是传统的夜班职业。如今，由于竞争压力，其他职业也加入了夜班行列：例如凌晨2点与亚洲联络的商务人士、晚上8点后在营业商店工作的收银员，以及工业工人。然而，夜班工作有代价。尽管夜班工资更高，并可能有额外的休假，但它对人的影响往往是深远的：《Temps Présent》跟踪了四名夜班员工，他们的疲劳积累干扰了健康、情绪和私人生活。
@@ -8118,9 +8118,9 @@ D. Les motivations des salariés pour travailler la nuit.
 > &nbsp;- **uniquement** [ynikmɑ̃] - 仅仅，唯独 - **Uniquement par téléphone** - 仅限通过电话
 >
 > **常见短语**
-> &nbsp;- **suite à** - 关于，在...之后
-> &nbsp;- **informer que** - 通知某人某事
-> &nbsp;- **se faire** - 进行，被做
+> &nbsp;- **suite à** - 关于，在...之后 - **suite à notre entretien** - 继我们面谈之后。
+> &nbsp;- **informer que** - 通知某人某事 - **informer que la séance est annulée** - 通知会议已取消。
+> &nbsp;- **se faire** - 进行，被做 - **cela ne se fait pas** - 这不合规矩（这样做是不行的）。
 >
 
 发件人：露营地 « Les Barques » 收件人：巴里女士 主题：预订 女士： 根据您的请求，我们通知您，我们在8月10日至17日这一周有空位。 请尽快确认您的到访。 提醒您，预订仅通过互联网完成。 此致， 露营地 « Les Barques » 管理处
@@ -8170,10 +8170,10 @@ D. Téléphoner à la direction.
 > &nbsp;- **confirmer** [kɔ̃firme] - 确认 - **confirmer un rendez-vous** - 确认预约
 >
 > **常见短语**
-> &nbsp;- **pendant votre déjeuner** - 在您吃午饭期间
-> &nbsp;- **la semaine prochaine** - 下周
-> &nbsp;- **discuter du dossier** - 讨论案卷
-> &nbsp;- **avant 17h00** - 在17点之前
+> &nbsp;- **pendant votre déjeuner** - 在您吃午饭期间 - **vous appeler pendant votre déjeuner** - 在您午餐时给您打电话。
+> &nbsp;- **la semaine prochaine** - 下周 - **partir la semaine prochaine** - 下周出发。
+> &nbsp;- **discuter du dossier** - 讨论案卷 - **discuter du dossier avec le chef** - 与上司讨论这份文件。
+> &nbsp;- **avant 17h00** - 在17点之前 - **rendre le rapport avant 17h00** - 在17点前交报告。
 >
 
 消息 Daniel， Dubois 先生在您午餐时打来电话。他 无法参加 周五的会议，希望下周再见您 讨论该文件。 您需要在 明天下午 5 点前 给他发送一封电子邮件进行确认。 Sarah
@@ -8222,9 +8222,9 @@ D. Rendre visite à monsieur Dubois.
 > &nbsp;- **effectuer** [efɛktye] - 进行/执行 - **effectuer un stage** - 进行实习
 >
 > **常见短语**
-> &nbsp;- **être confronté à** - 面临/面对
-> &nbsp;- **pendant ce temps** - 与此同时
-> &nbsp;- **en contrepartie** - 作为交换/作为回报
+> &nbsp;- **être confronté à** - 面临/面对 - **être confronté à un problème** - 面临一个问题。
+> &nbsp;- **pendant ce temps** - 与此同时 - **travailler pendant ce temps** - 在这段时间里工作。
+> &nbsp;- **en contrepartie** - 作为交换/作为回报 - **donner un cadeau en contrepartie** - 作为回报给一份礼物。
 >
 
 无论是学生还是在职人员，许多年轻人都面临住房问题。与此同时，一些退休人士住在对他们来说过于宽敞的房子里，通常是独自居住。 让这些不同世代的人相遇，是Lien 协会的目标，该协会正在寻找愿意提供房间的退休人士，以接待 18 至 25 岁的年轻人。作为回报，年轻人可以提供一些帮助……
@@ -8273,10 +8273,10 @@ D. Offrir une assistance médicale aux personnes âgées.
 > &nbsp;- **artistique** [artistik] - 艺术的 - **équipe artistique** - 艺术团队
 >
 > **常见短语**
-> &nbsp;- **rendre curieux** - 使产生好奇心
-> &nbsp;- **mettre en place** - 安排/设立
-> &nbsp;- **sur demande** - 根据要求
-> &nbsp;- **assister à** - 参加/观看
+> &nbsp;- **rendre curieux** - 使产生好奇心 - **cette nouvelle me rend curieux** - 这个消息令我好奇。
+> &nbsp;- **mettre en place** - 安排/设立 - **mettre en place une stratégie** - 制定一项战略。
+> &nbsp;- **sur demande** - 根据要求 - **catalogue envoyé sur demande** - 目录随索即寄。
+> &nbsp;- **assister à** - 参加/观看 - **assister à une conférence** - 参加一个讲座。
 >
 
 因为激发好奇心和带来欢乐很重要，Aktéon 剧院全年提供按需的学校剧场课程。 在您选择的日期和时间，您可以在学校和您的班级一起观看私人剧目！ 去年，许多初中生和高中生都参与了这个活动。 演出结束后，艺术团队会与学生们交流关于剧目的内容。这些交流总是……有时还很有趣！
@@ -8325,10 +8325,10 @@ D. Suivre des cours de théâtre.
 > &nbsp;- **coquillage** [kɔkijɑʒ] - 贝壳 - **ramasser des coquillages** - 捡贝壳
 >
 > **常见短语**
-> &nbsp;- **être de retour** - 回来
-> &nbsp;- **jusqu'à** - 直到
-> &nbsp;- **se déplacer** - 移动/出行
-> &nbsp;- **à vélo** - 骑自行车
+> &nbsp;- **être de retour** - 回来 - **être de retour à la maison** - 回到家。
+> &nbsp;- **jusqu'à** - 直到 - **travailler jusqu'à minuit** - 工作到半夜。
+> &nbsp;- **se déplacer** - 移动/出行 - **se déplacer en ville** - 在城里出行。
+> &nbsp;- **à vélo** - 骑自行车 - **aller au bureau à vélo** - 骑车去办公室。
 >
 
 亲爱的 Sarah， 我回到山里了。假期太棒了！今年，我们乘火车去了 拉罗谢尔（La Rochelle），然后乘船前往 雷岛（Île de Ré）。 我们在那里度过了整整一周。我们骑自行车出行、钓鱼、捡贝壳，风景美极了。 亲吻你。 Pamela
@@ -8376,9 +8376,9 @@ C. Sur un bateau.
 > &nbsp;- **renseignement** [rɑ̃sɛɲəmɑ̃] - 信息，咨询，情况 - **Demander des renseignements** - 咨询，询问信息
 >
 > **常见短语**
-> &nbsp;- **donner cours** - 授课
-> &nbsp;- **cours d'anglais** - 英语课
-> &nbsp;- **renseignements au** - 请拨打...咨询
+> &nbsp;- **donner cours** - 授课 - **donner des cours de français** - 教授法语课。
+> &nbsp;- **cours d'anglais** - 英语课 - **suivre un cours d'anglais** - 上英语课。
+> &nbsp;- **renseignements au** - 请拨打...咨询 - **renseignements au guichet** - 在窗口咨询。
 >
 
 女学生提供英语课程。 详情请拨打 06 3575 67 80。
@@ -8427,10 +8427,10 @@ D. Partir en voyage
 > &nbsp;- **inscription** [ɛ̃skripsjɔ̃] - 注册，报名 - **frais d'inscription** - 注册费
 >
 > **常见短语**
-> &nbsp;- **l'après-midi** - 在下午
-> &nbsp;- **en ligne** - 在线，在网上
-> &nbsp;- **sur place** - 现场，原地
-> &nbsp;- **pendant les travaux** - 在施工期间
+> &nbsp;- **l'après-midi** - 在下午 - **tout l'après-midi** - 整个下午。
+> &nbsp;- **en ligne** - 在线，在网上 - **acheter en ligne** - 网上购买。
+> &nbsp;- **sur place** - 现场，原地 - **manger sur place** - 在店里吃。
+> &nbsp;- **pendant les travaux** - 在施工期间 - **fermé pendant les travaux** - 施工期间关闭。
 >
 
 注意： 由于施工，图书馆将在下午关闭一个月。 书籍可在网上预订（网站：labiblio.fr）。 您可以上午 9:00 到 12:30 之间到现场借书或归还书籍。 新用户注册暂时不可用。 管理部门
@@ -8479,10 +8479,10 @@ D. Une nouvelle adresse
 > &nbsp;- **gratuit** [gratɥi] - 免费的 - **service gratuit** - 免费服务
 >
 > **常见短语**
-> &nbsp;- **avoir lieu** - 发生，举行
-> &nbsp;- **bandes dessinées** - 连环画/漫画
-> &nbsp;- **instruments de musique** - 乐器
-> &nbsp;- **rendez-vous** - 聚会/约会
+> &nbsp;- **avoir lieu** - 发生，举行 - **la réunion a lieu demain** - 会议明天举行。
+> &nbsp;- **bandes dessinées** - 连环画/漫画 - **lire des bandes dessinées** - 看漫画。
+> &nbsp;- **instruments de musique** - 乐器 - **jouer d'un instrument de musique** - 弹奏乐器。
+> &nbsp;- **rendez-vous** - 聚会/约会 - **prendre rendez-vous** - 预约。
 >
 
 第三届“大文化交流会”将于五月的第一个星期日举行！ “Grand Culturo” 是一个个人之间的交换活动，涵盖书籍、漫画、唱片、DVD、设计小物件、电子游戏、海报、画作和乐器等各种物品。 交换无需中介，也不涉及金钱交易。 这是一个对所有人开放且完全免费的文化交流活动。
@@ -8531,11 +8531,11 @@ D. Rencontrer des artisans d'art
 > &nbsp;- **courrier** [kurje] - 信件/邮件 - **par courrier** - 通过邮寄
 >
 > **常见短语**
-> &nbsp;- **responsabilité civile** - 民事责任
-> &nbsp;- **mettre à jour** - 更新
-> &nbsp;- **tenir compte de** - 考虑到/理会
-> &nbsp;- **par avance** - 提前/预先
-> &nbsp;- **sincères salutations** - 诚挚的问候
+> &nbsp;- **responsabilité civile** - 民事责任 - **assurance responsabilité civile** - 民事责任险。
+> &nbsp;- **mettre à jour** - 更新 - **mettre à jour un logiciel** - 更新软件。
+> &nbsp;- **tenir compte de** - 考虑到/理会 - **tenir compte des avis** - 考虑建议。
+> &nbsp;- **par avance** - 提前/预先 - **merci par avance** - 预先致谢。
+> &nbsp;- **sincères salutations** - 诚挚的问候 - **Veuillez agréer mes sincères salutations** - 请接受我诚挚的敬意。
 >
 
 Mme Aline Vaquet 租赁服务经理 Immo Paris 房地产代理公司 电话：01 48 55 21 36 亲爱的租户， 像每年一样，我们请您提供新一年度的租户责任保险证明。 该文件将用于更新您的档案。 如果您已经提交此证明，请忽略此信件。 提前感谢您的配合，谨致问候。 Aline Vaquet
@@ -8584,10 +8584,10 @@ D. Réclamer un paiement
 > &nbsp;- **apprentissage** [aprɑ̃tisaʒ] - 学习 - **type d'apprentissage** - 学习类型
 >
 > **常见短语**
-> &nbsp;- **fait partie de** - 属于/是...的一部分
-> &nbsp;- **tout au long de** - 贯穿/在整个期间
-> &nbsp;- **ainsi** - 从而/因此
-> &nbsp;- **situé dans** - 位于
+> &nbsp;- **fait partie de** - 属于/是...的一部分 - **cela fait partie du projet** - 这是项目的一部分。
+> &nbsp;- **tout au long de** - 贯穿/在整个期间 - **tout au long de l'année** - 全年。
+> &nbsp;- **ainsi** - 从而/因此 - **ainsi soit-il** - 但愿如此。
+> &nbsp;- **situé dans** - 位于 - **situé dans le centre-ville** - 位于市中心。
 >
 
 克莱蒙费朗市 现在成为了 UNESCO“学习型城市” 的一部分。 该组织支持终身教育项目，以提高教育质量。 因此，克莱蒙费朗成为 该全球协会的第一座法国城市，该协会汇集了 41 个国家的 177 座城市，共同分享关于终身学习的经验。
@@ -8638,10 +8638,10 @@ D. Standardiser les programmes scolaires
 > &nbsp;- **entrée** [ɑ̃tre] - 入场/门票 - **billet d'entrée** - 入场券
 >
 > **常见短语**
-> &nbsp;- **au mois de** - 在...月份
-> &nbsp;- **une partie de** - 一部分...
-> &nbsp;- **samedi prochain** - 下周六
-> &nbsp;- **par personne** - 每人
+> &nbsp;- **au mois de** - 在...月份 - **au mois de mai** - 在五月份。
+> &nbsp;- **une partie de** - 一部分... - **une partie de la population** - 一部分人口。
+> &nbsp;- **samedi prochain** - 下周六 - **à samedi prochain** - 下周六见。
+> &nbsp;- **par personne** - 每人 - **dix euros par personne** - 每人十欧元。
 >
 
 五月份，Louise Michel 高中的高一年级学生将前往英国游学一周。 为了筹集部分旅行费用，他们将在下周六在体育馆组织美食比赛。 欢迎大家前来投票选出最佳菜肴！ 入场费：每人 5 欧元。
@@ -8690,10 +8690,10 @@ D. Visiter un établissement scolaire étranger.
 > &nbsp;- **réaliser** [realize] - 意识到，实现 - **réaliser son rêve** - 实现梦想
 >
 > **常见短语**
-> &nbsp;- **il arrive à quelqu'un de** - 某人有时会...
-> &nbsp;- **se servir de** - 使用/利用某物
-> &nbsp;- **se rendre compte de** - 意识到/察觉到
-> &nbsp;- **avoir accès à** - 能够获得/有权使用
+> &nbsp;- **il arrive à quelqu'un de** - 某人有时会... - **il m'arrive d'oublier** - 我有时会忘记。
+> &nbsp;- **se servir de** - 使用/利用某物 - **se servir de son ordinateur** - 使用电脑。
+> &nbsp;- **se rendre compte de** - 意识到/察觉到 - **se rendre compte de son erreur** - 意识到自己的错误。
+> &nbsp;- **avoir accès à** - 能够获得/有权使用 - **avoir accès à Internet** - 可以上网。
 >
 
 在这所中学，学生和老师可以使用自己的电子设备。 一位老师解释说，当学生问他一个问题而他不知道答案时，他会用手机查找信息。 此外，他还利用手机引导学生思考，要求他们自己上网查找信息，让他们意识到可以随时获取大量知识。 这样，学生们逐渐认识到，手机不仅仅是用来看视频或给朋友发消息的工具。
@@ -8744,10 +8744,10 @@ D. C'est une source de distraction en classe.
 > &nbsp;- **inscription** [ɛ̃skripsjɔ̃] - 注册，报名 - **frais d'inscription** - 报名费
 >
 > **常见短语**
-> &nbsp;- **bande dessinée** - 漫画
-> &nbsp;- **avoir lieu** - 发生，举行
-> &nbsp;- **plus de** - 超过，多于
-> &nbsp;- **sur le site** - 在网站上
+> &nbsp;- **bande dessinée** - 漫画 - **une collection de bandes dessinées** - 漫画收藏。
+> &nbsp;- **avoir lieu** - 发生，举行 - **le festival a lieu en été** - 节日在夏天举行。
+> &nbsp;- **plus de** - 超过，多于 - **plus de temps** - 更多的时间。
+> &nbsp;- **sur le site** - 在网站上 - **s'inscrire sur le site** - 在网站上注册。
 >
 
 漫画节将于 2 月 6 日和 7 日 在巴黎举行。 届时将有 100 多部新作 供大家发现。 您还可以参观 漫画历史展览，并且与作者见面交流。 免费入场。 请在 www.festivalbd@paris.com 注册。
@@ -8796,10 +8796,10 @@ D. Réserver une visite guidée.
 > &nbsp;- **foyer** [fwaje] - 家庭，居住地 - **foyer fiscal** - 纳税户
 >
 > **常见短语**
-> &nbsp;- **il faut dire que** - 应该说，必须说
-> &nbsp;- **coller à** - 贴合，紧跟
-> &nbsp;- **un minimum de** - 最起码的，最少量的
-> &nbsp;- **chez soi** - 在自己家里
+> &nbsp;- **il faut dire que** - 应该说，必须说 - **il faut dire que c'est difficile** - 不得不说这很难。
+> &nbsp;- **coller à** - 贴合，紧跟 - **coller à la réalité** - 贴近现实。
+> &nbsp;- **un minimum de** - 最起码的，最少量的 - **un minimum de patience** - 起码的耐心。
+> &nbsp;- **chez soi** - 在自己家里 - **se sentir chez soi** - 感觉像在家里一样。
 >
 
 法国人喜欢猫 不得不说，猫咪非常符合现代社会的生活方式：最少的约束，最多的乐趣！ 不用定期遛猫，占地面积小，食量适中，而且还能享受养一只迷你“家养小老虎”的乐趣。 无论什么理由，这个小动物都值得被欢迎进我们的家庭。
@@ -8850,10 +8850,10 @@ D. La recherche de l'équilibre.
 > &nbsp;- **secrétariat** [səkretaria] - 秘书处，办公室 - **au secrétariat** - 在秘书处
 >
 > **常见短语**
-> &nbsp;- **en collaboration avec** - 与...合作
-> &nbsp;- **semaine du cinéma** - 电影周
-> &nbsp;- **au choix** - 任选，随意选择
-> &nbsp;- **s'inscrire** - 报名，注册
+> &nbsp;- **en collaboration avec** - 与...合作 - **travailler en collaboration avec lui** - 与他合作工作。
+> &nbsp;- **semaine du cinéma** - 电影周 - **pendant la semaine du cinéma** - 在电影周期间。
+> &nbsp;- **au choix** - 任选，随意选择 - **plusieurs couleurs au choix** - 有多种颜色可选。
+> &nbsp;- **s'inscrire** - 报名，注册 - **s'inscrire à un cours** - 报名课程。
 >
 
 英美研究系 与 休斯顿大学 合作，举办电影周活动。 感兴趣的学生可以选择一部电影并进行讲解。 最佳讲解 将会被刊登在合作大学的校报上。 请到教务处报名。
@@ -8902,10 +8902,10 @@ D. Répondre à un questionnaire.
 > &nbsp;- **pénibilité** [penibilite] - 艰苦/劳累 - **prime de pénibilité** - 艰苦津贴
 >
 > **常见短语**
-> &nbsp;- **vivement invité** - 诚挚邀请/极力建议
-> &nbsp;- **bonne marche** - 顺利运行/正常运转
-> &nbsp;- **prise en compte** - 考虑到/重视
-> &nbsp;- **terrain d'entente** - 共同点/共识
+> &nbsp;- **vivement invité** - 诚挚邀请/极力建议 - **être vivement invité à participer** - 被强烈建议参加
+> &nbsp;- **bonne marche** - 顺利运行/正常运转 - **assurer la bonne marche de l'entreprise** - 确保公司的正常运转
+> &nbsp;- **prise en compte** - 考虑到/重视 - **la prise en compte des risques** - 对风险的考量
+> &nbsp;- **terrain d'entente** - 共同点/共识 - **trouver un terrain d'entente** - 达成共识
 >
 
 所有员工都被强烈邀请参加 5 月 4 日（星期五）上午 10 点的会议， 会议将由工会代表和各部门负责人共同召开。 会议将讨论多个关键问题，以缓解近期影响公司正常运作的紧张局势，包括： 未考虑工作强度问题， 日益严重的安全问题。 需要尽快找到一个双方都能接受的解决方案。
@@ -8955,11 +8955,11 @@ D. Obtenir des créations de postes.
 > &nbsp;- **grouper** [grupe] - 聚集，合并 - **grouper les commandes** - 合并订单
 >
 > **常见短语**
-> &nbsp;- **par correspondance** - 通过邮购/通信方式
-> &nbsp;- **frais de port** - 运费
-> &nbsp;- **risquer de** - 风险在于/可能
-> &nbsp;- **à partir de** - 从...起
-> &nbsp;- **revenir au même** - 等于/结果是一样的
+> &nbsp;- **par correspondance** - 通过邮购/通信方式 - **cours par correspondance** - 函授课程
+> &nbsp;- **frais de port** - 运费 - **frais de port gratuits** - 免运费
+> &nbsp;- **risquer de** - 风险在于/可能 - **il risque de pleuvoir** - 可能会下雨
+> &nbsp;- **à partir de** - 从...起 - **à partir de demain** - 从明天起
+> &nbsp;- **revenir au même** - 等于/结果是一样的 - **cela revient au même** - 这是一回事
 >
 
 通过邮购购买美容产品通常更便宜，因为您可以获得免费赠品。 但需要注意： 始终检查赠品或折扣的价值是否高于邮费，否则，您的购买成本可能比预期更高。 某些品牌的促销非常划算，例如： 高达 50% 的折扣， 买一送一（等同于 50% 折扣）。 此外，达到一定消费金额后可免邮费，因此建议与朋友拼单购买！
@@ -9008,10 +9008,10 @@ D. Les produits ne sont pas toujours de très bonne qualité.
 > &nbsp;- **se pencher sur** [sə pɑ̃ʃe syr] - 研究，关注 - **se pencher sur le dossier** - 研究卷宗
 >
 > **常见短语**
-> &nbsp;- **peur de** - 害怕...
-> &nbsp;- **en témoigne** - ...证明了这一点
-> &nbsp;- **face aux** - 面对...
-> &nbsp;- **plutôt que** - 与其...不如/而不是
+> &nbsp;- **peur de** - 害怕... - **avoir peur de l'échec** - 害怕失败
+> &nbsp;- **en témoigne** - ...证明了这一点 - **son succès en témoigne** - 他的成功证明了这一点
+> &nbsp;- **face aux** - 面对... - **face aux difficultés** - 面对困难
+> &nbsp;- **plutôt que** - 与其...不如/而不是 - **choisir le train plutôt que l'avion** - 选择火车而不是飞机
 >
 
 法国年轻人对犯错的恐惧异常强烈。 从他们在多项选择题（QCM）中的表现可以看出： 尽管他们掌握的知识比全球考生的平均水平更高，但他们宁愿不作答，也不愿冒险答错。 这表明，在他们的教育体系中，错误并没有被充分重视，甚至被视为一种灾难。 我们应该提醒他们，许多天才、科学家和艺术家都曾犯错。 他们正是通过分析自己的错误，才取得了重大突破，否则他们可能永远无法理解某些概念。
@@ -9061,9 +9061,9 @@ C. Elle est moins bien tolérée dans le domaine scientifique.
 > &nbsp;- **marche** [marʃ] - 步行 - **faire de la marche** - 徒步/散步
 >
 > **常见短语**
-> &nbsp;- **aller à la montagne** - 去山区
-> &nbsp;- **il y a** - 有
-> &nbsp;- **chez nous** - 在我们这儿
+> &nbsp;- **aller à la montagne** - 去山区 - **aller à la montagne en hiver** - 冬天去山区
+> &nbsp;- **il y a** - 有 - **il y a trois jours** - 三天前
+> &nbsp;- **chez nous** - 在我们这儿 - **bienvenue chez nous** - 欢迎来我们家
 >
 
 您想在冬天去山里度假，但不喜欢滑雪？ 这不是问题：还有其他选择！ 来我们这里——Seillac！ 美丽的风景、雪中徒步、游泳池和各种体育设施供您享受！
@@ -9112,10 +9112,10 @@ D. Une promenade avec un guide.
 > &nbsp;- **interdiction** [ɛ̃tɛrdiksjɔ̃] - 禁止/禁令 - **une interdiction totale** - 全面禁令
 >
 > **常见短语**
-> &nbsp;- **mettre à disposition** - 提供/供……使用
-> &nbsp;- **appareil de bronzage** - 晒黑设备/日晒机
-> &nbsp;- **être d'accord** - 同意/赞成
-> &nbsp;- **en cas de** - 如果/在……情况下
+> &nbsp;- **mettre à disposition** - 提供/供……使用 - **mettre un véhicule à disposition** - 提供一辆车使用
+> &nbsp;- **appareil de bronzage** - 晒黑设备/日晒机 - **utiliser un appareil de bronzage** - 使用美黑设备
+> &nbsp;- **être d'accord** - 同意/赞成 - **être d'accord avec quelqu'un** - 同意某人的观点
+> &nbsp;- **en cas de** - 如果/在……情况下 - **en cas de besoin** - 万一有需要
 >
 
 法律禁止向未成年人提供日光浴设备。 我们派出了三名 15 岁的少女，前往25 家日光浴中心（solariums）进行测试。 她们表示希望进行日光浴，然后我们统计各中心的反应。 调查结果令人震惊： 只有 1 家中心拒绝，并解释说法律禁止未成年人使用日光浴设备。 22 家中心甚至没有询问她们的年龄，直接同意提供服务。 2 家中心询问了年龄，但补充说如果家长同意，那就没问题。 然而，法律规定此类设备对未成年人是完全禁止的，即使家长同意也不例外。
@@ -9165,10 +9165,10 @@ D. La plupart des parents ignorent les dangers des solariums.
 > &nbsp;- **programme** [prɔgram] - 日程/计划 - **le programme détaillé** - 详细日程
 >
 > **常见短语**
-> &nbsp;- **sur le thème** - 以...为主题
-> &nbsp;- **lors de** - 在...期间/在...时
-> &nbsp;- **en petits groupes** - 分小组/以小组形式
-> &nbsp;- **sur simple demande** - 一经要求/随索即寄
+> &nbsp;- **sur le thème** - 以...为主题 - **une conférence sur le thème de l'écologie** - 一场关于生态主题的讲座
+> &nbsp;- **lors de** - 在...期间/在...时 - **lors de la réunion** - 在会议期间
+> &nbsp;- **en petits groupes** - 分小组/以小组形式 - **travailler en petits groupes** - 分小组工作
+> &nbsp;- **sur simple demande** - 一经要求/随索即寄 - **catalogue envoyé sur simple demande** - 目录随索即寄
 >
 
 亲爱的同事们， 我们诚邀您参加一场主题为**“国际会议的组织与主持”的研讨会， 时间为5 月 3 日和 4 日**。 众多专家将在小组工作坊中进行分享和指导。 该培训并非强制性，但国际关系部门的同事们强烈建议参加。 如需获取详细日程安排，请向 Dupré 女士 咨询。 此致，敬礼， 管理层
@@ -9217,10 +9217,10 @@ D. De travailler à l'étranger.
 > &nbsp;- **réserver** [rezɛrve] - 预订 - **réserver en ligne** - 网上预订
 >
 > **常见短语**
-> &nbsp;- **le coucher du soleil** - 日落
-> &nbsp;- **à pied** - 步行
-> &nbsp;- **à cheval** - 骑马
-> &nbsp;- **dès à présent** - 从现在起/立即
+> &nbsp;- **le coucher du soleil** - 日落 - **admirer le coucher du soleil** - 欣赏日落
+> &nbsp;- **à pied** - 步行 - **aller au bureau à pied** - 步行去办公室
+> &nbsp;- **à cheval** - 骑马 - **faire une promenade à cheval** - 骑马散步
+> &nbsp;- **dès à présent** - 从现在起/立即 - **vous pouvez réserver dès à présent** - 您从现在起即可预订
 >
 
 NATURE+ 您是否曾在日落后漫步森林？ 这是一个独特的方式来重新发现森林，倾听鸟鸣和野生动物的声音， 通过触摸辨认树木和植物，感受大自然的魅力。 整个行程将由当地专业导游陪同。 Nature+ 提供步行或骑马夜间探险。 请准备保暖衣物和手电筒，您可以立即在线预订。
@@ -9270,10 +9270,10 @@ D. De passer la nuit dans un zoo.
 > &nbsp;- **plaisantin** [plɛzɑ̃tɛ̃] - 爱开玩笑的人 - **un petit plaisantin** - 一个爱开玩笑的人
 >
 > **常见短语**
-> &nbsp;- **faire croire à** - 使人相信/让...信以为真
-> &nbsp;- **en attendant** - 与此同时/在此期间
-> &nbsp;- **faire rêver** - 让人向往/引起憧憬
-> &nbsp;- **plus d'un** - 许多人/不止一个
+> &nbsp;- **faire croire à** - 使人相信/让...信以为真 - **faire croire à un mensonge** - 让人相信谎言
+> &nbsp;- **en attendant** - 与此同时/在此期间 - **en attendant le bus** - 在等公交车时
+> &nbsp;- **faire rêver** - 让人向往/引起憧憬 - **un voyage qui fait rêver** - 一次令人神往的旅行
+> &nbsp;- **plus d'un** - 许多人/不止一个 - **plus d'un candidat a échoué** - 不止一个候选人失败了
 >
 
 “跨大西洋隧道”（Transatlantic）项目让人误以为是幽灵列车穿越虚假隧道，但实际上是一场真正的营销活动。 整个法国都在谈论这件事：宣传海报遍布各地，介绍这个“未来项目”，据称它能让巴黎到纽约的火车旅程缩短至 8 小时。 这场恶作剧营销效果非常成功。但幕后是谁呢？ 如今，广告策划者和客户——SNCF（法国国家铁路公司）公开承认： “并非所有地方都能通过火车到达。” 因此，SNCF 通过这次营销活动，推广了其提供的其他旅行服务，如飞机票和度假套餐， 尤其是前往纽约的航班和旅游套餐。 与此同时，这个“玩笑”也让不少人心生向往。
@@ -9323,9 +9323,9 @@ D. Rappeler que le train permet de rallier toutes les villes.
 > &nbsp;- **salon** [salɔ̃] - 展会，沙龙 - **salon de l'emploi** - 招聘会
 >
 > **常见短语**
-> &nbsp;- **entre 16 et 25 ans** - 16至25岁之间
-> &nbsp;- **chef d'entreprise** - 企业负责人/老板
-> &nbsp;- **du 3 au 9 avril prochain** - 在即将到来的4月3日至9日
+> &nbsp;- **entre 16 et 25 ans** - 16至25岁之间 - **une offre pour les jeunes entre 16 et 25 ans** - 面向16至25岁青年的优惠
+> &nbsp;- **chef d'entreprise** - 企业负责人/老板 - **devenir chef d'entreprise** - 成为企业负责人
+> &nbsp;- **du 3 au 9 avril prochain** - 在即将到来的4月3日至9日 - **l'exposition aura lieu du 3 au 9 avril prochain** - 展览将于下个4月3日至9日举行
 >
 
 您是否介于16到25岁之间，并希望快速找到工作？ 欢迎您在即将到来的4月3日至9日企业展会上，与企业负责人见面，并了解现有的培训课程。
@@ -9374,10 +9374,10 @@ D. Trouver de l'aide pour écrire un CV
 > &nbsp;- **développement** [devlɔpmɑ̃] - 发展 - **en plein développement** - 正处于蓬勃发展中
 >
 > **常见短语**
-> &nbsp;- **commence à** - 开始做某事
-> &nbsp;- **l'impression de** - 觉得，感到
-> &nbsp;- **changer d'air** - 换个环境，透透气
-> &nbsp;- **assiste à** - 目睹，参加，见证
+> &nbsp;- **commence à** - 开始做某事 - **il commence à pleuvoir** - 开始下雨了
+> &nbsp;- **l'impression de** - 觉得，感到 - **avoir l'impression de rêver** - 感觉像在做梦
+> &nbsp;- **changer d'air** - 换个环境，透透气 - **partir en vacances pour changer d'air** - 去度假换换环境
+> &nbsp;- **assiste à** - 目睹，参加，见证 - **assister à un concert** - 参加音乐会
 >
 
 最近的一项调查显示，欧洲人的洲际旅游开始降温。 如今，人们已经熟悉了欧洲邻国，因此希望探索新的地方。 如果不离开欧盟，游客不会有真正换环境的感觉。 现在，远距离旅游正在增长，例如前往南非。
@@ -9426,10 +9426,10 @@ C. Découvrent les pays e leurs voisins
 > &nbsp;- **hébergement** [ebɛrʒəmɑ̃] - 住宿，收容 - **frais d'hébergement** - 住宿费
 >
 > **常见短语**
-> &nbsp;- **de plus en plus** - 越来越...
-> &nbsp;- **grâce aux** - 多亏了，由于
-> &nbsp;- **assistance à domicile** - 居家援助
-> &nbsp;- **maison de retraite** - 养老院
+> &nbsp;- **de plus en plus** - 越来越... - **de plus en plus de gens** - 越来越多的人
+> &nbsp;- **grâce aux** - 多亏了，由于 - **grâce aux nouvelles technologies** - 多亏了新技术
+> &nbsp;- **assistance à domicile** - 居家援助 - **service d'assistance à domicile** - 家庭护理服务
+> &nbsp;- **maison de retraite** - 养老院 - **vivre en maison de retraite** - 住在养老院
 >
 
 不要再说依赖，而是说自主 词语在改变，但问题仍然存在。这个问题是人口寿命的延长，得益于医学进步，但老年人晚年通常需要家庭助理或在医疗养老院中住宿。
@@ -9478,10 +9478,10 @@ D. Elles suivent des traitements couteux
 > &nbsp;- **réservation** [rezɛrvasjɔ̃] - 预订 - **faire une réservation** - 进行预订
 >
 > **常见短语**
-> &nbsp;- **chez eux** - 在他们家/在他们国内
-> &nbsp;- **l'an dernier** - 去年
-> &nbsp;- **selon** - 根据
-> &nbsp;- **en hausse** - 上涨/上升
+> &nbsp;- **chez eux** - 在他们家/在他们国内 - **rester chez eux** - 待在他们家
+> &nbsp;- **l'an dernier** - 去年 - **être parti l'an dernier** - 去年离开的
+> &nbsp;- **selon** - 根据 - **selon les sondages** - 根据民意调查
+> &nbsp;- **en hausse** - 上涨/上升 - **les prix sont en hausse** - 价格正在上涨
 >
 
 法国游客在今年夏天找到了在本国度假的乐趣，尤其偏爱阳光充足的海岸线。同时，去年未选择法国的欧洲和非欧洲游客也回来了。总体而言，根据最新统计数据，旅游业人流量有所增加。阿尔卑斯山的萨瓦和上萨瓦地区的预订率也增长了4%。
@@ -9530,9 +9530,9 @@ C. En Europe
 > &nbsp;- **objet** [ɔbʒɛ] - 物品 - **un objet recyclé** - 一件回收物品
 >
 > **常见短语**
-> &nbsp;- **grâce à** - 多亏，凭借
-> &nbsp;- **en plastique** - 塑料制的
-> &nbsp;- **avoir la possibilité de** - 有可能/机会做某事
+> &nbsp;- **grâce à** - 多亏，凭借 - **grâce à ton aide** - 多亏了你的帮助
+> &nbsp;- **en plastique** - 塑料制的 - **une bouteille en plastique** - 一个塑料瓶
+> &nbsp;- **avoir la possibilité de** - 有可能/机会做某事 - **avoir la possibilité de voyager** - 有机会去旅行
 >
 
 一名 13 岁的初中生 因其创业想法获奖。 关注环境保护 的她提出了一个鼓励塑料瓶回收的服务。 她的理念很简单：消费者可以用空塑料瓶兑换再生物品。 例如： 1 个塑料瓶 可以换 一支笔， 47 个塑料瓶 可以换 一件 T 恤， 65 个塑料瓶 可以换 一条毯子。
@@ -9582,9 +9582,9 @@ C. De les transformer en vêtement
 > &nbsp;- **guichet** [giʃɛ] - 窗口，售票处 - **guichet automatique** - 自动提款机
 >
 > **常见短语**
-> &nbsp;- **point de vente** - 销售点
-> &nbsp;- **famille nombreuse** - 多子女家庭
-> &nbsp;- **le soir même** - 当天晚上
+> &nbsp;- **point de vente** - 销售点 - **ouvrir un point de vente** - 开设一个销售点
+> &nbsp;- **famille nombreuse** - 多子女家庭 - **une carte famille nombreuse** - 大家庭优惠卡
+> &nbsp;- **le soir même** - 当天晚上 - **rentrer le soir même** - 当天晚上回来
 >
 
 塞特队 vs 图尔队比赛 11月12日，星期三 在常规售票点购买门票：15欧元 学生和“多子女家庭卡”持有者享有折扣 当晚在体育场售票处购买：20欧元
@@ -9633,9 +9633,9 @@ D. En présentant une carte de club de sport
 > &nbsp;- **intégration** [ɛ̃teɡrasjɔ̃] - 融入，一体化 - **faciliter l'intégration** - 促进融入
 >
 > **常见短语**
-> &nbsp;- **phénomène de société** - 社会现象
-> &nbsp;- **retour à la terre** - 重返乡村
-> &nbsp;- **classes sociales** - 社会阶层
+> &nbsp;- **phénomène de société** - 社会现象 - **un vrai phénomène de société** - 一个真正的社会现象
+> &nbsp;- **retour à la terre** - 重返乡村 - **favoriser le retour à la terre** - 鼓励回归农村生活
+> &nbsp;- **classes sociales** - 社会阶层 - **différentes classes sociales** - 不同的社会阶层
 >
 
 新农村化已成为社会现象 这个术语始于70年代，意为“重返土地”。尽管农村地区的荒漠化仍在继续，但却出现了相反的人口流动趋势。 它涉及年轻人、没有孩子、具有1968年5月抗议运动价值观的人。他们来自各个社会阶层，不特别追求舒适。他们首先想要的是体验，这使得他们与当地人不同，也加大了融入的难度。
@@ -9684,10 +9684,10 @@ C. Participer à la vie associative
 > &nbsp;- **voisin** [vwazɛ̃] - 邻居 - **le voisin de palier** - 对门邻居
 >
 > **常见短语**
-> &nbsp;- **partir à la retraite** - 退休
-> &nbsp;- **avoir besoin d'aide** - 需要帮助
-> &nbsp;- **soirée de départ** - 告别晚会/欢送会
-> &nbsp;- **premier étage** - 二楼（法国一层为G层）
+> &nbsp;- **partir à la retraite** - 退休 - **l'âge de partir à la retraite** - 退休年龄
+> &nbsp;- **avoir besoin d'aide** - 需要帮助 - **j'ai besoin d'aide** - 我需要帮助
+> &nbsp;- **soirée de départ** - 告别晚会/欢送会 - **organiser une soirée de départ** - 组织一场欢送会
+> &nbsp;- **premier étage** - 二楼（法国一层为G层） - **monter au premier étage** - 上到一楼
 >
 
 致住户的一则通知： 我们的看门人 Jérôme 即将退休。 我们需要帮忙准备他的欢送晚会（例如装饰、做饭等），时间是周六晚上 8 点。 如果你愿意参加，请拨打电话：07 34 34 21 09 一楼的邻居
@@ -9736,10 +9736,10 @@ D. Remercier les locataires.
 > &nbsp;- **conditionné** [kɔ̃disjɔne] - 调节的 - **air conditionné** - 空调
 >
 > **常见短语**
-> &nbsp;- **à 5 minutes de** - 距离...5分钟路程
-> &nbsp;- **à pied** - 步行
-> &nbsp;- **à vélo** - 骑自行车
-> &nbsp;- **point fort** - 优点/长处
+> &nbsp;- **à 5 minutes de** - 距离...5分钟路程 - **à 5 minutes de la gare** - 离火车站5分钟路程
+> &nbsp;- **à pied** - 步行 - **aller au travail à pied** - 走路去上班
+> &nbsp;- **à vélo** - 骑自行车 - **se déplacer à vélo** - 骑车出行
+> &nbsp;- **point fort** - 优点/长处 - **c'est mon point fort** - 这是我的强项
 >
 
 我们的酒店提供 5 间迷人客房。 距离市中心仅 5 分钟， 可以步行或骑车探索主要的旅游景点。 每个房间都配备了有线电视和空调。
@@ -9788,10 +9788,10 @@ D. Il se trouve en plein centre-ville.
 > &nbsp;- **atterrir** [atɛrir] - 降落，着陆 - **atterrir à l'heure** - 准时降落
 >
 > **常见短语**
-> &nbsp;- **via Internet** - 通过互联网
-> &nbsp;- **au lieu de** - 而不是，代替
-> &nbsp;- **en effet** - 的确，事实上
-> &nbsp;- **se rendre** - 前往，去往
+> &nbsp;- **via Internet** - 通过互联网 - **s'inscrire via internet** - 通过网络报名
+> &nbsp;- **au lieu de** - 而不是，代替 - **au lieu de dormir** - 而不是睡觉
+> &nbsp;- **en effet** - 的确，事实上 - **c'est en effet vrai** - 这确实是真的
+> &nbsp;- **se rendre** - 前往，去往 - **se rendre au bureau** - 前往办公室
 >
 
 由于在网上预订机票时粗心大意，三位外国游客意外地来到了法国绿色乡村的罗德兹（Rodez）， 而不是希腊阳光明媚的海滩城市罗得岛（Rhodes）。 他们确实混淆了这两个目的地，结果搭上了飞往法国阿韦龙的飞机， 还以为是飞往希腊的。 （虽然这里也很漂亮，但没有海！） 据机场称，每年大约有十几位游客会经历这种“冒险”。
@@ -9840,11 +9840,11 @@ D. Un agent de l'aéroport a mal renseigné les touristes.
 > &nbsp;- **réveil** [revɛj] - 醒来/闹钟 - **au réveil** - 醒来时
 >
 > **常见短语**
-> &nbsp;- **à prix raisonnable** - 以合理的价格
-> &nbsp;- **train de nuit** - 夜班火车
-> &nbsp;- **centre-ville** - 市中心
-> &nbsp;- **fin de semaine** - 周末
-> &nbsp;- **plus longtemps** - 更长时间
+> &nbsp;- **à prix raisonnable** - 以合理的价格 - **acheter à prix raisonnable** - 以合理的价格购买
+> &nbsp;- **train de nuit** - 夜班火车 - **prendre le train de nuit** - 乘坐夜车
+> &nbsp;- **centre-ville** - 市中心 - **habiter en centre-ville** - 住在市中心
+> &nbsp;- **fin de semaine** - 周末 - **en fin de semaine** - 在周末
+> &nbsp;- **plus longtemps** - 更长时间 - **rester plus longtemps** - 停留更久
 >
 
 一趟价格合理的夜间列车之旅，6 人卧铺车厢。 从市中心到市中心， 您可以更早到达目的地， 让您的周末变得更长。 早晨醒来时， 您将享受到免费热饮和糕点。
@@ -9894,10 +9894,10 @@ C. Un court séjour en centre-ville
 > &nbsp;- **séduire** [sedɥir] - 吸引，诱惑 - **séduire les consommateurs** - 吸引消费者
 >
 > **常见短语**
-> &nbsp;- **avant tout** - 首先，最重要的是
-> &nbsp;- **prendre son temps** - 慢慢来，从容不迫
-> &nbsp;- **répondre à** - 符合，满足（需求/愿望）
-> &nbsp;- **se presser** - 匆忙，赶时间
+> &nbsp;- **avant tout** - 首先，最重要的是 - **penser avant tout à soi** - 首先想到自己
+> &nbsp;- **prendre son temps** - 慢慢来，从容不迫 - **prendre son temps pour lire** - 慢条斯理地阅读
+> &nbsp;- **répondre à** - 符合，满足（需求/愿望） - **répondre à une question** - 回答一个问题
+> &nbsp;- **se presser** - 匆忙，赶时间 - **se presser de finir** - 赶快完成
 >
 
 “慢速滑雪”以享受乐趣为主。 滑雪的乐趣 不再只是 速度与竞技表现，一些滑雪者 更希望 放慢节奏，体验新的感受。“慢速滑雪”正是为了满足这些需求。因此，一些滑雪度假村 开设了专门的慢速滑雪区域，在这些区域内禁止高速滑行。 滑雪者可以不急不躁地滑行，专注于动作风格，而不一定只是初学者才能尝试。 这种新模式很有吸引力，而且几乎不需要额外训练。
@@ -9946,10 +9946,10 @@ D. De tester un autre type de matériel
 > &nbsp;- **retenir** [rətnir] - 引起 / 吸引 - **retenir l'attention** - 吸引注意
 >
 > **常见短语**
-> &nbsp;- **dans le cadre de** - 在...框架内 / 在...背景下
-> &nbsp;- **ci-joint** - 随信附上 / 附件
-> &nbsp;- **dossier de candidature** - 申请材料
-> &nbsp;- **je vous prie de croire** - 请您接受（用于正式信函结尾）
+> &nbsp;- **dans le cadre de** - 在...框架内 / 在...背景下 - **dans le cadre de son travail** - 在他工作的范围内。
+> &nbsp;- **ci-joint** - 随信附上 / 附件 - **le document ci-joint** - 随附的文档。
+> &nbsp;- **dossier de candidature** - 申请材料 - **déposer son dossier de candidature** - 提交申请材料。
+> &nbsp;- **je vous prie de croire** - 请您接受（用于正式信函结尾） - **je vous prie de croire en mes salutations distinguées** - 请接受我诚挚的敬意。
 >
 
 先生， 我是阿尔及尔大学信息学学士学位的持有者，希望在巴黎十二大学攻读信息学硕士课程。 进入贵校将使我能够获得我想要掌握的专业水平，这对我来说是一个真正的热情所在。 随信附上我的完整申请材料。 希望我的申请能引起您的关注，请接受我最诚挚的问候。
@@ -9999,10 +9999,10 @@ D. Un lycéen en demande d'orientation
 > &nbsp;- **plutôt** [plyto] - 宁愿/相当 - **plutôt que** - 与其...不如
 >
 > **常见短语**
-> &nbsp;- **à tarifs réduits** - 以优惠价格
-> &nbsp;- **quand on veut** - 随时/想看的时候
-> &nbsp;- **plus de** - 超过
-> &nbsp;- **plutôt que** - 而不是/与其...不如
+> &nbsp;- **à tarifs réduits** - 以优惠价格 - **voyager à tarifs réduits** - 以优惠票价旅行。
+> &nbsp;- **quand on veut** - 随时/想看的时候 - **partir quand on veut** - 想走就走。
+> &nbsp;- **plus de** - 超过 - **avoir plus de temps** - 有更多的时间。
+> &nbsp;- **plutôt que** - 而不是/与其...不如 - **choisir le thé plutôt que le café** - 选择茶而不是咖啡。
 >
 
 Scène+ 新推出的Scène+卡 继无限制观影卡之后，Scène+卡来了！巴黎是第一个测试这种模式的城市：可以以优惠价格随时使用，涵盖约40个剧院，观看超过150部剧目。这张卡可购买月票或半年票，可用于巴黎的小型剧院，主要提供流行喜剧而非经典戏剧。
@@ -10052,11 +10052,11 @@ D. Suivre des visites guidées
 > &nbsp;- **améliorer** [ameljɔre] - 提高，改善 - **améliorer la qualité** - 提高质量
 >
 > **常见短语**
-> &nbsp;- **repartir de zéro** - 从零开始
-> &nbsp;- **faire face à** - 面对，应对
-> &nbsp;- **d'autant plus que** - 况且，尤其是因为
-> &nbsp;- **dans un premier temps** - 在第一阶段，首先
-> &nbsp;- **se lancer des défis** - 挑战自我
+> &nbsp;- **repartir de zéro** - 从零开始 - **repartir de zéro après un échec** - 失败后重头再来。
+> &nbsp;- **faire face à** - 面对，应对 - **faire face à des difficultés** - 面临困难。
+> &nbsp;- **d'autant plus que** - 况且，尤其是因为 - **c'est difficile d'autant plus qu'il pleut** - 这很困难，尤其是还在下雨。
+> &nbsp;- **dans un premier temps** - 在第一阶段，首先 - **réfléchir dans un premier temps** - 首先进行思考。
+> &nbsp;- **se lancer des défis** - 挑战自我 - **se lancer des défis personnels** - 给自己设定挑战。
 >
 
 每个人在停止运动一段时间后重新开始时，都必须接受从零开始的事实。 即使动作技巧可以很快恢复， 但身体需要更长时间才能适应运动的强度…… 更何况，在此期间，身体已经老化了一些。 第一阶段至少需要三个月， 进行规律且循序渐进的训练， 这是必要的适应期。 之后， “新运动者” 才能设定挑战，提升运动表现。
@@ -10105,10 +10105,10 @@ C. Il faut se fixer des objectifs élevés dès le départ
 > &nbsp;- **incomparable** [ɛ̃kɔ̃parabl] - 无与伦比的 - **un confort incomparable** - 极度的舒适
 >
 > **常见短语**
-> &nbsp;- **se vêtir** - 穿衣，打扮
-> &nbsp;- **dernier cri** - 最新款，最流行
-> &nbsp;- **prendre conscience** - 意识到，觉醒
-> &nbsp;- **produits chimiques** - 化学产品
+> &nbsp;- **se vêtir** - 穿衣，打扮 - **se vêtir avec élégance** - 穿得优雅。
+> &nbsp;- **dernier cri** - 最新款，最流行 - **un téléphone dernier cri** - 一部最新款的电话。
+> &nbsp;- **prendre conscience** - 意识到，觉醒 - **prendre conscience du danger** - 意识到危险。
+> &nbsp;- **produits chimiques** - 化学产品 - **utiliser des produits chimiques** - 使用化学产品。
 >
 
 穿衣打扮不仅仅是追随最新的时尚潮流， 更要意识到纺织品的生产条件对生态系统的威胁。 你知道吗？例如，棉花的种植需要大量的杀虫剂。 在 Fibris，你只能找到天然纤维制成的衣物， 这些纤维不含化学添加剂， 来自有机农业，保证无与伦比的舒适感。
@@ -10157,10 +10157,10 @@ C. Des engrais naturels pour les plantes
 > &nbsp;- **perforation** [pɛrfɔrasjɔ̃] - 穿孔，小孔 - **perforation laser** - 激光打孔
 >
 > **常见短语**
-> &nbsp;- **au risque de** - 冒着...的风险
-> &nbsp;- **au niveau de** - 在...部位/在...水平
-> &nbsp;- **à la pointe de** - 处在...的最前沿/尖端
-> &nbsp;- **être à la page** - 赶时髦/不落伍
+> &nbsp;- **au risque de** - 冒着...的风险 - **au risque de se tromper** - 冒着出错的风险。
+> &nbsp;- **au niveau de** - 在...部位/在...水平 - **au niveau de la mer** - 在海平面。
+> &nbsp;- **à la pointe de** - 处在...的最前沿/尖端 - **à la pointe de la technologie** - 处于技术前沿。
+> &nbsp;- **être à la page** - 赶时髦/不落伍 - **être à la page des tendances** - 紧跟趋势。
 >
 
 冬天在户外使用触摸屏设备时，必须摘下手套，否则屏幕无法操作，但这会导致手指被冻伤。 现在，有了这款特制的山羊皮丝绸内衬手套，您不再需要冒着冻伤的风险操作触屏设备。 手套的食指部分有特殊的穿孔设计，能够更好地接触屏幕，实现精准触控。 这样，既可以紧跟科技潮流，又能保持时尚感。不过，想要跟上潮流的代价不菲——这副手套的价格甚至比触摸屏设备还贵，售价高达 370 欧元。
@@ -10209,10 +10209,10 @@ D. Ils sont offerts lors de l'achat d'un écran tactile
 > &nbsp;- **refuge** [rəfyʒ] - 避难所，慰藉物 - **trouver un refuge** - 寻找避难所
 >
 > **常见短语**
-> &nbsp;- **les jeux vidéo** - 电子游戏
-> &nbsp;- **prendre en compte** - 考虑，顾及
-> &nbsp;- **s'inquiéter** - 担心，忧虑
-> &nbsp;- **faire des... des...** - 把...当作...
+> &nbsp;- **les jeux vidéo** - 电子游戏 - **jouer aux jeux vidéo** - 玩电子游戏。
+> &nbsp;- **prendre en compte** - 考虑，顾及 - **prendre en compte les remarques** - 考虑这些意见。
+> &nbsp;- **s'inquiéter** - 担心，忧虑 - **s'inquiéter pour l'avenir** - 为未来担心。
+> &nbsp;- **faire des... des...** - 把...当作... - **faire des efforts et des progrès** - 付出努力并取得进步。
 >
 
 电视、电子游戏和电脑已侵占了家庭生活。因此，一些家长担心孩子可能会沉迷。每天面对屏幕的时间应该控制在多少小时以内？心理学家指出，需关注的关键在于“独占性”。如果电视、电子游戏和互联网成为青少年唯一的社交和娱乐来源，那么必须引起重视并采取行动。管理图像消费是父母的责任，他们需要将屏幕变成家庭交流的工具，而不是个人逃避的港湾。
@@ -10261,10 +10261,10 @@ D. S'informer auprès des professionnels de santé
 > &nbsp;- **modalités** [mɔdalite] - 形式/条款/规程 - **les modalités d'inscription** - 注册方式
 >
 > **常见短语**
-> &nbsp;- **être dans l'incapacité de** - 无法做某事/处于无能力状态
-> &nbsp;- **en ligne** - 在线/在网上
-> &nbsp;- **s'intéresser à** - 对...感兴趣
-> &nbsp;- **recevoir chez vous** - 在家接收/收到家
+> &nbsp;- **être dans l'incapacité de** - 无法做某事/处于无能力状态 - **être dans l'incapacité de venir** - 无法前来。
+> &nbsp;- **en ligne** - 在线/在网上 - **faire des achats en ligne** - 在线购物。
+> &nbsp;- **s'intéresser à** - 对...感兴趣 - **s'intéresser à l'art** - 对艺术感兴趣。
+> &nbsp;- **recevoir chez vous** - 在家接收/收到家 - **recevoir des amis chez vous** - 在家里招待朋友。
 >
 
 你知道吗？ 腿骨折了？发高烧了？无法亲自到大学图书馆？ 如果您拥有良好的网络连接， 您可以在线选择自己感兴趣的书籍， 并且将书籍直接送到家里！ 详细条件和申请方式请访问：www.buparisdescartes.fr
@@ -10313,10 +10313,10 @@ D. Une assistance de soin chez soi
 > &nbsp;- **invité** [ɛ̃vite] - 客人，受邀者 - **liste des invités** - 宾客名单
 >
 > **常见短语**
-> &nbsp;- **n'hésitez pas** - 请别犹豫
-> &nbsp;- **venez nous voir** - 来看我们
-> &nbsp;- **vers 2h** - 大约两点
-> &nbsp;- **au matin** - 在清晨/早上
+> &nbsp;- **n'hésitez pas** - 请别犹豫 - **n'hésitez pas à nous contacter** - 请随时联系我们。
+> &nbsp;- **venez nous voir** - 来看我们 - **venez nous voir en magasin** - 欢迎光临本店。
+> &nbsp;- **vers 2h** - 大约两点 - **arriver vers 2h** - 大约2点到达。
+> &nbsp;- **au matin** - 在清晨/早上 - **se lever tôt au matin** - 在清晨起床。
 >
 
 我们今晚庆祝我们的 40 岁生日！我们会尽量不把音乐开得太大声，如果声音太大，请随时过来告诉我们！宾客将在凌晨 2 点左右离开。谢谢。——Anne 和 Patrick
@@ -10366,11 +10366,11 @@ D. Pour trouver des musiciens pour la soirée
 > &nbsp;- **endroit** [ɑ̃drwa] - 地方，地点 - **endroit calme** - 安静的地方
 >
 > **常见短语**
-> &nbsp;- **fini les** - ...结束了，不再有...
-> &nbsp;- **sur place** - 在当地，在现场
-> &nbsp;- **autrement** - 以另一种方式
-> &nbsp;- **en même temps** - 同时
-> &nbsp;- **profiter de** - 享受，利用
+> &nbsp;- **fini les** - ...结束了，不再有... - **fini les vacances** - 假期结束了。
+> &nbsp;- **sur place** - 在当地，在现场 - **manger sur place** - 在店里吃。
+> &nbsp;- **autrement** - 以另一种方式 - **agir autrement** - 以不同方式行事。
+> &nbsp;- **en même temps** - 同时 - **parler en même temps** - 同时说话。
+> &nbsp;- **profiter de** - 享受，利用 - **profiter de l'occasion** - 利用机会。
 >
 
 结束模糊的旅行记忆。为训练摄影技巧，前往里昂度过一个周末。一家年轻的机构为您提供课程，用不同的方式探索这座城市。 目标：用一天的时间练习摄影，并与导游一起参观城市的历史古迹。您将整天受益于专业人士的建议，他会向您展示里昂的秘密角落，并教您如何利用自然光线。
@@ -10420,9 +10420,9 @@ C. De visiter des expositions photo
 > &nbsp;- **article** [artikl] - 物品/商品 - **des articles de sport** - 体育用品
 >
 > **常见短语**
-> &nbsp;- **depuis** - 自从/已有...之久
-> &nbsp;- **à partir de** - 从...起
-> &nbsp;- **jusqu'à** - 直到/高达
+> &nbsp;- **depuis** - 自从/已有...之久 - **vivre ici depuis deux ans** - 在这里住了两年。
+> &nbsp;- **à partir de** - 从...起 - **à partir de demain** - 从明天开始。
+> &nbsp;- **jusqu'à** - 直到/高达 - **travailler jusqu'à minuit** - 工作到午夜。
 >
 
 亲爱的顾客， 您的超市已经陪伴您60年了。店主及其团队邀请您参加为期一周的庆祝活动。从8月10日开始，超过1000项特别优惠及高达50%的折扣等着您。
@@ -10471,9 +10471,9 @@ D. Le début des soldes d'été
 > &nbsp;- **talent** [talɑ̃] - 才华/天赋 - **un jeune talent** - 青年才俊
 >
 > **常见短语**
-> &nbsp;- **retour sur** - 回顾
-> &nbsp;- **petit commerce** - 小工商业/小买卖
-> &nbsp;- **dans les années** - 在...年代
+> &nbsp;- **retour sur** - 回顾 - **faire un retour sur les événements** - 对事件进行回顾。
+> &nbsp;- **petit commerce** - 小工商业/小买卖 - **soutenir le petit commerce** - 支持小商业。
+> &nbsp;- **dans les années** - 在...年代 - **dans les années 80** - 在80年代。
 >
 
 Anthony Palou 出生于水果和蔬菜商贩世家，在他的第二部小说中，他讲述了自己 1970 年代在布列塔尼的 Quimper 度过的幽默而温馨的童年时光。这部小说回顾了小型商店的辉煌时期以及如何被超市取代的历史。作者的父亲最终因银行的压力被迫关闭店铺。这部小说是继《Camille》之后的第二部作品，进一步证明了作者的真实才华。
@@ -10522,10 +10522,10 @@ D. Faire connaître la ville de Quimper
 > &nbsp;- **proposer** [prɔpoze] - 提议，提供 - **propose d'écouter** - 建议听
 >
 > **常见短语**
-> &nbsp;- **faire des affaires** - 做生意 / 洽谈业务
-> &nbsp;- **la vie d'une entreprise** - 企业生活 / 公司概况
-> &nbsp;- **la langue des affaires** - 商务语言
-> &nbsp;- **culture du travail** - 职场文化
+> &nbsp;- **faire des affaires** - 做生意 / 洽谈业务 - **réussir à faire des affaires** - 成功做成生意。
+> &nbsp;- **la vie d'une entreprise** - 企业生活 / 公司概况 - **connaître la vie d'une entreprise** - 了解企业的运作。
+> &nbsp;- **la langue des affaires** - 商务语言 - **maîtriser la langue des affaires** - 精通商务语言。
+> &nbsp;- **culture du travail** - 职场文化 - **s'adapter à la culture du travail** - 适应工作文化。
 >
 
 “做生意吗？” 是我们电台推出的一档节目，让您了解法国企业的运营模式。通过收听此节目，您可以学习商业语言，并理解法国的职场文化和行为习惯。
@@ -10574,9 +10574,9 @@ D. Une préparation des emplois dans des sociétés internationales
 > &nbsp;- **rapporter** [rapɔrte] - 带回，赢得 - **rapporter une médaille** - 赢得奖牌
 >
 > **常见短语**
-> &nbsp;- **financement participatif** - 众筹
-> &nbsp;- **jeux Olympiques** - 奥林匹克运动会
-> &nbsp;- **faire partie de** - 成为...的一部分
+> &nbsp;- **financement participatif** - 众筹 - **lancer un financement participatif** - 发起众筹。
+> &nbsp;- **jeux Olympiques** - 奥林匹克运动会 - **organiser les jeux Olympiques** - 举办奥运会。
+> &nbsp;- **faire partie de** - 成为...的一部分 - **faire partie de l'équipe** - 是团队的一员。
 >
 
 法国羽毛球第一人 Brice Leverdez 于周一发起了一项 “众筹计划”，以筹集资金来准备奥运会。这是一种在 缺乏赞助 的体育项目中筹集额外资金的方式。“这是让人们参与我奥运之旅的一种方式。如果我在下届奥运会上赢得奖牌，他们可以说自己帮助了我实现目标”，Brice Leverdez 解释道。
@@ -10625,10 +10625,10 @@ C. Une séance de badminton
 > &nbsp;- **menu** [məny] - 菜单，套餐 - **composer son menu** - 组合自己的菜单
 >
 > **常见短语**
-> &nbsp;- **est ouvert** - 开放，营业
-> &nbsp;- **se laisser séduire** - 被……吸引/折服
-> &nbsp;- **tous du pays** - 全都是本地的
-> &nbsp;- **en bois** - 木制的
+> &nbsp;- **est ouvert** - 开放，营业 - **le guichet est ouvert** - 窗口正在营业。
+> &nbsp;- **se laisser séduire** - 被……吸引/折服 - **se laisser séduire par le projet** - 被这个项目所吸引。
+> &nbsp;- **tous du pays** - 全都是本地的 - **des produits tous du pays** - 全是本地产品。
+> &nbsp;- **en bois** - 木制的 - **une table en bois** - 一张木桌。
 >
 
 风味市集 已开幕！来这里探索我们地区的独特工艺：烤鸡、烤肉、熟食、鲜奶酪、蜂蜜、果酱、馅饼、蛋糕……您可以自由搭配菜单，并在小吃摊的帐篷下享受我们的美食。 此外，您还可以欣赏本地工匠的作品——画家、珠宝设计师、裁缝师、植物学家，他们都是本地艺术家。也许您会被木制玩具、一幅浪漫的画作，或一束干花所吸引。
@@ -10678,10 +10678,10 @@ D. Des marchandises exotiques
 > &nbsp;- **mets** [mɛ] - 菜肴，食品 - **les mets délicieux** - 美味佳肴
 >
 > **常见短语**
-> &nbsp;- **avion de ligne** - 民航客机
-> &nbsp;- **n'y être pour rien** - 与此无关/没有责任
-> &nbsp;- **d'après** - 根据/依照
-> &nbsp;- **en effet** - 的确/事实上
+> &nbsp;- **avion de ligne** - 民航客机 - **un pilote d'avion de ligne** - 一名民航机长。
+> &nbsp;- **n'y être pour rien** - 与此无关/没有责任 - **je n'y suis pour rien** - 这事跟我没关系。
+> &nbsp;- **d'après** - 根据/依照 - **d'après les statistiques** - 根据统计数据。
+> &nbsp;- **en effet** - 的确/事实上 - **il est en retard, en effet** - 他的确迟到了。
 >
 
 商业航班上提供的餐食一直因口味寡淡而声名狼藉。但这似乎并不是厨师的错。一项研究表明，过大的噪音会降低味觉敏感度，使食物变得“无味”。飞机引擎的轰鸣声，可能正是乘客对机上餐食不感兴趣的原因。研究人员还发现，悦耳的声音可以增强人们对食物的味觉体验。
@@ -10731,9 +10731,9 @@ D. Les plats proposés en vol manquent de saveur
 > &nbsp;- **information** [ɛ̃fɔrmasjɔ̃] - 信息 - **demander des informations** - 咨询信息
 >
 > **常见短语**
-> &nbsp;- **téléphone portable** - 手机
-> &nbsp;- **de saison** - 当季的/时令的
-> &nbsp;- **donner des informations** - 提供信息
+> &nbsp;- **téléphone portable** - 手机 - **utiliser son téléphone portable** - 使用手机。
+> &nbsp;- **de saison** - 当季的/时令的 - **des fruits de saison** - 时令水果。
+> &nbsp;- **donner des informations** - 提供信息 - **donner des informations précises** - 提供准确信息。
 >
 
 “方便市场”是一款手机应用程序，可为您推荐超市中应季的优质水果和蔬菜。它还提供关于奶酪、肉类和鱼类的信息。
@@ -10782,11 +10782,11 @@ D. À trouver des recettes
 > &nbsp;- **obtention** [ɔptãsjɔ̃] - 获得，取得 - **Obtention d'un diplôme** - 获得文凭
 >
 > **常见短语**
-> &nbsp;- **en cas de besoin** - 在有需要时
-> &nbsp;- **sens de l'observation** - 观察力
-> &nbsp;- **qualités relationnelles** - 人际交往能力
-> &nbsp;- **condition physique** - 身体状况
-> &nbsp;- **port d'armes** - 持枪许可证
+> &nbsp;- **en cas de besoin** - 在有需要时 - **appeler en cas de besoin** - 必要时打电话。
+> &nbsp;- **sens de l'observation** - 观察力 - **avoir le sens de l'observation** - 有敏锐的观察力。
+> &nbsp;- **qualités relationnelles** - 人际交往能力 - **posséder des qualités relationnelles** - 具备人际交往素质。
+> &nbsp;- **condition physique** - 身体状况 - **être en bonne condition physique** - 身体素质良好。
+> &nbsp;- **port d'armes** - 持枪许可证 - **le permis de port d'armes** - 持枪证。
 >
 
 城市交通公司招聘像你我这样的英雄！ 你的职责包括保护、协助、保障旅客和公司员工的安全，并在必要时进行干预。 你的观察能力和人际交往能力将是你成功完成任务的最佳优势。 要求： 年龄 21 至 35 岁 身高 男性至少 1m75，女性至少 1m65 身体素质优秀 符合持枪许可的条件 薪资待遇： 月薪 1650 欧元（税前），培训合格后上岗。
@@ -10835,10 +10835,10 @@ D. Agent de circulation
 > &nbsp;- **conseiller** [kɔ̃sɛje] - 建议 - **être à conseiller** - 值得推荐
 >
 > **常见短语**
-> &nbsp;- **coup de cœur** - 心头好/心动之选
-> &nbsp;- **se maintenir** - 维持/保持
-> &nbsp;- **éloigné de** - 远离...
-> &nbsp;- **malgré cela** - 尽管如此
+> &nbsp;- **coup de cœur** - 心头好/心动之选 - **avoir un coup de cœur pour un film** - 迷上了一部电影。
+> &nbsp;- **se maintenir** - 维持/保持 - **les prix se maintiennent** - 价格保持稳定。
+> &nbsp;- **éloigné de** - 远离... - **un village éloigné de la ville** - 一个远离城市的村庄。
+> &nbsp;- **malgré cela** - 尽管如此 - **continuer malgré cela** - 尽管如此仍继续。
 >
 
 特别推荐 LE DIRIGEABLE 餐厅： 虽然菜单会有所变化，但菜肴的质量和精致程度始终如一。 酱汁调配得非常出色 食材品质优良 桌布始终洁白如新 在远离市中心的地段找到这样美味的餐厅实属惊喜； 因此，建议提前预订晚餐。 无论穿着牛仔裤还是运动鞋，都值得去尝试，甚至多次光顾！
@@ -10887,10 +10887,10 @@ D. Objective pour le restaurant
 > &nbsp;- **inconnu** [ɛ̃kɔny] - 陌生人/未知的 - **un parfait inconnu** - 一个完全陌生的人
 >
 > **常见短语**
-> &nbsp;- **à la découverte de** - 去发现/探索
-> &nbsp;- **en pleine ville** - 在市中心/在城市里
-> &nbsp;- **aux côtés de** - 在...身边/在...旁边
-> &nbsp;- **faire connaissance** - 结识/相识
+> &nbsp;- **à la découverte de** - 去发现/探索 - **partir à la découverte de Paris** - 去探索巴黎。
+> &nbsp;- **en pleine ville** - 在市中心/在城市里 - **un jardin en pleine ville** - 城市中心的一个花园。
+> &nbsp;- **aux côtés de** - 在...身边/在...旁边 - **travailler aux côtés de son père** - 在父亲身边工作。
+> &nbsp;- **faire connaissance** - 结识/相识 - **faire connaissance avec les voisins** - 结识邻居。
 >
 
 探索一个鲜为人知的巴黎！ 这个巴黎有隐藏的通道、历史遗迹、壮丽的景色，甚至是城市中的自然美景。挺直背脊，抬头仰望天空、屋顶和远方的地平线！ 无论是大人、小孩、男性、女性、运动达人或是慵懒者，推婴儿车的父母，轮椅上的朋友……都欢迎参加！ 我们诚邀您本周日，和家人、朋友，或是独自一人，与陌生人结伴同行，一起探索这座城市！ 📍 集合地点：巴士底广场（Place de la Bastille） ⏰ 时间：上午 7:30
@@ -10939,10 +10939,10 @@ D. Une fête familiale en plein air
 > &nbsp;- **disparition** [disparisjɔ̃] - 失踪 - **une disparition mystérieuse** - 神秘失踪
 >
 > **常见短语**
-> &nbsp;- **tomber sur** - 偶然发现
-> &nbsp;- **rechercher une personne** - 寻找某人
-> &nbsp;- **s'attacher à** - 致力于
-> &nbsp;- **lever le mystère** - 揭开谜团
+> &nbsp;- **tomber sur** - 偶然发现 - **tomber sur un vieil ami** - 偶遇一位老朋友。
+> &nbsp;- **rechercher une personne** - 寻找某人 - **rechercher une personne disparue** - 寻找一名失踪者。
+> &nbsp;- **s'attacher à** - 致力于 - **s'attacher à une idée** - 坚持一个想法。
+> &nbsp;- **lever le mystère** - 揭开谜团 - **lever le mystère sur cette affaire** - 揭开这桩案子的谜团。
 >
 
 《多拉·布鲁德》于1997年出版，被认为是帕特里克·莫迪亚诺最优秀的小说之一。这位作家喜欢探寻首都的历史，经常光顾图书馆。有一天，他在《巴黎晚报》中发现了一则1941年12月31日刊登的广告： “寻找一名女孩，Dora Bruder，15岁，身高1米55，椭圆形脸，棕灰色眼睛，灰色运动外套。请将任何线索告知M. et Mme Bruder，地址：巴黎奥尔纳大道41号。” 于是，莫迪亚诺着手解开这一失踪案件的谜团，带领读者走进巴黎第18区的街道。
@@ -10991,9 +10991,9 @@ D. Il raconte la rencontre entre Modiano et sa femme
 > &nbsp;- **animateur** [animatør] - 辅导员/主持人 - **animateur culturel** - 文化活动辅导员
 >
 > **常见短语**
-> &nbsp;- **entre ... et ...** - 在...和...之间
-> &nbsp;- **jouer ensemble** - 一起演奏/一起玩
-> &nbsp;- **tous les mercredis** - 每周三
+> &nbsp;- **entre ... et ...** - 在...和...之间 - **entre amis et collègues** - 在朋友和同事之间。
+> &nbsp;- **jouer ensemble** - 一起演奏/一起玩 - **jouer ensemble au football** - 一起踢足球。
+> &nbsp;- **tous les mercredis** - 每周三 - **aller à la piscine tous les mercredis** - 每周三去游泳池。
 >
 
 您会演奏乐器吗？ 您年龄在17到25岁之间吗？ 欢迎加入青年文化之家，一起演奏音乐！ 每周三下午3点到7点集合。 由我们的辅导员指导。
@@ -11043,10 +11043,10 @@ D. Rencontrer des professionnels de la musique
 > &nbsp;- **vivement** [vivmã] - 渴望地/快点 - **vivement demain** - 渴望明天快点到来
 >
 > **常见短语**
-> &nbsp;- **un lieu de rêve** - 梦幻之地
-> &nbsp;- **non plus** - 也不
-> &nbsp;- **plus... que** - 比...更...
-> &nbsp;- **l'année prochaine** - 明年
+> &nbsp;- **un lieu de rêve** - 梦幻之地 - **habiter dans un lieu de rêve** - 居住在一个梦幻般的地方。
+> &nbsp;- **non plus** - 也不 - **moi non plus** - 我也不（是）。
+> &nbsp;- **plus... que** - 比...更... - **plus intelligent que moi** - 比我更聪明。
+> &nbsp;- **l'année prochaine** - 明年 - **partir en vacances l'année prochaine** - 明年去度假。
 >
 
 汽车展通常是一个令人梦寐以求的地方，但今年的展览不是这样。这是我列出的最丑车型排名： V210：一个装了四个轮子的吸尘器。 Tata Aria：不贵，但也不好看。 Aurus敞篷车：宽度大于高度。 期待明年！
@@ -11095,10 +11095,10 @@ D. Leur taille
 > &nbsp;- **lutter** [lyte] - 奋斗，对抗 - **lutter contre le stress** - 对抗压力
 >
 > **常见短语**
-> &nbsp;- **présenter des avantages** - 具有优势
-> &nbsp;- **passage d'une langue à une autre** - 从一种语言到另一种语言的切换
-> &nbsp;- **changer de langue** - 换语言
-> &nbsp;- **lutter contre** - 对抗，防治
+> &nbsp;- **présenter des avantages** - 具有优势 - **présenter des avantages financiers** - 具有经济优势。
+> &nbsp;- **passage d'une langue à une autre** - 从一种语言到另一种语言的切换 - **le passage d'une langue à une autre est complexe** - 语言间的转换是复杂的。
+> &nbsp;- **changer de langue** - 换语言 - **changer de langue d'interface** - 更改界面语言。
+> &nbsp;- **lutter contre** - 对抗，防治 - **lutter contre la pollution** - 与污染作斗争。
 >
 
 掌握两种语言有很多好处！ 从一种语言切换到另一种语言的心理活动也涉及情感和行为的训练：当我们切换语言时，我们也切换了文化。当双语者使用一种语言时，另一种语言也会在大脑中被激活，就像翻译一样。这种心理活动对大脑有益：它有助于预防某些疾病。
@@ -11148,11 +11148,11 @@ D. Elle enrichit la personnalité
 > &nbsp;- **preuve** [prœv] - 证据/证明 - **La preuve que** - ...的证明
 >
 > **常见短语**
-> &nbsp;- **rendez-vous sur** - 前往
-> &nbsp;- **par la poste** - 通过邮寄
-> &nbsp;- **en échange** - 作为交换
-> &nbsp;- **prix moyen** - 平均价格
-> &nbsp;- **sur le marché** - 在市场上
+> &nbsp;- **rendez-vous sur** - 前往 - **rendez-vous sur notre site web** - 请访问我们的网站。
+> &nbsp;- **par la poste** - 通过邮寄 - **envoyer une lettre par la poste** - 通过邮局寄信。
+> &nbsp;- **en échange** - 作为交换 - **donner quelque chose en échange** - 给某物作为交换。
+> &nbsp;- **prix moyen** - 平均价格 - **le prix moyen d'un café** - 一杯咖啡的平均价格。
+> &nbsp;- **sur le marché** - 在市场上 - **nouveaux produits sur le marché** - 市场上的新产品。
 >
 
 我们的公司为您提供一个简单的方案：请访问我们的网站，我们会评估您的手机价值。如果您接受手机的估价，您可以通过邮寄的方式将手机寄给我们，作为交换，您将收到相应的金额。 到目前为止，我们已经回收了 50,000 部手机，平均价格为 58 欧元。那些状况良好的手机会在法国及其他地方重新投放市场。这证明了手机可以拥有“第二次生命”。
@@ -11201,11 +11201,11 @@ C. Elle les remet aux normes
 > &nbsp;- **dynamique** [dinamik] - 有活力的 - **une personne dynamique** - 一个有活力的人
 >
 > **常见短语**
-> &nbsp;- **faire un stage** - 进行实习
-> &nbsp;- **maison d'édition** - 出版社
-> &nbsp;- **pays d'origine** - 原籍国
-> &nbsp;- **dans l'attente de** - 在等待...之中
-> &nbsp;- **sincères salutations** - 真诚的问候
+> &nbsp;- **faire un stage** - 进行实习 - **faire un stage en entreprise** - 在企业实习。
+> &nbsp;- **maison d'édition** - 出版社 - **travailler dans une maison d'édition** - 在出版社工作。
+> &nbsp;- **pays d'origine** - 原籍国 - **retourner dans son pays d'origine** - 回到原籍国。
+> &nbsp;- **dans l'attente de** - 在等待...之中 - **dans l'attente de votre réponse** - 期待您的回复。
+> &nbsp;- **sincères salutations** - 真诚的问候 - **je vous prie d'agréer mes sincères salutations** - 请接受我最诚挚的问候。
 >
 
 女士： 我是法语非母语专业的学生。我热爱阅读和艺术。我希望能在您的出版社实习，以更好地了解这个专业领域。我已经有在家乡挪威担任书店店员的多次经验。我是一个负责任、有活力并充满动力的人。 期待您的回复，请接受我诚挚的问候。 约尔格·汉斯
@@ -11254,10 +11254,10 @@ C. S'inscrire pour cours de langue
 > &nbsp;- **démarche** [demarʃ] - 步骤/手续 - **faire une démarche** - 办理手续
 >
 > **常见短语**
-> &nbsp;- **auprès de** - 向.../在...处
-> &nbsp;- **propriété intellectuelle** - 知识产权
-> &nbsp;- **répondre à** - 符合/响应
-> &nbsp;- **existe déjà** - 已经存在
+> &nbsp;- **auprès de** - 向.../在...处 - **se renseigner auprès de l'accueil** - 向前台咨询。
+> &nbsp;- **propriété intellectuelle** - 知识产权 - **respecter la propriété intellectuelle** - 尊重知识产权。
+> &nbsp;- **répondre à** - 符合/响应 - **répondre à une question** - 回答一个问题。
+> &nbsp;- **existe déjà** - 已经存在 - **cette solution existe déjà** - 这个解决方案已经存在。
 >
 
 若要成为您发明的唯一所有者，您必须向国家工业产权研究所（INPI）提交申请文件。这将使您在20 年内享有该发明的专有权。 此步骤可防止满足某项技术需求的发明被他人商业化。 但在此之前，您需要确保该发明尚未在市场上存在。INPI 可帮助您进行此项确认（电话：08 20 21 32 13 或访问网站 www.inpi.fr）。
@@ -11306,10 +11306,10 @@ D. Dans la rédaction des notices
 > &nbsp;- **offre** [ɔfr] - 优惠，提议 - **profiter d'une offre** - 享受优惠
 >
 > **常见短语**
-> &nbsp;- **emploi du temps** - 日程安排/时间表
-> &nbsp;- **passer du temps** - 花时间/度过时间
-> &nbsp;- **presse écrite** - 纸质媒体
-> &nbsp;- **grâce à** - 多亏了/由于
+> &nbsp;- **emploi du temps** - 日程安排/时间表 - **avoir un emploi du temps chargé** - 时间表排得很满。
+> &nbsp;- **passer du temps** - 花时间/度过时间 - **passer du temps avec sa famille** - 和家人一起度过时光。
+> &nbsp;- **presse écrite** - 纸质媒体 - **lire la presse écrite** - 阅读报章杂志。
+> &nbsp;- **grâce à** - 多亏了/由于 - **réussir grâce à son travail** - 依靠自己的努力取得成功。
 >
 
 你已经没有精力翻开杂志，也没有时间阅读，日程表排得很满，你花了很多时间在交通工具上……那就换种方式重新享受阅读的乐趣吧。Socrate Editions 将书面新闻转变为音频新闻，并通过演员确保阅读的质量。这样你可以跟踪新闻，继续获取信息。访问我们的网站了解我们的服务。
@@ -11358,10 +11358,10 @@ D. Des sélections de répliques de théâtres célèbres
 > &nbsp;- **allocation** [alɔkasjɔ̃] - 补贴/津贴 - **allocation logement** - 住房补贴
 >
 > **常见短语**
-> &nbsp;- **gagner de l'argent** - 赚钱
-> &nbsp;- **aller jusqu'à** - 高达/直到
-> &nbsp;- **s'offrir à vous** - 呈现给您/供您选择
-> &nbsp;- **remplir le questionnaire** - 填写调查问卷
+> &nbsp;- **gagner de l'argent** - 赚钱 - **gagner de l'argent honnêtement** - 诚实地赚钱。
+> &nbsp;- **aller jusqu'à** - 高达/直到 - **aller jusqu'à Paris** - 一直走到巴黎。
+> &nbsp;- **s'offrir à vous** - 呈现给您/供您选择 - **de nouvelles opportunités s'offrent à vous** - 新的机会呈现在您面前。
+> &nbsp;- **remplir le questionnaire** - 填写调查问卷 - **remplir le questionnaire de satisfaction** - 填写满意度调查表。
 >
 
 我们的协会可以帮助独居学生和收入不高的人支付房租。这项援助最高可达您房租的75%，并可减少电费和燃气费。 要了解您是否符合条件，可以通过以下几种方式： 与协会的顾问会面，由他协助您提交申请； 在我们的网站上填写住房补助问卷。
@@ -11410,10 +11410,10 @@ D. Aux personnes qui cherchent un logement
 > &nbsp;- **reconversion** [rəkɔ̃vɛrsjɔ̃] - 转型，改行 - **une reconversion agricole** - 农业转型
 >
 > **常见短语**
-> &nbsp;- **par ordre de préférence** - 按优先顺序
-> &nbsp;- **produits laitiers** - 乳制品
-> &nbsp;- **grandes surfaces** - 大型超市
-> &nbsp;- **avoir de quoi** - 足以，有理由...
+> &nbsp;- **par ordre de préférence** - 按优先顺序 - **classer les options par ordre de préférence** - 按喜好程度对选项进行排序。
+> &nbsp;- **produits laitiers** - 乳制品 - **consommer des produits laitiers** - 食用乳制品。
+> &nbsp;- **grandes surfaces** - 大型超市 - **faire ses courses dans les grandes surfaces** - 在大超市购物。
+> &nbsp;- **avoir de quoi** - 足以，有理由... - **avoir de quoi manger** - 有东西吃。
 >
 
 根据调查结果，每10个法国人中有7个表示定期购买有机产品。根据优先顺序，他们更倾向于购买水果和蔬菜、牛奶和乳制品、鸡蛋、杂货，最后是肉类。对于三分之二的受访者来说，健康是最优先的因素，其次是环保考量。 这种有机产品销售的激增很大程度上得益于大型超市对这个盈利市场的兴趣，以及专业连锁店的发展。法国人的这种需求能够安抚那些因农业转换而对有机产业出路感到担忧的人们。
@@ -11462,10 +11462,10 @@ D. Pour soutenir les paysans locaux
 > &nbsp;- **animateur** [animatør] - 主持人 - **animateur de radio** - 广播节目主持人
 >
 > **常见短语**
-> &nbsp;- **faire découvrir** - 使了解，让某人发现
-> &nbsp;- **avant tout** - 首先，首要地
-> &nbsp;- **donner envie de** - 使产生（做某事的）欲望
-> &nbsp;- **en savoir plus** - 了解更多
+> &nbsp;- **faire découvrir** - 使了解，让某人发现 - **faire découvrir la cuisine française** - 让人领略法国美食。
+> &nbsp;- **avant tout** - 首先，首要地 - **c'est avant tout un plaisir** - 这首先是一种乐趣。
+> &nbsp;- **donner envie de** - 使产生（做某事的）欲望 - **donner envie de voyager** - 让人想去旅游。
+> &nbsp;- **en savoir plus** - 了解更多 - **cliquer pour en savoir plus** - 点击以了解更多。
 >
 
 我不是记者，但当我们喜欢某件事时，我们会希望让其他人也了解它。我关于爵士和布鲁斯音乐的节目已经存在七年了。这主要是一种带领人们进入我的世界的方式，让他们了解我喜欢的东西，并让他们也想了解更多。所以我发现了广播作为一种传播媒介，并且我很喜欢它，但我只是一个普通的音乐人兼主持人。
@@ -11516,11 +11516,11 @@ D. Pour répondre aux attentes de son public
 > &nbsp;- **abandonner** [abɑ̃dɔne] - 抛弃，遗弃 - **enfant abandonné** - 弃儿
 >
 > **常见短语**
-> &nbsp;- **pousser la porte** - 推门进入（某处）
-> &nbsp;- **au milieu de** - 在...中间
-> &nbsp;- **au-delà de** - 超出...，在...之外
-> &nbsp;- **en tant que** - 作为
-> &nbsp;- **coûte que coûte** - 不惜一切代价，无论如何
+> &nbsp;- **pousser la porte** - 推门进入（某处） - **pousser la porte d'une boutique** - 走进一家精品店
+> &nbsp;- **au milieu de** - 在...中间 - **au milieu de la foule** - 在人群中
+> &nbsp;- **au-delà de** - 超出...，在...之外 - **au-delà de ses forces** - 超出他的体力
+> &nbsp;- **en tant que** - 作为 - **en tant que responsable** - 作为负责人
+> &nbsp;- **coûte que coûte** - 不惜一切代价，无论如何 - **vouloir réussir coûte que coûte** - 无论如何都要成功
 >
 
 迈入收养之家的大门已经是跨出了一步。在那里，人们会与其他收养候选者在一起。此时，人们会明白：除了我们自己对孩子的渴望外，孩子的利益才是首要的。 “我作为儿童保护的代表，”负责人说，“我不是为了不惜一切代价给你们找到一个孩子，而是为了给所有孤儿或被遗弃的孩子找到父母。”
@@ -11570,10 +11570,10 @@ D. Fournir un hébergement aux enfants
 > &nbsp;- **établissement** [etablismã] - 机构，企业 - **établissement public** - 公共机构
 >
 > **常见短语**
-> &nbsp;- **être attaché à** - 依恋于 / 喜爱
-> &nbsp;- **afin de** - 为了
-> &nbsp;- **en libre accès** - 免费进入 / 自助使用
-> &nbsp;- **selon** - 根据
+> &nbsp;- **être attaché à** - 依恋于 / 喜爱 - **être attaché à ses souvenirs** - 怀念旧事
+> &nbsp;- **afin de** - 为了 - **afin de gagner du temps** - 为了节省时间
+> &nbsp;- **en libre accès** - 免费进入 / 自助使用 - **des documents en libre accès** - 开放查阅的文档
+> &nbsp;- **selon** - 根据 - **selon l'avis des experts** - 根据专家的意见
 >
 
 法国人喜欢阅读，但仍然非常喜欢纸质书。因此，为了推广新的阅读媒介，巴黎的图书馆提供了1100台电子书阅读器，并且还提供平板电脑供自由使用。它们分布在全市的借阅图书馆中，数量根据各馆的访问量从2台到50台不等。
@@ -11622,11 +11622,11 @@ C. Les Français préfèrent les livres électroniques aux livres traditionnels
 > &nbsp;- **lointain** [lwɛ̃tɛ̃] - 遥远的 - **pays lointains** - 遥远的国家
 >
 > **常见短语**
-> &nbsp;- **de formation** - 某专业出身
-> &nbsp;- **bandes dessinées** - 漫画
-> &nbsp;- **vers l'âge de** - 在...岁左右
-> &nbsp;- **se mettre à** - 开始做...
-> &nbsp;- **cesser de** - 停止做...
+> &nbsp;- **de formation** - 某专业出身 - **avocat de formation** - 律师出身
+> &nbsp;- **bandes dessinées** - 漫画 - **collectionner des bandes dessinées** - 收集漫画
+> &nbsp;- **vers l'âge de** - 在...岁左右 - **vers l'âge de dix ans** - 在十岁左右
+> &nbsp;- **se mettre à** - 开始做... - **se mettre à travailler** - 开始工作
+> &nbsp;- **cesser de** - 停止做... - **cesser de pleuvoir** - 雨停了
 >
 
 我是一名历史专业出身的人，从青春期开始就是文学和漫画的大量读者。在40岁左右，我经历了一场奇怪的危机。在超过5年的时间里，我专注于阅读外语语法书籍，并停止阅读其他内容。如今，这种危机有所缓解，但我仍然比起小说，更喜欢阅读稀有语言和遥远语言的语法书。
@@ -11675,10 +11675,10 @@ D. Il va publier dans une revue sur les langues
 > &nbsp;- **communiquer** [kɔmynike] - 告知/传达 - **communiquer un résultat** - 告知结果
 >
 > **常见短语**
-> &nbsp;- **suite à** - 在...之后/根据
-> &nbsp;- **pièce jointe** - 附件
-> &nbsp;- **avoir lieu** - 举行/发生
-> &nbsp;- **consulter** - 查阅/查询
+> &nbsp;- **suite à** - 在...之后/根据 - **suite à votre demande** - 根据您的要求
+> &nbsp;- **pièce jointe** - 附件 - **veuillez trouver la pièce jointe** - 请查收附件
+> &nbsp;- **avoir lieu** - 举行/发生 - **la fête aura lieu demain** - 晚会将在明天举行
+> &nbsp;- **consulter** - 查阅/查询 - **consulter ses e-mails** - 查收电子邮件
 >
 
 发件人：Philippe Tassi 收件人：Maud Lenay 主题：硕士课程报名 附件：报名材料.pdf Lenay小姐， 关于您电话咨询的传播硕士课程，我通知您接下来的报名时间是5月25日至6月30日。您将在附件中找到报名材料，需提交以下内容：最近学历复印件、简历以及动机信。请务必提供电子邮件地址：回复将仅通过电子邮件发送。 更多信息请访问网站 www.univ.fr。 此致敬礼， Philippe Tassi 硕士课程负责人

@@ -27,11 +27,12 @@
 > \- **potentiel** [pɔtɑ̃sjɛl] - 潜在的；**un danger potentiel** - 潜在的危险。
 >
 **常见短语**
-> \- **de suite** - 连续地
-> \- **se rendre compte** - 意识到，发觉
-> \- **le manque de** - 缺乏...
-> \- **liés à** - 与...有关
-> \- **de court terme** - 短期的
+> \- **de suite** - 连续地 - **trois jours de suite** - 连续三天
+> \- **se rendre compte** - 意识到，发觉 - **se rendre compte de son erreur** - 意识到自己的错误
+> \- **le manque de** - 缺乏... - **le manque de temps** - 缺乏时间
+> \- **liés à** - 与...有关 - **des problèmes liés à la pollution** - 与污染有关的问题
+> \- **de court terme** - 短期的 - **une vision de court terme** - 短期眼光
+>
 睡眠不足连续几晚会扰乱身体，每个人都能感受到。而不太明显的是，这如何影响我们的健康。(…) 科学家们发现，睡眠不足会改变700多个基因的活跃程度，其中包括与压力和对抗疾病相关的基因。但他们尚不能确定这些基因的变化是否是对短期内糟糕睡眠的一种无害反应，是身体对睡眠不足的一种适应，还是对健康的潜在威胁。
 
 **科学家关于睡眠不足发现了什么？**
@@ -78,10 +79,11 @@ C. Le corps est moins réactif
 > \- **réconfort** [rekɔ̃fɔr] - 安慰，慰藉；**trouver du réconfort** - 寻得安慰。
 >
 **常见短语**
-> \- **prendre en compte** - 考虑到，重视。
-> \- **s'efforcer de** - 努力去做，竭力。
-> \- **de l'autre côté de** - 在……的另一边。
-> \- **avant tout** - 首先，最重要的是。
+> \- **prendre en compte** - 考虑到，重视。 - **prendre en compte les risques** - 考虑到风险
+> \- **s'efforcer de** - 努力去做，竭力。 - **s'efforcer de réussir** - 努力取得成功
+> \- **de l'autre côté de** - 在……的另一边。 - **de l'autre côté de la rue** - 在街道的另一边
+> \- **avant tout** - 首先，最重要的是。 - **penser à la sécurité avant tout** - 首先考虑安全
+>
 孤独、与父母的冲突、学业困难……青少年可以在专门的网站上倾诉，他们的声音会被重视。近年来，Fil Santé Jeune 网站的访问量增加了 313%。在屏幕的另一端，主持人和心理学家努力保持联系并延长讨论。 这项工作很棘手，因为专业人士无法考虑到目光和手势。安慰也来自于，甚至可能首先来自于其他经历类似情况的网友。
 
 **专家们遇到了什么困难？**
@@ -128,11 +130,12 @@ D. Les nombreuses remarques des participants
 > \- **appréhender** [apreɑ̃de] - 理解，领会；**appréhender la réalité** - 理解现实
 >
 **常见短语**
-> \- **art de vivre** - 生活艺术/方式
-> \- **prise de conscience** - 觉醒，意识到
-> \- **liens de cause à effet** - 因果关系
-> \- **de façon à ce que** - 为了，以便
-> \- **à ce titre** - 因此，以这个名义
+> \- **art de vivre** - 生活艺术/方式 - **l'art de vivre à la française** - 法式生活艺术
+> \- **prise de conscience** - 觉醒，意识到 - **une prise de conscience écologique** - 环保意识的觉醒
+> \- **liens de cause à effet** - 因果关系 - **établir des liens de cause à effet** - 建立因果关系
+> \- **de façon à ce que** - 为了，以便 - **faire des efforts de façon à ce que tout fonctionne** - 做出努力以便一切运行正常
+> \- **à ce titre** - 因此，以这个名义 - **agir à ce titre** - 以此身份行事
+>
 叙事心理学（psychologie narrative）是一种独特的方法， 它提供了一种新的生活方式，让人们彻底摆脱阻碍幸福的行为模式！ 这种方法并非鼓吹虚幻的幻想，而是建立在一个重要的认知基础上： “我认为的世界，并不等同于我实际体验的世界。” 现实与个人的主观看法之间始终存在差异。 心理学家 Yves Alexandre Thalmann 解释道： “一方面是客观事实，另一方面是我对事实的理解。” 我们的思维会不断为事件赋予因果关系， 让其在我们眼中变得更有意义。 然而，这位心理学家指出， 我们如何理解事件，比事件本身更能影响我们的生活质量。 因此，调整我们的心理认知方式，可以让我们的生活更加美好。
 
 **如何通过对事件的感知方式来获得幸福？**
@@ -179,10 +182,11 @@ D. Si on recherche leur signification profonde
 > \- **profondeur** [prɔfɔ̃dœr] - 深度，深刻；**manquer de profondeur** - 缺乏深度
 >
 **常见短语**
-> \- **prendre l'identité de** - 采取/冒充...的身份
-> \- **se glisser dans la peau de** - 潜入...的皮肤（化身为/扮演...的角色）
-> \- **rien ne sert de** - 做某事是没有用的
-> \- **quant à lui** - 至于他
+> \- **prendre l'identité de** - 采取/冒充...的身份 - **prendre l'identité d'un autre** - 冒用他人的身份
+> \- **se glisser dans la peau de** - 潜入...的皮肤（化身为/扮演...的角色） - **se glisser dans la peau d'un personnage** - 扮演一个角色
+> \- **rien ne sert de** - 做某事是没有用的 - **rien ne sert de courir** - 奔跑没有用（欲速则不达）
+> \- **quant à lui** - 至于他 - **mon frère, quant à lui, préfère lire** - 至于我哥哥，他更喜欢读书
+>
 « Le Fait du Roi » A. Thonon 的小说。 这是一个关于一个男人冒充另一个已死之人的身份，融入他的生活、进入他的家的故事……无需赘述这本小说的情节，因为它非常简单且毫无惊喜。然而，作者的文笔依然犀利且令人愉悦。至于主人公，他的刻画则具有一定的深度。
 
 **这本书的负面批评集中在哪一点？**
@@ -230,11 +234,12 @@ C. La qualité de l'écriture
 > \- **persister** [pɛrsiste] - 持续，坚持；**Persister dans son refus** - 坚持拒绝。
 >
 **常见短语**
-> \- **emploi du temps** - 时间表，日程安排。
-> \- **se rendre à** - 前往，去往。
-> \- **tomber sur** - 偶然发现，撞见。
-> \- **tomber des nues** - 大吃一惊，感到极度意外。
-> \- **relever de** - 属于……的范畴，归……管辖。
+> \- **emploi du temps** - 时间表，日程安排。 - **avoir un emploi du temps chargé** - 日程安排得很满
+> \- **se rendre à** - 前往，去往。 - **se rendre à son bureau** - 前往办公室
+> \- **tomber sur** - 偶然发现，撞见。 - **tomber sur un vieil ami** - 偶然遇到一位老朋友
+> \- **tomber des nues** - 大吃一惊，感到极度意外。 - **apprendre la nouvelle et tomber des nues** - 听到消息后大吃一惊
+> \- **relever de** - 属于……的范畴，归……管辖。 - **cela relève de la vie privée** - 这属于私生活范畴
+>
 马丁夫妇的日程安排并不平等。当先生去工作时，夫人操作吸尘器。当他在办公室时，她在超市买冷冻食品。当他坐在电视前时，这位模范妻子在厨房忙碌。这是从20世纪50年代的教科书中翻出来的插图吗？不，这是为了“理解同时性”而设计的练习，研究一个家庭“日常生活”的时刻。当Virginie Sassoon在她女儿的课堂作业中看到这份充满刻板印象的文件时，这位母亲大吃一惊。她说：“这张练习单揭示了一种象征性的暴力，这种暴力仍然存在于我们的社会中，并且属于集体责任。”
 
 **为什么Virginie Sassoon对她女儿班上的练习感到震惊？**
@@ -281,10 +286,11 @@ D. Ils se moquent du quotidien des personnes sans emploi
 > \- **différer** [difere] - v.i. 不同，相异；**différer de qch** - 与某物不同。
 >
 **常见短语**
-> \- **mettre en doute** - 怀疑，对...表示怀疑。
-> \- **façon de penser** - 思考方式。
-> \- **selon les** - 根据，依照。
-> \- **langue des signes** - 手语。
+> \- **mettre en doute** - 怀疑，对...表示怀疑。 - **mettre en doute la véracité des faits** - 怀疑事实的真实性
+> \- **façon de penser** - 思考方式。 - **changer sa façon de penser** - 改变思维方式
+> \- **selon les** - 根据，依照。 - **selon les circonstances** - 根据情况
+> \- **langue des signes** - 手语。 - **apprendre la langue des signes** - 学习手语
+>
 研究人员质疑一种普遍观点，即我们所说的语言影响我们的思维方式。他们展示了一项关于句子中单词顺序的研究：在某些语言中，顺序为主语、动词、宾语；而在其他语言中则是宾语、动词。研究的40名受试者分别使用英语、西班牙语和普通话，他们先用语言描述视频序列，然后用手势描述。如果按语言的口头描述在单词顺序上有所不同，那么用手势描述时，所有人都遵循相同的顺序（主语、宾语、动词），这与由聋人发明的手语顺序一致。
 
 **这篇文章得出的结论是什么？**
@@ -331,10 +337,11 @@ D. Les structures des langues seraient dépendantes de notre expérience du mond
 > \- **réception** [resɛpsjɔ̃] - 收到，接收；**accusé de réception** - 回执
 >
 **常见短语**
-> \- **remercier de** - 因某事感谢
-> \- **plutôt que de** - 与其...不如...
-> \- **frais supplémentaires** - 额外费用
-> \- **faire parvenir** - 寄送，使送达
+> \- **remercier de** - 因某事感谢 - **remercier de votre aide** - 感谢您的帮助
+> \- **plutôt que de** - 与其...不如... - **sortir plutôt que de rester seul** - 出去而不是独自留下
+> \- **frais supplémentaires** - 额外费用 - **payer des frais supplémentaires** - 支付额外费用
+> \- **faire parvenir** - 寄送，使送达 - **faire parvenir un colis** - 寄送一个包裹
+>
 尊敬的女士， 感谢您的订单，但您的付款未完全覆盖购买金额。为了不让您承担额外费用，我今天就将您的包裹寄出，并请您在收到包裹后寄给我一张20欧元的支票。 诚挚问候。
 
 **这封信的目的是？**
@@ -380,11 +387,12 @@ D. Prévenir une cliente qu'elle devra payer 20 euros de frais d'envoi.
 > \- **orienter** [ɔrjɑ̃te] - v.pr. 定向，找准方向；**s'orienter avec une boussole** - 用指南针定向
 >
 **常见短语**
-> \- **un ensemble d'** - 一系列，一套
-> \- **accompagné de** - 随附有...，在...的陪同下
-> \- **destiné à** - 旨在，面向...的
-> \- **faire des rencontres** - 结识，社交
-> \- **se faire plaisir** - 尽兴，让自己开心
+> \- **un ensemble d'** - 一系列，一套 - **un ensemble de mesures** - 一系列措施
+> \- **accompagné de** - 随附有...，在...的陪同下 - **un dessert accompagné de crème** - 伴有奶油的甜点
+> \- **destiné à** - 旨在，面向...的 - **un message destiné à tous** - 发给所有人的信息
+> \- **faire des rencontres** - 结识，社交 - **faire des rencontres intéressantes** - 结交有趣的人
+> \- **se faire plaisir** - 尽兴，让自己开心 - **s'acheter un cadeau pour se faire plaisir** - 买礼物犒劳自己
+>
 阿德琳和杰罗姆的经验分享 阿德琳和杰罗姆创建了一个名为“比利牛斯徒步旅行”的博客，提供这些山区的徒步线路，包括他们的个人照片和地图上的路线标记。从波尔多开始运营，他们在波尔多学习，该博客会在每次假期时更新。博客还提供关于天气、所需装备以及如何定位的信息。这个博客旨在分享、交流、建立（通常是虚拟的）联系，并享受乐趣。
 
 **阿德琳和杰罗姆是谁？**
@@ -432,10 +440,11 @@ C. Des guides de montagne
 > \- **captivant** [kaptivɑ̃] - 迷人的，引人入胜的；**un récit captivant** - 引人入胜的叙述
 >
 **常见短语**
-> \- **de son vivant** - 在他生前
-> \- **à partir de** - 根据，从……开始
-> \- **auprès de** - 在……（群体）之中，在……看来
-> \- **de telle ou telle manière** - 以这样或那样的方式
+> \- **de son vivant** - 在他生前 - **publier un livre de son vivant** - 在他在世时出版一本书
+> \- **à partir de** - 根据，从……开始 - **à partir de demain** - 从明天起
+> \- **auprès de** - 在……（群体）之中，在……看来 - **se renseigner auprès de la mairie** - 向市政厅咨询
+> \- **de telle ou telle manière** - 以这样或那样的方式 - **agir de telle ou telle manière** - 以某种方式行动
+>
 文森特·梵高：一个割掉耳朵、生活贫困的疯子？生前不为人知？ 这个顽固的神话是基于浪漫化的故事构建的。然而，对梵高所有书信（包括与其兄弟提奥和高更的交流）的深入研究表明，事实更加复杂。梵高并不贫穷，而是对金钱不太在意。他实际上非常有思想、非常有文化，在世时也享有一定的声誉，尽管并未在大众中广为人知。关注这些信件，能生动地了解他当时的关注点，以及他为什么以这样的方式绘画。
 
 **梵高的书信揭示了什么？**
@@ -482,10 +491,10 @@ D. Il souffrait beaucoup à cause de son état mental fragile
 > \- **conséquence** [kɔ̃sekɑ̃s] - 后果，影响；**en conséquence** - 因此，结果
 >
 **常见短语**
-> \- **fait partie de** - 属于...的一部分
-> \- **à partir du moment où** - 从...那一刻起/既然
-> \- **risquer de** - 冒...的风险/有可能（发生不好的事）
-> \- **donner une mauvaise image de soi** - 给人留下不良形象
+> \- **fait partie de** - 属于...的一部分 - **cela fait partie du jeu** - 这是游戏的一部分
+> \- **à partir du moment où** - 从...那一刻起/既然 - **à partir du moment où tu acceptes** - 既然你接受了
+> \- **risquer de** - 冒...的风险/有可能（发生不好的事） - **risquer de pleuvoir** - 可能会下雨
+> \- **donner une mauvaise image de soi** - 给人留下不良形象 - **être impoli donne une mauvaise image de soi** - 没礼貌会给自己留下坏印象
 语言学家阿兰·雷解释了为什么人们因犯拼写错误而感到羞愧，因为掌握良好的拼写是被期望的行为之一：拼写不佳的问题始于人人都接受教育的时代。我们可以容忍私人信件或短信中的拼写错误，但在专业文件中却不可接受，因为这会影响个人形象，从而导致被低估。
 
 **阿兰·雷如何解释拼写正确的重要性？**
@@ -533,10 +542,11 @@ D. C'est une preuve d'éducation
 > \- **imprévisibilité** [ɛ̃previzibilite] - 不可预测性；**l'imprévisibilité du futur** - 未来的不可预测性。
 >
 **常见短语**
-> \- **il me semble** - 在我看来 / 对我而言。
-> \- **renvoyer à** - 归结为 / 指向 / 涉及。
-> \- **dans la mesure où** - 在...的范围内 / 鉴于 / 既然。
-> \- **par rapport à** - 与...相比 / 关于。
+> \- **il me semble** - 在我看来 / 对我而言。 - **il me semble que c'est la meilleure solution** - 在我看来这是最好的解决办法。
+> \- **renvoyer à** - 归结为 / 指向 / 涉及。 - **ce pronom renvoie au sujet de la phrase** - 这个代词指向句子的主语。
+> \- **dans la mesure où** - 在...的范围内 / 鉴于 / 既然。 - **le projet avance dans la mesure où le budget est respecté** - 只要预算得到遵守，项目就会推进。
+> \- **par rapport à** - 与...相比 / 关于。 - **il est en retard par rapport à son emploi du temps** - 他的进度落后于其时间表。
+>
 我认为重要的是不要混淆，尽管作为知识分子意味着能够熟练处理思想，但不要将知识分子与其他相似类别混为一谈。作家，尤其是小说家，不是自然地贡献思想，而是贡献小说。或者更确切地说，一个成功的小说类型，总是需要与理论世界保持距离。虚构作品的基本品质是想象力，而思想和论据的交织反对了小说的自由和不可预测性。在某些虚构作品中，作者可能显得更“知识化”。然而，这是因为理论俘获了创作，作者无法从中解脱。这并不一定会导致糟糕的书籍，但会阻碍它们成为伟大的小说。它们会让人思考，但我并不相信它们能让读者梦想。
 
 **这位作者捍卫的论点是什么？**
@@ -583,10 +593,11 @@ D. Les modes d'écriture du romancier et de l'intellectuel sont identiques
 > \- **revenu** [rəvny] - 收入；**revenu publicitaire** - 广告收入。
 >
 **常见短语**
-> \- **à l'image de** - 像...一样，正如...。
-> \- **désormais** - 从此，今后。
-> \- **se décliner en** - 表现为，分为。
-> \- **au milieu de** - 在...中间，在...中期。
+> \- **à l'image de** - 像...一样，正如...。 - **une réussite à l'image de son travail acharné** - 一份与其努力相匹配的成功。
+> \- **désormais** - 从此，今后。 - **il sera désormais possible de payer par carte** - 从今以后可以用卡支付了。
+> \- **se décliner en** - 表现为，分为。 - **cet article se décline en plusieurs couleurs** - 这款商品有多种颜色可选。
+> \- **au milieu de** - 在...中间，在...中期。 - **une petite maison au milieu de la forêt** - 森林中间的一间小房子。
+>
 内容多样化、探索新经济模式、重新定义记者职业（……） 法国媒体空间发生了深刻重构（……）。和其他欧洲国家一样，法国现在正面临媒体支持和企业间的激烈竞争。 进入这个时代经历了三个阶段：自20世纪70年代中期以来，杂志数量的增加，随后是20世纪80年代视听行业的自由化，以及90年代中期互联网和移动电话服务的扩展。媒体产品的过剩加剧了争夺观众和广告收入的竞争。
 
 **这篇文章的主要主题是什么？**
@@ -633,10 +644,11 @@ D. Le développement des médias en ligne.
 > \- **fréquentation** [frekɑ̃tasjɔ̃] - 客流量，（场所的）出入；**record de fréquentation** - 破纪录的到场人数。
 >
 **常见短语**
-> \- **ne plus savoir où donner de la tête** - 忙得不可开交，不知所措。
-> \- **tirer parti de** - 利用，从中获利。
-> \- **en matière de** - 在...方面，关于。
-> \- **être au beau fixe** - 处于稳定良好的状态，（天气）晴朗。
+> \- **ne plus savoir où donner de la tête** - 忙得不可开交，不知所措。 - **avec tous ces examens, elle ne sait plus où donner de la tête** - 面对这么多考试，她忙得焦头烂额。
+> \- **tirer parti de** - 利用，从中获利。 - **il faut tirer parti de cette expérience** - 必须利用这次经验。
+> \- **en matière de** - 在...方面，关于。 - **une réforme nécessaire en matière de santé** - 医疗卫生领域必要的改革。
+> \- **être au beau fixe** - 处于稳定良好的状态，（天气）晴朗。 - **leurs relations sont au beau fixe** - 他们的关系正处于极佳的状态。
+>
 今年，文化爱好者们依然面临眼花缭乱的选择和钱包的压力。随着数量的不断增加——尤其是自从地方政府（地区、部门等）意识到它们可以通过投资传播活动获益——音乐节蓬勃发展，各项指标持续向好，比如拉罗谢尔的 Francofolies 和 Vieilles Charrues 这样的标志性活动。去年，它们声称打破了参与人数的新纪录。
 
 **从这篇文章中，我们可以了解到关于音乐节的什么信息？**
@@ -683,11 +695,12 @@ D. Les tarifs proposés dépendent de la programmation.
 > \- **s'enraciner** [sɑ̃rasine] - 扎根，深入；**s'enraciner dans la culture** - 根植于文化之中。
 >
 **常见短语**
-> \- **tenir compte de** - 考虑到，顾及。
-> \- **aussi bien que** - 既……又……，以及。
-> \- **en dépit de** - 尽管，不顾。
-> \- **au gré de** - 随……而定，依照。
-> \- **avant tout** - 首先，最重要的是。
+> \- **tenir compte de** - 考虑到，顾及。 - **il faut tenir compte de la météo pour le voyage** - 旅行时必须考虑到天气因素。
+> \- **aussi bien que** - 既……又……，以及。 - **il écrit aussi bien qu'il parle** - 他写得和说得一样好。
+> \- **en dépit de** - 尽管，不顾。 - **en dépit de ses efforts, il a échoué** - 尽管他努力了，但还是失败了。
+> \- **au gré de** - 随……而定，依照。 - **naviguer au gré du vent** - 随风航行。
+> \- **avant tout** - 首先，最重要的是。 - **la sécurité avant tout** - 安全最重要。
+>
 民主在其原则上似乎是一种有吸引力的方式来组织社会中的权力。人民通过自己或其代表治理自己，每个人既是被治理者又是治理者，学会同时考虑公众利益和个人利益。这样的学习过程并不容易：在实现当前的民主之前，经历了许多尝试和失败。面对困难，这些复杂而脆弱的结构表现出了惊人的韧性，也许是因为它们的合法性深深扎根于“人类内心的激情”。“结构上未完成”的民主，以其能够在保持忠于最初目标的同时不断转变的能力让人惊叹。尽管面临批评和攻击，它在几个世纪中不断发展，并在今天面临新的挑战。多形态的民主因国家而异，每种国家或地区的民主经验都是其历史的产物，这首先取决于书写历史的人民。
 
 **这篇文章的主要观点是什么？**
@@ -734,10 +747,11 @@ D. Les fondements théoriques de la démocratie sont utopiques.
 > \- **habileté** [abilte] - n.f. 技能，技巧；**développer ses habiletés** - 发展自身技能。
 >
 **常见短语**
-> \- **jouer un rôle crucial** - 起到至关重要的作用。
-> \- **se sentir à l'aise** - 感到自在，得心应手。
-> \- **de préférence** - 优先地，偏向于。
-> \- **avoir tendance à** - 往往会，倾向于。
+> \- **jouer un rôle crucial** - 起到至关重要的作用。 - **la technologie joue un rôle crucial dans ce secteur** - 技术在该领域起着至关重要的作用。
+> \- **se sentir à l'aise** - 感到自在，得心应手。 - **elle se sent à l'aise dans son nouveau travail** - 她在新工作中感到很自在。
+> \- **de préférence** - 优先地，偏向于。 - **veuillez nous contacter le matin de préférence** - 请尽量在上午联系我们。
+> \- **avoir tendance à** - 往往会，倾向于。 - **il a tendance à oublier ses clés** - 他容易忘带钥匙。
+>
 关于动机的最新研究表明，对自己能力的信心可以有效地行动，并在学生的投入和表现中起着重要作用。这种信心可能因领域而异，也可能因学科而异。例如，一个人可能在音乐器材方面非常自信，但在篮球场上却感到不自在；一个人可能在法语方面非常优秀，但在数学上表现平平。研究表明，在某学科中有信心的学生更倾向于选择对他们构成挑战并能让他们发展技能的活动。而相反，他们往往对自己感到无能为力的活动失去兴趣。
 
 **在某些学科上表现自如的学生会如何反应？**
@@ -784,10 +798,11 @@ C. Ils négligent les matières trop faciles pour eux.
 > \- **matière première** [matjɛr prəmjɛr] - 原材料；**Produire la matière première** - 生产原材料。
 >
 **常见短语**
-> \- **venir à l'idée de** - 某人产生...念头。
-> \- **se targuer de** - 吹嘘，以...自豪。
-> \- **d'autant plus que** - 尤其是，更何况。
-> \- **dès lors que** - 既然，一旦。
+> \- **venir à l'idée de** - 某人产生...念头。 - **il ne m'est jamais venu à l'idée qu'il pourrait mentir** - 我从未想到他会撒谎。
+> \- **se targuer de** - 吹嘘，以...自豪。 - **il se targue d'être le plus rapide** - 他自夸是跑得最快的。
+> \- **d'autant plus que** - 尤其是，更何况。 - **je l'accepte d'autant plus que c'est gratuit** - 我接受它，尤其是因为它免费。
+> \- **dès lors que** - 既然，一旦。 - **dès lors que le contrat est signé, il faut le respecter** - 合同一旦签署，就必须遵守。
+>
 没有人会想到在电影院或剧院不付费就入场，也没有人会想到这些行业不支付创作者的费用。然而，许多摄影节或专门的摄影场所却标榜免费展出作品，更令人震惊的是，在大多数情况下，摄影师没有预算或版权费用。尽管让所有人都能接触摄影的初衷非常正当，但若换作其他行业，这样的行为会让人震惊，而在摄影领域却无人质疑，尽管摄影师是这些活动的主要创作者。
 
 **作者对文章中的现象有什么看法？**
@@ -834,10 +849,11 @@ D. N'importe qui peut s'improviser photographe.
 > \- **intimiste** [ɛ̃timist] - adj. 温馨亲切的，私密的；**Un cadre intimiste** - 一个温馨私密的氛围。
 >
 **常见短语**
-> \- **à domicile** - 在家中，上门。
-> \- **à partir de** - 根据，从……起。
-> \- **s'approprier** - 占用，掌握，使……为己所有。
-> \- **lors de** - 在……期间，在……时。
+> \- **à domicile** - 在家中，上门。 - **un service de livraison à domicile** - 送货上门服务。
+> \- **à partir de** - 根据，从……起。 - **le magasin est ouvert à partir de 8 heures** - 商店从8点起营业。
+> \- **s'approprier** - 占用，掌握，使……为己所有。 - **s'approprier les codes d'une culture** - 掌握某种文化的规则。
+> \- **lors de** - 在……期间，在……时。 - **il a été blessé lors de la compétition** - 他在比赛期间受伤了。
+>
 一年多以来，位于巴黎附近塞夫朗的火药厂剧院协会组织了免费的家庭剧场表演。这些表演基于一部原创剧本。为此，该协会邀请了一位职业作家驻场创作，收集了约三十位居民关于女性力量主题的证词，并以此为基础撰写剧本。协会的目标是让观众能够认同这部戏剧：当认同现象出现时，观众在演出后能够自由表达自己的想法。这种现象因亲密的环境而被放大，促进了观众与演员之间的接近。
 
 **该协会通过此项目的目标是什么？**
@@ -884,10 +900,11 @@ D. Sensibiliser à l'égalité des sexes.
 > \- **restriction** [rɛstriksjɔ̃] - 限制，约束；**restriction de circulation** - 交通限制。
 >
 **常见短语**
-> \- **du fait de** - 由于，因为。
-> \- **vis-à-vis de** - 面对，对于，关于。
-> \- **se serrer la ceinture** - 勒紧裤腰带，节衣缩食。
-> \- **jeter la pierre à** - 责备，抨击。
+> \- **du fait de** - 由于，因为。 - **un retard du fait de la grève** - 由于罢工造成的延误。
+> \- **vis-à-vis de** - 面对，对于，关于。 - **votre comportement vis-à-vis des collègues** - 你对同事的行为表现。
+> \- **se serrer la ceinture** - 勒紧裤腰带，节衣缩食。 - **en période de crise, il faut se serrer la ceinture** - 在危机时期，必须节衣缩食。
+> \- **jeter la pierre à** - 责备，抨击。 - **on ne peut pas lui jeter la pierre pour cette erreur** - 我们不能因为这个错误而责怪他。
+>
 早上好， 您在文章中提到了布列塔尼地区因过度消费而面临大范围停电的风险。然而，这个地区没有本地生产能源的手段，因此完全依赖高压电网！每次寒冷天气的压力都非常大……风险是真实存在的，但布列塔尼人却勒紧裤腰带！布列塔尼在行动中仍然是榜样，就像被罗马人包围的高卢人村庄！让人恼火的是，尽管他们做出了特殊努力，但媒体却不谴责工业界的懒惰！观察到这一点令人作呕，到目前为止，似乎什么都没有改变！究竟是谁真正消耗了更多能源？
 
 **这位读者表达了什么反应？**
@@ -934,11 +951,12 @@ D. Il trouve inquiétantes les conséquences de la mauvaise gestion des sources 
 > \- **disparition** [disparisjɔ̃] - n.f. 消失，灭绝；**en voie de disparition** - 处于灭绝边缘
 >
 **常见短语**
-> \- **à travers le monde** - 全世界，在世界各地
-> \- **alors qu'il n'en est rien** - 而事实并非如此
-> \- **facteur déclenchant** - 诱发因素，起因
-> \- **s'alimenter de** - 以...为养料，源于
-> \- **dépendre de** - 依赖于，取决于
+> \- **à travers le monde** - 全世界，在世界各地 - **une marque connue à travers le monde** - 一个世界知名的品牌。
+> \- **alors qu'il n'en est rien** - 而事实并非如此 - **il dit être malade alors qu'il n'en est rien** - 他说病了，其实并没有。
+> \- **facteur déclenchant** - 诱发因素，起因 - **le stress est souvent le facteur déclenchant** - 压力往往是诱发因素。
+> \- **s'alimenter de** - 以...为养料，源于 - **son imagination s'alimente de ses voyages** - 他的想象力由旅行所滋养。
+> \- **dépendre de** - 依赖于，取决于 - **notre succès dépend de votre aide** - 我们的成功取决于您的帮助。
+>
 每分钟相当于40个足球场的森林消失。热带森林的破坏每年向大气中释放更多废气，其量超过整个运输行业的总和。公众普遍认为木材贸易是森林砍伐的主要原因，但实际并非如此。农业是导致这一现象的主要因素，负责80%的热带地区森林砍伐。非法木材交易也负有部分责任，是诱因之一，还有其他活动。大约16亿人直接依赖森林生活，但他们也促成了森林资源的减少甚至消失。
 
 **根据文章，森林砍伐对什么产生影响？**
@@ -985,10 +1003,10 @@ D. Sur la progression des cultures tropicales.
 > \- **immédiate** [imedjat] - 中文释义：直接的，立即的；**réponse immédiate** - 立即回复。
 >
 **常见短语**
-> \- **points cardinaux** - 中文释义：基本点，基点（原意为罗盘方位）。
-> \- **être en droit de** - 中文释义：有权……，理应……。
-> \- **palette aromatique** - 中文释义：香气范围，味觉谱。
-> \- **imaginaire collectif** - 中文释义：集体想象。
+> \- **points cardinaux** - 中文释义：基本点，基点（原意为罗盘方位）。 - **s'orienter grâce aux quatre points cardinaux** - 利用四个基本方位进行定向。
+> \- **être en droit de** - 中文释义：有权……，理应……。 - **vous êtes en droit de demander un remboursement** - 您有权要求退款。
+> \- **palette aromatique** - 中文释义：香气范围，味觉谱。 - **ce vin offre une large palette aromatique** - 这款酒具有丰富的香气层次。
+> \- **imaginaire collectif** - 中文释义：集体想象。 - **une figure marquante de l'imaginaire collectif** - 集体想象中的一个显著人物。
 咸、甜、酸、苦——四个词就像方位点一样定义了味觉的表达领域。我们有理由认为这不足以描述所有香味层次和它引发的情感。日本人因此增加了“鲜味”的概念，这种味道字面上意为“美味”，柔和、覆盖口腔，非常容易让人上瘾。在集体想象中，糖象征着甜美、贪食和安慰。然而，人们也可以想象一种不那么直观的甜味体验，这种甜味意味着复杂的香味层次，在苦、辣或酸的味道中游走。
 
 **这篇文章提出了什么问题？**
@@ -1036,9 +1054,10 @@ D. La multiplication des termes culinaires.
 > \- **intergénérationnel** [ɛ̃tɛrɡenerasjɔnɛl] - 代际的，跨代的；**échanges intergénérationnels** - 代际交流。
 >
 **常见短语**
-> \- **le marché du travail** - 劳动力市场。
-> \- **en période de crise** - 在危机时期。
-> \- **prendre conscience** - 意识到，察觉到。
+> \- **le marché du travail** - 劳动力市场。 - **analyser le marché du travail** - 分析劳动力市场
+> \- **en période de crise** - 在危机时期。 - **la survie en période de crise** - 危机时期的生存
+> \- **prendre conscience** - 意识到，察觉到。 - **prendre conscience de l'enjeu** - 意识到问题的利害性
+>
 在职场中，年轻人和老年人常常感到被排挤或被轻视。然而，由老年人引导年轻人适应职场或创建企业的导师计划已存在多年。 更令人惊讶的是，最近出现了“反向导师制”，年轻人教会老年人使用数字工具。老年人通过这种方式学到新技能，而年轻人则拓宽了人脉。 在危机时期，这种合作方式可以成为缓解社会紧张的手段。促进代际交流有助于建立一种双方都意识到自己能为对方带来价值的关系。
 
 **上述描述的导师制的意义是什么？**
@@ -1086,10 +1105,11 @@ D. Répondre à l'allongement de la durée de vie.
 > \- **déjouer** [deʒwe] - 避开，挫败，打破；**déjouer les codes** - 打破常规/跳出规范
 >
 **常见短语**
-> \- **au fil de** - 随着，在...的过程中
-> \- **au sein de** - 在...内部，在...之中
-> \- **se vouloir** - 旨在，力求成为，自视为
-> \- **autour de** - 围绕...，关于...
+> \- **au fil de** - 随着，在...的过程中 - **au fil du temps** - 随着时间的流逝
+> \- **au sein de** - 在...内部，在...之中 - **au sein de l'entreprise** - 在企业内部
+> \- **se vouloir** - 旨在，力求成为，自视为 - **se vouloir rassurant** - 意在让人放心
+> \- **autour de** - 围绕...，关于... - **une discussion autour de ce sujet** - 围绕这一话题的讨论
+>
 维勒班当代艺术学院举办了一场展览，展示了美国艺术家Jimmie Durham和巴西艺术家Maria Thereza Alves的作品。过去20年，他们在地中海地区游历，其成果汇集在这一形式独特的展览中。展览的设计旨在避免任何教学意味，为观众提供足够的空间，以围绕被认为是文明发源地的地中海构建自己的叙述。在材料、色彩和可触摸物品的互动中，Durham和Alves试图打破一些历史和神话观念，尤其是颠覆传统博物馆的经典规则。
 
 **这场展览的独特之处是什么？**
@@ -1137,10 +1157,11 @@ D. Le discours politique des plasticiens.
 > \- **fourni** [furni] - 丰富的，充足的；**un dossier bien fourni** - 一份详实的档案
 >
 **常见短语**
-> \- **mettre en route** - 开启，启动
-> \- **s'éteindre** - 熄灭，消失
-> \- **avoir tendance à** - 倾向于，往往
-> \- **au contraire** - 相反地
+> \- **mettre en route** - 开启，启动 - **mettre en route un projet** - 启动一个项目
+> \- **s'éteindre** - 熄灭，消失 - **la lumière s'éteint** - 灯熄灭了
+> \- **avoir tendance à** - 倾向于，往往 - **avoir tendance à procrastiner** - 倾向于拖延
+> \- **au contraire** - 相反地 - **bien au contraire** - 恰恰相反
+>
 我相信所有的孩子都拥有一种想象力的驱动力，这种力量会自然而然地引导他们走向文学。但如果这种力量没有被激发，它可能会熄灭。学校的使命是让学生接触伟大的经典作品。然而，学校却放弃了这一使命。太多时候，教师倾向于认为这些经典是为精英保留的。实际上，学校应该让那些起点较低的学生也能接触到高雅文化。
 
 **根据本文作者，教师应该拥有什么样的目标？**
@@ -1187,10 +1208,11 @@ D. Monter des pièces de théâtre d'auteurs classiques.
 > \- **travaux** [travo] - n.m.pl. 工程，装修；**être en travaux** - 正在施工/装修中。
 >
 **常见短语**
-> \- **se plaire** - 喜欢/待得舒畅。
-> \- **rendre la vie** - 使生活（变得）...。
-> \- **se réjouir de** - 为...感到高兴。
-> \- **profiter de** - 享受/利用。
+> \- **se plaire** - 喜欢/待得舒畅。 - **se plaire dans sa nouvelle ville** - 喜欢他在新城市的生活
+> \- **rendre la vie** - 使生活（变得）...。 - **rendre la vie facile** - 使生活变得容易
+> \- **se réjouir de** - 为...感到高兴。 - **se réjouir de la nouvelle** - 为这个消息感到高兴
+> \- **profiter de** - 享受/利用。 - **profiter des vacances** - 享受假期
+>
 亲爱的阿梅莉， 谢谢你的来信。我很高兴你喜欢你的新居。可以说，阳光和靠近大海让生活更加美好。你的邀请让我很开心，我想我很快就能来找你。虽然你家的装修还没完成，这对我来说没关系，我很期待可以享受海滩和你的花园。 再次非常感谢。 弗洛伦斯
 
 **信中缺少什么信息？**
@@ -1237,10 +1259,11 @@ D. Florence aime le bord de mer.
 > \- **soigné** [swaɲe] - adj. 精致的，用心的，经过推敲的；**un travail soigné** - 细致的工作。
 >
 **常见短语**
-> \- **au service de** - 为……服务，致力于……。
-> \- **au cours de** - 在……期间，在……过程中。
-> \- **sous-culture** - 亚文化，次文化。
-> \- **en tant que** - 作为……。
+> \- **au service de** - 为……服务，致力于……。 - **se mettre au service de la nation** - 为国家服务
+> \- **au cours de** - 在……期间，在……过程中。 - **au cours de l'année** - 在这一年期间
+> \- **sous-culture** - 亚文化，次文化。 - **l'émergence d'une sous-culture** - 一种亚文化的出现
+> \- **en tant que** - 作为……。 - **agir en tant que responsable** - 作为负责人行动
+>
 在儿童文学领域，Michèle Moreau 是一个重要的参考人物。“阅读并让人阅读”协会的志愿者倾听了她讲述自己的职业经历和对儿童文学的奉献。在一个“童谣工作坊”中，她展示了自己编辑的童谣和故事的普遍性和一致性。同时，她也捍卫了儿童文学不是一种“次文化”的观点： “我不认同一种仅供儿童使用的目录。如果一本书不能首先触动成年人，那么它也不会打动孩子。一本书或一本书碟应该能够同时吸引孩子和成年人，这就是为什么音乐、文字和插图都需要特别用心。”
 
 **根据 Michèle Moreau 的观点，如何辨别一本优秀的儿童书籍？**
@@ -1287,10 +1310,11 @@ D. Il valorise le patrimoine littéraire.
 > \- **paradisiaque** [paradizjak] - 天堂般的，极美的；**un paysage paradisiaque** - 如天堂般的风景。
 >
 **常见短语**
-> \- **s'organiser autour de** - 围绕……组织/分布。
-> \- **de plus en plus** - 越来越……。
-> \- **tout simplement** - 仅仅，完全。
-> \- **n'avoir plus rien à voir avec** - 与……再无任何关系/完全不同。
+> \- **s'organiser autour de** - 围绕……组织/分布。 - **s'organiser autour d'un axe central** - 围绕一个中心轴安排
+> \- **de plus en plus** - 越来越……。 - **de plus en plus difficile** - 越来越困难
+> \- **tout simplement** - 仅仅，完全。 - **c'est tout simplement génial** - 这简直太棒了
+> \- **n'avoir plus rien à voir avec** - 与……再无任何关系/完全不同。 - **ça n'a plus rien à voir avec le plan initial** - 这与最初的计划再无关系
+>
 在坦桑尼亚海岸，Pangani 小镇围绕同名河流而建，但其水质却越来越恶化。尽管如此，这条河赋予小镇如伊甸园般的美景。几十年来，这条河一直是该地区生活的主要支柱，为人们提供淡水并为渔民创造就业机会。在其报道中，Federico Romano 展现了这种矛盾。一方面，Pangani 风景如画，宁静而被棕榈树环绕；另一方面，河水却成了一个“看不见的敌人”：当地人仍饮用这条河的水，因为他们别无选择，而河水早已不再是淡水。
 
 **关于这条河，我们能了解到什么？**
@@ -1338,9 +1362,10 @@ D. Il représente un attrait touristique essentiel.
 > \- **s'allier** [salje] - 联合，与...结合；**s'allier au paysage** - 与景观融为一体
 >
 **常见短语**
-> \- **au cœur de** - 在...中心，在...深处
-> \- **gagner en** - 在...方面获得提升/增长
-> \- **trait d'union** - 纽带，连接
+> \- **au cœur de** - 在...中心，在...深处 - **au cœur de la ville** - 在市中心
+> \- **gagner en** - 在...方面获得提升/增长 - **gagner en efficacité** - 提高效率
+> \- **trait d'union** - 纽带，连接 - **servir de trait d'union** - 起到纽带作用
+>
 穿着黑衣的男子。他的光头与光影互动。所有的一切，都在这光与影的游戏中，展现了他作为一位建筑诗人的身份。让·努维尔塑造了神秘感，将生命注入石头建筑中，同时不破坏建筑的原貌。这位开明的建筑师没有简单地建造，他唤起情感，通过他最新的创作展现了一种美感。人们发现了一个柔和形状的城市博物馆，一个宛如由花边编织师之手创作的穹顶。穹顶由四根柱子支撑，显得轻盈，与景观融为一体，仿佛与云层连接。
 
 **文章称赞了让·努维尔的什么特点？**
@@ -1387,11 +1412,12 @@ D. Son savoir-faire met en valeur des procédés connus.
 > \- **bondir** [bɔ̃dir] - v.i. 跳跃，跳起；**bondir de joie** - 欣喜若狂
 >
 **常见短语**
-> \- **en douce** - 悄悄地，私下里
-> \- **à commencer par** - 以...为起点，首先是
-> \- **la nouvelle donne** - 新局面，新格局
-> \- **faire jeune** - 显年轻，扮年轻
-> \- **se servir de** - 使用，利用
+> \- **en douce** - 悄悄地，私下里 - **sortir en douce** - 偷偷溜出去
+> \- **à commencer par** - 以...为起点，首先是 - **tous sont invités, à commencer par vous** - 所有人都被邀请，从您开始
+> \- **la nouvelle donne** - 新局面，新格局 - **s'adapter à la nouvelle donne économique** - 适应新的经济形势
+> \- **faire jeune** - 显年轻，扮年轻 - **cette coupe de cheveux le fait jeune** - 这个发型让他显年轻
+> \- **se servir de** - 使用，利用 - **se servir d'un outil** - 使用一种工具
+>
 年轻化并不是一个新概念。一直以来，总有一些成年人认为自己可以偷偷地融入“年轻人”的圈子里。过去，这种行为常被嘲笑，而他们自己也意识到这一点。但现在的情况不同了：这些成年人甚至不再试图“装年轻”，因为他们本身已经显得很年轻了。这种年轻并非努力的结果，也毫不滑稽。那些过去向孩子请求帮助解释互联网细节的情况已经不复存在。这些“曾经的老人”已经学会独立使用他们的科技玩具，就像成年人一样熟练！他们有时甚至和青少年一样，会在餐桌上发短信，或者被手机铃声吓到。
 
 **根据作者，成年人在什么意义上发生了变化？**
@@ -1439,10 +1465,11 @@ C. Ils se sentent désorientés face aux outils technologiques.
 > \- **quasi-totalité** [kazitotalite] - n.f. 几乎全部，绝大部分；**La quasi-totalité de** - 绝大多数的...。
 >
 **常见短语**
-> \- **cabinet de conseil** - 咨询公司。
-> \- **à prévoir** - 预料中的，可预见的。
-> \- **faire face à** - 面对，应对（挑战、困难等）。
-> \- **appeler au...** - 呼吁……，号召……。
+> \- **cabinet de conseil** - 咨询公司。 - **travailler dans un cabinet de conseil** - 在咨询公司工作
+> \- **à prévoir** - 预料中的，可预见的。 - **des changements sont à prévoir** - 变革是可以预见的
+> \- **faire face à** - 面对，应对（挑战、困难等）。 - **faire face à des difficultés** - 面对困难
+> \- **appeler au...** - 呼吁……，号召……。 - **appeler au calme** - 呼吁冷静
+>
 一家能源咨询公司宣布，预计今年冬天法国将出现停电情况。事实上，向法国提供电力的德国由于关闭了一些核反应堆，已无法满足需求。政府可能会呼吁法国人民“节约用电”，建议家庭减少用电量，尤其是在每天晚上19点左右的用电高峰。然而，法国拥有世界上最大的核电站之一，但其生产的几乎所有电力都被出口。
 
 **为什么会有停电风险？**
@@ -1490,11 +1517,11 @@ D. Parce que la régulation de la consommation d'énergie est inefficace.
 > \- **prévenir** [prevnir] - 预防，防止；**prévenir les maladies** - 预防疾病。
 >
 **常见短语**
-> \- **à l'ombre** - 在阴凉处。
-> \- **coup de chance** - 碰巧，运气好。
-> \- **tout de même** - 仍然，尽管如此。
-> \- **en matière d'** - 在……方面。
-> \- **bon sens** - 常识，理智。
+> \- **à l'ombre** - 在阴凉处。 - **se reposer à l'ombre** - 在树荫下休息
+> \- **coup de chance** - 碰巧，运气好。 - **un pur coup de chance** - 纯粹是运气好
+> \- **tout de même** - 仍然，尽管如此。 - **merci tout de même** - 仍然谢谢你
+> \- **en matière d'** - 在……方面。 - **en matière d'innovation** - 在创新方面
+> \- **bon sens** - 常识，理智。 - **faire preuve de bon sens** - 表现出常识
 啊！美好的夏天！在35度的阴凉处，孩子们在游泳后想要点心，幸运的是，卖炸面圈的小贩出现在视野中。结果：紧急就医，因为奶油面圈在太阳下放了一整天。这样的故事在消费者协会中广为流传。尽管如此，反欺诈总局还是做出了一个令人鼓舞的总结。很少有公共场所能逃过检查，欺诈行为也有所减少。然而，在卫生方面，消费者的常识应该占上风，以防止事故的发生。
 
 **根据反欺诈总局……**
@@ -1541,10 +1568,11 @@ D. L'honnêteté des vendeurs est indéniable.
 > \- **remords** [rəmɔr] - 懊悔，悔恨；**Avoir des remords** - 感到懊悔。
 >
 **常见短语**
-> \- **vis-à-vis de** - 关于，对于，面对。
-> \- **tirer son épingle du jeu** - 成功脱身，在困难中保全自己或获利。
-> \- **compter sur** - 依靠，指望。
-> \- **l'herbe n'est pas plus verte chez le voisin** - 邻居家的草不一定更绿（这山不比那山高）。
+> \- **vis-à-vis de** - 关于，对于，面对。 - **sa position vis-à-vis de ce projet** - 他对于这个项目的立场。
+> \- **tirer son épingle du jeu** - 成功脱身，在困难中保全自己或获利。 - **il a réussi à tirer son épingle du jeu malgré la crise** - 尽管面临危机，他仍成功脱颖而出。
+> \- **compter sur** - 依靠，指望。 - **vous pouvez compter sur mon soutien** - 您可以指望我的支持。
+> \- **l'herbe n'est pas plus verte chez le voisin** - 邻居家的草不一定更绿（这山不比那山高）。 - **il a compris que l'herbe n'est pas plus verte chez le voisin** - 他明白了别处的生活未必更好。
+>
 如今，重要的是个人、自我满足以及与环境的关系。这是年轻人对社会，特别是对企业的新思维模式。 年轻人学会了首先关注自己。他们认为，只有通过积累技能和经验，他们才能脱颖而出。企业可以通过提供真正的职业和技能增长策略来吸引他们，但无论如何，企业很难指望他们的忠诚度：一旦企业无法为他们提供快速发展的机会，他们会毫不犹豫地去寻找更好的地方。 类似于在经济困难环境下企业不再对员工做出承诺，年轻人也将这种逻辑转化为对自己有利的方式。他们不再依赖某家公司来规划自己的职业生涯。他们的目标是通过丰富经验提升技能，在就业市场上增加自己的价值。抓住每个机会，他们毫无遗憾地离开公司。
 
 **年轻人在企业中的行为如何？**
@@ -1591,10 +1619,11 @@ D. Ils tâchent de conserver leur emploi.
 > \- **précaution** [prekosjɔ̃] - 预防，谨慎；**prendre des précautions** - 采取预防措施。
 >
 **常见短语**
-> \- **liberté d'expression** - 言论自由。
-> \- **sur la base de** - 基于……，根据……。
-> \- **mettre en place** - 设立，实施，建立。
-> \- **débat d'idées** - 思想辩论，观点交锋。
+> \- **liberté d'expression** - 言论自由。 - **défendre la liberté d'expression** - 捍卫言论自由。
+> \- **sur la base de** - 基于……，根据……。 - **recrutement sur la base de l'expérience** - 根据经验进行招聘。
+> \- **mettre en place** - 设立，实施，建立。 - **mettre en place une nouvelle stratégie** - 实施一项新战略。
+> \- **débat d'idées** - 思想辩论，观点交锋。 - **favoriser le débat d'idées à l'université** - 促进大学里的思想辩论。
+>
 一个新词“微侵害”正在美国大学校园中流行开来。这个词描述了语言中贬低性的微妙伤害，影响到暴露在这种贬低性语言下的个人，并引发了关于言论自由的讨论。这个词在1970年代被创造，并由Derald Wing Sue在2007年开始进一步定义为：有意或无意的侮辱或态度，通过传播敌意或轻蔑的信息，仅仅因为人们属于某个被边缘化的群体。许多大学已采取措施预防和揭露这些微侵害，但一些人担心过度的谨慎可能会扼杀思想的自由讨论。
 
 **我们可以了解到哪些关于微侵犯的信息？**
@@ -1642,10 +1671,11 @@ C. Les autorités universitaires s'en préoccupent peu.
 > \- **ménager** [menaʒe] - 节制，爱惜；**se ménager** - 注意休息，保重身体。
 >
 **常见短语**
-> \- **prendre le dessus** - 占上风，控制。
-> \- **être à l'origine de** - 是……的起因/源头。
-> \- **se replier sur soi-même** - 变得孤僻，自我封闭。
-> \- **au quotidien** - 在日常生活中。
+> \- **prendre le dessus** - 占上风，控制。 - **la raison a fini par prendre le dessus** - 理智最终占据了上风。
+> \- **être à l'origine de** - 是……的起因/源头。 - **le stress est souvent à l'origine de ces maladies** - 压力往往是这些疾病的根源。
+> \- **se replier sur soi-même** - 变得孤僻，自我封闭。 - **tendance à se replier sur soi-même** - 自我封闭的倾向。
+> \- **au quotidien** - 在日常生活中。 - **gérer les problèmes au quotidien** - 处理日常生活中的问题。
+>
 压力是幸福的头号敌人。当它占上风时，人们会失去动力，并持续感到精力不足。 医生明确表示：压力常常是身体功能障碍的原因。 它也是导致早衰的直接原因。 一个感到压力的人会退缩，逐渐放弃利用自己的一些心理能力。 以下是如何引导这种压力并将其转化为积极能量的方法：学习正确呼吸，不再浪费精力反思过去的行为，改变不良习惯，最终学会在日常生活中照顾好自己。
 
 **关于本文中提到的压力，我们了解到什么？**
@@ -1693,10 +1723,11 @@ D. Ses effets touchent plus particulièrement les seniors.
 > \- **tarif** [tarif] - 价格，资费；**tarif de base** - 基础价格。
 >
 **常见短语**
-> \- **transports en commun** - 公共交通。
-> \- **faire parler de soi** - 引起议论，出名。
-> \- **trains de banlieue** - 郊区火车，近郊铁路。
-> \- **file d'attente** - 排队等候的队伍。
+> \- **transports en commun** - 公共交通。 - **emprunter les transports en commun** - 乘坐公共交通工具。
+> \- **faire parler de soi** - 引起议论，出名。 - **ce nouvel artiste fait beaucoup parler de lui** - 这位新艺术家引起了广泛关注。
+> \- **trains de banlieue** - 郊区火车，近郊铁路。 - **prendre les trains de banlieue pour aller travailler** - 乘郊区列车去上班。
+> \- **file d'attente** - 排队等候的队伍。 - **faire la file d'attente au guichet** - 在窗口排队。
+>
 由于服务质量经常受到批评，柏林公共交通公司推出了一种创新活动，引起了公众的关注。他们提供了500双“车票鞋”，这些运动鞋的设计灵感来自柏林地铁座椅的颜色。售价180欧元，这些鞋子包括一年的地铁、公交和电车（不含郊区列车）通行证，而传统的年票价格为761欧元。消费者被这种几乎可以免费乘坐部分交通网络的创意所吸引，排起了长队购买。一些人甚至尝试以原价五倍的价格在线转售这种“收藏版”鞋子。
 
 **柏林公共交通公司的目标是什么？**
@@ -1743,10 +1774,11 @@ D. Permettre de voyager extramuros à moindres frais.
 > \- **souligner** [suline] - 强调；**souligner l'importance de** - 强调...的重要性
 >
 **常见短语**
-> \- **ne pas prendre une ride** - 经久不衰，毫无过时
-> \- **la durée de vie** - 使用寿命
-> \- **sans appel** - 不可更改的，确凿无疑的
-> \- **en dire long** - 意味深长，充分说明
+> \- **ne pas prendre une ride** - 经久不衰，毫无过时 - **ce film n'a pas pris une ride** - 这部电影一点也没过时。
+> \- **la durée de vie** - 使用寿命 - **allonger la durée de vie des produits** - 延长产品的使用寿命。
+> \- **sans appel** - 不可更改的，确凿无疑的 - **une décision sans appel** - 一项最终裁定。
+> \- **en dire long** - 意味深长，充分说明 - **son silence en dit long sur sa déception** - 他的沉默说明他非常失望。
+>
 “一个永远不会损坏的产品对商业来说将是一场灾难，”曾有一本美国杂志这样写道。 多年之后，“计划性报废”的概念依然存在！ 制造商故意缩短产品的使用寿命，以提高更换率。 这揭示了消费竞争的核心问题。 生态后果也不容忽视：我们设备中的材料大部分最终被焚烧或掩埋。 手机的例子尤其明显：一份报告中提到，一位参议员指出，“手机的设计明显不利于再利用和回收”。
 
 **记者对制造商提供的产品有什么发现？**
@@ -1793,10 +1825,11 @@ D. Ils sont vendus à des prix élevés.
 > \- **audimat** [odimat] - n.m. 收视率；**celui de l'audimat** - 收视率的数值
 >
 **常见短语**
-> \- **avoir beau** - 尽管，虽然
-> \- **n'en être pas moins** - 仍然，依旧是
-> \- **ne devoir rien au hasard** - 绝非偶然
-> \- **quitte à** - 哪怕，不惜，冒着...的风险
+> \- **avoir beau** - 尽管，虽然 - **il a beau essayer, il n'y arrive pas** - 尽管他努力尝试，还是做不到。
+> \- **n'en être pas moins** - 仍然，依旧是 - **cela n'en est pas moins une erreur** - 这仍然是一个错误。
+> \- **ne devoir rien au hasard** - 绝非偶然 - **son succès ne doit rien au hasard** - 他的成功并非偶然。
+> \- **quitte à** - 哪怕，不惜，冒着...的风险 - **quitte à tout recommencer** - 即使要从头再来。
+>
 两季播出后便结束。在订阅式视频流媒体平台上，尽管电视剧仍是核心内容，但它们面临激烈竞争，其生命周期可能远短于传统电视台。这种策略并非偶然。为了吸引新用户，这些平台更重视内容的新颖性，而非节目寿命。即使可能让一些支付专门服务的粉丝感到失望，这些平台认为用户满意度的衡量指标理论上应该比收视率更重要。
 
 **根据文章，流媒体平台优先考虑什么？**
@@ -1844,9 +1877,10 @@ D. Le contentement de leurs abonnés.
 > \- **incertitude** [ɛ̃sɛrtityd] - 不确定性；**être dans l'incertitude** - 处于不确定状态中。
 >
 **常见短语**
-> \- **plus que jamais** - 比以往任何时候都更。
-> \- **nulle part** - 任何地方都不。
-> \- **en termes de** - 在...方面，从...角度。
+> \- **plus que jamais** - 比以往任何时候都更。 - **il est plus que jamais motivé** - 他比以往任何时候都更有动力。
+> \- **nulle part** - 任何地方都不。 - **je ne le trouve nulle part** - 我到处都找不到他。
+> \- **en termes de** - 在...方面，从...角度。 - **en termes de rentabilité** - 在盈利能力方面。
+>
 数字技术彻底改变了教育方式，但根据哲学家马塞尔·戈谢的观点，我们将比以往任何时候都更需要老师和学校。数字技术是一种激发好奇心的极好方式，促使学生去探究和深入思考。更重要的是，它教会了一个基本原则：没有人知道一切，世界上也不存在终极的知识拥有者。因此，学生接触到的资源变得多种多样，这在教育方法上带来了重大变革。教师的角色是解释同一事物可能有多种版本，了解知识是面对不确定性，而不是机械地背诵知识点。
 
 **根据马塞尔·戈谢的观点，教师对学生的角色是什么？**
@@ -1893,10 +1927,11 @@ D. Évaluer régulièrement leurs acquis.
 > \- **individualiste** [ɛ̃dividyalist] - adj. 个人主义的；**société individualiste** - 个人主义社会。
 >
 **常见短语**
-> \- **au gré de** - 随...而定，任凭。
-> \- **d'un lieu à l'autre** - 从一个地方到另一个地方。
-> \- **en marge de** - 在...的边缘，在...之外。
-> \- **de fait** - 事实上，实际上。
+> \- **au gré de** - 随...而定，任凭。 - **au gré de ses envies** - 随他的兴致。
+> \- **d'un lieu à l'autre** - 从一个地方到另一个地方。 - **se déplacer d'un lieu à l'autre** - 在各地之间奔波。
+> \- **en marge de** - 在...的边缘，在...之外。 - **en marge du sommet international** - 在国际峰会之外。
+> \- **de fait** - 事实上，实际上。 - **ils sont, de fait, responsables** - 实际上，他们负有责任。
+>
 新游牧民族通常年龄在30岁以下，他们住在自己的卡车或改装成房车的校车里。这些新型间歇性旅行者根据工作需求从一个地方到另一个地方，他们的工作往往是季节性的，形成了一个多样化的人群。当没有永久工作时，他们通过选择远离现代景观的边缘地带解决住房困难：例如，靠近二级公路、城市边缘、铁路沿线、荒地或私人土地。新游牧民族实际上在我们个体主义社会的中心形成了一个结构化的实体。
 
 **根据记者的描述，新游牧主义的起源是什么？**
@@ -1943,10 +1978,11 @@ D. Le désir de vivre en communauté.
 > \- **subir** [sybir] - 遭受，忍受，被迫接受；**subir des conséquences** - 承担后果
 >
 **常见短语**
-> \- **en soi** - 本身，就其自身而言
-> \- **en fonction de** - 根据，取决于
-> \- **du fait de** - 由于，因为
-> \- **facteur de** - ……的因素
+> \- **en soi** - 本身，就其自身而言 - **ce n'est pas une mauvaise idée en soi** - 这本身并不是个坏主意。
+> \- **en fonction de** - 根据，取决于 - **agir en fonction de la situation** - 根据情况采取行动。
+> \- **du fait de** - 由于，因为 - **du fait de son absence** - 由于他的缺席。
+> \- **facteur de** - ……的因素 - **un facteur de croissance** - 增长因素。
+>
 法国人如何看待地域流动性？地域流动本身既不是好事，也不是坏事。人们对它的看法因其发生的环境及其是否是主动选择而截然不同。对于某些有利群体来说，主动和积极寻求的个人、职业和空间流动，可能成为个人和职业成长的因素。而对于处于不利地位的群体，尤其是被动接受流动时，它可能成为不稳定的因素。
 
 **地理流动在什么情况下会被积极接受？**
@@ -1993,10 +2029,10 @@ C. Si c'est la possibilité de trouver un emploi.
 > \- **interpréter** [ɛ̃tɛrprete] - v.t. 解释，阐释；**interpréter des données** - 解释数据。
 >
 **常见短语**
-> \- **d'une part... d'autre part** - 一方面...另一方面。
-> \- **grâce à** - 凭借，多亏，由于。
-> \- **en termes de** - 在...方面，就...而言。
-> \- **en boucle** - 循环地，连续不断地。
+> \- **d'une part... d'autre part** - 一方面...另一方面。 - **d'une part, c'est cher, d'autre part, c'est inutile** - 一方面很贵，另一方面也没用。
+> \- **grâce à** - 凭借，多亏，由于。 - **réussir grâce à son talent** - 凭借他的才华获得成功。
+> \- **en termes de** - 在...方面，就...而言。 - **analyser en termes de coût** - 从成本角度进行分析。
+> \- **en boucle** - 循环地，连续不断地。 - **écouter une chanson en boucle** - 循环听一首歌。
 在屏幕无处不在的时代，图像在我们的视觉文化中占据了决定性地位。短短几年内，它们经历了双重演变：一方面是工业化的大量复制，另一方面是通过互联网的全球传播。这种现实提出了越来越重要的问题，涉及图像教育以及更广泛的媒体教育。尽管信息量几乎无限，但只有少量信息以循环播放的形式呈现。因此，绝对有必要开发媒体资源并通过教育帮助公众学会选择和解释媒体及其图像。
 
 **记者提出了什么问题？**
@@ -2043,10 +2079,11 @@ D. Les images influencent en permanence les consommateurs.
 > \- **pyramidale** [piramidal] - 金字塔式的；**hiérarchie pyramidale** - 金字塔式等级制度
 >
 **常见短语**
-> \- **contrat à durée indéterminée** - 无固定期限劳动合同（CDI）
-> \- **être en quête de** - 寻求，追求
-> \- **avoir conscience de** - 意识到，察觉到
-> \- **en finir avec** - 结束，彻底解决
+> \- **contrat à durée indéterminée** - 无固定期限劳动合同（CDI） - **signer un contrat à durée indéterminée** - 签订一份长期合同。
+> \- **être en quête de** - 寻求，追求 - **être en quête de vérité** - 寻求真理。
+> \- **avoir conscience de** - 意识到，察觉到 - **avoir conscience des risques** - 意识到风险。
+> \- **en finir avec** - 结束，彻底解决 - **en finir avec les préjugés** - 消除偏见。
+>
 如果说他们的前辈曾梦想获得一份无固定期限合同，那么千禧一代（1980年至2000年间出生的人）则追求多样化的经验。他们中许多人已经经历过失业，并意识到技能和文凭的过时性，因此他们觉得无所畏惧。当下不再是上下级关系，而是合作关系。在日常工作中，这种变化可能会让管理者感到困惑……千禧一代接受解释工作的意义，但更注重工作的方式。面对这些强调专业幸福感、连通性、信任、自主性和灵活性的员工，必须抛弃金字塔式的管理结构。
 
 **关于千禧一代在职场中的表现，我们了解到什么？**
@@ -2093,10 +2130,11 @@ D. Ils tiennent à la stabilité de l'emploi.
 > \- **versement** [vɛrsmɑ̃] - 支付，缴款，汇款；**Effectuer un versement** - 进行付款
 >
 **常见短语**
-> \- **parcours du combattant** - 充满艰辛的历程，障碍重重的过程
-> \- **enseignement supérieur** - 高等教育
-> \- **lever un frein** - 消除障碍，解除阻碍
-> \- **territoire national** - 全国领土，国土
+> \- **parcours du combattant** - 充满艰辛的历程，障碍重重的过程 - **un véritable parcours du combattant** - 一个真正的艰辛历程。
+> \- **enseignement supérieur** - 高等教育 - **le système d'enseignement supérieur** - 高等教育体系。
+> \- **lever un frein** - 消除障碍，解除阻碍 - **lever un frein à l'investissement** - 消除投资障碍。
+> \- **territoire national** - 全国领土，国土 - **sur l'ensemble du territoire national** - 在全国范围内。
+>
 在大学生城市寻找住房对许多高等教育学生来说是一个艰难的过程，障碍有时难以逾越。不仅租金很高，房东对候选人的筛选也非常严格，通常基于担保人的收入水平。为了解决这一问题，学生租房担保（CLE）已在全国范围内推广，此前在四个地区试点了一年。有了该机制，如果学生无法支付租金，国家将担保支付。
 
 **根据此分析，学生获得住房的主要障碍是什么？**
@@ -2143,10 +2181,11 @@ D. Le montant de la caution exigée
 > \- **réouverture** [reuvɛrtyr] - n.f. 重新开放；**réouverture complète** - 全面重新开放
 >
 **常见短语**
-> \- **rouvrir ses portes** - 重新开门，重新开放
-> \- **il s'agit de** - 关于，是，涉及到
-> \- **tirer au hasard** - 随机抽取
-> \- **se dérouler** - 发生，进行
+> \- **rouvrir ses portes** - 重新开门，重新开放 - **le musée va rouvrir ses portes** - 博物馆将重新开放。
+> \- **il s'agit de** - 关于，是，涉及到 - **il s'agit de faire un choix** - 这是一个选择的问题。
+> \- **tirer au hasard** - 随机抽取 - **tirer un nom au hasard** - 随机抽取一个名字。
+> \- **se dérouler** - 发生，进行 - **l'examen va se dérouler demain** - 考试将于明天举行。
+>
 西班牙阿尔塔米拉史前洞穴在对公众关闭了12年后，即将重新开放，但以试验的方式进行。这项实验仅对随机选出的五名博物馆访客开放，他们将能够观赏洞穴中的原始壁画。这项实验每周进行一次，持续八个月，目的是让科学家团队评估参观活动对整个遗址的影响，并对完全重新开放提出建议。
 
 **本文中提到了什么？**
@@ -2193,10 +2232,11 @@ C. L'ouverture au public d'une zone dangereuse
 > \- **fâchent** (fâcher) [faʃe] - 使生气，触怒；**les points qui fâchent** - 令人不悦的争议点，症结所在。
 >
 **常见短语**
-> \- **à l'issue de** - 在...结束时，在...之后。
-> \- **applaudir à tout rompre** - 震耳欲聋地鼓掌，热烈喝彩。
-> \- **en tête** - 位居首位，排在最前面。
-> \- **avoir vent de** - 听到...的风声，察觉到某事。
+> \- **à l'issue de** - 在...结束时，在...之后。 - **à l'issue de la réunion** - 在会议结束时。
+> \- **applaudir à tout rompre** - 震耳欲聋地鼓掌，热烈喝彩。 - **le public applaudit à tout rompre** - 观众热烈鼓掌。
+> \- **en tête** - 位居首位，排在最前面。 - **être en tête de liste** - 位居名单之首。
+> \- **avoir vent de** - 听到...的风声，察觉到某事。 - **avoir vent d'un projet** - 听说一个项目。
+>
 没有冲突，也没有摔门而出的场面。在第二次社会会议结束时，政府至少可以为这个结果感到欣慰。 企业代表和工会代表并未热烈鼓掌回应总理的讲话，但也没有像第一次会议那样发生争吵。 虽然一些人对总理公布的内容较少或对多个重要议题（尤其是养老金改革）仍然不明朗表示失望，但没有人表现出强烈愤怒。 必须承认，在这两天里，部长和顾问们都在尽力推迟有争议的问题。
 
 **这次会议的最终结果是什么？**
@@ -2244,10 +2284,11 @@ C. La proclamation de réformes importantes
 > \- **polluer** [pɔlye] - 污染；**Polluer l'environnement** - 污染环境。
 >
 **常见短语**
-> \- **faire face à** - 面对，应对。
-> \- **effet de serre** - 温室效应。
-> \- **valeur marchande** - 市场价值。
-> \- **permis à polluer** - 污染许可（权）。
+> \- **faire face à** - 面对，应对。 - **faire face à la crise** - 应对危机。
+> \- **effet de serre** - 温室效应。 - **lutter contre l'effet de serre** - 对抗温室效应。
+> \- **valeur marchande** - 市场价值。 - **estimer la valeur marchande** - 估算市场价值。
+> \- **permis à polluer** - 污染许可（权）。 - **le marché des permis à polluer** - 排污权交易市场。
+>
 “绿色税”或“碳税”旨在为非污染能源的必要融资提供支持。京都议定书中规定的机制涉及一种碳信用，这代表避免的温室气体排放量，以及可交易的排放许可。一个未能达到温室气体减排目标的国家可以从另一个已超额完成目标的国家购买碳信用。这一系统有时被称为“污染许可”，因为一个富裕国家可以“购买”污染的权利，而另一个真正减少排放的国家则出售这些权利。
 
 **碳税的悖论是什么？**
@@ -2294,11 +2335,12 @@ D. Elle ralentit le progrès dans les états émergents
 > \- **végétalisées** [veʒetalize] - 绿化的，植被覆盖的；**une toiture végétalisée** - 绿化屋顶。
 >
 **常见短语**
-> \- **au travers de** - 通过，经过。
-> \- **au pied de** - 在...脚下，在...底部。
-> \- **clin d'œil** - 眨眼，示意，致意。
-> \- **a la part belle** - 占据重要地位，受青睐。
-> \- **au milieu de** - 在...中间。
+> \- **au travers de** - 通过，经过。 - **au travers de cette étude** - 通过这项研究。
+> \- **au pied de** - 在...脚下，在...底部。 - **au pied de la montagne** - 在山脚下。
+> \- **clin d'œil** - 眨眼，示意，致意。 - **faire un clin d'œil** - 眨眼示意。
+> \- **a la part belle** - 占据重要地位，受青睐。 - **la fiction a la part belle** - 小说占据了重要地位。
+> \- **au milieu de** - 在...中间。 - **au milieu de la foule** - 在人群中。
+>
 2100年的巴黎会是什么样子？这是建筑师团队“Et alors…”通过展出在巴黎的20张巨型明信片所设想的。这些结果有时令人惊讶，有时显得乌托邦式，有时则更现实。例如，一项为整个街区提供冷热的水力热电站计划，这是巴黎城市供暖公司的项目。而在市中心的建筑物底层设立“共享”菜园，显然更像是一个俏皮的点子…… 自行车也被给予了很大的关注：建筑师们设想在巴黎的屋顶上修建快速车道，周围是绿化屋顶和花园。
 
 **哪项计划被描述为现实的？**
@@ -2345,11 +2387,12 @@ D. La création de jardins communs pour planter des légumes
 > \- **déçu** [desy] - adj. 感到失望的；**être déçu de** - 对...感到失望。
 >
 **常见短语**
-> \- **se rendre à l'évidence** - 承认事实/面对现实。
-> \- **rivaliser avec** - 与...相抗衡/竞争。
-> \- **au moment où** - 在...的时候。
-> \- **en kiosques** - 在报摊/报刊亭售卖。
-> \- **tous azimuts** - 全方位的/各方面的。
+> \- **se rendre à l'évidence** - 承认事实/面对现实。 - **il faut se rendre à l'évidence** - 必须承认事实。
+> \- **rivaliser avec** - 与...相抗衡/竞争。 - **rivaliser avec les concurrents** - 与对手竞争。
+> \- **au moment où** - 在...的时候。 - **au moment où il partait** - 就在他出发的时候。
+> \- **en kiosques** - 在报摊/报刊亭售卖。 - **le magazine est en kiosques** - 杂志正在报刊亭发售。
+> \- **tous azimuts** - 全方位的/各方面的。 - **une campagne tous azimuts** - 一场全方位的活动。
+>
 必须承认，“天”不再是报纸的时间单位。纸质日报无法与网站、博客、社交网络、在线报纸、电台和电视以及大型服务器的“新闻”传播当天新闻的速度相媲美。因此，当纸质日报到达报摊时，它就注定成为“昨日新闻”，逐渐失去那些在各种独家新闻轰炸下的读者，这些读者对报纸只提供他们已经知道的内容感到失望。
 
 **作者在文章中的立场是什么？**
@@ -2396,10 +2439,11 @@ C. Il dénonce la médiocrité de la presse écrite
 > \- **toit** [twa] - 屋顶，住所；**trouver un toit** - 找到住所。
 >
 **常见短语**
-> \- **au départ** - 起初，开始时。
-> \- **prendre un tournant** - 发生转折，采取新方向。
-> \- **en effet** - 事实上，其实。
-> \- **cœur d'activité** - 核心业务，主营业务。
+> \- **au départ** - 起初，开始时。 - **au départ de la course** - 在比赛开始时。
+> \- **prendre un tournant** - 发生转折，采取新方向。 - **prendre un tournant décisif** - 发生决定性的转折。
+> \- **en effet** - 事实上，其实。 - **c'est en effet le cas** - 确实如此。
+> \- **cœur d'activité** - 核心业务，主营业务。 - **le cœur d'activité de l'entreprise** - 公司的核心业务。
+>
 “Bois & Cie”协会最初作为一个木工技能分享工作坊成立。十多年来，爱好者们聚集在一起，用废木材制作家具和其他物品。几年前，该协会做出了转变：为贫困群体建造可拆卸的木结构住房。“Bois & Cie”接纳员工，并将职业融入和解决住房问题结合起来。协会因此决定以住房建设为核心活动，并启动了“Toits & Cie”项目。
 
 **该协会做出了什么决定？**
@@ -2446,10 +2490,11 @@ D. Développer l'activité de recyclage.
 > \- **valoriser** [valɔrize] - 肯定价值，使增值；**se sentir valorisé** - 感到被重视
 >
 **常见短语**
-> \- **en passe de** - 即将，处于……的过程中
-> \- **savoir-être** - 行为能力，处世能力
-> \- **aussi bien... que...** - 既……又……，……和……都
-> \- **en cours d'acquisition** - 正在习得中
+> \- **en passe de** - 即将，处于……的过程中 - **être en passe de réussir** - 即将成功。
+> \- **savoir-être** - 行为能力，处世能力 - **évaluer le savoir-être** - 评估职业素养。
+> \- **aussi bien... que...** - 既……又……，……和……都 - **aussi bien les hommes que les femmes** - 不论男女。
+> \- **en cours d'acquisition** - 正在习得中 - **compétences en cours d'acquisition** - 正在习得的技能。
+>
 在学校，传统的评估方式正被一种包含几十个项目的新评估系统所取代，这些项目被教师视为“已掌握”、“未掌握”或“正在掌握”。然而，某些项目缺乏精确性，导致很难评估学生在行为或兴趣方面的能力。此外，新系统需要三倍的批改时间。一些教师认为，尽管耗时，但可以更精确地告知学生需改进的能力，这增强了学生的参与和动力。然而，传统评估模式的取消引发了强烈反应，包括家长、教师和普通公众的质疑，他们感到无法理解学校的目标和要求。
 
 **这种新评估系统为何可能令人不安？**
@@ -2497,11 +2542,11 @@ C. Il propose des ajustements exigés aux enfants.
 > \- **progrès** [prɔgrɛ] - n.m. 进步，进展；**Faire des progrès** - 取得进步
 >
 **常见短语**
-> \- **arrestation de** - 逮捕...
-> \- **lancer un cri d'alarme** - 发出警报/紧急呼吁
-> \- **au total** - 总计，总共
-> \- **chasseur de trésors** - 寻宝者
-> \- **du fait de** - 由于，因为
+> \- **arrestation de** - 逮捕... - **l'arrestation de suspects** - 逮捕嫌疑人。
+> \- **lancer un cri d'alarme** - 发出警报/紧急呼吁 - **lancer un cri d'alarme sur le climat** - 就气候问题发出警报。
+> \- **au total** - 总计，总共 - **payer dix euros au total** - 总共支付十欧元。
+> \- **chasseur de trésors** - 寻宝者 - **devenir un chasseur de trésors** - 成为一名寻宝人。
+> \- **du fait de** - 由于，因为 - **du fait de son absence** - 由于他的缺席。
 新一轮的掠夺者被捕 在法国逮捕了一批掠夺者后，联合国教科文组织发出警告，呼吁保护水下遗产。根据教科文组织的统计，约有三百万艘未被探索的沉船正受到寻宝者行为的威胁。由于技术进步，这些寻宝者能够获取被水域保护了几个世纪的文物，水下遗产的威胁正在加剧。
 
 **本文提到了什么？**
@@ -2548,10 +2593,11 @@ D. Les bateaux en détresse sont laissés à leur sort.
 > \- **rétablir** [retablir] - v.t. 恢复，重建；**Rétablir l'équilibre** - 恢复平衡
 >
 **常见短语**
-> \- **chutes d'attention** - 注意力下降
-> \- **au détriment de** - 以...为代价，损害...
-> \- **maître mot** - 核心准则，关键词
-> \- **petite somme** - 打盹，小睡
+> \- **chutes d'attention** - 注意力下降 - **subir des chutes d'attention** - 经历注意力不集中。
+> \- **au détriment de** - 以...为代价，损害... - **au détriment de sa santé** - 以牺牲健康为代价。
+> \- **maître mot** - 核心准则，关键词 - **le maître mot de la réussite** - 成功的关键。
+> \- **petite somme** - 打盹，小睡 - **une petite somme d'argent** - 一笔小钱。
+>
 注意力下降和肌肉松弛表明一种最自然的需求：睡觉。通过短暂休息补充修复，可以弥补夜间睡眠不足，避免睡眠缺失侵蚀身体和心理健康。 但为什么这种根本需求会被如此低估？实际上，午睡并非不被理解，而是被拒绝。因为工作要求响应外部需求，而非满足内部或生理需求，午睡变成了一种“违规行为”。 作为夏季的习惯，小憩在工作场所依然不可接受，因为那里强调生产力。然而，通过恢复身体平衡，难道它不可能对工作效率有所帮助吗？
 
 **作者对午睡的看法是什么？**
@@ -2598,10 +2644,11 @@ D. Elle serait néfaste pour le rendement.
 > \- **inspiration** [ɛ̃spirasjɔ̃] - 灵感；**Trouver l'inspiration** - 获得灵感。
 >
 **常见短语**
-> \- **dans cette perspective** - 在这种视角下 / 从这个角度来看。
-> \- **tenir compte de** - 考虑到 / 顾及。
-> \- **il importe de** - 重要的是... / 必须...。
-> \- **se remplir de** - 充满... / 沉浸在...之中。
+> \- **dans cette perspective** - 在这种视角下 / 从这个角度来看。 - **travailler dans cette perspective** - 在这一视角下工作。
+> \- **tenir compte de** - 考虑到 / 顾及。 - **tenir compte des avis** - 考虑各种意见。
+> \- **il importe de** - 重要的是... / 必须...。 - **il importe de préciser que** - 重要的是需明确...。
+> \- **se remplir de** - 充满... / 沉浸在...之中。 - **se remplir de joie** - 充满喜悦。
+>
 培养儿童的想象力 重要的是培养儿童的想象力。从这个角度来看，与其提供精致的玩具，不如提供未完成的材料更有趣，因为它们为孩子提供了必要的空间去尝试改造并发展他们的创造能力。同时，也必须考虑每个孩子的性格。有些孩子敢于尝试，有些则更为沉思。这并不意味着后者的内心世界不够丰富，而是他们的创造力更多地体现在梦想中而非行动上。培养儿童的想象力，就是为他们安排一些无聊的时刻，让他们有时间充实自己的灵感。
 
 **根据文章，为了激发儿童的想象力，应该做什么？**
@@ -2648,10 +2695,11 @@ D. Leur proposer des énigmes à résoudre.
 > \- **encéphale** [ɑ̃sefal] - 脑，脑髓；**Volume de l'encéphale** - 脑容量。
 >
 **常见短语**
-> \- **de plus en plus de** - 越来越多的。
-> \- **au-delà** - 除此之外，在那之后。
-> \- **à la différence de** - 与……不同。
-> \- **battre en brèche** - 挫败，驳倒，使瓦解。
+> \- **de plus en plus de** - 越来越多的。 - **de plus en plus de gens** - 越来越多的人。
+> \- **au-delà** - 除此之外，在那之后。 - **au-delà des espérances** - 超出预期。
+> \- **à la différence de** - 与……不同。 - **à la différence de son frère** - 与他兄弟不同。
+> \- **battre en brèche** - 挫败，驳倒，使瓦解。 - **battre en brèche un argument** - 驳倒一个论据。
+>
 越来越多的科学家开始关注幼儿大脑的运作。理解大脑的正常发育有助于帮助受到疾病影响的婴儿。 更进一步的目标是探索人类智力的根源：为什么人类不同于其他动物物种，能够说话、计算，甚至发射火箭进入太空。长期以来，这些独特能力被归因于我们较大的脑容量。然而，这一观点最终被推翻：婴儿的大脑远小于我们的或许多动物的大脑。然而，婴儿学会了许多东西，其速度远超任何动物甚至成人。
 
 **关于人类的大脑，我们能了解到什么？**
@@ -2699,10 +2747,11 @@ C. Son développement est ralenti les premiers mois.
 > \- **commercialiser** [kɔmɛrsjalize] - 销售，使商品化；**Commercialiser un produit** - 销售一种产品。
 >
 **常见短语**
-> \- **poudre de perlimpinpin** - 灵丹妙药（贬义，指骗人的药）。
-> \- **exhausteur de goût** - 增味剂。
-> \- **servir à** - 用于……，有助于……。
-> \- **date limite de consommation** - 最后食用期限（保质期）。
+> \- **poudre de perlimpinpin** - 灵丹妙药（贬义，指骗人的药）。 - **vendre de la poudre de perlimpinpin** - 兜售虚假良药。
+> \- **exhausteur de goût** - 增味剂。 - **ajouter un exhausteur de goût** - 添加增味剂。
+> \- **servir à** - 用于……，有助于……。 - **servir à quelque chose** - 有点用处。
+> \- **date limite de consommation** - 最后食用期限（保质期）。 - **vérifier la date limite de consommation** - 检查保质期。
+>
 食品添加剂和防腐剂这些“魔法粉末”，让平庸的产品变得诱人，以便更好地销售。例如，如果制品显得黯淡无光，就使用色素；如果味道平淡，就使用味精类的增味剂；如果质感不足，就使用增稠剂；或者如果味道平淡甚至糟糕，就使用香精。人们告诉你，防腐剂或抗氧化剂（如山梨酸盐、亚硝酸盐、亚硫酸盐）是为了保护你免受细菌中毒的影响，但实际上，它们主要是用来延长保质期，以便让工业生产者和超市有更多时间销售商品。
 
 **这篇文章批评了什么？**
@@ -2749,10 +2798,11 @@ D. Les conséquences sanitaires des ajouts.
 > \- **évoquer** [evɔke] - 提及，唤起；**évoquer un sujet** - 提及一个话题。
 >
 **常见短语**
-> \- **idées reçues** - 陈词滥调，成见。
-> \- **la plupart du temps** - 大多数时候，通常。
-> \- **ne serait-ce que** - 哪怕仅仅是为了/因为。
-> \- **au contraire** - 相反。
+> \- **idées reçues** - 陈词滥调，成见。 - **lutter contre les idées reçues** - 与成见作斗争。
+> \- **la plupart du temps** - 大多数时候，通常。 - **il pleut la plupart du temps** - 大部分时间都在下雨。
+> \- **ne serait-ce que** - 哪怕仅仅是为了/因为。 - **ne serait-ce que par curiosité** - 哪怕仅仅是出于好奇。
+> \- **au contraire** - 相反。 - **faire tout au contraire** - 做的完全相反。
+>
 尽管电视因其传递的信息略显模糊而经常受到批评，但它也是唤起兴趣的无可替代的工具，当它不仅提供知识的萌芽，还激发人们进一步发展的兴趣。例如，阅读通常因为电视的推广而受益匪浅。与许多普遍观点相反，电视与书籍之间几乎没有竞争，因为两者的受众群体不同。喜欢阅读的人不会因为统一的电视习惯而放弃他们的兴趣。相反，每次文学节目后，被提到的书籍销量或激发节目的书籍销量都会让出版商感到欣慰。
 
 **作者对电视的看法是什么？**
@@ -2799,10 +2849,11 @@ D. La concurrence qu'elle mène à la lecture est acharnée.
 > \- **insécurité** [ɛ̃sekurite] - 不安全，不安全感；**Impression d'insécurité** - 不安全感。
 >
 **常见短语**
-> \- **en temps réel** - 实时。
-> \- **prendre aux tripes** - 触及内心，扣人心弦。
-> \- **tenir en haleine** - 使（某人）全神贯注，保持紧张感。
-> \- **plus vrai que nature** - 栩栩如生，极其逼真。
+> \- **en temps réel** - 实时。 - **suivre le colis en temps réel** - 实时追踪包裹。
+> \- **prendre aux tripes** - 触及内心，扣人心弦。 - **une histoire qui prend aux tripes** - 一个扣人心弦的故事。
+> \- **tenir en haleine** - 使（某人）全神贯注，保持紧张感。 - **un suspense qui tient en haleine** - 让人屏息的悬念。
+> \- **plus vrai que nature** - 栩栩如生，极其逼真。 - **un décor plus vrai que nature** - 栩栩如生的布景。
+>
 24小时新闻频道向我们展示实时的生活，就像我们置身其中一样。这些信息比现实更真实，让人心动并牵动人心，记者Hubert Huertas分析道。通过直播，我们可以想象随时都有可能发生一些事情。这种真实性和力量比虚构更强：我们身处真实环境，当真实抓住我们时，这会变得让人上瘾，媒体专家Virginie Spies补充道。此外，这还带来一种不确定感。在这些时刻，直播呈现出一种催眠效果，让观众屏息关注。
 
 **这篇文章如何解释24小时新闻频道？**
@@ -2849,10 +2900,11 @@ D. Elles nourrissent une curiosité malsaine.
 > \- **renforcer** [rɑ̃fɔrse] - 加强，巩固；**renforcer la confiance en soi** - 增强自信心
 >
 **常见短语**
-> \- **en général** - 通常，一般来说
-> \- **avoir du mal à** - 很难做某事，做某事有困难
-> \- **un cercle vicieux** - 恶性循环
-> \- **mettre à la disposition de** - 供某人使用，由某人支配
+> \- **en général** - 通常，一般来说 - **en général tout va bien** - 通常一切都好。
+> \- **avoir du mal à** - 很难做某事，做某事有困难 - **avoir du mal à choisir** - 难以抉择。
+> \- **un cercle vicieux** - 恶性循环 - **entrer dans un cercle vicieux** - 进入恶性循环。
+> \- **mettre à la disposition de** - 供某人使用，由某人支配 - **mettre un guide à la disposition de tous** - 为大家提供一份指南。
+>
 许多孩子对阅读的缺乏兴趣可以由多个因素解释。首先，许多孩子在意识到其他同学比自己进步时便放弃了阅读。此外，当要求孩子不仅仅是阅读而是理解时，他们可能会失去兴趣。通常，缺乏理解与缺乏乐趣有关。 根据一些心理学家的说法，孩子们难以理解的原因是他们在文化常识方面存在不足。然而，文化常识正是通过阅读获得的。这形成了一个难以打破的恶性循环。为了打破这个循环，心理学家建议为孩子提供适合其理解水平和兴趣的书籍。此外，还应采用能够鼓励学生之间互动并增强自信心的阅读教学方法。最后，家长和老师应通过为孩子提供适合其年龄和理解水平的书籍来鼓励他们阅读。
 
 **根据文章，哪些原因导致孩子们对阅读失去兴趣？**
@@ -2899,11 +2951,12 @@ D. Les moqueries de leurs camarades.
 > \- **consommation** [kɔ̃sɔmasjɔ̃] - 消费，消耗；**la réduction de la consommation** - 减少消费。
 >
 **常见短语**
-> \- **selon** - 根据...
-> \- **tendre à** - 倾向于...，旨在...
-> \- **au-delà de** - 在...之外，超出...
-> \- **être dû à** - 归因于...，由于...
-> \- **grâce à** - 凭借...，多亏...
+> \- **selon** - 根据... - **selon les informations** - 根据消息。
+> \- **tendre à** - 倾向于...，旨在... - **tendre à s'améliorer** - 趋于好转。
+> \- **au-delà de** - 在...之外，超出... - **au-delà de la frontière** - 在边界之外。
+> \- **être dû à** - 归因于...，由于... - **être dû à une erreur** - 归咎于一个错误。
+> \- **grâce à** - 凭借...，多亏... - **réussir grâce à son travail** - 依靠努力成功。
+>
 根据多位科学家的说法，新型“生态”解决方案（如电动车）实际上会增加经济活动，并且无法保护我们的发展模式。除了电动车生产耗能大且产生大量废弃物的问题外，被称为“绿色”的技术的主要问题在于“反弹效应”，即每一项技术发现或改进都会引发整体活动的增加。因此，一种真正的生态方法必须包含节制的努力，通过这种方式，技术进步才能真正服务于减少消费的目标。
 
 **作者对新型生态解决方案的看法是什么？**
@@ -2951,11 +3004,12 @@ D. Il note qu'elles contribuent au déclin industriel.
 > \- **abstrait** [abstrɛ] - 抽象的；**concept abstrait** - 抽象概念
 >
 **常见短语**
-> \- **au cœur de** - 在...的核心/中心
-> \- **à ce titre** - 以此身份，基于此
-> \- **à la mesure de** - 与...相称，符合...的大小/重要性
-> \- **en vue de** - 为了，目的在于
-> \- **transition écologique** - 生态转型
+> \- **au cœur de** - 在...的核心/中心 - **au cœur de la ville** - 在市中心。
+> \- **à ce titre** - 以此身份，基于此 - **intervenir à ce titre** - 以该身份介入。
+> \- **à la mesure de** - 与...相称，符合...的大小/重要性 - **à la mesure de ses capacités** - 与其能力相符。
+> \- **en vue de** - 为了，目的在于 - **travailler en vue de l'examen** - 为了考试而学习。
+> \- **transition écologique** - 生态转型 - **accélérer la transition écologique** - 加快生态转型。
+>
 环境问题是当代讨论的核心，因此必须在学校教育中得到相应的反映。然而，需要将环境问题适应学校的教学环境。成功转移的首要条件是术语上的改进：应该用更普通的语言重新表述问题。为什么不直接谈论环境及孩子们与环境的关系、生物多样性的宝贵性、保护或保育？通过这样，我们可以用更通俗易懂的语言，而不是像“生态转型”那样抽象的术语。
 
 **根据作者，应如何让学生关注环境问题？**
@@ -3001,10 +3055,10 @@ C. Programmer des sorties dans la nature.
 > \- **aménagement** [amenɑʒmɑ̃] - 规划，布置；**aménagement du territoire** - 领土规划/国土整治
 >
 **常见短语**
-> \- **se tenir** - 举办，进行
-> \- **peser sur** - 施压于，重压在...之上
-> \- **risquer de** - 冒着...的风险，很可能
-> \- **se passer** - 发生，进展
+> \- **se tenir** - 举办，进行 - **la réunion va se tenir demain** - 会议将于明天举行。
+> \- **peser sur** - 施压于，重压在...之上 - **peser sur la décision** - 影响决定。
+> \- **risquer de** - 冒着...的风险，很可能 - **risquer de pleuvoir** - 可能会下雨。
+> \- **se passer** - 发生，进展 - **qu'est-ce qui se passe** - 发生了什么事。
 Rock Werchter音乐节的组织者计划将其迁至Limbourg地区附近。市长对此表示担忧，因为自1975年以来音乐节一直举办在现址，他指出“音乐节的参与人数对举办场地和社区造成了压力”。他担心多年参与音乐节的人可能被解雇。他还提到或许需要修改土地规划以容纳更多舞台和观众。
 
 **市长对音乐节发展计划担忧什么？**
@@ -3051,10 +3105,11 @@ D. L'augmentation du prix des entrées pour les spectateurs.
 > \- **chronophage** [krɔnɔfaʒ] - 耗时的、费时的；**activité chronophage** - 耗时的活动
 >
 **常见短语**
-> \- **réservé à** - 仅限于、专供给
-> \- **par hasard** - 偶然地、无意中
-> \- **bouche-à-oreille** - 口碑、口口相传
-> \- **mettre en œuvre** - 实施、执行、落实
+> \- **réservé à** - 仅限于、专供给 - **réservé aux abonnés** - 仅限订阅者使用。
+> \- **par hasard** - 偶然地、无意中 - **rencontrer un ami par hasard** - 偶然遇到一位朋友。
+> \- **bouche-à-oreille** - 口碑、口口相传 - **se faire connaître par le bouche-à-oreille** - 通过口碑出名。
+> \- **mettre en œuvre** - 实施、执行、落实 - **mettre en œuvre un projet** - 实施一个项目。
+>
 “Erasmus+ 的流动性项目已不再仅限于学生使用”，教师 Sophie Roque 解释道。然而，Erasmus+ 教师项目近年来才开始受到关注。需求和流动机会均在增长。芬兰教育体系和英语培训吸引了许多关注。虽然参与者对 Erasmus+ 教师项目的评价很高，但它的知名度确实存在不足。人们通常通过偶然机会或交流中发现它。学术代表 Franck Le Cars 证实，教师之间的口口相传是推广该计划的最佳方式。他还指出，国外的这些流动项目实施起来很复杂且非常耗时。
 
 **关于 Erasmus+ 计划，我们了解到什么？**
@@ -3101,10 +3156,11 @@ D. Il souffre d'une image négative.
 > \- **langage** [lɑ̃ɡaʒ] - 语言；**langage courant** - 日常语言。
 >
 **常见短语**
-> \- **tandis que** - 然而，而
-> \- **bel et bien** - 的确，确实
-> \- **en cours** - 正在进行的
-> \- **fait appel à** - 求助于，利用
+> \- **tandis que** - 然而，而 - **elle lit tandis qu'il dort** - 她在读书而他在睡觉。
+> \- **bel et bien** - 的确，确实 - **il est bel et bien parti** - 他确实已经离开了。
+> \- **en cours** - 正在进行的 - **des travaux en cours** - 正在进行中的工程。
+> \- **fait appel à** - 求助于，利用 - **faire appel à un expert** - 求助于专家。
+>
 根据一种关于左右脑差异的旧理论，人类可以根据大脑的半球优势被分类。左脑占优势的人更具有逻辑性和分析性，而右脑占优势的人更具创造力和直觉性。实际上，半球优势确实存在，但它不是由个体决定，而是取决于活动类型。例如，99%的右撇子和70%以上的左撇子在语言活动中更常用左半球的神经元。
 
 **我们对大脑的了解是什么？**
@@ -3151,11 +3207,12 @@ D. Son développement est lié au caractère d'un individu.
 > \- **l'usager** [lyzaʒe] - （公共服务）使用者，乘客；**Usagers du réseau** - 线网乘客。
 >
 **常见短语**
-> \- **en matière de** - 在...方面。
-> \- **transports en commun** - 公共交通。
-> \- **en dehors de** - 在...之外。
-> \- **de ce point de vue** - 从这个角度来看。
-> \- **se poser la question** - 提出/思考问题。
+> \- **en matière de** - 在...方面。 - **en matière de sécurité** - 在安全方面。
+> \- **transports en commun** - 公共交通。 - **utiliser les transports en commun** - 使用公共交通。
+> \- **en dehors de** - 在...之外。 - **en dehors de ses heures de travail** - 在工作时间之外。
+> \- **de ce point de vue** - 从这个角度来看。 - **de ce point de vue, il a raison** - 从这个角度看，他是对的。
+> \- **se poser la question** - 提出/思考问题。 - **se poser la question de l'avenir** - 思考未来的问题。
+>
 某些专注于交通政策的经济学家认为公共交通免费的做法并不可取。对他们来说，关于谁来资助这个问题有些简单化：“免费政策已经在我国存在。在法国大区以外，有大约15个交通网络已经完全免费。当前的问题是资源不足。事实上，大城市的交通网络并未为吸收这一额外的客流做好准备。因此，从这个角度看，在明确为使用这些网络的乘客提供什么样的服务之前，不可能考虑免费问题。”
 
 **根据这些专家，公共交通免费政策的核心问题是什么？**
@@ -3202,10 +3259,11 @@ C. Le déficit provoqué par son financement.
 > \- **sociologue** [sɔsjɔlɔɡ] - n. 社会学家；**Étude de sociologues** - 社会学家的研究。
 >
 **常见短语**
-> \- **grandir avec** - 伴随……成长。
-> \- **surfer sur** - 在……冲浪（引申为在互联网上浏览）。
-> \- **se prendre en charge** - 自力更生，自我负责。
-> \- **distinguer A de B** - 区分/辨别A与B。
+> \- **grandir avec** - 伴随……成长。 - **grandir avec le numérique** - 伴随数字时代成长。
+> \- **surfer sur** - 在……冲浪（引申为在互联网上浏览）。 - **surfer sur internet** - 在网上冲浪。
+> \- **se prendre en charge** - 自力更生，自我负责。 - **apprendre à se prendre en charge** - 学会自理。
+> \- **distinguer A de B** - 区分/辨别A与B。 - **distinguer le vrai du faux** - 区分真假。
+>
 Y世代 指的是那些在20到30岁之间，伴随着新技术成长的一代。他们是社会现象的一部分，高度联网，活跃于社交网络，并掌握了老一辈所不具备的技能。另一个共同特点是工作不稳定：25%的年轻人失业，其他人则从事临时工作。结果：他们被描述为没有幻想、对工作缺乏参与感、个人主义者且抗拒权威。然而，这种不稳定也有积极的一面：它促使Y世代比老一辈更自力更生，创办自己的企业。然而，社会学家指出，很难区分年龄效应与经济周期对工作态度的影响。
 
 **根据文章，Y世代具有怎样的特质？**
@@ -3252,10 +3310,11 @@ D. Un esprit de solidarité avec les personnes sans emploi.
 > \- **propice** [prɔpis] - adj. 有利的，适宜的；**Moment propice** - 合适的时机
 >
 **常见短语**
-> \- **entrer en contact avec** - 与……接触
-> \- **une trentaine de** - 大约三十，三十来个
-> \- **qu'il s'agisse de** - 无论是……（还是……），涉及到……
-> \- **dans son ensemble** - 总体上，整体上
+> \- **entrer en contact avec** - 与……接触 - **entrer en contact avec des clients** - 与客户建立联系。
+> \- **une trentaine de** - 大约三十，三十来个 - **une trentaine de personnes** - 大约三十个人。
+> \- **qu'il s'agisse de** - 无论是……（还是……），涉及到…… - **qu'il s'agisse de sport ou de musique** - 无论是运动还是音乐。
+> \- **dans son ensemble** - 总体上，整体上 - **examiner le problème dans son ensemble** - 整体地审视问题。
+>
 这是一个令人惊叹的现象，被称为“树冠的羞怯”：某些树木的树叶从不接触其他树木的树叶，在叶片之间形成了光线的边界。在某些森林中，观察树冠时，可以看到叶片之间形成的光线迷宫，仿佛树木有意留下了一道约30厘米的光滑屏障，避免接触。这种间距使光线能够通过，有助于光合作用以及林下植物的生存，同时还避免了传染病的传播，无论是非飞行昆虫还是疾病。由此可见，同一物种的树木似乎协同合作，共同创造了一个有利于整个群体生存的环境。
 
 **关于树木，作者发现了什么？**
@@ -3303,10 +3362,11 @@ D. Ils sont susceptibles de ressentir des émotions.
 > \- **promoteur** [prɔmɔtœr] - 房产开发商，推动者；**promoteur immobilier** - 房地产开发商
 >
 **常见短语**
-> \- **en conséquence [kɔ̃sekɑ̃s]** - 因此，结果
-> \- **il s'agit de** - 关于，是，涉及到
-> \- **d'autant plus que** - 况且，尤其是因为
-> \- **mise en œuvre** - 实施，执行，落实
+> \- **en conséquence [kɔ̃sekɑ̃s]** - 因此，结果 - **agir en conséquence** - 采取相应行动。
+> \- **il s'agit de** - 关于，是，涉及到 - **il s'agit d'un malentendu** - 这是一个误会。
+> \- **d'autant plus que** - 况且，尤其是因为 - **je suis content d'autant plus qu'il fait beau** - 我很高兴，尤其是因为天气很好。
+> \- **mise en œuvre** - 实施，执行，落实 - **la mise en œuvre d'une réforme** - 一项改革的实施。
+>
 在生态建筑的道路上 近年来，生态意识显著提高。个人对理想居住环境有了明确的想法。 因此，100%生态住宅项目成为了所有建筑事务所的关注焦点：低能耗建筑、能源改造、被动式住宅……如今的挑战是调整市场供应，并扩展专业人员的技能领域，尤其是在建筑企业内部。此外，据众多专家所说，生态建筑一旦得以实施，将对所有人有利，无论是开发商还是买家都将从中受益。
 
 **根据作者，生态建筑的挑战是什么？**
@@ -3353,9 +3413,10 @@ D. Restaurer d'anciens bâtiments.
 > \- **tolérer** [tɔlere] - 容忍，允许；**Être toléré** - 被允许的。
 >
 **常见短语**
-> \- **sans forcément** - 不一定，未必。
-> \- **ce qu'il faut savoir** - 需要了解的是。
-> \- **quant à** - 至于，关于。
+> \- **sans forcément** - 不一定，未必。 - **sans forcément dépenser beaucoup** - 不一定花很多钱。
+> \- **ce qu'il faut savoir** - 需要了解的是。 - **voici ce qu'il faut savoir** - 这是需要了解的内容。
+> \- **quant à** - 至于，关于。 - **quant à moi, je reste ici** - 至于我，我留在这里。
+>
 在欧洲夏季驾车旅行时，许多游客往往不了解各国的相关法规。需要注意的是，各国法律中可能存在显著差异。例如，高速公路的最高限速在法国为每小时130公里，而在比利时、西班牙和葡萄牙则仅为每小时120公里。至于酒精含量的限制，爱尔兰允许的酒精含量为0.8克/升，而捷克共和国则完全禁止。
 
 **本文作者的目的是？**
@@ -3402,10 +3463,11 @@ D. Il raconte une anecdote.
 > \- **compétence** [kɔ̃petɑ̃s] - 能力，技能；**élargissement des compétences** - 技能扩展/拓宽。
 >
 **常见短语**
-> \- **depuis belle lurette** - 很久以前，早就是。
-> \- **ne cesse de** - 不断地，不停地。
-> \- **se passer de** - 缺少...也行，不要...也行。
-> \- **suppression de postes** - 裁员，撤销职位。
+> \- **depuis belle lurette** - 很久以前，早就是。 - **ils se connaissent depuis belle lurette** - 他们很久以前就认识了。
+> \- **ne cesse de** - 不断地，不停地。 - **il ne cesse de se plaindre** - 他不断地抱怨。
+> \- **se passer de** - 缺少...也行，不要...也行。 - **se passer de café** - 不喝咖啡。
+> \- **suppression de postes** - 裁员，撤销职位。 - **la suppression de postes dans l'industrie** - 工业界的裁员。
+>
 人们早已习惯了地铁里没有检票员、加油站里没有加油员。但正在消失的职业清单却在不断延长。 超市的收银员、银行的柜员、电影院的接待员……所有这些都被机器取代了吗？并非如此简单。 正如Isobar咨询公司的负责人Thibaut Carpentier所分析的那样，尽管企业有减少人力成本的强烈愿望，但它们遇到了消费者难以接受缺乏人类存在的阻力。此外，所有相关企业都在进行岗位削减，但也伴随着技能的扩展和重新部署。
 
 **服务自动化面临的主要障碍是什么？**
@@ -3452,10 +3514,11 @@ D. Les spécificités de certains métiers.
 > \- **sensibilité** [sɑ̃sibilite] - 感性，敏感性；**sensibilité artistique** - 艺术感悟力。
 >
 **常见短语**
-> \- **en proie à** - 遭受……，受……的折磨。
-> \- **relatif à** - 关于，与……相关的。
-> \- **soit... soit...** - 或者……或者……，要么……要么……。
-> \- **faire appel à** - 诉诸，求助于，呼吁。
+> \- **en proie à** - 遭受……，受……的折磨。 - **en proie à l'inquiétude** - 陷入焦虑。
+> \- **relatif à** - 关于，与……相关的。 - **un rapport relatif à l'environnement** - 一份关于环境的报告。
+> \- **soit... soit...** - 或者……或者……，要么……要么……。 - **soit aujourd'hui, soit demain** - 要么今天，要么明天。
+> \- **faire appel à** - 诉诸，求助于，呼吁。 - **faire appel à sa mémoire** - 动用记忆。
+>
 戏剧 乔尔·波默拉特（Joël Pommerat）为我们呈现了一场短小的表演，其形式的纯净和意义让人印象深刻。内容基于他与团队旁听的几场社会工作者与生活在社区里的移民女性之间的对话。这些女性面临家庭问题，从与父母或孩子的紧张关系中，他提炼出了一系列简短但深刻的场景，组成了一部感人至深的悲剧。特别是关注女性的痛苦。他的视角充满善意和无限的温柔。他没有传递任何道德信息，仅仅唤起我们的感性共鸣。
 
 **Joël Pommerat创作该剧的目的是什么？**
@@ -3504,11 +3567,11 @@ D. Informer des difficultés que peuvent rencontrer les enfants des cités.
 > \- **compromis** [kɔ̃prɔmi] - 妥协，折中方案；**Trouver un compromis** - 达成妥协。
 >
 **常见短语**
-> \- **plancher sur** - 钻研，研讨。
-> \- **prendre en compte** - 考虑到，顾及。
-> \- **n'avoir rien à voir avec** - 与……毫无关系。
-> \- **du point de vue de** - 从……的角度来看。
-> \- **autant dire que** - 也就是说，等于说。
+> \- **plancher sur** - 钻研，研讨。 - **plancher sur un examen** - 埋头备考。
+> \- **prendre en compte** - 考虑到，顾及。 - **prendre en compte les risques** - 考虑到风险。
+> \- **n'avoir rien à voir avec** - 与……毫无关系。 - **cela n'a rien à voir avec moi** - 这和我毫无关系。
+> \- **du point de vue de** - 从……的角度来看。 - **du point de vue de l'économie** - 从经济角度看。
+> \- **autant dire que** - 也就是说，等于说。 - **autant dire que c'est impossible** - 也就是说这是不可能的。
 关于学校节奏改革，今天由教育部召开的会议需要考虑许多与小学教育无关或关系不大的因素。这包括就业的变化、所谓非典型工作时间的增加；从地方集体的角度来看，包括经济和实践上的影响（校车、餐饮服务）；以及任何可能的每周组织方式的改变。这还涉及交通专家的意见和旅游业专业人士的关注点…… 换句话说，孩子的利益或多或少地被妥协牺牲了。
 
 **记者对学校节奏改革的评价是什么？**
@@ -3555,10 +3618,11 @@ D. Les opinions des experts sont en tout désaccord.
 > \- **concevoir** [kɔ̃səvwar] - v.t. 设计，构思；**Concevoir un projet** - 构思一个项目。
 >
 **常见短语**
-> \- **consister à** - 在于，由...组成。
-> \- **jeu de lumières** - 灯光效果，光影交错。
-> \- **en rapport avec** - 与...有关。
-> \- **grâce à** - 依靠，由于，多亏。
+> \- **consister à** - 在于，由...组成。 - **consister à faire quelque chose** - 在于做某事
+> \- **jeu de lumières** - 灯光效果，光影交错。 - **un beau jeu de lumières** - 漂亮的灯光效果
+> \- **en rapport avec** - 与...有关。 - **être en rapport avec le sujet** - 与主题有关
+> \- **grâce à** - 依靠，由于，多亏。 - **grâce à votre aide** - 多亏您的帮助
+>
 事件照明（L'éclairage événementiel）是一门新兴的艺术，它的核心是通过灯光投射，在历史建筑和地标上创造装饰和氛围。 这种艺术形式有双重价值：无需对建筑进行任何物理改动，却能彻底改变其外观。 根据活动主题，让一个场所变得独一无二。例如，巴黎这样的大城市可以通过照明设计，让地标性建筑和公共场所焕然一新，而这些照明作品则是由真正的艺术家精心打造的。
 
 **这种艺术形式的主要优势是什么？**
@@ -3605,11 +3669,12 @@ D. Valoriser culturellement des zones urbaines délaissées.
 > \- **prime** [prim] - 奖金，津贴；**prime de rendement** - 绩效奖金
 >
 **常见短语**
-> \- **plutôt que de** - 与其……不如，而不
-> \- **mise en situation** - 模拟情景，实操演练
-> \- **être favorable à** - 赞成……，有利于……
-> \- **limiter les risques** - 降低风险
-> \- **à son tour** - 轮到某人，随后
+> \- **plutôt que de** - 与其……不如，而不 - **plutôt que de partir** - 与其离开不如...
+> \- **mise en situation** - 模拟情景，实操演练 - **une mise en situation professionnelle** - 职业情景模拟
+> \- **être favorable à** - 赞成……，有利于…… - **être favorable à ce projet** - 赞成这个项目
+> \- **limiter les risques** - 降低风险 - **limiter les risques d'accident** - 降低事故风险
+> \- **à son tour** - 轮到某人，随后 - **parler à son tour** - 轮到他/她说话
+>
 与其增加测试和情景模拟的数量，一些企业选择将招聘的责任委托给员工！“我个人非常支持内部推荐，”一位负责人表示。如果你的团队中有一个优秀的人才，他很可能会引荐另一个优秀的人才，从而减少风险。如今，“内部推荐”已经被广泛接受，甚至在某些公司中被提升到了战略高度。某些企业还通过奖金激励这种做法：每成功推荐一名被录用的候选人，推荐人可获得 4,000 欧元的奖励。
 
 **通过采用内部推荐招聘，企业希望实现什么？**
@@ -3656,11 +3721,12 @@ D. À simplifier les procédures
 > \- **fréquenter** [frekɑ̃te] - 经常去（某处），与...往来；**fréquenter un lieu public** - 常去公共场所。
 >
 **常见短语**
-> \- **le paiement par mobile** - 移动支付
-> \- **la moindre course** - 哪怕极小的购物/买零碎东西
-> \- **une enveloppe rouge** - 红包
-> \- **les avancées technologiques** - 技术进步
-> \- **en espèces** - 用现金
+> \- **le paiement par mobile** - 移动支付 - **utiliser le paiement par mobile** - 使用移动支付
+> \- **la moindre course** - 哪怕极小的购物/买零碎东西 - **faire la moindre course** - 哪怕办一点点小事
+> \- **une enveloppe rouge** - 红包 - **donner une enveloppe rouge** - 给红包
+> \- **les avancées technologiques** - 技术进步 - **suivre les avancées technologiques** - 紧跟技术进步
+> \- **en espèces** - 用现金 - **payer en espèces** - 用现金支付
+>
 中国是全球移动支付的冠军。如今，中国人更倾向于使用移动支付，即使是购买一瓶矿泉水，也如此。 移动支付已经渗透到经济的各个领域，甚至包括最根深蒂固的习俗。在生日或新年庆祝活动中，人们发送的是虚拟红包，而不是传统的装满硬币或钞票的红包。但现金的使用仍然持续，尤其是在老年人中，这引发了关于一些人被技术进步边缘化的争论。在中山公园，3元的入园费只能以现金支付。这对经常去公园的老年人来说是个好消息。
 
 **关于中国的新支付方式，我们可以了解到什么？**
@@ -3709,9 +3775,10 @@ D. Ils sont à l'origine de l'expansion économique du pays.
 > \- **devenir** [dəvənir] - 前途，未来（名词）；**le devenir d'une institution** - 机构的前途
 >
 **常见短语**
-> \- **au sein de** - 在...内部
-> \- **regarder à deux fois** - 犹豫不决，三思而行
-> \- **être à l'étude** - 正在研究中，正在审议中
+> \- **au sein de** - 在...内部 - **au sein de l'entreprise** - 在公司内部
+> \- **regarder à deux fois** - 犹豫不决，三思而行 - **regarder à deux fois avant d'acheter** - 买之前三思
+> \- **être à l'étude** - 正在研究中，正在审议中 - **le projet est à l'étude** - 该项目正在研究阶段
+>
 在“16人小组”的内部会议中，包括教师工会和家长代表的集会中，关于一天罢工的想法没有达成一致意见。尽管上次的动员效果良好，但教师们现在在牺牲一天工资之前会仔细权衡。全国中等教育工会的联合秘书长承认：“我们担心参与人数不够。”结果，另一种行动方式正在研究中，比如“教育周四”：一个每周一次的会议，旨在让家庭和教师围绕学校未来进行思考。
 
 **教育领域的这些参与者的意见在哪方面有所不同？**
@@ -3758,10 +3825,11 @@ D. Les orientations pédagogiques à soutenir
 > \- **stimuler** [stimyle] - v.t. 刺激，激发；**stimuler l'intérêt** - 激发兴趣
 >
 **常见短语**
-> \- **avoir beau** - 尽管...（却还是），TCF高频让步表达
-> \- **arriver à** - 到达某地 / 成功做某事
-> \- **faire revenir** - 使...回来，召回
-> \- **recommencer** - 重新开始
+> \- **avoir beau** - 尽管...（却还是），TCF高频让步表达 - **avoir beau essayer** - 尽管尝试了（也没用）
+> \- **arriver à** - 到达某地 / 成功做某事 - **arriver à destination** - 到达目的地
+> \- **faire revenir** - 使...回来，召回 - **faire revenir des oignons** - 煸炒洋葱
+> \- **recommencer** - 重新开始 - **recommencer à zéro** - 从零开始
+>
 尽管我是一个非常著名的设计师，但我永远不会说我设计出了完美的裙子！我不喜欢完美，也不喜欢完美的人。我讨厌别人对我说：“是的，一切都很好！”，实际上还有问题。当我刚到巴黎时，我听得最多的词是“否”。我喜欢与“否”共存，因为我害怕完美。完美意味着结束，因为正是怀疑和不满足促使人们回到工作室，重新开始，不断改进。“否”并没有掩盖现实，反而起到了激励作用。
 
 **这位设计师如何解读“否”这个词？**
@@ -3809,11 +3877,12 @@ C. Comme une appréciation déguisée
 > \- **flambée** [flɑ̃be] - 中文释义：突然燃烧，（物价）暴涨；**Flambée des prix** - 价格飞涨。
 >
 **常见短语**
-> \- **cible à abattre** - 要击败的目标/眼中钉。
-> \- **congés payés** - 带薪假期。
-> \- **société de consommation** - 消费社会。
-> \- **part du gâteau** - 分一杯羹/利益的一部分。
-> \- **vendre à prix d'or** - 以极高的价格出售。
+> \- **cible à abattre** - 要击败的目标/眼中钉。 - **être la cible à abattre** - 成为被打击的目标
+> \- **congés payés** - 带薪假期。 - **prendre des congés payés** - 休带薪假
+> \- **société de consommation** - 消费社会。 - **critiquer la société de consommation** - 批判消费社会
+> \- **part du gâteau** - 分一杯羹/利益的一部分。 - **vouloir sa part du gâteau** - 想要分得一杯羹
+> \- **vendre à prix d'or** - 以极高的价格出售。 - **vendre ce bijou à prix d'or** - 以高价出售这件珠宝
+>
 媒体的大肆渲染让本是正面活动的旅游业成为众矢之的。然而，自带薪假普及以来，旅游业一直是消费社会中的一种积极表达形式。它使数百万人得以访问其他地区。并不存在“过度旅游”的问题，而只是一些人无法管理好他们区域的平衡。原因？是对利益的追逐。整条链条的每个环节都被牵涉其中：通过大规模发展计划的官员、想要分得一杯羹却不考虑饱和问题的专业人士，以及利用房地产价格飙升以高价出售房产的居民。
 
 **文章作者对什么感到遗憾？**
@@ -3861,10 +3930,11 @@ D. L'exclusion des classes populaires des activités touristiques.
 > \- **onéreux** [ɔnerø] - 昂贵的，代价高的；**à titre onéreux** - 有偿地
 >
 **常见短语**
-> \- **les uns et les autres** - 众人，大家
-> \- **au fil de** - 随着……的推移
-> \- **vision du monde** - 世界观，对世界的看法
-> \- **peu onéreuse** - 不贵的，廉价的
+> \- **les uns et les autres** - 众人，大家 - **écouter les uns et les autres** - 倾听各方意见
+> \- **au fil de** - 随着……的推移 - **au fil du temps** - 随着时间的流逝
+> \- **vision du monde** - 世界观，对世界的看法 - **une vision du monde différente** - 不同的世界观
+> \- **peu onéreuse** - 不贵的，廉价的 - **une solution peu onéreuse** - 一种廉价的方案
+>
 早场电影场次让我感到满足。它们让我有勇气面对别人的好奇心。它们并没有让我长时间远离孩子。我坐在座位上，随着时间的推移，变得越来越自然。电影是对焦虑的一种强有力的解药！知识性电影、论题电影、感情电影、侦探电影、喜剧电影、悬疑电影都成为了我的伙伴。我从中汲取了伟大、勇气和毅力的教训。它们通过其文化贡献，加深并拓宽了我对世界的视野。我通过与他人的故事分享，暂时忘却了自己的烦恼。电影，这种价格不高的消遣，能够带来一种健康的快乐。
 
 **这位人物去电影院时有什么感受？**
@@ -3911,10 +3981,11 @@ C. Elle savoure le bonheur d'avoir une famille.
 > \- **sensible** [sɑ̃sibl] - 敏感的，感知的；**être sensible à** - 对...敏感
 >
 **常见短语**
-> \- **ne pas avoir fini de** - 还没做完，还会继续（表示某种状态持续）
-> \- **se parer de** - 披上，装饰上
-> \- **se limiter à** - 局限于，仅限于
-> \- **s'identifier** - 相互识别，确认身份
+> \- **ne pas avoir fini de** - 还没做完，还会继续（表示某种状态持续） - **n'avoir pas fini d'en entendre parler** - 这事儿还有得听呢
+> \- **se parer de** - 披上，装饰上 - **se parer de bijoux** - 佩戴珠宝装饰
+> \- **se limiter à** - 局限于，仅限于 - **se limiter à l'essentiel** - 仅限于要点
+> \- **s'identifier** - 相互识别，确认身份 - **s'identifier à un personnage** - 产生共鸣/代入某个角色
+>
 鲨鱼仍然能带给我们惊喜！ 藏身于北美深海的潮汐鲨（requins-houle），其皮肤呈棕色或灰色，具有两种色调：深色和浅色。 一组美国研究人员发现，这种鲨鱼在浅色皮肤区域会产生一种独特的分子，该分子能够吸收蓝光（在深海中唯一能穿透的光），并将其转换成绿色光。 因此，在漆黑的深海中，这些鲨鱼会呈现出荧光绿色的图案，而它们自身对这些图案特别敏感。 来自耶鲁大学的Jason Crawford 猜测： "由于这些鲨鱼的视力主要局限于蓝色和绿色，这种荧光现象可能帮助它们相互识别。"
 
 **研究人员对潮汐鲨提出了什么假设？**
@@ -3961,10 +4032,11 @@ C. Ils se déplacent principalement en groupe
 > \- **inouï** [inwi] - 惊人的，闻所未闻的；**une chance inouïe** - 极好的机会。
 >
 **常见短语**
-> \- **vision du monde** - 世界观。
-> \- **au moins** - 至少。
-> \- **tout d'un coup** - 突然。
-> \- **se rendre compte** - 意识到，觉察。
+> \- **vision du monde** - 世界观。 - **partager une vision du monde** - 分享一种世界观
+> \- **au moins** - 至少。 - **en avoir au moins deux** - 至少有两个
+> \- **tout d'un coup** - 突然。 - **s'arrêter tout d'un coup** - 突然停下
+> \- **se rendre compte** - 意识到，觉察。 - **se rendre compte de son erreur** - 意识到自己的错误
+>
 我一直希望鼓励我的学生不要局限于单一的世界观，因为最终，每个人都活在自己的“囚笼”里。 在我的书《至少要会两种语言，才能意识到自己正在使用一种语言》的结尾，我写道： "学习另一种语言，意味着意识到自己曾经生活在一个无形的监狱里，而之前却未曾察觉。" 我总是告诉学生，世界并不局限于我们的生活方式。 如果我们只活在一种语言、一种文化中，那就是在剥夺自己的自由。 选择学习另一种语言，就是给自己一次难得的机会，让我们突然看清自己原本身处的“囚笼”。
 
 **这位作者如何看待学习一门外语？**
@@ -4011,10 +4083,10 @@ D. Il permet d'élargir son réseau social
 > \- **inventif** [ɛ̃vɑ̃tif] - adj. 有创造力的，善于发明的；**un esprit inventif** - 有创造力的头脑。
 >
 **常见短语**
-> \- **composé de** - 由……组成
-> \- **en commun** - 共有，共同
-> \- **atteint de** - 患有……（疾病），遭受……
-> \- **à la fois** - 同时，既……又……
+> \- **composé de** - 由……组成 - **un groupe composé de bénévoles** - 一个由志愿者组成的团体
+> \- **en commun** - 共有，共同 - **avoir des points en commun** - 有共同点
+> \- **atteint de** - 患有……（疾病），遭受…… - **être atteint de grippe** - 患流感
+> \- **à la fois** - 同时，既……又…… - **rire et pleurer à la fois** - 又哭又笑
 一个奇特的生物，由旧报纸拼凑而成； 一件印有鲑鱼卵的定制睡衣； 微型汽车模型或改编版的蒙娜丽莎…… 这些雕塑、素描、绘画、刺绣作品，构成了一场无特定风格的艺术展览。 那么，这些当代“原生艺术”（art brut） 创作者有什么共同点？ 他们被委婉地称为“不同的人”：自闭症患者、唐氏综合症患者、情绪障碍患者…… 在工作坊或独自创作时，他们回收材料、粘贴、拼接，用双手创造出一个接近童真的世界。 这场展览既温柔又奇异，色彩、符号、图像交错，充满自发性和创造力。
 
 **关于展出的作品，我们了解到什么？**
@@ -4061,10 +4133,11 @@ C. Elles sont destinées à être recyclées.
 > \- **précisément** [presizemɑ̃] - adv. 精确地，准确地；**définir précisément** - 精确定义
 >
 **常见短语**
-> \- **se régaler à** - 乐于/极其享受做某事
-> \- **faire subir à** - 使遭受，施加于
-> \- **sans précédent** - 史无前例的，前所未有的
-> \- **le monde qui vient** - 即将到来的世界
+> \- **se régaler à** - 乐于/极其享受做某事 - **se régaler à cuisiner** - 享受烹饪的乐趣。
+> \- **faire subir à** - 使遭受，施加于 - **faire subir un test à quelqu'un** - 对某人进行测试。
+> \- **sans précédent** - 史无前例的，前所未有的 - **une crise sans précédent** - 一场史无前例的危机。
+> \- **le monde qui vient** - 即将到来的世界 - **préparer le monde qui vient** - 为未来的世界做准备。
+>
 哲学家 Glenn Albrecht 有两个热爱：观察鸟类和创造新词。 他的语言兴趣来自母亲，一位热爱填字游戏和拼字游戏（Scrabble）的家庭主妇。 这位 67 岁的哲学家不仅喜欢创造新词（neologismes），他还将其视为一种政治策略。 他说： "我们对地球造成的影响，在人类历史上是前所未有的。这引发了一些我们尚未有词汇描述的情感。 然而，如果我们想采取行动，我们就必须能够准确地描述这些情感。" 法国哲学家Baptiste Morizot 也认同这一观点，他认为： "新词汇（néologismes）就像地图，引导我们以不同的方式探索即将到来的世界。"
 
 **根据本文，Glenn Albrecht 关注的是什么？**
@@ -4113,6 +4186,12 @@ C. À l'abolition des frontières.
 > \- **gage** [ɡaʒ] - 保证，担保；**un gage de réussite** - 成功的保证
 >
 **常见短语**
+> \- **jongler avec** - 灵活运用，同时应对 - **jongler avec les chiffres** - 熟练处理数字。
+> \- **par cœur** - 熟记地，背诵地 - **apprendre par cœur** - 背诵。
+> \- **se détacher de** - 摆脱，脱离 - **se détacher de la réalité** - 脱离现实。
+> \- **hygiène de vie** - 生活方式，健康习惯 - **avoir une bonne hygiène de vie** - 拥有良好的生活习惯。
+> \- **s'aérer l'esprit** - 放松大脑，透透气 - **sortir pour s'aérer l'esprit** - 出去走走放松心情。
+>
 >
 > \- **jongler avec** - 灵活运用，同时应对
 > \- **par cœur** - 熟记地，背诵地
@@ -4165,11 +4244,12 @@ D. Se disperser dans de nombreuses activités
 > \- **danger** [dɑ̃ʒe] - n.m. 危险；**être en danger** - 处在危险中。
 >
 **常见短语**
-> \- **permettre à ... de ...** - 允许……做某事，使……能够做某事。
-> \- **faire du bateau** - 划船，乘船。
-> \- **au départ** - 起初，开始时。
-> \- **faire peur** - 令人害怕。
-> \- **en classe** - 在课堂上。
+> \- **permettre à ... de ...** - 允许……做某事，使……能够做某事。 - **permettre aux élèves de sortir** - 允许学生们出去。
+> \- **faire du bateau** - 划船，乘船。 - **faire du bateau le dimanche** - 周日去划船。
+> \- **au départ** - 起初，开始时。 - **tout était clair au départ** - 起初一切都很清楚。
+> \- **faire peur** - 令人害怕。 - **ça me fait peur** - 这让我感到害怕。
+> \- **en classe** - 在课堂上。 - **être attentif en classe** - 上课专心。
+>
 “学校帆船计划”（Voile à l'école） 每年让数百名儿童在学校期间学习如何驾驶帆船。一开始，帆船运动可能让人感到害怕，因此，为了让初学者安心，课程采用循序渐进的方式。教师会收到教材，其中包含技术讲解和相关信息。这样，他们可以在课堂上制定预防计划，帮助学生识别并规避风险。
 
 **“学校帆船计划”的目标是什么？**
@@ -4216,10 +4296,11 @@ D. Réduire les risques en éducation physique et sportive
 > \- **perpétuer** [pɛrpetye] - 使永存、延续；**Perpétuer une tradition** - 延续传统。
 >
 **常见短语**
-> \- **pas seulement** - 不仅仅、不只是。
-> \- **le portrait craché de** - 与...简直一模一样。
-> \- **se couper du monde** - 与世隔绝。
-> \- **au sein de** - 在...内部、在...之中。
+> \- **pas seulement** - 不仅仅、不只是。 - **pas seulement pour moi** - 不仅仅是为了我。
+> \- **le portrait craché de** - 与...简直一模一样。 - **être le portrait craché de son père** - 简直和他父亲长得一模一样。
+> \- **se couper du monde** - 与世隔绝。 - **se couper du monde extérieur** - 与外界隔绝。
+> \- **au sein de** - 在...内部、在...之中。 - **au sein de l'entreprise** - 在公司内部。
+>
 Christian Hincker，1967 年出生于斯特拉斯堡的漫画家，很早就被称为 “Butch”，不仅仅是因为在学校操场上，他长得像著名漫画 《蓝色军团》（Les Tuniques Bleues） 中的上等兵 Butch，更是因为绘画成为了他的保护屏障。 “我用绘画与世界隔绝，这让我感到安心，因为我害怕体育运动，也害怕成为被欺负的对象。绘画给了我在班级中的地位，并帮助我生存下来。”他天赋异禀，从童年阅读的漫画中汲取灵感：“我太喜欢我读的漫画了，所以我尝试通过绘画来延续那种乐趣，模仿《Tartine》《唐老鸭（Picsou）》和《幸运卢克（Lucky Luke）》的风格。”**
 
 **Christian Hincker 对绘画的热爱是如何形成的？**
@@ -4266,10 +4347,11 @@ D. Il voulait ressembler à un personnage de bande dessinée
 > \- **objectif** [ɔbʒɛktif] - n.m. 目标，目的；**objectif non avoué** - 未公开的目标/隐秘的目标。
 >
 **常见短语**
-> \- **drôle de** - 奇怪的，特殊的，非同寻常的。
-> \- **promis à** - 注定会……的，面临……的。
-> \- **redonner une seconde vie** - 赋予第二次生命，使……焕发新生。
-> \- **à sa place** - 在合适的位置，在属于自己的地方。
+> \- **drôle de** - 奇怪的，特殊的，非同寻常的。 - **une drôle de sensation** - 一种奇怪的感觉。
+> \- **promis à** - 注定会……的，面临……的。 - **un avenir promis au succès** - 注定会成功的前景。
+> \- **redonner une seconde vie** - 赋予第二次生命，使……焕发新生。 - **redonner une seconde vie aux vieux objets** - 让旧物焕发新生。
+> \- **à sa place** - 在合适的位置，在属于自己的地方。 - **se mettre à sa place** - 设身处地为他着想。
+>
 这是一次漂亮的艺术行动……在关闭之前！ 建于1828年的勒芒老精神病院，自2004年以来被列为历史古迹，近期迎来了奇怪的团队。尽管建筑物被承诺拆除和出售，但它被艺术家占领，这是集体组织“临时空间”赋予这些地方新生命的好机会。超过1000平方米的空间被约60位艺术家占据：音乐家、画家、雕塑家、摄影师……他们都准备欢迎游客和好奇者。 未公开的目标是证明艺术可以存在于任何地方。
 
 **“临时空间”集体试图做什么？**
@@ -4316,11 +4398,12 @@ D. Rénover les anciens locaux en les décorant
 > \- **résoudre** [rezudr] - v.t. 解决，解答；**Résoudre un problème** - 解决问题。
 >
 **常见短语**
-> \- **rien de moins** - 确确实实，不少于。
-> \- **à sa façon** - 以他（自己）的方式。
-> \- **bien qu'** - 尽管，虽然（后接虚拟式）。
-> \- **en fait** - 事实上，实际上。
-> \- **cela dit** - 尽管如此，话虽如此。
+> \- **rien de moins** - 确确实实，不少于。 - **rien de moins qu'un génie** - 不折不扣的天才。
+> \- **à sa façon** - 以他（自己）的方式。 - **faire les choses à sa façon** - 按自己的方式做事。
+> \- **bien qu'** - 尽管，虽然（后接虚拟式）。 - **bien qu'il soit tard** - 虽然天色已晚。
+> \- **en fait** - 事实上，实际上。 - **en fait, c'est facile** - 事实上，这很简单。
+> \- **cela dit** - 尽管如此，话虽如此。 - **cela dit, je préfère partir** - 尽管如此，我还是想离开。
+>
 这位作家的抱负——改变写作艺术，不止于此。但他并没有夸张地表达，而是以怀疑、甚至有些宿命的语气说道：“改变写作艺术，每个作家都会以自己的方式去做。我想以一种绝对、彻底的方式来实现它，完全消除故事和情节，尽管事实上，我的书中仍然会存在一些微型叙事。” “我认为，现在还太早，无法判断我到底带来了什么影响。说到底，写作时，你一直忙于解决各种技术性问题，根本没有时间去思考太多的宏大理念。”
 
 **这位作家希望通过什么方式实现他的抱负？**
@@ -4367,11 +4450,12 @@ D. En se jouant des difficultés liées à l'écriture
 > \- **anticiper** [ɑ̃tisipe] - 预见，预料；**anticiper l'avenir** - 预见未来。
 >
 **常见短语**
-> \- **faire peser sur** - 施加于……，使（压力/风险）承担在……。
-> \- **d'ici** - 到……为止，在……之内（指时间）。
-> \- **qu'en est-il** - 情况如何，是怎么回事。
-> \- **à n'en pas douter** - 毫无疑问地。
-> \- **à l'horizon de** - 在……期间，到……的时候。
+> \- **faire peser sur** - 施加于……，使（压力/风险）承担在……。 - **faire peser une menace sur la paix** - 对和平造成威胁。
+> \- **d'ici** - 到……为止，在……之内（指时间）。 - **d'ici la fin du mois** - 到月底之前。
+> \- **qu'en est-il** - 情况如何，是怎么回事。 - **qu'en est-il de votre projet ?** - 您的项目进展如何？
+> \- **à n'en pas douter** - 毫无疑问地。 - **c'est, à n'en pas douter, vrai** - 毫无疑问，这是真的。
+> \- **à l'horizon de** - 在……期间，到……的时候。 - **à l'horizon de 2030** - 展望2030年。
+>
 一项最新研究对数字革命对就业造成的风险发出警告：未来二十年，十个岗位中可能有四个被机器人取代。 可能有三百万个工作岗位会被消灭。 但事实真的是这样吗？ 不可否认，数字革命确实已经导致了大量岗位的消失， 但它也创造了新的岗位。 就业形势肯定会受到新一代机器的影响。 然而，真正的问题在于：没有人能准确预测10或20年后的技术发展，更无法衡量其对就业的具体影响。
 
 **作者对这项研究持什么样**
@@ -4418,10 +4502,11 @@ D. Il confirme les résultats de l'étude.
 > \- **usager** [yzaʒe] - n.m. 使用者，用户；**usagers du réseau** - 交通网使用者。
 >
 **常见短语**
-> \- **en matière de** - 在……方面。
-> \- **transports en commun** - 公共交通。
-> \- **en dehors de** - 在……之外。
-> \- **se poser la question** - 考虑/提出问题。
+> \- **en matière de** - 在……方面。 - **en matière de sécurité** - 在安全方面。
+> \- **transports en commun** - 公共交通。 - **prendre les transports en commun** - 乘坐公共交通工具。
+> \- **en dehors de** - 在……之外。 - **en dehors de ses heures de travail** - 在工作时间之外。
+> \- **se poser la question** - 考虑/提出问题。 - **se poser la question du pourquoi** - 思考原因。
+>
 一些专门研究出行政策的经济学家认为，公共交通免费化并不是理想的做法。在他们看来，“由谁来出钱”这个问题有些过于简单化： “在我国，免费交通已经存在。在法兰西岛大区以外，大约有十五个交通网络已经完全免费。 目前真正的问题是资源问题。事实上，大城市的交通网络并没有能力吸收因免费而增加的客流量。因此，从这个角度来看，在不知道将向乘客提供怎样的服务之前，是不能先讨论免费问题的。”
 
 **根据一些专门研究交通出行政策的经济学家，公共交通免费化的资金问题被认为是：**
@@ -4469,10 +4554,11 @@ D. Négligeable, car la gratuité des transports en commun n'a jamais été appl
 > \- **manifestation** [manifɛstasjɔ̃] - 活动，盛会（TCF高频词）；**une manifestation culturelle** - 一场文化活动
 >
 **常见短语**
-> \- **se retrouver** - 聚集，碰头
-> \- **à proximité de** - 在...附近
-> \- **haute en couleur** - 色彩斑斓的，生动的
-> \- **goûter à** - 品尝，体验
+> \- **se retrouver** - 聚集，碰头 - **se retrouver entre amis** - 朋友聚会。
+> \- **à proximité de** - 在...附近 - **habiter à proximité de la gare** - 住在火车站附近。
+> \- **haute en couleur** - 色彩斑斓的，生动的 - **une description haute en couleur** - 绘声绘色的描写。
+> \- **goûter à** - 品尝，体验 - **goûter à la cuisine locale** - 品尝当地美食。
+>
 每年 8 月 10 日，瓜德罗普岛的厨艺大师们都会齐聚 Pointe-à-Pitre，共同庆祝他们的守护圣人——圣洛朗节（Saint Laurent）。庆典从圣皮埃尔-圣保罗教堂（Saint-Pierre-et-Saint-Paul）举行的盛大弥撒开始，然后，一队身穿华丽马德拉斯服饰（madras）的厨师们在城市中游行。 游行结束后，他们会邀请全体市民参加一场盛大的宴会，品尝最正宗的克里奥尔（Créole）美食。 如果想要沉浸式体验这场精彩的文化活动，可以选择入住位于 Gosier 村、毗邻 Pointe-à-Pitre 的 “L'Auberge de la Vieille Tour” 酒店，这家酒店由一座 17 世纪的风车改建而成，是感受安的列斯群岛风情的理想之地。
 
 **Pointe-à-Pitre 的圣洛朗节包含什么？**
@@ -4519,11 +4605,11 @@ D. Se déroule dans un ancien monument restauré
 > \- **utilité** [ytilite] - 效用，益处；**être d'une grande utilité** - 大有用途。
 >
 **常见短语**
-> \- **se faire écouter** - 使人听从（自己的话），使人听进去。
-> \- **en fait** - 事实上，其实。
-> \- **langue maternelle** - 母语。
-> \- **tout aussi bien** - 同样好地。
-> \- **orienté vers** - 导向……的，以……为导向的。
+> \- **se faire écouter** - 使人听从（自己的话），使人听进去。 - **savoir se faire écouter** - 懂得如何让人听取意见。
+> \- **en fait** - 事实上，其实。 - **en fait, je ne sais pas** - 其实我不知道。
+> \- **langue maternelle** - 母语。 - **parler sa langue maternelle** - 说母语。
+> \- **tout aussi bien** - 同样好地。 - **on peut tout aussi bien rester** - 我们同样也可以留下。
+> \- **orienté vers** - 导向……的，以……为导向的。 - **une politique orientée vers l'avenir** - 面向未来的政策。
 “用哪种语言说？” 这是数以千计的母亲在想让孩子听话时会问的问题。这个问题其实很有道理（就像母亲们说的所有话一样）。最近的科学研究确实揭示了一个惊人的事实：当我们用非母语处理信息时，我们的思考和决策方式会有所不同。我们同样可以理解想法或问题，但使用另一种语言时，结果会更加理性，不受情绪驱使，更倾向于实用性。
 
 **使用非母语可以实现什么？**
@@ -4570,10 +4656,11 @@ D. De trouver des réponses rapides
 > \- **renforcer** [rɑ̃fɔrse] - v.t. 加强，巩固；**Renforcer la crédibilité** - 增强可信度
 >
 **常见短语**
-> \- **se pencher sur** - 关注，研究，调查
-> \- **suite à** - 由于，在...之后
-> \- **être disposé à** - 乐意于，倾向于
-> \- **finir par** - 最终，以...结束
+> \- **se pencher sur** - 关注，研究，调查 - **se pencher sur un problème** - 研究一个问题
+> \- **suite à** - 由于，在...之后 - **suite à votre demande** - 根据您的要求
+> \- **être disposé à** - 乐意于，倾向于 - **être disposé à aider** - 乐于提供帮助
+> \- **finir par** - 最终，以...结束 - **finir par accepter** - 最终接受了
+>
 欧盟委员会在冰岛提交申请后的不到两周内就审议了其加入欧盟的请求，这表明冰岛具备不可否认的优势。在此之前，冰岛一直不太愿意加入欧盟。然而，由于其主要金融机构的崩溃和冰岛克朗汇率的暴跌，该国认为加入欧盟并采用欧元是一种稳定经济的手段。根据欧盟主席的说法，这种加入欧洲空间的意愿增强了旧大陆共同体项目的可信度。最终，由于政府更迭以及避免诸如捕鱼配额等棘手问题，冰岛撤回了申请。
 
 **根据本文，为什么冰岛希望加入欧盟？**
@@ -4620,11 +4707,12 @@ C. Pour redonner de la valeur à la monnaie nationale
 > \- **fonctionnement** [fɔ̃ksjɔnmɑ̃] - 运行，运作；**fonctionnement interne** - 内部运作。
 >
 **常见短语**
-> \- **être lié à** - 与……有关。
-> \- **à l'origine de** - 是……的起因/源头。
-> \- **syndrome d'épuisement professionnel** - 职业倦怠综合征（过劳）。
-> \- **la plupart du temps** - 大多数时候。
-> \- **utilité publique** - 公共利益，公共事业。
+> \- **être lié à** - 与……有关。 - **être lié à la pollution** - 与污染有关
+> \- **à l'origine de** - 是……的起因/源头。 - **être à l'origine de l'incendie** - 是火灾的起因
+> \- **syndrome d'épuisement professionnel** - 职业倦怠综合征（过劳）。 - **souffrir du syndrome d'épuisement professionnel** - 患有职业倦怠症
+> \- **la plupart du temps** - 大多数时候。 - **voyager la plupart du temps** - 大部分时间在旅行
+> \- **utilité publique** - 公共利益，公共事业。 - **une association d'utilité publique** - 公益协会
+>
 在法国，约20万至50万起心理问题与工作环境相关。更高强度、更具约束力的新型工作方式被认为是这一职业问题增长的根源。这是本世纪的顽疾，但尚未得到承认。员工往往认为，当他们崩溃时，其他更坚强的同事会坚持住，但事实证明大多数情况下并非如此。承认这种疾病将迫使企业反思其运作模式，并将是一项真正有益于公众的措施。
 
 **关于这种综合症的结论是什么？**
@@ -4670,10 +4758,11 @@ D. Son traitement est peu efficace
 > \- **caractéristique** [karaktɛristik] - adj. 特有的，典型的；**signe caractéristique** - 典型特征
 >
 **常见短语**
-> \- **se détacher de** - 脱离，摆脱
-> \- **fonder sur** - 建立在...基础上
-> \- **avoir recours à** - 求助于，利用
-> \- **au sein de** - 在...内部，在...之中
+> \- **se détacher de** - 脱离，摆脱 - **se détacher de son passé** - 摆脱过去
+> \- **fonder sur** - 建立在...基础上 - **se fonder sur des faits** - 基于事实
+> \- **avoir recours à** - 求助于，利用 - **avoir recours à la force** - 诉诸武力
+> \- **au sein de** - 在...内部，在...之中 - **au sein de l'entreprise** - 在公司内部
+>
 在欧洲的学习 目前，在课堂上使用信息和通信技术 (TIC) 的情况仍然很少。各教育机构仍然按照传统的教育模式运作。这意味着这些机构未能摆脱过于僵化的结构：它们的教学资源主要依赖教材，很少利用全球化带来的知识，也很少使用灵活的学习空间。这些机构仍然采用更具19世纪（工业时代）特点的哲学，而不是21世纪（信息时代）的理念。目前的教学特点是，19世纪的机构里，20世纪的教师在教育21世纪的学生。
 
 **文章作者阐述了什么内容？**
@@ -4721,10 +4810,11 @@ C. Un état des lieux des ressources pédagogiques
 > \- **anonyme** [anɔnim] - 匿名的，无名氏；**donateur anonyme** - 匿名捐赠者。
 >
 **常见短语**
-> \- **au fil de** - 随着……的推移，在……的过程中。
-> \- **mise en scène** - 布景，导演，布局。
-> \- **injecté de sang** - （眼睛）布满血丝的。
-> \- **ne ... que** - 仅仅，只有。
+> \- **au fil de** - 随着……的推移，在……的过程中。 - **au fil du temps** - 随着时间的推移
+> \- **mise en scène** - 布景，导演，布局。 - **la mise en scène d'une pièce** - 一出戏的导演布置
+> \- **injecté de sang** - （眼睛）布满血丝的。 - **avoir les yeux injectés de sang** - 眼睛里布满血丝
+> \- **ne ... que** - 仅仅，只有。 - **il ne mange que des légumes** - 他只吃蔬菜
+>
 我们知道塞尚以风景画闻名，但奥赛博物馆首次展示了这位艺术家不为人知的作品部分。在这里可以看到他妻子的面容，这是唯一一个被他研究得和圣维克多山一样多的主题。在不同的版本中，Hortense Fiquet 成为塑形、场景设置和几何化形式研究的对象。但塞尚也会使用“残酷的画笔”，从他早期的作品中，他父母的形象都显得很痛苦。他自己在27岁时的画像是“目光充血，嘴巴解放”。他晚年选择描绘乡村的无名人物，这些画变成了另一种形式的风景画。
 
 **这次展览强调了关于塞尚的什么？**
@@ -4772,11 +4862,12 @@ D. Son travail post-impressionniste.
 > \- **outrance** [utrɑ̃s] - 过度，极端；**avec outrance** - 过分地
 >
 **常见短语**
-> \- **arriver à** - 成功做到，达成
-> \- **à force de** - 凭借，由于不断的...
-> \- **jusqu'au bout** - 到头，到底，一直到最后
-> \- **à l'ancienne** - 传统的，老式的
-> \- **en tout cas** - 无论如何，总之
+> \- **arriver à** - 成功做到，达成 - **arriver à convaincre** - 设法说服
+> \- **à force de** - 凭借，由于不断的... - **à force de travail** - 通过不断的努力
+> \- **jusqu'au bout** - 到头，到底，一直到最后 - **aller jusqu'au bout** - 坚持到底
+> \- **à l'ancienne** - 传统的，老式的 - **cuisiner à l'ancienne** - 用传统方式烹饪
+> \- **en tout cas** - 无论如何，总之 - **merci en tout cas** - 无论如何谢谢你
+>
 电影《她的名字是莎拉》（Elle s’appelait Sarah） 导演无法避免剧情的刻意安排——但他真的能避免吗？电影在过去与现在之间不断来回切换，这种时空交错的叙事显得过于刻意和频繁。 然而，每次转换时代后，导演都会试图找回丢失的情感，最终通过克制和含蓄的表达找到了它。没有刻意煽情的催泪情节，演员的表演始终保持着惊人的冷静与内敛。 这是一部真正的悲剧电影，因为它围绕着一个难以摆脱的错误展开。它也是一部**“周六晚间电影”**，有戏剧冲突、牺牲，甚至偶尔的过火情节……总之，这是一部传统人文主义风格的电影，甚至可以说是永恒的经典。它恰好站在“感人至深”与“刻意煽情”之间的界限上。
 
 **影评人对电影提出的保留意见是什么？**
@@ -4823,10 +4914,11 @@ D. Le jeu conviction des comédiens
 > \- **liberté** [libɛrte] - 自由；**Liberté d'expression** - 言论自由。
 >
 **常见短语**
-> \- **pour la dernière fois** - 最后一次。
-> \- **sur les ondes** - 在广播中/通过电波。
-> \- **à l'occasion de** - 值此...之际/在...场合。
-> \- **autour de moi** - 在我周围。
+> \- **pour la dernière fois** - 最后一次。 - **dire au revoir pour la dernière fois** - 最后一次道别
+> \- **sur les ondes** - 在广播中/通过电波。 - **passer sur les ondes** - 在广播中播出
+> \- **à l'occasion de** - 值此...之际/在...场合。 - **à l'occasion de son anniversaire** - 在他生日之际
+> \- **autour de moi** - 在我周围。 - **regarder autour de moi** - 环顾四周
+>
 发件人： Marc@radiocanada.com 主题: 谢谢 亲爱的各位 朋友们、技术人员、听众、主持人、广播电台台长、所有一直支持 Airs 的人们，我要向你们表示衷心的感谢！在 7 月 1 日 200 周年之际，我将最后一次在广播节目中说：我们的广播电台为我提供了一个美妙的自由空间！我还要感谢我们的主席，是他让电台继续保持活力。周六有你们在我身边，我感到非常高兴！再次感谢大家。Marc
 
 **他们周六庆祝了什么？**
@@ -4873,11 +4965,12 @@ D. Le travail d'un directeur
 > \- **se faufiler** [səfofile] - 挤过，穿行；**se faufiler dans la foule** - 在人群中钻来钻去
 >
 **常见短语**
-> \- **en réalité** - 实际上，事实上
-> \- **c'est-à-dire** - 也就是说，即
-> \- **avoir beau** - 徒劳，尽管（后接动词原形）
-> \- **on ne peut plus** - 极其，再……不过
-> \- **afin de** - 为了，以便
+> \- **en réalité** - 实际上，事实上 - **en réalité, c'est simple** - 实际上这很简单
+> \- **c'est-à-dire** - 也就是说，即 - **c'est-à-dire que** - 意思是说
+> \- **avoir beau** - 徒劳，尽管（后接动词原形） - **avoir beau essayer** - 尽管尝试了（还是不行）
+> \- **on ne peut plus** - 极其，再……不过 - **on ne peut plus clair** - 非常清楚
+> \- **afin de** - 为了，以便 - **afin de réussir** - 为了成功
+>
 第一个困难，他实际上低估了，是成功到达人行道的尽头，也就是说，要穿越那密集而不断移动的人群。 这条人流带宽约两到三米，但它的构造紧密、流动、并且带着一种平静的敌意。 他最初试图大声说出许多道歉的话， 用谦逊的手势解释自己想要通过，表现得极度有礼貌，甚至更谦卑， 然而，没有人停下脚步，也没有人让出空间，以便让他在人群中挤过去。 行走的人们没有看他，许多人耳朵上戴着耳机，对他的存在毫无察觉。
 
 **这个故事的主角处于什么境地？**
@@ -4925,11 +5018,12 @@ D. Il imagine les répliques impolies de la foule
 > \- **limitation** [limitasjɔ̃] - n.f. 限制，局限；**limitation de vitesse** - 限速。
 >
 **常见短语**
-> \- **qu'est-ce qu'être** - 什么是.../所谓...是什么。
-> \- **en relation avec** - 与...有关/与...保持联系。
-> \- **agir par soi-même** - 独自行动/独立行事。
-> \- **autrement dit** - 换句话说/也就是说。
-> \- **au fond de** - 在...深处/在内心深处。
+> \- **qu'est-ce qu'être** - 什么是.../所谓...是什么。 - **qu'est-ce qu'être libre** - 什么是自由
+> \- **en relation avec** - 与...有关/与...保持联系。 - **être en relation avec un client** - 与客户保持联系
+> \- **agir par soi-même** - 独自行动/独立行事。 - **apprendre à agir par soi-même** - 学会自主行动
+> \- **autrement dit** - 换句话说/也就是说。 - **autrement dit, c'est fini** - 换句话说，结束了
+> \- **au fond de** - 在...深处/在内心深处。 - **au fond de la boîte** - 在盒子底部
+>
 那么，什么是自主（autonomie）呢？ 自主性 曾是 20 世纪 70 年代末的一个理想，如今它已成为一种标准。 但什么才是真正的自主呢？ 是在自己内心寻找行动的力量吗？ 一些思想家反对这种“个体完全依赖自身”的观点。 他们认为，自主行动并不是凭空创造，而是指能够独立作出决策。 换句话说，一个人可以在应用自己学到的规则时依然保持自主， 而这些规则的来源并不在于个人本身，而是在他所处的社会环境。 因此，这些规则不再被视为对自由的限制，反而是一种能力的体现。
 
 **根据本文，什么是“自主”？**
@@ -4976,11 +5070,12 @@ D. S'éloigner de la vie en société
 > \- **délicieux** [delisjø] - 优美的，令人愉悦的；**Une atmosphère délicieuse** - 一种宜人的氛围。
 >
 **常见短语**
-> \- **en revenir** - 感到惊讶，（从惊奇中）恢复过来。
-> \- **pousser la chansonnette** - 唱歌。
-> \- **sur le devant de la scène** - 处于显要位置，活跃于舞台上。
-> \- **preuve en est** - 证明就是...，证据是...。
-> \- **au fil de** - 随着...，在...的过程中。
+> \- **en revenir** - 感到惊讶，（从惊奇中）恢复过来。 - **ne pas en revenir** - 感到非常惊讶
+> \- **pousser la chansonnette** - 唱歌。 - **aimer pousser la chansonnette** - 喜欢哼歌
+> \- **sur le devant de la scène** - 处于显要位置，活跃于舞台上。 - **être sur le devant de la scène** - 处于风口浪尖或舞台焦点
+> \- **preuve en est** - 证明就是...，证据是...。 - **preuve en est son succès** - 他的成功就是证明
+> \- **au fil de** - 随着...，在...的过程中。 - **au fil des années** - 随着岁月的流逝
+>
 那些今年夏天在法语音乐节上见到他的观众都被震撼了。自出道三十年后，歌手约瑟夫·曼尼深深打动了现场观众。他花了很长时间才说服自己重新登上舞台并继续演唱，他认为这仍然适合他的年龄。20世纪70年代的旋律让他在当时成为年轻一代的偶像形象。然而，他后来辉煌的作家生涯让他决定专注于写作。直到音乐灵感重新回归。他的新专辑证明了这一点，这是一首对生活、爱情和女性的颂歌。专辑氛围美妙动人。在这些民谣中，人们可以在几分钟内重新感受到青春的气息。
 
 **为什么约瑟夫·曼尼迟迟没有重返舞台？**
@@ -5027,9 +5122,9 @@ D. Ses chansons étaient passées de mode
 > \- **grinçant** [grɛ̃sɑ̃] - 刺耳的，（比喻）辛辣讽刺的；**Humour grinçant** - 辛辣讽刺的幽默。
 >
 **常见短语**
-> \- **mettre en scène** - 导演，把...搬上舞台。
-> \- **passer à côté de** - 错过，与...擦肩而过。
-> \- **petites gens** - 小人物，平民百姓。
+> \- **mettre en scène** - 导演，把...搬上舞台。 - **mettre en scène un film** - 导演一部电影
+> \- **passer à côté de** - 错过，与...擦肩而过。 - **passer à côté d'une occasion** - 错过一个机会
+> \- **petites gens** - 小人物，平民百姓。 - **la vie des petites gens** - 普通人的生活
 《退休后的爱情》在 Splendide 剧院上演 克莱尔·纳多（Claire Nadeau）表现得非常风趣， 杰拉尔·里纳尔迪（Gérard Rinaldi）则在剧中饰演一位被妻子欺负的小退休老人， 两人共同演绎**《爱情之后》**（Après l’amour）。 这部诞生于十年前的喜剧，现已在 Splendide 剧院 重新上演。 剧情讲述的是一对普通夫妇，错过了生活中的美好时光，最终爱情也进入“退休”状态。 令人意外的是，尽管这部喜剧揭示的是婚姻的无奈，但观众仍然能从 Jeanne 和 Henri 的遭遇中获得欢乐。
 
 **这部剧的主题是什么？**
@@ -5077,10 +5172,11 @@ C. Un homme mal aimé par sa femme
 > \- **volontariste** [vɔlɔ̃tarist] - 积极的，意志主义的；**une attitude volontariste** - 积极的态度。
 >
 **常见短语**
-> \- **avoir besoin de** - 需要。
-> \- **se défendre** - 自卫，防御，辩解。
-> \- **d'une part... d'autre part** - 一方面……另一方面。
-> \- **en faveur de** - 支持，有利于。
+> \- **avoir besoin de** - 需要。 - **avoir besoin de conseils** - 需要建议。
+> \- **se défendre** - 自卫，防御，辩解。 - **se défendre contre une accusation** - 为自己辩护以反驳指控。
+> \- **d'une part... d'autre part** - 一方面……另一方面。 - **d'une part c'est utile, d'autre part c'est cher** - 一方面这很有用，另一方面这很贵。
+> \- **en faveur de** - 支持，有利于。 - **voter en faveur de la loi** - 投票赞成该法律。
+>
 法语不需要被捍卫，而是需要放松！ 让我们热爱它，并让它自由发展，接受俚语和外来词。 让它自由呼吸，自由汲取灵感！ 我们只需与法语一起……酷（cool）就好！ 我已经能想象到，那些把英语视为对手的人看到这个词时的愤怒表情。 但实际上，英语或许是竞争者，但绝不是敌人。 英语也从法语借用了许多词汇，如 rendez-vous（约会）、savoir-faire（诀窍）、déshabillé（睡袍）、bureau de change（货币兑换处）、maître d'hôtel（总管）。 鼓励学习英语，与推广法语并不矛盾！
 
 **这位记者认为法语如何才能发展？**
@@ -5127,10 +5223,11 @@ D. En valorisant les particularités régionales
 > \- **comportement** [kɔ̃pɔrtəmɑ̃] - 行为，表现；**comportement responsable** - 负责任的行为。
 >
 **常见短语**
-> \- **détourner les yeux** - 转移视线，视而不见。
-> \- **n'avoir rien à voir avec** - 与...毫无关系。
-> \- **prendre au sérieux** - 认真对待。
-> \- **être partie prenante de** - 参与，成为...的一份子。
+> \- **détourner les yeux** - 转移视线，视而不见。 - **détourner les yeux de la réalité** - 逃避现实。
+> \- **n'avoir rien à voir avec** - 与...毫无关系。 - **cela n'a rien à voir avec moi** - 这与我无关。
+> \- **prendre au sérieux** - 认真对待。 - **prendre une menace au sérieux** - 认真对待威胁。
+> \- **être partie prenante de** - 参与，成为...的一份子。 - **être partie prenante d'un projet** - 参与到一个项目中。
+>
 Facebook 和 Twitter 在初中校园里随处可见。我们可以视而不见，假装它们与学校里所学的知识技能毫无关系。然而，这些即时通讯工具对教师来说必须引起重视，因为它们不仅仅是一种“流行”，而是一种影响社会关系的交流方式。社交网络已经存在于社会之中，而且未来将更加紧密地融入我们的生活。例如，人们在互联网上发起请愿，也可以在网络上获取关于他人的信息。因此，教师的职责就是让青少年在使用 Facebook、Twitter 等交流工具时学会负责任的行为。
 
 **作者对社交网络持怎样的看法？**
@@ -5178,11 +5275,12 @@ D. Ils sont incontournables en tant qu'outils d'enseignement
 > \- **aisé** [ɛze] - 容易的，不费力的；**un travail aisé** - 一项容易的工作。
 >
 **常见短语**
-> \- **à l'occasion** - 偶尔，有时。
-> \- **faire l'objet de** - 成为……的对象，受到……。
-> \- **par cœur** - 凭记忆，默背。
-> \- **en même temps que** - 与……同时，与此同时。
-> \- **prendre conscience de** - 意识到，觉察到。
+> \- **à l'occasion** - 偶尔，有时。 - **à l'occasion de son anniversaire** - 在他生日之际。
+> \- **faire l'objet de** - 成为……的对象，受到……。 - **faire l'objet d'une enquête** - 成为调查对象。
+> \- **par cœur** - 凭记忆，默背。 - **apprendre un poème par cœur** - 熟背一首诗。
+> \- **en même temps que** - 与……同时，与此同时。 - **arriver en même temps que les autres** - 和其他人同时到达。
+> \- **prendre conscience de** - 意识到，觉察到。 - **prendre conscience de l'importance de l'écologie** - 意识到生态的重要性。
+>
 不应让法语拼写中的特殊或反常现象掩盖其内在的连贯性。即便同一个音会有多种拼写形式，这些形式的分布也并非完全随意——它们往往依赖位置或词形方面的对应关系。某些不发音的字母，有时用于标示词形变化或派生关系；某些双辅音也有其明确的解释依据。此外，一些具有词源意义的拼写方式也并非毫无意义。还有许多观察都指向同一个结论。 因此，为什么要放弃教授这种可理解的拼写核心呢？法语拼写的基础是可以通过有条理的方式来学习的。基于思考的教学比简单的死记硬背与重复更有价值，同时也能带来更牢固的知识。并且，这种方法还能帮助我们更好地理解那些真正的例外与奇特之处：对常规越清楚，越能轻松辨别例外。
 
 **作者对法语拼写持什么观点？**
@@ -5229,10 +5327,11 @@ D. Elle se maîtrise par des exercices de mémorisation
 > \- **scolarisation** [skɔlarizasjɔ̃] - 受教育，学制；**la scolarisation obligatoire** - 义务教育。
 >
 **常见短语**
-> \- **à l'encontre de** - 违背，不利于。
-> \- **au détriment de** - 损害...，以...为代价。
-> \- **a posteriori** - 事后，追溯。
-> \- **rythme scolaire** - 校园节奏，作息安排。
+> \- **à l'encontre de** - 违背，不利于。 - **aller à l'encontre de la loi** - 违反法律。
+> \- **au détriment de** - 损害...，以...为代价。 - **travailler au détriment de sa santé** - 以损害健康为代价工作。
+> \- **a posteriori** - 事后，追溯。 - **analyser une situation a posteriori** - 事后分析情况。
+> \- **rythme scolaire** - 校园节奏，作息安排。 - **respecter le rythme scolaire des enfants** - 尊重孩子的学习节奏。
+>
 备受争议的四天制教学周在一份议会报告中遭到抨击。议员们建议恢复每周四天半上课并缩短暑假时间。 他们认为当前的教学节奏对小学生来说既“荒谬”又“失控”， 优先考虑了家长和教师的节奏，却忽视了儿童的需要。 在法国，一年中小学开学天数只有144 天， 而发达国家的平均水平约为180 天。 一位专家指出，“必须给孩子充分的在校时间”。
 
 **议员们对四天制教学周的指责是什么？**
@@ -5280,10 +5379,11 @@ D. D'être à l'origine de l'échec scolaire
 > \- **conquérir** [kɔ̃kerir] - 征服，赢得；**conquérir sa liberté** - 赢得自由。
 >
 **常见短语**
-> \- **avoir mauvaise presse** - 名声不好，不受欢迎。
-> \- **faire appel à** - 呼吁，求助于，利用。
-> \- **en permanence** - 连续不断地，持久地。
-> \- **en fonction de** - 根据，取决于。
+> \- **avoir mauvaise presse** - 名声不好，不受欢迎。 - **le diesel a mauvaise presse** - 柴油车的口碑很差。
+> \- **faire appel à** - 呼吁，求助于，利用。 - **faire appel à un expert** - 请教专家。
+> \- **en permanence** - 连续不断地，持久地。 - **être en permanence disponible** - 始终处于可用状态。
+> \- **en fonction de** - 根据，取决于。 - **agir en fonction des circonstances** - 根据情况行动。
+>
 在推崇儿童成长与发展的教育中，服从常常受到负面评价。 部分原因是它被误解为屈从，但其实二者并不相同。 服从是一种文化构建，它也要求父母学会自我控制。 正是这种自我克制，才能孕育出“智能服从”——这种服从强调儿童的主动参与，并建立在相互尊重的基础上，而不是依靠强迫与威胁。 智能服从要求父母不断调整自己的要求，以适应孩子不同年龄阶段的成长，因为父母的角色是陪伴孩子成长，直至他们能够掌控自己的自由。 而这一过程绝不应以屈从的方式完成。
 
 **这篇文章对儿童教育的解释是什么？**
@@ -5331,11 +5431,12 @@ D. Elle repose sur la quête du bonheur
 > \- **statut** [staty] - 身份，地位；**statut social** - 社会地位。
 >
 **常见短语**
-> \- **famille monoparentale** - 单亲家庭。
-> \- **garde alternée** - 轮流监护，交替监护。
-> \- **faire face à** - 面对，应付。
-> \- **avoir du mal à** - 很难做某事。
-> \- **faire l'objet de** - 成为...的对象。
+> \- **famille monoparentale** - 单亲家庭。 - **une famille monoparentale grandissante** - 一个日益壮大的单亲家庭群体。
+> \- **garde alternée** - 轮流监护，交替监护。 - **opter pour la garde alternée** - 选择轮流监护。
+> \- **faire face à** - 面对，应付。 - **faire face à une crise** - 面对危机。
+> \- **avoir du mal à** - 很难做某事。 - **avoir du mal à comprendre** - 很难理解。
+> \- **faire l'objet de** - 成为...的对象。 - **faire l'objet de critiques** - 受到批评。
+>
 “单亲家庭”一词通常让人想到独自抚养孩子的母亲，而忽略了面临这种情况的父亲的现实。共同抚养权的发展使得父亲不得不面对一些他们并不一定准备好的情况。就像独自抚养孩子的母亲有时会因父亲的缺席而受影响，尤其是在行使权威时，一些男性也难以找到自己的合适位置。这些父亲仍然是社会特别关注的对象。与母亲不同，他们经常需要证明自己的身份。人们仍然认为，一个孩子在生命的最初几年，如果没有母亲形象的存在，就无法正确成长。
 
 **文章讨论的主题是什么？**
@@ -5382,11 +5483,12 @@ D. Les pères seuls reconstruisent vite une vie de couple après une séparation
 > \- **fréquenter** [frekɑ̃te] - 交往，常去；**fréquenter des jeunes** - 与年轻人交往。
 >
 **常见短语**
-> \- **souffrants de** - 患有...的，遭受...痛苦的。
-> \- **au quotidien** - 在日常生活中，每天。
-> \- **grâce à** - 凭借，多亏（引导积极原因）。
-> \- **en entreprise** - 在企业里，在公司内。
-> \- **en commun** - 共同，共有。
+> \- **souffrants de** - 患有...的，遭受...痛苦的。 - **souffrants de maladies chroniques** - 患有慢性病的人。
+> \- **au quotidien** - 在日常生活中，每天。 - **gérer le stress au quotidien** - 在日常生活中管理压力。
+> \- **grâce à** - 凭借，多亏（引导积极原因）。 - **réussir grâce à ses efforts** - 凭借努力获得成功。
+> \- **en entreprise** - 在企业里，在公司内。 - **travailler en entreprise** - 在公司里工作。
+> \- **en commun** - 共同，共有。 - **avoir des points en commun** - 有共同点。
+>
 他们有十个孩子，他们都是“dys”（如阅读障碍、语言障碍等）。这些患有语言障碍的11至13岁儿童自开学以来被接纳到Petite-Lande学院的一个综合班中，由专业团队围绕支持。 “这些孩子没有接受传统教育，但在四年的时间里，他们将学习基础学科、日常生活中的自主能力，并通过企业实习选择职业方向。” 在学校里，他们可以和同龄的孩子交流，参与一些共同的活动和项目（如体育课程、外出等）。
 
 **这些孩子通过这个项目可以做什么？**
@@ -5435,10 +5537,11 @@ C. Préparer leur entrée au collège
 > \- **affluer** [aflye] - 涌向，大量流向；**faire affluer** - 使……涌入
 >
 **常见短语**
-> \- **chef d'exception** - 出类拔萃的大厨
-> \- **histoire de** - 为了，旨在（后接不定式）
-> \- **sens de la formule** - 辞令才华，言语精辟的能力
-> \- **faire mouche** - 达到目的，大受欢迎，正中要害
+> \- **chef d'exception** - 出类拔萃的大厨 - **un chef d'exception reconnu** - 一位公认的杰出领袖。
+> \- **histoire de** - 为了，旨在（后接不定式） - **histoire de rire** - 只是为了笑笑。
+> \- **sens de la formule** - 辞令才华，言语精辟的能力 - **avoir le sens de la formule** - 说话一针见血。
+> \- **faire mouche** - 达到目的，大受欢迎，正中要害 - **son argument a fait mouche** - 他的论点正中要害。
+>
 Paul Bocuse 并不是最具创造力或最优秀的技术型厨师，但他是这一代杰出厨师中将烹饪提升为国际艺术的一员。他有远见、胆识和真正的领导才能。 为了赋予厨师更高的地位，他推出了著名的白色“大厨”外套，胸口绣上名字，还配戴巨大高帽，让人联想到法老的冠饰。 从一开始，他的个性和语言天赋便吸引了媒体，发表了许多令人印象深刻的文章，为他的餐厅吸引了大量顾客。
 
 **根据记者的观点，Paul Bocuse 成功的关键是什么？**
@@ -5485,11 +5588,12 @@ C. Ses recettes originales
 > \- **procurer** [prɔkyre] - v.t. 带来，引起；**procurer un plaisir** - 带来快乐
 >
 **常见短语**
-> \- **aspirer à** - 渴望，向往
-> \- **au niveau de** - 在……方面，在……层面
-> \- **se profiler** - 隐约显现，呈现
-> \- **afin de** - 为了，以便
-> \- **au lieu de** - 而不是，代替
+> \- **aspirer à** - 渴望，向往 - **aspirer à la paix** - 向往和平。
+> \- **au niveau de** - 在……方面，在……层面 - **au niveau de l'économie** - 在经济层面上。
+> \- **se profiler** - 隐约显现，呈现 - **une solution se profile** - 解决方案正在浮现。
+> \- **afin de** - 为了，以便 - **travailler dur afin de réussir** - 为了成功而努力工作。
+> \- **au lieu de** - 而不是，代替 - **lire au lieu de dormir** - 读书而不是睡觉。
+>
 青春期初期（约11-12岁），孩子们渴望独立。在这个阶段，屏幕在他们的社会融入中扮演重要角色，但也带来了过度使用的风险。医生Hurere建议家长改变从前“规定式”的态度，转变为“陪伴式”的方式。他鼓励家长和孩子一起探索他们感兴趣的游戏，以及他们在网上的活动方式，以促进交流。他还指出：“与其害怕电子游戏，不如让孩子展示这些游戏，并与他们一起玩。有些游戏确实能带来视觉和美感上的愉悦。”
 
 **医生对家长的建议是什么？**
@@ -5537,10 +5641,10 @@ D. De surveiller la navigation des jeunes sur la toile
 > \- **écorce** [ekɔrs] - n.f. 树皮，外壳，地壳；**l'écorce d'un arbre** - 树皮。
 >
 **常见短语**
-> \- **remise en perspective** - 重新审视，放入背景中观察。
-> \- **à condition que** - 条件是...，只要...（后接虚拟式）。
-> \- **à travers** - 穿过，经过，通过。
-> \- **écorce terrestre** - 地壳。
+> \- **remise en perspective** - 重新审视，放入背景中观察。 - **une remise en perspective historique** - 放在历史背景下重新审视。
+> \- **à condition que** - 条件是...，只要...（后接虚拟式）。 - **venir à condition qu'il fasse beau** - 只要天气好就来。
+> \- **à travers** - 穿过，经过，通过。 - **voyager à travers le monde** - 环游世界。
+> \- **écorce terrestre** - 地壳。 - **étudier l'écorce terrestre** - 研究地壳。
 我不知道她的名字，但在阿尔卑斯山，有一个妙语连珠的人。她会讲解有关岩画的内容，这些岩画最早可追溯到新石器时代，并从资本主义的起源和男性统治的角度提供见解。她可能会唱歌，但条件是您不能为她鼓掌，以便您能够感受一个岩石剧场的声学效果。她还会建议您躺下，闭上眼睛，感受地面的震动，那里富含铀。总之，她将引导像您这样渺小的存在，探索地球外壳最宏伟的景观。
 
 **这位被描述的人在哪里工作？**
